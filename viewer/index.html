@@ -788,7 +788,7 @@ async function renderSeason(slug){
       <span class="dim small">또는 슬러그 직접 입력:</span>
       <input id="s_slug" placeholder="spring-2026-ready-to-wear" style="width:240px" onkeydown="if(event.key==='Enter')go('season',this.value.trim())">
     </div>
-    ${idx.seasons.length ? `<div class="chips">${idx.seasons.sort((a,b)=>seasonRank(b.slug)-seasonRank(a.slug)).map(s=>`<span class="chip" onclick="go('season','${s.slug}')">${esc(s.name)} <span class="dim">${s.count}</span></span>`).join('')}</div>` : ''}
+    ${idx.seasons.length ? `<div class="filters" style="margin-top:4px"><div><div class="label">LOADED SEASONS</div><div class="chips">${idx.seasons.sort((a,b)=>seasonRank(b.slug)-seasonRank(a.slug)).map(s=>`<span class="chip ${s.slug===slug?'on':''}" onclick="go('season','${s.slug}')">${esc(s.name)} <span class="dim">${s.count}</span></span>`).join('')}</div></div></div>` : ''}
     <div id="listing"></div>`;
   if (!slug) return;
   const box = document.getElementById('listing');
