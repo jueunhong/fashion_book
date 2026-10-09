@@ -547,9 +547,10 @@ async function renderHome(){
   const idx = await loadIndex();
   const main = document.getElementById('main');
   if (!idx.shows.length){
-    main.innerHTML = `<div class="empty"><h1 class="serif">ARCHIVE</h1><p>아직 가져온 쇼가 없습니다.</p>
+    main.innerHTML = `${bannerHtml()}<div class="empty"><h1 class="serif">ARCHIVE</h1><p>아직 담은 쇼가 없습니다.</p>
       ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p><b>SEASON</b> 탭에서 시즌을 고르고 목록을 불러온 뒤, 쇼를 하나씩 또는 전체를 ${CLOUD ? '담으세요' : '가져오세요'}.</p>
       <p class="small dim">터미널: <code>python3 vogue.py show spring-2026-ready-to-wear/chanel</code></p>`}</div>`;
+    startBanner();
     return;
   }
   const seasons = {};
@@ -560,7 +561,7 @@ async function renderHome(){
   const byKey = Object.fromEntries(idx.shows.map(s => [s.key, s]));
   const recent = S.recent.map(k => byKey[k]).filter(Boolean).slice(0, 10);
   main.innerHTML = `
-    <div class="banner"><div class="slides">${BANNERS.map((b,i)=>`<img src="${b}" alt="" class="${i===0?'on':''}">`).join('')}</div><div class="shade"></div><div class="blink"></div><div class="caption" id="bannerlogo"></div></div>
+    ${bannerHtml()}
     ${recent.length ? `<div class="recent-wrap"><div class="label"><span>RECENTLY VIEWED</span><a class="dim" style="cursor:pointer" onclick="S.recent=[];saveLS('recent',[]);cloudSyncRecent();renderHome()">Clear</a></div>
       <div class="recent">${recent.map(s => `<div class="rcard" onclick="go('show','${s.key}')"><div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover, 240)}" alt="">` : ''}</div>
         <div class="meta"><div class="title" title="${esc(s.brandName)}">${esc(s.brandName)}</div><div class="sub">${esc(s.seasonName)}</div></div></div>`).join('')}</div></div>` : ''}
@@ -575,6 +576,7 @@ async function renderHome(){
   startBanner();
 }
 const BANNERS = ['viewer/banner1.jpg', 'viewer/banner2.jpg'];
+function bannerHtml(){ return `<div class="banner"><div class="slides">${BANNERS.map((b,i)=>`<img src="${b}" alt="" class="${i===0?'on':''}">`).join('')}</div><div class="shade"></div><div class="blink"></div><div class="caption" id="bannerlogo"></div></div>`; }
 async function loadBannerLogo(){
   if (!S._logoSvg) {
     try { const t = await (await fetch('viewer/logo-runway.svg')).text(); S._logoSvg = t.replace(/fill="white"/g, 'fill="currentColor"').replace(/<svg /, '<svg role="img" aria-label="Vogue Runway" '); }
