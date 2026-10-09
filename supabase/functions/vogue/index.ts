@@ -209,6 +209,11 @@ Deno.serve(async (req) => {
         await upsert("favorites", { id, user_id: user.id, show_key: f.showKey, gid: f.gid, n: f.n, item: f.it, brand: f.brand ?? "", season: f.season ?? "" });
         return json({ ok: true });
       }
+      case "recent": {   // 최근 본 쇼 목록 저장 (최대 10개)
+        const keys = Array.isArray(body.keys) ? body.keys.filter((k: unknown) => typeof k === "string").slice(0, 10) : [];
+        await upsert("user_state", { user_id: user.id, recent: keys, updated_at: new Date().toISOString() });
+        return json({ ok: true });
+      }
       default: return json({ error: "알 수 없는 action" }, 400);
     }
   } catch (e) { return json({ error: String((e as Error).message ?? e) }, 500); }

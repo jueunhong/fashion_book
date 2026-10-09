@@ -256,7 +256,7 @@ function detectMode(){ return _detect ||= (async () => {
   if (window.RB_CLOUD && RB_CLOUD.url && RB_CLOUD.anon) {
     CLOUD = true; STATIC = false; document.body.classList.add('cloud');
     await ensureSession();
-    if (session()) { try { await cloudLoadFavs(); } catch(e) { console.warn('favorites load failed', e); } }
+    if (session()) { try { await cloudLoadFavs(); await cloudLoadRecent(); } catch(e) { console.warn('cloud state load failed', e); } }
     return;
   }
   STATIC = true; document.body.classList.add('static'); document.getElementById('robadge').style.display = '';
@@ -282,7 +282,7 @@ async function login(email, password){
   if (!r.ok) throw new Error(j.error_description || j.msg || j.error || '로그인 실패');
   j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600);
   setSession(j);
-  try { await cloudLoadFavs(); } catch(e) {}
+  try { await cloudLoadFavs(); await cloudLoadRecent(); } catch(e) {}
 }
 async function logout(){
   const s = session();
@@ -323,7 +323,7 @@ async function doSignup(e){
     const r = await fetch(AUTH('signup'), {method:'POST', headers:{apikey: RB_CLOUD.anon, 'Content-Type':'application/json'}, body: JSON.stringify({email, password: pw})});
     const j = await r.json().catch(()=>({}));
     if (!r.ok) throw new Error(j.msg || j.error_description || j.error || '가입 실패');
-    if (j.access_token) { j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600); setSession(j); try { await cloudLoadFavs(); } catch(x) {} toast('가입 완료'); route(); }
+    if (j.access_token) { j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600); setSession(j); try { await cloudLoadFavs(); await cloudLoadRecent(); } catch(x) {} toast('가입 완료'); route(); }
     else if (j.id && !j.email_confirmed_at && (j.identities||[]).length === 0) throw new Error('이미 가입된 이메일입니다. 로그인해 주세요.');
     else { err.style.color = 'var(--fg2)'; err.textContent = '확인 메일을 보냈습니다. 메일의 링크를 누른 뒤 로그인하세요.'; }
   } catch(x) {
@@ -439,6 +439,16 @@ async function cloudLoadFavs(){
   for (const r of rows) favs[favKey(r.show_key, r.gid, r.n)] = { showKey: r.show_key, gid: r.gid, n: r.n, it: r.item, brand: r.brand, season: r.season, at: Date.parse(r.created_at) || 0 };
   S.favs = favs; saveLS('favs', favs);
 }
+async function cloudLoadRecent(){
+  const rows = await restGet('user_state?select=recent');
+  if (rows[0] && Array.isArray(rows[0].recent)) { S.recent = rows[0].recent.slice(0, 10); saveLS('recent', S.recent); }
+}
+let _recentTimer = null;
+function cloudSyncRecent(){
+  if (!CLOUD) return;
+  clearTimeout(_recentTimer);
+  _recentTimer = setTimeout(() => cloudCall({action: 'recent', keys: S.recent}).catch(() => {}), 800);
+}
 function cloudSyncFav(id, fav){
   if (!CLOUD) return;
   cloudCall(fav ? {action: 'fav', op: 'add', fav: {id, ...fav}} : {action: 'fav', op: 'remove', fav: {id}}).catch(e => toast('즐겨찾기 저장 실패: ' + e.message, 4000));
@@ -533,7 +543,7 @@ async function renderHome(){
   const byKey = Object.fromEntries(idx.shows.map(s => [s.key, s]));
   const recent = S.recent.map(k => byKey[k]).filter(Boolean).slice(0, 10);
   main.innerHTML = `
-    ${recent.length ? `<div class="recent-wrap"><div class="label"><span>최근 본 쇼</span><a class="dim" style="cursor:pointer" onclick="S.recent=[];saveLS('recent',[]);renderHome()">지우기</a></div>
+    ${recent.length ? `<div class="recent-wrap"><div class="label"><span>최근 본 쇼</span><a class="dim" style="cursor:pointer" onclick="S.recent=[];saveLS('recent',[]);cloudSyncRecent();renderHome()">지우기</a></div>
       <div class="recent">${recent.map(s => `<div class="rcard" onclick="go('show','${s.key}')"><div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover, 240)}" alt="">` : ''}</div>
         <div class="meta"><div class="title" title="${esc(s.brandName)}">${esc(s.brandName)}</div><div class="sub">${esc(s.seasonName)}</div></div></div>`).join('')}</div></div>` : ''}
     <div><h1>보관함</h1><div class="muted small">쇼 ${idx.shows.length}개 · 사진 ${idx.shows.reduce((a,s)=>a+s.looks,0).toLocaleString()}장</div></div>
@@ -579,7 +589,7 @@ async function renderShow(arg){
   const [key, gid, n] = arg.split('/');
   const show = (S.show && S.show.key === key) ? S.show : await api('/api/show/' + key);
   S.show = show;
-  S.recent = [key, ...S.recent.filter(k => k !== key)].slice(0, 10); saveLS('recent', S.recent);
+  S.recent = [key, ...S.recent.filter(k => k !== key)].slice(0, 10); saveLS('recent', S.recent); cloudSyncRecent();
   if (gid) { const gi = show.galleries.findIndex(g => g.id === gid); if (gi >= 0) S.gallery = gi; }
   S.gallery = Math.min(S.gallery, show.galleries.length-1);
   const main = document.getElementById('main');
