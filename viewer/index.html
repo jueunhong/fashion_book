@@ -135,7 +135,7 @@
   #lb.open{display:flex}
   #lb .top{display:flex;align-items:center;gap:14px;padding:10px 18px;color:var(--fg2);font-size:14px}
   #lb .stage{flex:1;display:flex;align-items:center;justify-content:center;position:relative;min-height:0}
-  #lb .stage img{max-width:100%;max-height:100%;object-fit:contain;user-select:none}
+  #lb .stage img{max-width:100%;max-height:100%;object-fit:contain;user-select:none;background:#000}
   #lb .nav{position:absolute;top:0;bottom:0;width:30%;cursor:pointer}
   #lb .nav.prev{left:0} #lb .nav.next{right:0}
   #lb .strip{display:flex;gap:4px;padding:8px 18px;overflow-x:auto;scrollbar-width:thin}
@@ -738,19 +738,40 @@ function openLb(i, items, meta){
   document.getElementById('lbstrip').innerHTML = S.lb.items.map((it,j)=>`<img src="${imgUrl(it,120)}" onclick="lbTo(${j})" alt="">`).join('');
   lbTo(i);
 }
+// 화면에 필요한 만큼만 요청 (세로 2:3 사진 기준, 100px 단위, 최대 2000)
+function lbWidth(){
+  const h = window.innerHeight - 150, w = window.innerWidth;
+  const need = Math.min(h * 2 / 3, w) * Math.min(window.devicePixelRatio || 1, 2);
+  return Math.max(600, Math.min(2000, Math.ceil(need / 100) * 100));
+}
+const _preloaded = new Map();
+function preloadLb(it){
+  const url = imgUrl(it, lbWidth());
+  if (_preloaded.has(url)) return _preloaded.get(url);
+  const im = new Image(); im.decoding = 'async'; im.src = url;
+  const p = new Promise(res => { im.onload = () => res(url); im.onerror = () => res(null); });
+  _preloaded.set(url, p);
+  if (_preloaded.size > 40) _preloaded.delete(_preloaded.keys().next().value);
+  return p;
+}
+let _lbSeq = 0;
 function lbTo(i){
   const items = S.lb.items; S.lb.i = (i + items.length) % items.length;
   const it = items[S.lb.i];
   const img = document.getElementById('lbimg');
-  img.src = imgUrl(it, 2000);
+  const seq = ++_lbSeq;
+  // 1) 그리드에서 이미 받아 둔 작은 사진을 즉시 표시 → 2) 큰 사진이 준비되면 교체
+  const big = imgUrl(it, lbWidth());
+  if (img.src !== big) img.src = imgUrl(it, 640);
+  preloadLb(it).then(url => { if (seq === _lbSeq && url) img.src = url; });
   document.getElementById('lbtitle').textContent = `${S.lb.meta.title} — ${it.caption} (${S.lb.i+1}/${items.length})`;
   document.getElementById('lbopen').href = it.id ? imgUrl({id:it.id,file:it.file}, null) : (it.url||'#');
   const fk = favKey(S.lb.meta.showKey, S.lb.meta.gid, it.n);
   setLbFav(!!S.favs[fk]);
   if (S.view === 'show' && S.show) quietHash(`#/show/${S.show.key}/${S.lb.meta.gid}/${it.n}`);
   document.querySelectorAll('#lbstrip img').forEach((im,j)=>{ im.classList.toggle('cur', j===S.lb.i); if (j===S.lb.i) im.scrollIntoView({inline:'center', block:'nearest', behavior:'smooth'}); });
-  // 앞뒤 이미지 미리 받기
-  [1,-1].forEach(d => { const n = items[(S.lb.i+d+items.length)%items.length]; if (n) new Image().src = imgUrl(n, 2000); });
+  // 앞뒤 이미지 미리 받기 (진행 방향 쪽을 더 넉넉히)
+  [1,2,3,-1,-2].forEach(d => { const n = items[(S.lb.i+d+items.length)%items.length]; if (n && n !== it) preloadLb(n); });
 }
 function lbMove(d){ lbTo(S.lb.i + d); }
 function setLbFav(on){ document.getElementById('lbfav').innerHTML = (on ? '♥' : '♡') + '<span class="lbl"> 즐겨찾기</span>'; }
