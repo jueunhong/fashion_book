@@ -193,6 +193,40 @@ async function fetchDesigner(slug: string) {
   return row;
 }
 
+// ---------------------------------------------------------------- AI 사용량 / 이용권
+const FREE_LIMIT = 10;
+const PLANS: Record<string, { days: number; quota: number; label: string }> = {
+  month: { days: 30, quota: 200, label: "1개월 이용권" },
+  year: { days: 365, quota: 2000, label: "1년 이용권" },
+};
+class AiLimitError extends Error { status: any; constructor(st: any) { super("AI_LIMIT"); this.status = st; } }
+
+async function isAdmin(email: string): Promise<boolean> {
+  const rows = await db(`admins?email=eq.${encodeURIComponent(email.toLowerCase())}&select=email`, { prefer: "return=representation" });
+  return !!rows?.length;
+}
+async function aiStatus(user: { id: string; email: string }) {
+  const admin = await isAdmin(user.email);
+  const rows = await db(`ai_usage?user_id=eq.${user.id}&select=*`, { prefer: "return=representation" });
+  const u = rows?.[0] ?? { free_used: 0, plan: null, plan_until: null, plan_quota: 0, plan_used: 0 };
+  const planActive = !!u.plan && !!u.plan_until && new Date(u.plan_until) > new Date() && u.plan_used < u.plan_quota;
+  return {
+    admin, freeUsed: u.free_used, freeLimit: FREE_LIMIT,
+    plan: u.plan, planLabel: u.plan ? PLANS[u.plan]?.label : null, planUntil: u.plan_until, planQuota: u.plan_quota, planUsed: u.plan_used, planActive,
+    allowed: admin || planActive || u.free_used < FREE_LIMIT,
+    remaining: admin ? null : planActive ? u.plan_quota - u.plan_used : Math.max(0, FREE_LIMIT - u.free_used),
+  };
+}
+// 실제로 Claude 를 호출하기 직전에 1회 차감. 한도 초과면 AiLimitError.
+async function consumeAi(user: { id: string; email: string }) {
+  const st = await aiStatus(user);
+  if (st.admin) return st;
+  if (!st.allowed) throw new AiLimitError(st);
+  const patch = st.planActive ? { plan_used: st.planUsed + 1 } : { free_used: st.freeUsed + 1 };
+  await upsert("ai_usage", { user_id: user.id, ...patch, updated_at: new Date().toISOString() });
+  return st;
+}
+
 // ---------------------------------------------------------------- 리뷰 번역 (Claude)
 const TRANSLATE_MODEL = "claude-opus-5-5";
 const TRANSLATE_SYSTEM = `You translate Vogue Runway show reviews from English into Korean.
@@ -203,12 +237,13 @@ Rules:
 - Keep fashion terms that Korean editors normally leave in English (e.g. 룩, 실루엣, 레디투웨어 are fine in Korean; keep things like "tweed", "bouclé" as 트위드, 부클레).
 - Do not add commentary, notes, or anything outside the HTML.`;
 
-async function translateReview(key: string, force: boolean) {
+async function translateReview(key: string, force: boolean, user: { id: string; email: string }) {
   const rows = await db(`shows?key=eq.${encodeURIComponent(key)}&select=review_html,review_ko`, { prefer: "return=representation" });
   const row = rows?.[0];
   if (!row) throw new Error("없는 쇼입니다");
   if (!row.review_html) return { key, reviewKo: "", cached: true };
   if (row.review_ko && !force) return { key, reviewKo: row.review_ko, cached: true };
+  await consumeAi(user);
   const apiKey = Deno.env.get("ANTHROPIC_API_KEY");
   if (!apiKey) throw new Error("번역 키(ANTHROPIC_API_KEY)가 설정되지 않았습니다");
   const client = new Anthropic({ apiKey });
@@ -243,12 +278,13 @@ const TERMS_SYSTEM = `You are a fashion educator helping a Korean fashion studen
 From the given review, extract the fashion terminology a student should learn: silhouettes, garment names, fabrics and materials, construction and tailoring techniques, details and trims, styling terms, and historical or industry references (named eras, house codes, famous collections). Do not include brand names, designer names or plain everyday words.
 Return 8 to 20 terms, most important first. Explanations are in natural Korean, concise and precise. Keep "term" in the original English spelling; "ko" is the Korean name students actually use (e.g. "peplum" -> "페플럼", "bias cut" -> "바이어스 컷").`;
 
-async function extractTerms(key: string, force: boolean) {
+async function extractTerms(key: string, force: boolean, user: { id: string; email: string }) {
   const rows = await db(`shows?key=eq.${encodeURIComponent(key)}&select=review_html,terms`, { prefer: "return=representation" });
   const row = rows?.[0];
   if (!row) throw new Error("없는 쇼입니다");
   if (!row.review_html) return { key, terms: [], cached: true };
   if (row.terms && !force) return { key, terms: row.terms, cached: true };
+  await consumeAi(user);
   const apiKey = Deno.env.get("ANTHROPIC_API_KEY");
   if (!apiKey) throw new Error("번역 키(ANTHROPIC_API_KEY)가 설정되지 않았습니다");
   const client = new Anthropic({ apiKey });
@@ -276,7 +312,7 @@ const MatchSchema = z.object({ matches: z.array(z.object({ term: z.string(), loo
 const LOOKS_SYSTEM = `You are a fashion educator. You will see runway look photos from one show, each labeled "Look N", followed by a list of fashion terms taken from the show's review.
 For each term, list the look numbers where that term is clearly and visibly present in the photo (garment, silhouette, fabric, technique, detail or styling). Be precise: only include a look when the term is evident; it is fine to return an empty list. Return at most 8 looks per term, strongest examples first. Include every term exactly once.`;
 
-async function linkTermsToLooks(key: string, force: boolean) {
+async function linkTermsToLooks(key: string, force: boolean, user: { id: string; email: string }) {
   const rows = await db(`shows?key=eq.${encodeURIComponent(key)}&select=terms,galleries`, { prefer: "return=representation" });
   const row = rows?.[0];
   if (!row) throw new Error("없는 쇼입니다");
@@ -286,6 +322,7 @@ async function linkTermsToLooks(key: string, force: boolean) {
   const gallery = (row.galleries ?? []).find((g: any) => g.id === "gallery-collection") ?? row.galleries?.[0];
   const items: any[] = (gallery?.items ?? []).filter((it: any) => it.id && it.file);
   if (!items.length) throw new Error("룩 사진이 없습니다");
+  await consumeAi(user);
   const apiKey = Deno.env.get("ANTHROPIC_API_KEY");
   if (!apiKey) throw new Error("번역 키(ANTHROPIC_API_KEY)가 설정되지 않았습니다");
   const client = new Anthropic({ apiKey });
@@ -349,9 +386,34 @@ Deno.serve(async (req) => {
         await upsert("favorites", { id, user_id: user.id, show_key: f.showKey, gid: f.gid, n: f.n, item: f.it, brand: f.brand ?? "", season: f.season ?? "" });
         return json({ ok: true });
       }
-      case "translate": return json(await translateReview(String(body.key ?? ""), !!body.force));
-      case "terms": return json(await extractTerms(String(body.key ?? ""), !!body.force));
-      case "term_looks": return json(await linkTermsToLooks(String(body.key ?? ""), !!body.force));
+      case "translate": return json(await translateReview(String(body.key ?? ""), !!body.force, user));
+      case "terms": return json(await extractTerms(String(body.key ?? ""), !!body.force, user));
+      case "term_looks": return json(await linkTermsToLooks(String(body.key ?? ""), !!body.force, user));
+      case "ai_status": return json(await aiStatus(user));
+      case "plan_request": {
+        const email = String(body.email ?? "").trim().toLowerCase();
+        if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) return json({ error: "이메일 형식을 확인해 주세요" }, 400);
+        const pending = await db(`plan_requests?user_id=eq.${user.id}&status=eq.pending&select=id`, { prefer: "return=representation" });
+        if (!pending?.length) await db("plan_requests", { method: "POST", body: JSON.stringify({ user_id: user.id, email }) });
+        return json({ ok: true, already: !!pending?.length });
+      }
+      case "admin_requests": {
+        if (!(await isAdmin(user.email))) return json({ error: "관리자만 사용할 수 있습니다" }, 403);
+        const reqs = await db("plan_requests?select=*&order=created_at.desc&limit=100", { prefer: "return=representation" });
+        const usage = await db("ai_usage?select=*", { prefer: "return=representation" });
+        const byUser = Object.fromEntries((usage ?? []).map((u: any) => [u.user_id, u]));
+        return json({ requests: (reqs ?? []).map((r: any) => ({ ...r, usage: byUser[r.user_id] ?? null })) });
+      }
+      case "admin_grant": {
+        if (!(await isAdmin(user.email))) return json({ error: "관리자만 사용할 수 있습니다" }, 403);
+        const plan = PLANS[String(body.plan)];
+        if (!plan) return json({ error: "plan 은 month 또는 year" }, 400);
+        const targetId = String(body.user_id ?? "");
+        const until = new Date(Date.now() + plan.days * 86400000).toISOString();
+        await upsert("ai_usage", { user_id: targetId, plan: body.plan, plan_until: until, plan_quota: plan.quota, plan_used: 0, updated_at: new Date().toISOString() });
+        if (body.request_id) await db(`plan_requests?id=eq.${encodeURIComponent(body.request_id)}`, { method: "PATCH", body: JSON.stringify({ status: "done" }) });
+        return json({ ok: true, until, quota: plan.quota });
+      }
       case "note": {   // 룩 메모 저장/삭제
         const nt = body.note ?? {};
         const id = `${user.id}|${nt.showKey}|${nt.gid}|${nt.n}`;
@@ -367,5 +429,8 @@ Deno.serve(async (req) => {
       }
       default: return json({ error: "알 수 없는 action" }, 400);
     }
-  } catch (e) { return json({ error: String((e as Error).message ?? e) }, 500); }
+  } catch (e) {
+    if (e instanceof AiLimitError) return json({ error: "AI_LIMIT", code: "AI_LIMIT", status: e.status }, 402);
+    return json({ error: String((e as Error).message ?? e) }, 500);
+  }
 });

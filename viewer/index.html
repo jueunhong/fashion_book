@@ -207,6 +207,24 @@
   .qresult .wrongs{text-align:left;margin-top:16px;font-size:14px}
   .qresult .wrongs li{margin:4px 0}
   @media (max-width:800px){ #quiz{padding:12px} .qcard{padding:16px} .qcard .qtext{font-size:16px} }
+  /* 이용권 안내 모달 */
+  #planmodal{position:fixed;inset:0;background:rgba(0,0,0,.9);z-index:58;display:none;align-items:center;justify-content:center;padding:16px;overflow:auto}
+  #planmodal.open{display:flex}
+  .pcard{width:100%;max-width:520px;background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:24px}
+  .pcard h2{margin:0 0 6px}
+  .pcard .price{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}
+  .pcard .price div{background:var(--bg3);border:1px solid var(--line);border-radius:10px;padding:12px}
+  .pcard .price b{font-family:var(--display);font-size:15px;display:block;margin-bottom:4px}
+  .pcard .price span{font-size:13px;color:var(--fg2)}
+  .pcard input{width:100%;margin-top:8px}
+  .pcard .msg{margin-top:12px;font-size:14px;line-height:1.6;color:#d8d8dc}
+  .pcard .btns{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
+  .aiq{font-size:12px;color:var(--fg3);margin-left:6px}
+  .areq{display:flex;gap:10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);font-size:14px}
+  .areq:last-child{border-bottom:none}
+  .areq .em{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis}
+  .areq .st{font-size:11px;color:var(--fg3)}
+  @media (max-width:800px){ .pcard{padding:18px} .pcard .price{grid-template-columns:1fr} }
   /* 작업 패널 */
   #jobpanel{position:fixed;right:16px;bottom:16px;width:380px;max-height:50vh;overflow:auto;background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:12px;display:none;z-index:30;font-size:13px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
   #jobpanel.open{display:block}
@@ -282,7 +300,7 @@
     </nav>
     <div class="spacer"></div>
     <span class="ro" id="robadge" style="display:none">읽기 전용 배포본 · 가져오기는 내 컴퓨터에서</span>
-    <div id="userbox" class="cloud-only"><span id="useremail"></span><button class="small ghost" onclick="changePassword()">Change password</button><button class="small ghost" onclick="logout()">Log out</button></div>
+    <div id="userbox" class="cloud-only"><span id="useremail"></span><button class="small" id="adminbtn" style="display:none" onclick="openAdminPanel()">이용권 요청</button><button class="small ghost" onclick="changePassword()">Change password</button><button class="small ghost" onclick="logout()">Log out</button></div>
     <form class="addbox needs-server" id="addbox" style="display:none" onsubmit="return addByUrl(event)">
       <input id="urlin" placeholder="보그 쇼 URL 붙여넣기 (vogue.com/fashion-shows/…)">
       <button class="primary" type="submit">가져오기</button>
@@ -313,6 +331,8 @@
 </div>
 
 <div id="quiz" onclick="if(event.target===this)closeQuiz()"><div class="qcard" id="qcard"></div></div>
+
+<div id="planmodal" onclick="if(event.target===this)closePlanModal()"><div class="pcard" id="pcard"></div></div>
 
 <div id="jobpanel"></div>
 
@@ -351,7 +371,7 @@ function detectMode(){ return _detect ||= (async () => {
   if (window.RB_CLOUD && RB_CLOUD.url && RB_CLOUD.anon) {
     CLOUD = true; STATIC = false; document.body.classList.add('cloud');
     await ensureSession();
-    if (session()) { try { await cloudLoadFavs(); await cloudLoadRecent(); await cloudLoadNotes(); } catch(e) { console.warn('cloud state load failed', e); } }
+    if (session()) { try { await cloudLoadFavs(); await cloudLoadRecent(); await cloudLoadNotes(); await cloudLoadAi(); } catch(e) { console.warn('cloud state load failed', e); } }
     return;
   }
   STATIC = true; document.body.classList.add('static'); document.getElementById('robadge').style.display = '';
@@ -377,12 +397,12 @@ async function login(email, password){
   if (!r.ok) throw new Error(j.error_description || j.msg || j.error || '로그인 실패');
   j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600);
   setSession(j);
-  try { await cloudLoadFavs(); await cloudLoadRecent(); await cloudLoadNotes(); } catch(e) {}
+  try { await cloudLoadFavs(); await cloudLoadRecent(); await cloudLoadNotes(); await cloudLoadAi(); } catch(e) {}
 }
 async function logout(){
   const s = session();
   if (s) { try { await fetch(AUTH('logout'), {method:'POST', headers: restHeaders()}); } catch(e) {} }
-  setSession(null); S.favs = {}; saveLS('favs', {}); S.notes = {}; saveLS('notes', {}); S.recent = []; saveLS('recent', []); S.index = null; route();
+  setSession(null); S.ai = null; S.favs = {}; saveLS('favs', {}); S.notes = {}; saveLS('notes', {}); S.recent = []; saveLS('recent', []); S.index = null; route();
 }
 async function changePassword(){
   const pw = prompt('새 비밀번호 (8자 이상)'); if (!pw) return;
@@ -418,7 +438,7 @@ async function doSignup(e){
     const r = await fetch(AUTH('signup'), {method:'POST', headers:{apikey: RB_CLOUD.anon, 'Content-Type':'application/json'}, body: JSON.stringify({email, password: pw})});
     const j = await r.json().catch(()=>({}));
     if (!r.ok) throw new Error(j.msg || j.error_description || j.error || '가입 실패');
-    if (j.access_token) { j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600); setSession(j); try { await cloudLoadFavs(); await cloudLoadRecent(); await cloudLoadNotes(); } catch(x) {} toast('가입 완료'); route(); }
+    if (j.access_token) { j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600); setSession(j); try { await cloudLoadFavs(); await cloudLoadRecent(); await cloudLoadNotes(); await cloudLoadAi(); } catch(x) {} toast('가입 완료'); route(); }
     else if (j.id && !j.email_confirmed_at && (j.identities||[]).length === 0) throw new Error('이미 가입된 이메일입니다. 로그인해 주세요.');
     else { err.style.color = 'var(--fg2)'; err.textContent = '확인 메일을 보냈습니다. 메일의 링크를 누른 뒤 로그인하세요.'; }
   } catch(x) {
@@ -456,6 +476,7 @@ async function cloudCall(body){
   const r = await fetch(`${RB_CLOUD.url}/functions/v1/vogue`, {method: 'POST', headers: {...restHeaders(), 'Content-Type': 'application/json'}, body: JSON.stringify(body)});
   const j = await r.json().catch(() => ({error: `응답 오류 ${r.status}`}));
   if (r.status === 401) { setSession(null); route(); throw new Error('로그인이 만료되었습니다. 다시 로그인해 주세요.'); }
+  if (r.status === 402 && j.code === 'AI_LIMIT') { if (j.status) S.ai = j.status; openPlanModal(); throw new Error('AI 무료 사용 횟수를 모두 사용했습니다. 이용권 안내를 확인해 주세요.'); }
   if (!r.ok || j.error) throw new Error(j.error || `오류 ${r.status}`);
   return j;
 }
@@ -549,6 +570,57 @@ function cloudSyncRecent(){
   if (!CLOUD) return;
   clearTimeout(_recentTimer);
   _recentTimer = setTimeout(() => cloudCall({action: 'recent', keys: S.recent}).catch(() => {}), 800);
+}
+async function cloudLoadAi(){
+  try { S.ai = await cloudCall({action: 'ai_status'}); } catch(e) { S.ai = null; }
+  const b = document.getElementById('adminbtn');
+  if (b) { b.style.display = S.ai?.admin ? '' : 'none'; if (S.ai?.admin) refreshAdminBadge(); }
+}
+async function refreshAdminBadge(){
+  try { const r = await cloudCall({action: 'admin_requests'}); const n = r.requests.filter(x => x.status === 'pending').length; const b = document.getElementById('adminbtn'); if (b) b.textContent = n ? `이용권 요청 ${n}` : '이용권 요청'; S._adminRequests = r.requests; } catch(e) {}
+}
+function aiQuotaText(){
+  const a = S.ai; if (!CLOUD || !a || a.admin) return '';
+  if (a.planActive) return `<span class="aiq">${esc(a.planLabel)} · ${a.remaining}회 남음</span>`;
+  return `<span class="aiq">AI 무료 ${a.remaining}/${a.freeLimit}회 남음</span>`;
+}
+// ---- 이용권 안내 모달 (무료 10회 소진 시)
+function openPlanModal(submitted){
+  const m = document.getElementById('planmodal'), c = document.getElementById('pcard');
+  const email = session()?.user?.email || '';
+  c.innerHTML = submitted ? `<h2>요청이 접수되었습니다</h2>
+      <div class="msg">입력하신 이메일(<b>${esc(submitted)}</b>)로 결제 정보를 보내드릴 테니 잠시만 기다려 주세요.<br>메일을 받으시면 안내에 따라 결제 부탁드립니다. 결제가 확인되면 이용권이 바로 적용됩니다.</div>
+      <div class="btns"><button class="small primary" onclick="closePlanModal()">확인</button></div>`
+    : `<h2>웹 AI 이용권 구매 안내</h2><div class="muted small">무료 AI 사용 ${S.ai?.freeLimit ?? 10}회를 모두 사용하셨습니다. 리뷰 번역·패션 용어·룩 연결 등 AI 기능을 계속 쓰려면 이용권이 필요합니다. 쇼 보기, 담기, LIKE, NOTE 등 다른 기능은 그대로 사용할 수 있습니다.</div>
+      <div class="price"><div><b>1개월 이용권</b><span>10,000원</span></div><div><b>1년 이용권</b><span>100,000원 · 최대 AI 사용량 2,000회</span></div></div>
+      <div class="muted small">결제 정보를 받을 이메일을 입력해 주세요.</div>
+      <input id="plan_email" type="email" placeholder="이메일" value="${esc(email)}">
+      <div class="msg dim" id="plan_err"></div>
+      <div class="btns"><button class="small" onclick="closePlanModal()">나중에</button><button class="small primary" onclick="submitPlanRequest()">요청 보내기</button></div>`;
+  m.classList.add('open');
+}
+function closePlanModal(){ document.getElementById('planmodal').classList.remove('open'); }
+async function submitPlanRequest(){
+  const email = document.getElementById('plan_email').value.trim();
+  if (!email) { document.getElementById('plan_err').textContent = '이메일을 입력해 주세요'; return; }
+  try { await cloudCall({action: 'plan_request', email}); openPlanModal(email); }
+  catch(e) { document.getElementById('plan_err').textContent = e.message; }
+}
+// ---- 관리자: 이용권 요청 목록 / 부여
+async function openAdminPanel(){
+  const m = document.getElementById('planmodal'), c = document.getElementById('pcard');
+  c.innerHTML = '<div class="muted">불러오는 중…</div>'; m.classList.add('open');
+  try {
+    const r = await cloudCall({action: 'admin_requests'}); S._adminRequests = r.requests;
+    const rows = r.requests.map(x => `<div class="areq"><div class="em"><div>${esc(x.email)}</div><div class="st">${new Date(x.created_at).toLocaleString('ko-KR')} · ${x.status === 'pending' ? '대기' : '처리됨'}${x.usage ? ` · 무료 ${x.usage.free_used}/10${x.usage.plan ? ` · ${x.usage.plan} ~${(x.usage.plan_until||'').slice(0,10)} (${x.usage.plan_used}/${x.usage.plan_quota})` : ''}` : ''}</div></div>
+      <button class="small" onclick="grantPlan('${x.user_id}','month','${x.id}')">1개월</button><button class="small" onclick="grantPlan('${x.user_id}','year','${x.id}')">1년</button></div>`).join('');
+    c.innerHTML = `<h2>이용권 요청</h2><div class="muted small">결제 확인 후 이용권을 부여하세요. 1개월 = 30일·200회, 1년 = 365일·2,000회</div><div style="margin-top:10px">${rows || '<div class="dim">요청이 없습니다.</div>'}</div><div class="btns"><button class="small" onclick="closePlanModal()">닫기</button></div>`;
+  } catch(e) { c.innerHTML = `<div class="dim">${esc(e.message)}</div><div class="btns"><button class="small" onclick="closePlanModal()">닫기</button></div>`; }
+}
+async function grantPlan(userId, plan, reqId){
+  if (!confirm(`${plan === 'month' ? '1개월' : '1년'} 이용권을 부여할까요? (결제 확인 후 진행)`)) return;
+  try { await cloudCall({action: 'admin_grant', user_id: userId, plan, request_id: reqId}); toast('이용권을 부여했습니다'); openAdminPanel(); refreshAdminBadge(); }
+  catch(e) { toast('실패: ' + e.message, 4000); }
 }
 async function cloudLoadNotes(){
   const rows = await restGet('notes?select=*&order=updated_at.desc');
@@ -811,7 +883,7 @@ async function renderShow(arg){
       </div>
       <div class="spacer"></div>
       <div class="row">
-        ${show.reviewHtml ? `<button class="small" id="btn_review" onclick="toggleReview()">리뷰 보기</button><button class="small cloud-only" id="btn_terms" onclick="toggleTerms()">패션 용어</button>` : ''}
+        ${show.reviewHtml ? `<button class="small" id="btn_review" onclick="toggleReview()">리뷰 보기</button><button class="small cloud-only" id="btn_terms" onclick="toggleTerms()">패션 용어</button><span id="aiquota">${aiQuotaText()}</span>` : ''}
         <button class="small needs-local" onclick="downloadShow('${key}')" ${entry.local ? 'disabled title="이미 저장됨"' : ''}>${entry.local ? '오프라인 저장됨' : '이미지 저장(오프라인)'}</button>
         <button class="small needs-server" onclick="refetchShow('${key}')">다시 가져오기</button>
         <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">${CLOUD ? '아카이브에서 빼기' : '삭제'}</button>
@@ -831,6 +903,7 @@ async function renderShow(arg){
 }
 // ---- 리뷰 번역 (클라우드 모드: Claude 로 한국어 번역, 결과는 DB 에 캐시)
 // 패널(리뷰/용어)은 Collection 탭 위의 한 구좌에서 서로 교체되며 열린다 (페이지 스크롤 없음)
+function updateAiQuota(){ const el = document.getElementById('aiquota'); if (el) el.innerHTML = aiQuotaText(); }
 function openPanel(id){
   const el = document.getElementById(id), other = document.getElementById(id === 'review' ? 'terms' : 'review');
   const slot = document.getElementById('panelslot');
@@ -860,6 +933,7 @@ async function setReviewLang(lang){
   body.innerHTML = '<span class="muted">번역 중… (처음 한 번만, 10~30초)</span>';
   try {
     const r = await cloudCall({action: 'translate', key: show.key});
+    if (!r.cached) cloudLoadAi().then(updateAiQuota);
     if (S.show !== show) return;
     show.reviewKo = r.reviewKo || '';
     body.innerHTML = show.reviewKo || show.reviewHtml;
@@ -875,6 +949,7 @@ async function toggleTerms(){
   el.innerHTML = '<span class="muted">리뷰에서 패션 용어를 뽑는 중… (처음 한 번만, 10~30초)</span>';
   try {
     const r = show.terms ? {terms: show.terms} : await cloudCall({action: 'terms', key: show.key});
+    if (r.cached === false) cloudLoadAi().then(updateAiQuota);
     if (S.show !== show) return;
     show.terms = r.terms || [];
     el.dataset.loaded = '1';
@@ -910,6 +985,7 @@ async function linkTermLooks(){
   if (btn) { btn.disabled = true; btn.textContent = '룩 분석 중…'; }
   try {
     const r = await cloudCall({action: 'term_looks', key: show.key});
+    if (!r.cached) cloudLoadAi().then(updateAiQuota);
     if (S.show !== show) return;
     show.terms = r.terms; renderTerms(show.terms, null); toast('용어와 룩을 연결했습니다');
   } catch(e) { toast('실패: ' + e.message, 5000); if (btn) { btn.disabled = false; btn.textContent = '용어가 보이는 룩 찾기'; } }
