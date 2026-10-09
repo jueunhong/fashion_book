@@ -2,6 +2,8 @@
 // 보그 런웨이 페이지를 읽어 DB에 저장한다. vogue.py 의 TypeScript 이식판.
 // 모든 요청은 로그인한 사용자의 토큰(Authorization: Bearer <access_token>)이 필요하다.
 
+import Anthropic from "npm:@anthropic-ai/sdk";
+
 const VOGUE = "https://www.vogue.com";
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36";
 const SUPABASE_URL = Deno.env.get("SUPABASE_URL")!;
@@ -189,6 +191,43 @@ async function fetchDesigner(slug: string) {
   return row;
 }
 
+// ---------------------------------------------------------------- 리뷰 번역 (Claude)
+const TRANSLATE_MODEL = "claude-opus-5-5";
+const TRANSLATE_SYSTEM = `You translate Vogue Runway show reviews from English into Korean.
+Rules:
+- Output ONLY the translated HTML. Keep every HTML tag, attribute and structure exactly as given; translate only the human-readable text.
+- Write natural, polished Korean in the register of a Korean fashion magazine (존댓말이 아닌 서술체, "~했다/~이다").
+- Keep brand names, designer names, model names, place names and collection names in their original Latin spelling (e.g. Chanel, Matthieu Blazy). Do not transliterate them into Hangul.
+- Keep fashion terms that Korean editors normally leave in English (e.g. 룩, 실루엣, 레디투웨어 are fine in Korean; keep things like "tweed", "bouclé" as 트위드, 부클레).
+- Do not add commentary, notes, or anything outside the HTML.`;
+
+async function translateReview(key: string, force: boolean) {
+  const rows = await db(`shows?key=eq.${encodeURIComponent(key)}&select=review_html,review_ko`, { prefer: "return=representation" });
+  const row = rows?.[0];
+  if (!row) throw new Error("없는 쇼입니다");
+  if (!row.review_html) return { key, reviewKo: "", cached: true };
+  if (row.review_ko && !force) return { key, reviewKo: row.review_ko, cached: true };
+  const apiKey = Deno.env.get("ANTHROPIC_API_KEY");
+  if (!apiKey) throw new Error("번역 키(ANTHROPIC_API_KEY)가 설정되지 않았습니다");
+  const client = new Anthropic({ apiKey });
+  const response = await client.beta.messages.create({
+    model: TRANSLATE_MODEL,
+    max_tokens: 16000,
+    betas: ["server-side-fallback-2026-07-01"],
+    fallbacks: "default",
+    output_config: { effort: "low" },
+    system: TRANSLATE_SYSTEM,
+    messages: [{ role: "user", content: row.review_html }],
+  });
+  if (response.stop_reason === "refusal") throw new Error("번역이 거부되었습니다: " + (response.stop_details?.explanation ?? ""));
+  if (response.stop_reason === "max_tokens") throw new Error("리뷰가 너무 길어 번역이 잘렸습니다");
+  let text = response.content.filter((b) => b.type === "text").map((b) => (b as { text: string }).text).join("").trim();
+  text = text.replace(/^```(?:html)?\s*/i, "").replace(/\s*```$/, "").trim();   // 코드펜스로 감싼 경우 제거
+  if (!text) throw new Error("번역 결과가 비어 있습니다");
+  await db(`shows?key=eq.${encodeURIComponent(key)}`, { method: "PATCH", body: JSON.stringify({ review_ko: text, review_ko_at: new Date().toISOString() }) });
+  return { key, reviewKo: text, cached: false, usage: { input: response.usage.input_tokens, output: response.usage.output_tokens } };
+}
+
 // ---------------------------------------------------------------- HTTP
 Deno.serve(async (req) => {
   if (req.method === "OPTIONS") return new Response("ok", { headers: CORS });
@@ -213,6 +252,7 @@ Deno.serve(async (req) => {
         await upsert("favorites", { id, user_id: user.id, show_key: f.showKey, gid: f.gid, n: f.n, item: f.it, brand: f.brand ?? "", season: f.season ?? "" });
         return json({ ok: true });
       }
+      case "translate": return json(await translateReview(String(body.key ?? ""), !!body.force));
       case "recent": {   // 최근 본 쇼 목록 저장 (최대 10개)
         const keys = Array.isArray(body.keys) ? body.keys.filter((k: unknown) => typeof k === "string").slice(0, 10) : [];
         await upsert("user_state", { user_id: user.id, recent: keys, updated_at: new Date().toISOString() });

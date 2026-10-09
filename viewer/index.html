@@ -107,6 +107,10 @@
   .toolbar label{font-size:13px;color:var(--fg2);display:flex;align-items:center;gap:6px}
   .review{max-width:760px;font-size:16px;line-height:1.8;color:#d8d8dc;margin:10px 0 24px;display:none}
   .review.open{display:block}
+  .review .langbar{display:flex;gap:6px;align-items:center;margin-bottom:12px;font-family:var(--font)}
+  .review .langbar button{font-size:12px;padding:3px 9px}
+  .review .langbar button.on{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+  .review .body{min-height:40px}
   .review a{text-decoration:underline;color:var(--accent)}
 
   /* 목록 (시즌/브랜드) */
@@ -381,7 +385,7 @@ async function cloudCall(body){
   return j;
 }
 const rowToShow = (r) => ({ key: r.key, url: r.url, season: r.season, seasonName: r.season_name, brand: r.brand, brandName: r.brand_name,
-  designers: r.designers || '', eventDate: r.event_date || '', pubDate: r.pub_date || '', authors: r.authors || [], reviewHtml: r.review_html || '',
+  designers: r.designers || '', eventDate: r.event_date || '', pubDate: r.pub_date || '', authors: r.authors || [], reviewHtml: r.review_html || '', reviewKo: r.review_ko || '',
   cover: r.cover, galleries: r.galleries || [], looks: r.looks, counts: r.counts || {}, local: false, fetchedAt: r.fetched_at });
 async function cloudIndex(){
   const [mine, seasons, designers] = await Promise.all([
@@ -644,14 +648,14 @@ async function renderShow(arg){
       </div>
       <div class="spacer"></div>
       <div class="row">
-        ${show.reviewHtml ? `<button class="small" onclick="document.getElementById('review').classList.toggle('open')">리뷰 보기</button>` : ''}
+        ${show.reviewHtml ? `<button class="small" onclick="toggleReview()">리뷰 보기</button>` : ''}
         <a href="${esc(show.url)}" target="_blank" rel="noopener"><button class="small">Vogue에서 열기 ↗</button></a>
         <button class="small needs-local" onclick="downloadShow('${key}')" ${entry.local ? 'disabled title="이미 저장됨"' : ''}>${entry.local ? '오프라인 저장됨' : '이미지 저장(오프라인)'}</button>
         <button class="small needs-server" onclick="refetchShow('${key}')">다시 가져오기</button>
         <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">${CLOUD ? '아카이브에서 빼기' : '삭제'}</button>
       </div>
     </div>
-    <div class="review" id="review">${show.reviewHtml || ''}</div>
+    <div class="review" id="review">${show.reviewHtml ? `<div class="langbar"><button class="small ${CLOUD?'on':''}" id="rv_ko" onclick="setReviewLang('ko')">한국어</button><button class="small ${CLOUD?'':'on'}" id="rv_en" onclick="setReviewLang('en')">원문</button><span class="dim small" id="rv_note"></span></div><div class="body" id="rv_body"></div>` : ''}</div>
     <div class="tabs">${show.galleries.map((g,i)=>`<button class="${i===S.gallery?'active':''}" onclick="setGallery(${i})">${esc(g.title)} <span class="dim">${g.items.length}</span></button>`).join('')}</div>
     <div class="toolbar">
       <label>크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label>
@@ -661,6 +665,29 @@ async function renderShow(arg){
     <div class="grid" id="grid"></div>`;
   renderGrid();
   if (gid && n) { const i = show.galleries[S.gallery].items.findIndex(it => it.n === +n); if (i >= 0) openLb(i); }
+}
+// ---- 리뷰 번역 (클라우드 모드: Claude 로 한국어 번역, 결과는 DB 에 캐시)
+function toggleReview(){
+  const el = document.getElementById('review'); el.classList.toggle('open');
+  if (el.classList.contains('open') && !el.dataset.inited) { el.dataset.inited = '1'; setReviewLang(CLOUD ? (loadLS('reviewLang','ko')) : 'en'); }
+}
+async function setReviewLang(lang){
+  const show = S.show, body = document.getElementById('rv_body'), note = document.getElementById('rv_note');
+  if (!body) return;
+  saveLS('reviewLang', lang);
+  document.getElementById('rv_ko').classList.toggle('on', lang === 'ko');
+  document.getElementById('rv_en').classList.toggle('on', lang === 'en');
+  note.textContent = '';
+  if (lang === 'en' || !CLOUD) { body.innerHTML = show.reviewHtml; if (lang === 'ko' && !CLOUD) note.textContent = '번역은 배포본(로그인 버전)에서만 지원됩니다'; return; }
+  if (show.reviewKo) { body.innerHTML = show.reviewKo; return; }
+  body.innerHTML = '<span class="muted">번역 중… (처음 한 번만, 10~30초)</span>';
+  try {
+    const r = await cloudCall({action: 'translate', key: show.key});
+    if (S.show !== show) return;
+    show.reviewKo = r.reviewKo || '';
+    body.innerHTML = show.reviewKo || show.reviewHtml;
+    if (!show.reviewKo) note.textContent = '번역할 리뷰가 없습니다';
+  } catch(e) { body.innerHTML = show.reviewHtml; note.textContent = '번역 실패: ' + e.message; }
 }
 function setGallery(i){ S.gallery = i; document.querySelectorAll('.tabs button').forEach((b,j)=>b.classList.toggle('active', j===i)); renderGrid(); quietHash(`#/show/${S.show.key}/${S.show.galleries[i].id}`); }
 function quietHash(h){ if (location.hash !== h) history.replaceState(null, '', h); }
