@@ -56,9 +56,9 @@
   .banner .slides img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 30%;opacity:0;transition:opacity 1.4s ease}
   .banner .slides img.on{opacity:1}
   .banner .shade{position:absolute;inset:0;background:linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.35))}
-  .banner .blink{position:absolute;inset:0;background:#000;opacity:0;animation:bannerBlink 5.2s steps(1,end) infinite}
+  .banner .blink{position:absolute;inset:0;background:#000;opacity:0;animation:bannerBlink 8s steps(1,end) infinite}
   @keyframes bannerBlink{0%{opacity:0} 72%{opacity:1} 80%{opacity:0} 86%{opacity:1} 92%{opacity:0} 100%{opacity:0}}
-  .banner .caption{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#000;animation:bannerLogo 5.2s steps(1,end) infinite}
+  .banner .caption{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#000;animation:bannerLogo 8s steps(1,end) infinite}
   @keyframes bannerLogo{0%{color:#000} 72%{color:#fff} 80%{color:#000} 86%{color:#fff} 92%{color:#000} 100%{color:#000}}
   .banner .caption svg{height:clamp(64px,10vw,120px);width:auto;display:block;filter:drop-shadow(0 2px 14px rgba(0,0,0,.18))}
   .banner .shade{background:linear-gradient(rgba(255,255,255,.04),rgba(0,0,0,.18))}
@@ -749,7 +749,7 @@ async function renderFav(){
   const main = document.getElementById('main');
   if (!favs.length){ main.innerHTML = `<div class="empty"><h1 class="serif">LIKE</h1><p>아직 좋아요한 룩이 없습니다.</p><p>룩 위의 ♥ 를 누르거나 크게 보기에서 F 키를 누르세요.</p></div>`; return; }
   main.innerHTML = `<div class="row" style="justify-content:space-between"><div><h1>LIKE</h1><div class="muted small">${favs.length} looks · ${CLOUD ? '클라우드에 저장되어 모든 기기에서 같습니다' : '이 브라우저에만 저장됩니다'}</div></div>
-    <div class="row"><label class="small muted">크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label><button class="small" onclick="exportFavs()">JSON 내보내기</button></div></div>
+    <div class="row"><label class="small muted">크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label></div></div>
     <div class="grid" id="grid">${favs.map((f,i)=>`<div class="look" onclick="openFavLb(${i})">
       <img data-src="${imgUrl(f.it, 640)}" alt=""><button class="fav on" onclick="event.stopPropagation();delete S.favs['${favKey(f.showKey,f.gid,f.n)}'];saveLS('favs',S.favs);cloudSyncFav('${favKey(f.showKey,f.gid,f.n)}',null);renderFav()">♥</button>
       <div class="cap" style="opacity:1">${esc(f.brand||'')} · ${esc(f.season||'')} · ${esc(f.it.caption)}</div></div>`).join('')}</div>`;
