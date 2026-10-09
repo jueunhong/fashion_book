@@ -1029,7 +1029,7 @@ async function renderSeason(slug){
   box.innerHTML = `<div class="row" style="justify-content:space-between;margin-top:24px">
       <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small">쇼 ${data.shows.length}개 · ${CLOUD ? '내 아카이브' : '가져옴'} ${fetched}개</div></div>
       <div class="row">
-        <input id="s_filter" placeholder="브랜드 필터" style="width:180px" oninput="filterItems(this.value)">
+        <input id="s_filter" placeholder="브랜드 검색" style="width:180px" oninput="filterItems(this.value)">
         <button class="small needs-server" onclick="api('/api/season/${slug}?refresh=1').then(()=>go('season','${slug}'))">목록 새로고침</button>
         <label class="small muted needs-local"><input type="checkbox" id="s_dl"> 이미지도 저장</label>
         <button class="primary small needs-server" onclick="fetchAll('season','${slug}',${data.shows.length})">${CLOUD ? '전체 담기' : '전체 가져오기'} (${data.shows.length - fetched}개)</button>
