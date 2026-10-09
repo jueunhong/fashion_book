@@ -716,13 +716,23 @@ async function renderShow(arg){
   if (gid && n) { const i = show.galleries[S.gallery].items.findIndex(it => it.n === +n); if (i >= 0) openLb(i); }
 }
 // ---- 리뷰 번역 (클라우드 모드: Claude 로 한국어 번역, 결과는 DB 에 캐시)
-function scrollToPanel(el){ const y = el.getBoundingClientRect().top + window.scrollY - 70; window.scrollTo({top: y, behavior: 'smooth'}); }
+// 패널(리뷰/용어)은 한 번에 하나만 열고, 레이아웃이 끝난 뒤 그 위치로 스크롤
+function scrollToPanel(el){
+  const go = () => { const y = el.getBoundingClientRect().top + window.scrollY - 70; window.scrollTo({top: y, behavior: 'smooth'}); };
+  requestAnimationFrame(() => { go(); setTimeout(go, 350); });
+}
+function openPanel(id){
+  const el = document.getElementById(id), other = document.getElementById(id === 'review' ? 'terms' : 'review');
+  const willOpen = !el.classList.contains('open');
+  other.classList.remove('open');
+  el.classList.toggle('open', willOpen);
+  if (willOpen) scrollToPanel(el);
+  return willOpen;
+}
 function toggleReview(){
-  const el = document.getElementById('review'); el.classList.toggle('open');
-  if (el.classList.contains('open')) {
-    if (!el.dataset.inited) { el.dataset.inited = '1'; setReviewLang(CLOUD ? (loadLS('reviewLang','ko')) : 'en'); }
-    scrollToPanel(el);
-  }
+  const el = document.getElementById('review');
+  if (!openPanel('review')) return;
+  if (!el.dataset.inited) { el.dataset.inited = '1'; setReviewLang(CLOUD ? (loadLS('reviewLang','ko')) : 'en'); }
 }
 async function setReviewLang(lang){
   const show = S.show, body = document.getElementById('rv_body'), note = document.getElementById('rv_note');
@@ -745,9 +755,8 @@ async function setReviewLang(lang){
 // ---- 패션 용어 (클라우드 모드: Claude 로 리뷰에서 추출, DB 캐시)
 const TERM_CATS = { silhouette: '실루엣', garment: '아이템', fabric: '소재', technique: '테크닉', detail: '디테일', styling: '스타일링', history: '역사·레퍼런스', industry: '업계', other: '기타' };
 async function toggleTerms(){
-  const el = document.getElementById('terms'); el.classList.toggle('open');
-  if (el.classList.contains('open')) scrollToPanel(el);
-  if (!el.classList.contains('open') || el.dataset.loaded) return;
+  const el = document.getElementById('terms');
+  if (!openPanel('terms') || el.dataset.loaded) return;
   const show = S.show;
   el.innerHTML = '<span class="muted">리뷰에서 패션 용어를 뽑는 중… (처음 한 번만, 10~30초)</span>';
   try {
