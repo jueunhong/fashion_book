@@ -94,6 +94,12 @@
   .chips{display:flex;gap:6px;flex-wrap:wrap}
   .chip{background:var(--bg3);border:1px solid var(--line);border-radius:20px;padding:3px 10px;font-size:13px;cursor:pointer}
   .chip:hover{border-color:var(--fg3)}
+  .chip.on{background:var(--accent);color:#1a1408;border-color:var(--accent);font-weight:600}
+  .filters{margin:14px 0 6px;display:flex;flex-direction:column;gap:10px}
+  .filters .label{font-size:12px;color:var(--fg3);margin-bottom:6px}
+  .chips.collapsed{max-height:76px;overflow:hidden;position:relative}
+  .chips.collapsed::after{content:"";position:absolute;left:0;right:0;bottom:0;height:30px;background:linear-gradient(transparent,var(--bg))}
+  .morebtn{margin-top:6px}
 
   /* 라이트박스 */
   #lb{position:fixed;inset:0;background:rgba(0,0,0,.96);z-index:50;display:none;flex-direction:column}
@@ -511,25 +517,53 @@ async function renderHome(){
   const seasons = {};
   for (const s of idx.shows) (seasons[s.season] ||= {name: s.seasonName, shows: []}).shows.push(s);
   const order = Object.keys(seasons).sort((a,b) => seasonRank(b) - seasonRank(a));
+  S.home ||= { season: null, brands: new Set(), expanded: false };
+  if (S.home.season && !seasons[S.home.season]) S.home.season = null;
   main.innerHTML = `
-    <div class="row" style="justify-content:space-between">
-      <div><h1>보관함</h1><div class="muted small">쇼 ${idx.shows.length}개 · 사진 ${idx.shows.reduce((a,s)=>a+s.looks,0).toLocaleString()}장</div></div>
-      <input id="q" placeholder="브랜드 / 시즌 검색" style="width:260px" oninput="filterHome(this.value)">
+    <div><h1>보관함</h1><div class="muted small">쇼 ${idx.shows.length}개 · 사진 ${idx.shows.reduce((a,s)=>a+s.looks,0).toLocaleString()}장</div></div>
+    <div class="filters">
+      <div><div class="label">시즌</div><div class="chips" id="seasonchips"></div></div>
+      <div><div class="label">브랜드</div><div class="chips" id="brandchips"></div><button class="small ghost morebtn" id="morebtn" onclick="S.home.expanded=!S.home.expanded;renderHomeChips()"></button></div>
     </div>
     ${order.map(k => `<section data-season="${k}"><h2>${esc(seasons[k].name)} <span class="dim small">${seasons[k].shows.length}</span></h2>
       <div class="cards">${seasons[k].shows.sort((a,b)=>a.brandName.localeCompare(b.brandName)).map(cardHtml).join('')}</div></section>`).join('')}`;
+  S._homeSeasons = { seasons, order };
+  renderHomeChips();
+}
+function renderHomeChips(){
+  const { seasons, order } = S._homeSeasons, h = S.home;
+  const sc = document.getElementById('seasonchips');
+  sc.innerHTML = `<span class="chip ${h.season?'':'on'}" onclick="S.home.season=null;renderHomeChips()">전체</span>` +
+    order.map(k => `<span class="chip ${h.season===k?'on':''}" onclick="S.home.season=S.home.season==='${k}'?null:'${k}';renderHomeChips()">${esc(seasons[k].name)} <span class="dim">${seasons[k].shows.length}</span></span>`).join('');
+  // 선택한 시즌에 있는 브랜드만 나열
+  const pool = h.season ? seasons[h.season].shows : order.flatMap(k => seasons[k].shows);
+  const brands = [...new Set(pool.map(s => s.brandName))].sort((a,b)=>a.localeCompare(b));
+  for (const b of [...h.brands]) if (!brands.includes(b)) h.brands.delete(b);
+  const bc = document.getElementById('brandchips');
+  bc.innerHTML = `<span class="chip ${h.brands.size?'':'on'}" onclick="S.home.brands.clear();renderHomeChips()">전체</span>` +
+    brands.map(b => `<span class="chip ${h.brands.has(b)?'on':''}" onclick="toggleHomeBrand(this.dataset.b)" data-b="${esc(b)}">${esc(b)}</span>`).join('');
+  bc.classList.toggle('collapsed', !h.expanded && brands.length > 24);
+  const mb = document.getElementById('morebtn');
+  mb.style.display = brands.length > 24 ? '' : 'none';
+  mb.textContent = h.expanded ? '접기' : `브랜드 ${brands.length}개 모두 보기`;
+  applyHomeFilter();
+}
+function toggleHomeBrand(b){ const h = S.home; if (h.brands.has(b)) h.brands.delete(b); else h.brands.add(b); renderHomeChips(); }
+function applyHomeFilter(){
+  const h = S.home;
+  document.querySelectorAll('#main section').forEach(sec => {
+    const seasonOk = !h.season || sec.dataset.season === h.season;
+    let any = false;
+    sec.querySelectorAll('.card').forEach(c => { const ok = seasonOk && (!h.brands.size || h.brands.has(c.dataset.brand)); c.style.display = ok ? '' : 'none'; any ||= ok; });
+    sec.style.display = any ? '' : 'none';
+  });
 }
 function cardHtml(s){
   const cover = s.cover ? imgUrl(s.cover, 480) : '';
-  return `<div class="card" data-text="${esc((s.brandName+' '+s.seasonName+' '+s.designers).toLowerCase())}" onclick="go('show','${s.key}')">
+  return `<div class="card" data-brand="${esc(s.brandName)}" onclick="go('show','${s.key}')">
     <div class="thumb">${cover ? `<img loading="lazy" src="${cover}" alt="">` : ''}</div>
     <div class="meta"><div class="title">${esc(s.brandName)}</div><div class="sub">${esc(s.seasonName)}</div>
     <div class="badge">${Object.entries(s.counts).sort((a,b)=>(a[0]==='Collection'?-1:b[0]==='Collection'?1:0)).map(([k,v])=>`${k} ${v}`).join(' · ')}${s.local ? ' · 오프라인' : ''}</div></div></div>`;
-}
-function filterHome(q){
-  q = q.trim().toLowerCase();
-  document.querySelectorAll('#main .card').forEach(c => c.style.display = (!q || c.dataset.text.includes(q)) ? '' : 'none');
-  document.querySelectorAll('#main section').forEach(s => s.style.display = [...s.querySelectorAll('.card')].some(c => c.style.display !== 'none') ? '' : 'none');
 }
 function seasonRank(slug){ // 최신 시즌이 먼저 오도록 정렬 점수
   const y = parseInt((slug.match(/(\d{4})/)||[])[1] || 0);
