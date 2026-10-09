@@ -549,7 +549,7 @@ async function renderHome(){
   if (!idx.shows.length){
     main.innerHTML = `${bannerHtml()}<div class="empty"><h1 class="serif">ARCHIVE</h1><p>아직 담은 쇼가 없습니다.</p>
       ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p><b>SEASON</b> 탭에서 시즌을 고르고 목록을 불러온 뒤, 쇼를 하나씩 또는 전체를 ${CLOUD ? '담으세요' : '가져오세요'}.</p>
-      <p class="small dim">터미널: <code>python3 vogue.py show spring-2026-ready-to-wear/chanel</code></p>`}</div>`;
+      ${CLOUD ? '' : '<p class="small dim">터미널: <code>python3 vogue.py show spring-2026-ready-to-wear/chanel</code></p>'}`}</div>`;
     startBanner();
     return;
   }
