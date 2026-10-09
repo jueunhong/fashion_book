@@ -228,12 +228,14 @@ async function consumeAi(user: { id: string; email: string }) {
 }
 
 // 이용권 요청 알림 메일 (Resend). RESEND_API_KEY 가 없으면 조용히 건너뜀.
+const _mailErrors: string[] = [];
 async function notifyAdmins(subject: string, text: string): Promise<boolean> {
+  _mailErrors.length = 0;
   const key = Deno.env.get("RESEND_API_KEY");
-  if (!key) return false;
+  if (!key) { _mailErrors.push("RESEND_API_KEY 없음"); return false; }
   let to = (Deno.env.get("NOTIFY_EMAIL") ?? "").split(",").map((s) => s.trim()).filter(Boolean);
   if (!to.length) to = ((await db("admins?select=email", { prefer: "return=representation" })) ?? []).map((r: any) => r.email);
-  if (!to.length) return false;
+  if (!to.length) { _mailErrors.push("수신자 없음"); return false; }
   // 수신자별로 따로 보냄: 도메인 인증 전 Resend 는 가입 이메일 외 주소를 거부하므로 한 명이라도 성공하면 OK
   let ok = false;
   for (const rcpt of to) {
@@ -242,7 +244,7 @@ async function notifyAdmins(subject: string, text: string): Promise<boolean> {
       headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
       body: JSON.stringify({ from: Deno.env.get("NOTIFY_FROM") ?? "Runway Book <onboarding@resend.dev>", to: [rcpt], subject, text }),
     });
-    if (r.ok) ok = true; else console.error("notify mail failed", rcpt, r.status, await r.text());
+    if (r.ok) ok = true; else { const t = await r.text(); _mailErrors.push(`${rcpt}: ${r.status} ${t.slice(0, 200)}`); console.error("notify mail failed", rcpt, r.status, t); }
   }
   return ok;
 }
@@ -423,7 +425,7 @@ Deno.serve(async (req) => {
             `AI 이용권 구매 요청이 들어왔습니다.\n\n요청 이메일: ${email}\n로그인 계정: ${user.email}\n무료 사용: ${st.freeUsed}/${st.freeLimit}\n요청 시각: ${new Date().toLocaleString("ko-KR", { timeZone: "Asia/Seoul" })}\n\n결제 정보를 위 이메일로 보내 주시고, 입금 확인 후 사이트 헤더의 "이용권 요청" 에서 이용권을 부여하세요.\nhttps://runway-book.vercel.app`,
           ).catch(() => false);
         }
-        return json({ ok: true, already: !!pending?.length, mailed });
+        return json({ ok: true, already: !!pending?.length, mailed, mailErrors: mailed ? [] : _mailErrors.slice() });
       }
       case "admin_requests": {
         if (!(await isAdmin(user.email))) return json({ error: "관리자만 사용할 수 있습니다" }, 403);
