@@ -352,6 +352,14 @@ Deno.serve(async (req) => {
       case "translate": return json(await translateReview(String(body.key ?? ""), !!body.force));
       case "terms": return json(await extractTerms(String(body.key ?? ""), !!body.force));
       case "term_looks": return json(await linkTermsToLooks(String(body.key ?? ""), !!body.force));
+      case "note": {   // 룩 메모 저장/삭제
+        const nt = body.note ?? {};
+        const id = `${user.id}|${nt.showKey}|${nt.gid}|${nt.n}`;
+        if (body.op === "remove") { await db(`notes?id=eq.${encodeURIComponent(id)}&user_id=eq.${user.id}`, { method: "DELETE" }); return json({ ok: true }); }
+        const text = String(nt.text ?? "").slice(0, 4000);
+        await upsert("notes", { id, user_id: user.id, show_key: nt.showKey, gid: nt.gid, n: nt.n, item: nt.it, brand: nt.brand ?? "", season: nt.season ?? "", text, updated_at: new Date().toISOString() });
+        return json({ ok: true, id });
+      }
       case "recent": {   // 최근 본 쇼 목록 저장 (최대 10개)
         const keys = Array.isArray(body.keys) ? body.keys.filter((k: unknown) => typeof k === "string").slice(0, 10) : [];
         await upsert("user_state", { user_id: user.id, recent: keys, updated_at: new Date().toISOString() });
