@@ -528,6 +528,9 @@ window.addEventListener('hashchange', route);
 async function route(){
   const m = location.hash.match(/^#\/(\w+)(?:\/(.+))?$/);
   const view = m ? m[1] : 'home', arg = m ? decodeURIComponent(m[2]||'') : '';
+  const sameRoute = S._lastRoute === view + '/' + arg;   // 같은 화면을 다시 그릴 때(작업 완료 등)는 스크롤 유지
+  const prevY = window.scrollY;
+  S._lastRoute = view + '/' + arg;
   S.view = view;
   document.querySelectorAll('nav button').forEach(b => b.classList.toggle('active', b.dataset.view === view || (view==='show' && b.dataset.view==='home')));
   await detectMode();
@@ -541,7 +544,8 @@ async function route(){
     else if (view === 'fav') await renderFav();
     else await renderHome();
   } catch(e) { document.getElementById('main').innerHTML = `<div class="empty">오류: ${esc(e.message)}</div>`; }
-  if (!(view === 'show' && S._lastShowKey === arg.split('/')[0])) window.scrollTo(0,0);
+  if (sameRoute) window.scrollTo(0, prevY);
+  else if (!(view === 'show' && S._lastShowKey === arg.split('/')[0])) window.scrollTo(0,0);
   S._lastShowKey = view === 'show' ? arg.split('/')[0] : null;
 }
 async function loadIndex(){ S.index = await api('/api/index'); return S.index; }
