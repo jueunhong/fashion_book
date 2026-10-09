@@ -137,6 +137,7 @@
   .item{display:flex;gap:10px;align-items:center;padding:8px 10px;background:var(--bg2);border:1px solid var(--line);border-radius:8px}
   .item .thumb{width:40px;height:56px;border-radius:4px;background:var(--bg3);overflow:hidden;flex:none}
   .item .thumb img{width:100%;height:100%;object-fit:cover}
+  .item .thumb .ini{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-family:var(--display);font-weight:800;font-size:16px;color:var(--fg3)}
   .item .name{flex:1;min-width:0;font-size:14px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   .item.fetched .name{color:var(--fg)} .item:not(.fetched) .name{color:var(--fg2)}
   .chips{display:flex;gap:6px;flex-wrap:wrap}
@@ -475,8 +476,13 @@ async function cloudListing(kind, slug, refresh){
   let data = rows[0];
   if (!data) data = await cloudCall({action: kind, slug});
   if (kind === 'designer') data = {slug: data.slug, name: data.name, bioHtml: data.bio_html ?? data.bioHtml ?? '', collections: data.collections};
-  const have = new Set((await restGet('user_shows?select=show_key')).map(r => r.show_key));
-  for (const it of (data.shows || data.collections)) { const [, sea, br] = it.path.split('/').slice(1); it.key = `${sea}__${br}`; it.fetched = have.has(it.key); }
+  const list = data.shows || data.collections;
+  const [have, stored] = await Promise.all([
+    restGet('user_shows?select=show_key'),
+    kind === 'season' ? restGet(`shows?season=eq.${encodeURIComponent(slug)}&select=key,cover`) : restGet(`shows?brand=eq.${encodeURIComponent(slug)}&select=key,cover`),
+  ]);
+  const mine = new Set(have.map(r => r.show_key)), covers = Object.fromEntries(stored.map(r => [r.key, r.cover]));
+  for (const it of list) { const [, sea, br] = it.path.split('/').slice(1); it.key = `${sea}__${br}`; it.fetched = mine.has(it.key); if (!it.cover && covers[it.key]) it.cover = covers[it.key]; }
   return data;
 }
 // 브라우저가 직접 돌리는 작업 큐 (Edge Function 을 쇼 하나씩 호출)
@@ -639,8 +645,8 @@ async function staticApi(path, body){
   if (kind === 'show') return getJson(`data/shows/${id}.json`, '이 쇼는 배포본에 없습니다.');
   const data = await getJson(`data/${kind}s/${id}.json`, `이 ${kind==='season'?'시즌':'브랜드'} 목록은 배포본에 없습니다. 내 컴퓨터에서 불러온 뒤 다시 배포하세요.`);
   const idx = S.index || await staticApi('/api/index');
-  const have = new Set(idx.shows.map(s => s.key));
-  for (const it of (data.shows || data.collections)) { const [, sea, br] = it.path.split('/').slice(1); it.key = `${sea}__${br}`; it.fetched = have.has(it.key); }
+  const have = new Set(idx.shows.map(s => s.key)), covers = Object.fromEntries(idx.shows.map(s => [s.key, s.cover]));
+  for (const it of (data.shows || data.collections)) { const [, sea, br] = it.path.split('/').slice(1); it.key = `${sea}__${br}`; it.fetched = have.has(it.key); if (!it.cover && covers[it.key]) it.cover = covers[it.key]; }
   return data;
 }
 async function api(path, body){
@@ -657,6 +663,11 @@ async function api(path, body){
   }
   const j = await r.json().catch(()=>({error:'응답 파싱 실패'}));
   if (!r.ok || j.error) throw new Error(j.error || r.statusText);
+  if (/^\/api\/(season|designer)\//.test(path) && (j.shows || j.collections)) {
+    const idx = S.index || await api('/api/index');
+    const covers = Object.fromEntries(idx.shows.map(s => [s.key, s.cover]));
+    for (const it of (j.shows || j.collections)) if (!it.cover && it.key && covers[it.key]) it.cover = covers[it.key];
+  }
   return j;
 }
 function toast(msg, ms=2500){ const t = document.createElement('div'); t.className='toast'; t.textContent = msg; document.body.appendChild(t); setTimeout(()=>t.remove(), ms); }
@@ -1144,7 +1155,7 @@ async function renderSeason(slug){
 function itemHtml(s){
   const name = s.name, sub = s.season ? seasonTitle(s.season) : '';
   return `<div class="item ${s.fetched?'fetched':''}" data-key="${esc(s.key)}" data-text="${esc((name+' '+sub).toLowerCase())}">
-    <div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover,120)}" alt="">` : ''}</div>
+    <div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover,120)}" alt="">` : `<div class="ini">${esc((name||'?').replace(/^(the|a|an)\s+/i,'').charAt(0).toUpperCase())}</div>`}</div>
     <div class="name" title="${esc(name)}">${esc(name)}${sub ? `<div class="dim small">${esc(sub)}</div>` : ''}</div>
     ${s.fetched ? `<button class="small" onclick="go('show','${s.key}')">보기</button>` : STATIC ? `<a href="${VOGUE}${esc(s.path)}" target="_blank" rel="noopener"><button class="small ghost">Vogue ↗</button></a>` : `<button class="small" onclick="fetchOne('${esc(s.path)}', this)">${CLOUD ? '담기' : '가져오기'}</button>`}</div>`;
 }
