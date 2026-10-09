@@ -234,13 +234,17 @@ async function notifyAdmins(subject: string, text: string): Promise<boolean> {
   let to = (Deno.env.get("NOTIFY_EMAIL") ?? "").split(",").map((s) => s.trim()).filter(Boolean);
   if (!to.length) to = ((await db("admins?select=email", { prefer: "return=representation" })) ?? []).map((r: any) => r.email);
   if (!to.length) return false;
-  const r = await fetch("https://api.resend.com/emails", {
-    method: "POST",
-    headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
-    body: JSON.stringify({ from: Deno.env.get("NOTIFY_FROM") ?? "Runway Book <onboarding@resend.dev>", to, subject, text }),
-  });
-  if (!r.ok) console.error("notify mail failed", r.status, await r.text());
-  return r.ok;
+  // 수신자별로 따로 보냄: 도메인 인증 전 Resend 는 가입 이메일 외 주소를 거부하므로 한 명이라도 성공하면 OK
+  let ok = false;
+  for (const rcpt of to) {
+    const r = await fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ from: Deno.env.get("NOTIFY_FROM") ?? "Runway Book <onboarding@resend.dev>", to: [rcpt], subject, text }),
+    });
+    if (r.ok) ok = true; else console.error("notify mail failed", rcpt, r.status, await r.text());
+  }
+  return ok;
 }
 
 // ---------------------------------------------------------------- 리뷰 번역 (Claude)
