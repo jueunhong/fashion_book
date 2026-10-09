@@ -180,7 +180,7 @@
     .ro{order:1;margin-left:auto;font-size:11px;white-space:normal;text-align:right}
     .cards{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
     .card .meta{padding:8px 10px} .card .sub{font-size:12px}
-    .grid{grid-template-columns:repeat(var(--cols-m,3),1fr);gap:6px}
+    .grid{grid-template-columns:repeat(var(--cols-m,2),1fr);gap:6px}
     .look{border-radius:5px}
     .showhead{gap:10px;margin-bottom:10px}
     .showhead h1{font-size:20px} .showhead h1 span{font-size:14px !important}
@@ -247,13 +247,14 @@
 // ------------------------------------------------------------ 상태
 const S = {
   view: 'home', index: null, show: null, gallery: 0, season: null, designer: null,
-  favs: loadLS('favs', {}), cols: loadLS('cols', 5), localFirst: loadLS('localFirst', true), recent: loadLS('recent', []),
+  favs: loadLS('favs', {}), cols: loadLS('cols', 5), colsM: loadLS('colsM', 2), localFirst: loadLS('localFirst', true), recent: loadLS('recent', []),
   lb: { items: [], i: 0, show: null }, q: '',
 };
 function loadLS(k, d){ try{ const v = localStorage.getItem('rb.'+k); return v==null? d : JSON.parse(v);}catch(e){ return d; } }
 function saveLS(k, v){ try{ localStorage.setItem('rb.'+k, JSON.stringify(v)); }catch(e){} }
 document.documentElement.style.setProperty('--cols', S.cols);
-document.documentElement.style.setProperty('--cols-m', Math.max(1, Math.min(3, Math.round(S.cols * 0.6))));
+document.documentElement.style.setProperty('--cols-m', S.colsM);
+const isMobile = () => window.matchMedia('(max-width:800px)').matches;
 
 const VOGUE = 'https://www.vogue.com';
 function imgUrl(it, w){
@@ -661,7 +662,7 @@ async function renderShow(arg){
     <div class="review" id="review">${show.reviewHtml ? `<div class="langbar"><button class="small ${CLOUD?'on':''}" id="rv_ko" onclick="setReviewLang('ko')">한국어</button><button class="small ${CLOUD?'':'on'}" id="rv_en" onclick="setReviewLang('en')">원문</button><span class="dim small" id="rv_note"></span></div><div class="body" id="rv_body"></div>` : ''}</div>
     <div class="tabs">${show.galleries.map((g,i)=>`<button class="${i===S.gallery?'active':''}" onclick="setGallery(${i})">${esc(g.title)} <span class="dim">${g.items.length}</span></button>`).join('')}</div>
     <div class="toolbar">
-      <label>크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label>
+      <label>크기 ${colsSlider()}</label>
       <label class="needs-local"><input type="checkbox" ${S.localFirst?'checked':''} onchange="S.localFirst=this.checked;saveLS('localFirst',S.localFirst);renderGrid()"> 저장본 우선</label>
       <span class="dim small kbd-hint">클릭하면 크게 보기 · ← → 로 이동 · F 즐겨찾기 · Esc 닫기</span>
     </div>
@@ -694,7 +695,11 @@ async function setReviewLang(lang){
 }
 function setGallery(i){ S.gallery = i; document.querySelectorAll('.tabs button').forEach((b,j)=>b.classList.toggle('active', j===i)); renderGrid(); quietHash(`#/show/${S.show.key}/${S.show.galleries[i].id}`); }
 function quietHash(h){ if (location.hash !== h) history.replaceState(null, '', h); }
-function setCols(v){ S.cols = +v; saveLS('cols', S.cols); document.documentElement.style.setProperty('--cols', S.cols); document.documentElement.style.setProperty('--cols-m', Math.max(1, Math.min(3, Math.round(S.cols * 0.6)))); }
+function setCols(v){
+  if (isMobile()) { S.colsM = +v; saveLS('colsM', S.colsM); document.documentElement.style.setProperty('--cols-m', S.colsM); }
+  else { S.cols = +v; saveLS('cols', S.cols); document.documentElement.style.setProperty('--cols', S.cols); }
+}
+function colsSlider(){ return isMobile() ? `<input type="range" min="1" max="4" value="${S.colsM}" oninput="setCols(this.value)">` : `<input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)">`; }
 function renderGrid(){
   const g = S.show.galleries[S.gallery];
   const grid = document.getElementById('grid');
