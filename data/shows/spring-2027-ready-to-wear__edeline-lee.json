@@ -1,0 +1,324 @@
+{
+ "key": "spring-2027-ready-to-wear__edeline-lee",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/edeline-lee",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "edeline-lee",
+ "brandName": "Edeline Lee",
+ "designers": "By Edeline Lee",
+ "eventDate": "2026-09-20T10:00:00.000Z",
+ "pubDate": "September 20, 2026",
+ "authors": [
+  "Anna Cafolla"
+ ],
+ "reviewHtml": "<div><p>For spring 2027, Edeline Lee was thinking about Sisyphus. “He is endlessly pushing the boulder up the hill, and every time he reaches the top, it comes back down again,” she said. “I feel like we are in that cycle in fashion. That perfect image of the runway actually requires 150 people backstage. You work for months on that one moment, and then return to the studio to start again.”</p><p>Lee is known for atypical show performances, ranging from a flash mob (fall 2023) to a sword fight (fall 2025). This time, her presentation in Haverstock School’s sports hall featured an open reconstruction of backstage, to underscore the labor that leads up to the show moment. Models had final touches on hair and makeup, seamstresses worked on final adjustments at their sewing machines, and the “press team” typed on laptops in the corner.</p><p>The collection was heavily inspired by ballet, as Lee saw a parallel between the intense work before a show and the hard work it requires behind the scenes for a ballerina to reach that “one ecstatic moment of performance.” And so a collection film, shot with ballerinas from some of the UK’s leading companies, played on a loop on TVs throughout the space.</p><p>For the showpieces in the film, Lee experimented with pancake tutus in white, black, and beige, knotted into elegant ovals of macramé and layered over looser-fitting practice sweaters in the designer’s signature flou bubble jacquard. Classic tutus and bell tutus in yellow and beige—layered over high-neck leotards—were hooped and left hollow, without tulle petticoats, to give them bounce. One lavender dress paired a fitted leotard and a long lightweight pleated chiffon skirt. The most striking look was three ballerinas in scarlet leotards and extremely short, scalloped pancake tutus, on pointe and dancing in sync by an indoor pool.</p><p>While Lee expects these pieces to be picked up by her private clients (“There’s always someone who wants the mega-dress”), mannequins in the space showed the more wearable side of the collection, for the modest high-flying women Lee has established as devotees. Cyan leotards and tutus were transformed into long-sleeve midi-dresses with longer pleated skirts in flou bubble jacquard. The beige practice sweater and black pancake tutus were transformed into a capped-sleeve blouse with a neck tie, paired with a mid-length black pleated skirt. “Our client is functioning at a really high level, and they need to have clothes that move with them,” Lee said. “But they’re not dancing onstage, so we have dresses you can wear to the boardroom too.”</p><p>Exiting the show venue, guests could spot an enormous white papier-maché ball, representing Sisyphus’s boulder. Sometimes <em>Sisyphean</em> can mean futile, but when all is said and done, Lee is happy to keep pushing. “I’ve been doing this now for 15 years with the same team,” she said. “We wouldn’t be doing it if that one little moment of joy wasn’t worth it.”</p></div>",
+ "cover": {
+  "id": "6aafd7c99e57de7e3ea095d3",
+  "file": "00001-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aafd7c99e57de7e3ea095d3",
+     "file": "00001-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aafd7c98e5a2a0a3d098f47",
+     "file": "00002-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aafd7caa506dd7ad1767f60",
+     "file": "00003-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aafd7ce1fddb8009de8c886",
+     "file": "00004-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aafd7ce8ce4f97abb97d035",
+     "file": "00005-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aafd7cf98bc5a45ddda62da",
+     "file": "00006-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aafd7cf71bdb0c454ddbebe",
+     "file": "00007-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aafd7d08ce4f97abb97d03c",
+     "file": "00008-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aafd7d1a506dd7ad1767f67",
+     "file": "00009-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aafd7d12954cbe0a0ba22b5",
+     "file": "00010-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aafd7d2a14e44b3abf28289",
+     "file": "00011-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aafd7d38ce4f97abb97d043",
+     "file": "00012-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aafd7d38e5a2a0a3d098f4e",
+     "file": "00013-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aafd7d48b9b03d180f9a339",
+     "file": "00014-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aafd7d503ef480c76ef3538",
+     "file": "00015-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aafd7d5bc7e75ebb6f4222f",
+     "file": "00016-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aafd7d53cc4e418099d5c0c",
+     "file": "00017-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aafd7d65cd0e3956d23c333",
+     "file": "00018-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aafd7d7caa4a98dd52d476e",
+     "file": "00019-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aafd7d748697c2520ab0246",
+     "file": "00020-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aafd7d8cd554fcf6fc3a24f",
+     "file": "00021-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aafd7d8e4a113d2b556b0fd",
+     "file": "00022-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aafd7d99ef682a681d57eb2",
+     "file": "00023-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aafd7da9e57de7e3ea095dd",
+     "file": "00024-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aafd7dab134952526dabb32",
+     "file": "00025-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aafd7dbdf385a417280a9f0",
+     "file": "00026-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aafd7dc9705b01c9168aabe",
+     "file": "00027-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aafd7dcb134952526dabb3c",
+     "file": "00028-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aafd7dd7aede1c68921b5ec",
+     "file": "00029-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aafd7de9df75302f99bcdcd",
+     "file": "00030-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aafd7def37714697e2e7ca8",
+     "file": "00031-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aafd7dfbcce6d5ec8e4d4dc",
+     "file": "00032-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aafd7df0e26ac7ec54ca63d",
+     "file": "00033-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aafd7e026169730a278ac4e",
+     "file": "00034-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aafd7e12954cbe0a0ba22bc",
+     "file": "00035-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aafd7e103ef480c76ef353f",
+     "file": "00036-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aafd7e2be1d8528004e5748",
+     "file": "00037-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:37"
+}

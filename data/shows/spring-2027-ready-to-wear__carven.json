@@ -1,0 +1,834 @@
+{
+ "key": "spring-2027-ready-to-wear__carven",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/carven",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "carven",
+ "brandName": "Carven",
+ "designers": "By Kai Nesselrath",
+ "eventDate": "2026-10-01T10:30:00.000Z",
+ "pubDate": "October 1, 2026",
+ "authors": [
+  "Amy Verner"
+ ],
+ "reviewHtml": "<div><p>Kai Nesselrath signaled his new day at Carven by alluding to the sheets of a bed in the morning. It was a subtle, intimate idea that took shape as dresses folding over along the edges or falling from the body in gestures of deft draping. </p><p>With this debut show, the designer, a longtime tailoring alum at Saint Laurent, seems to have opted for baby steps more than big leaps. But what already stands out is the easy-breeziness he’s laying out for us. He revisited the polish of the ’50s and ’60s—a golden Carven era—as pale blue and pink ensembles with a fresher, youthful tilt (polo and pajama tops), while creating more abstracted versions that were cloudlike and bloomer’d. Imagining the Carven woman as a ‘doer,’ he alluded to workwear standbys, only his versions were given cocoon, couture-adjacent cuts. </p><p>He showed maxi-length coats, maxi-length apron dresses and a maxi dark denim skirt that were complete looks, yet there were also miniskirts with belt loops sans belts and backs flaps left open that landed more spontaneous. He produced witty jewelry: pencil shavings as golden earrings that bent and zigzagged, along with gleaming pencil hair accessories (making one nostalgic for the HB). </p><p>“It’s learning bits here and there, which is actually terribly fun,” said Nesselrath from his office that was filled with abundant floral deliveries still wrapped in paper. Among the senders of these pre-show bouquets was Chemena Kamali (a former Saint Laurent colleague) and Drew Henry (who had just made his own debut at Courrèges). </p><p>For any designer entering the house of Carven, one of the talking points—a challenge for better or worse—is invariably that Marie-Louise Carven didn’t leave the kind of heuristics that designers at other Paris houses inherit. Nesselrath said he immersed himself in the archives, and his moodboard suggested how intentional he was about piecing together a puzzle of old and new. He turned her recurring use of a deep green into a stripe of varying widths that offers branding possibility to play with going forward. He said he was adamant about touches of hand craft, hence a specific stitch known as the “vous et moi” [you and me] that bordered some of the softer, draped pieces, as well as a more modern twist on a flower jacquard and repeated tufts of embroidery that brought texture to a pair of white trousers. </p><p>Whether top of mind of not, as summers get hotter, Nesselrath’s focus on lightness will serve well when women are seeking clothes that breathe without veering too undressed. He noted in his personal statement the importance of breathing—how “allowing people to take a moment to breathe is giving people freedom; it’s taking a step back to reflect.”</p><p>There was an interstitial air to today’s show, as though Nesselrath has much more up his sleeve. He certainly exudes charm in spades, and if he can transfer some more of that—perhaps even via the models next time—Carven will be up and running.</p></div>",
+ "cover": {
+  "id": "6abe70b6b4d8fdbcc14a9a2b",
+  "file": "00001-carven-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abe70b6b4d8fdbcc14a9a2b",
+     "file": "00001-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abe70b6f96090b2c67b2553",
+     "file": "00002-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abe70b5f1ed2146ff9bbe87",
+     "file": "00003-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abe70b8bf7f6962493b0560",
+     "file": "00004-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abe70b8e4c2be2c4c20d5b5",
+     "file": "00005-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abe70b8b9a995b39e89aca0",
+     "file": "00006-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abe70baff70a1606ea4a824",
+     "file": "00007-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abe70ba72607c21ab057a25",
+     "file": "00008-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abe70baebbd62f2073b0633",
+     "file": "00009-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abe70bc38ee6dfaa98229cb",
+     "file": "00010-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abe70bc53efe3f692ef9f38",
+     "file": "00011-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abe70bccd062db23eb7f44a",
+     "file": "00012-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abe70be9d36649374680b19",
+     "file": "00013-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abe70beac49a16ce3a02546",
+     "file": "00014-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abe70be5649234c0b1465d1",
+     "file": "00015-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abe70c0759bc686f1a6628c",
+     "file": "00016-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abe70c030d90c19e5187084",
+     "file": "00017-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abe70c04685a1dfd0f3e484",
+     "file": "00018-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abe70c24bb07e53ea81b0b2",
+     "file": "00019-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abe70c26144f6d78ca34126",
+     "file": "00020-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abe70c3444924469b3a2430",
+     "file": "00021-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abe70c568443385db46ef42",
+     "file": "00022-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abe70c548f0b2d20bb1854f",
+     "file": "00023-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abe70c54b556a0cd9f79f3d",
+     "file": "00024-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abe70c7dd31b9828e5a798a",
+     "file": "00025-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abe70c738ee6dfaa98229d2",
+     "file": "00026-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abe70c74c64fb3a21fa1d82",
+     "file": "00027-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abe70c9444924469b3a2437",
+     "file": "00028-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abe70c900dff85528cdc18e",
+     "file": "00029-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abe70cadaaf5bd02522c8d1",
+     "file": "00030-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6abe70cb7d8f9610eee9f2d9",
+     "file": "00031-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6abe70cb7f036471181e4915",
+     "file": "00032-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6abe70cbbd344835c739c490",
+     "file": "00033-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6abe70cd5654d81857a5945d",
+     "file": "00034-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6abe70cd5b248ac2000fb03b",
+     "file": "00035-carven-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ac4dfbd26ee5a9195fdf9ab",
+     "file": "00001-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ac4dfbdd07313c3cfe602ff",
+     "file": "00001a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ac4dfbdc3def38110ea9118",
+     "file": "00002-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ac4dfc19dc3905ef71fb43f",
+     "file": "00003-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ac4dfc154413dc952f8af16",
+     "file": "00003a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ac4dfc1b547f4dd99e86169",
+     "file": "00004-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ac4dfc5a6e8539892eecdfd",
+     "file": "00005-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ac4dfc61d7d0f4f012f7680",
+     "file": "00005a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ac4dfc64d048b533b329611",
+     "file": "00006-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ac4dfc91eb7e7b6b4a8c56a",
+     "file": "00006b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ac4dfca6fc6681404714c8f",
+     "file": "00007a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ac4dfca933a5f5a19073318",
+     "file": "00007b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ac4dfcdec366f175e8e5fc4",
+     "file": "00008a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ac4dfcd933a5f5a1907331f",
+     "file": "00009a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ac4dfcec3def38110ea911f",
+     "file": "00009b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ac4dfd0a3c67f3ef1d7a5a8",
+     "file": "00010a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ac4dfd1ecd03209c0a8d919",
+     "file": "00011a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ac4dfd2fbf01b08c099b389",
+     "file": "00011b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ac4dfd36c60b1fcd14a78fc",
+     "file": "00012a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ac4dfd5615cb4d2dc430605",
+     "file": "00012b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ac4dfd5250fe688845fbec6",
+     "file": "00013a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ac4dfd66649d75da432fb50",
+     "file": "00013b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ac4dfd76649d75da432fb57",
+     "file": "00014a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ac4dfd8a5f6f59fd4c4ddc4",
+     "file": "00014b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ac4dfd9710e20dfd3340758",
+     "file": "00015a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ac4dfda8e1ea56f9d85ba74",
+     "file": "00015b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ac4dfddf407329037d387d7",
+     "file": "00016b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ac4dfdd26f099cf71ce54bd",
+     "file": "00016a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ac4dfdeb4f781883e84b661",
+     "file": "00017a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ac4dfe1e03f52b3068ed64e",
+     "file": "00017b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ac4dfe273e999c3fece61a8",
+     "file": "00018-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ac4dfe2054bb976ce76fec9",
+     "file": "00019a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ac4dfe4a3c01f09f3078945",
+     "file": "00019b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ac4dfe6fff5547983324f01",
+     "file": "00020-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ac4dfe6155133698dc90e13",
+     "file": "00021a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ac4dfe7b4f781883e84b668",
+     "file": "00021b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ac4dfe9b547f4dd99e86188",
+     "file": "00022a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ac4dfea615cb4d2dc430612",
+     "file": "00022b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ac4dfeafbf01b08c099b396",
+     "file": "00022c-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ac4dfed8e1ea56f9d85ba7b",
+     "file": "00023a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ac4dfeefdbd564e79ffe498",
+     "file": "00023b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ac4dfee1eb7e7b6b4a8c577",
+     "file": "00023c-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ac4dfef994abda0b6576def",
+     "file": "00024a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ac4dff126ee5a9195fdf9b2",
+     "file": "00024b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ac4dff1b4f781883e84b66f",
+     "file": "00025a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ac4dff2028b4305277cdf39",
+     "file": "00025b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ac4dff4b547f4dd99e8618f",
+     "file": "00025c-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ac4dff57511dc83038a6203",
+     "file": "00026a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ac4dff5e7821f7eb5f55e47",
+     "file": "00026b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ac4dff8368cdae4f04f627d",
+     "file": "00027a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ac4dff97e5579596553b793",
+     "file": "00028a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ac4dff9b4f781883e84b676",
+     "file": "00028b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ac4dffaafe22207b508755b",
+     "file": "00029a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ac4dffc9dc3905ef71fb44c",
+     "file": "00029b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ac4dffd710e20dfd334075f",
+     "file": "00030a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ac4dffd9dc3905ef71fb453",
+     "file": "00030b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ac4dfffd290825715210c1d",
+     "file": "00031-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ac4e000a3c67f3ef1d7a5af",
+     "file": "00031a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ac4e00062f31dde1554a20c",
+     "file": "00032a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ac4e00204629bb5b0320f89",
+     "file": "00032b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ac4e004a3c01f09f307894c",
+     "file": "00033a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ac4e0043f00ddddfe39dfd1",
+     "file": "00033b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ac4e0047c34a7c3bbf5aa13",
+     "file": "00034a-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ac4e0078e69e2f109d63752",
+     "file": "00034b-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ac4e00798daf6efd6ec2a00",
+     "file": "00034c-carven-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:09"
+}

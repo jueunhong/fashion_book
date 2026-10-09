@@ -1,0 +1,770 @@
+{
+ "key": "spring-2027-ready-to-wear__a-w-a-k-e",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/a-w-a-k-e",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "a-w-a-k-e",
+ "brandName": "A.W.A.K.E. Mode",
+ "designers": "By Natalia Alaverdian",
+ "eventDate": "",
+ "pubDate": "October 4, 2026",
+ "authors": [
+  "Tina Isaac-Goizé"
+ ],
+ "reviewHtml": "<div><p>In the 13 years since Natalia Alaverdian founded A.W.A.K.E. Mode, she has built it from the ground up—“on my knees,” as she put it during a showroom preview of her spring collection. The brand’s success has been such that in summer 2025, she sold a majority stake to an outside investor, which more or less coincided with when she was designing the lineup she showed in Paris this week.</p><p>Alaverdian described this outing as “a little bit ’70s, a little bit rock band-y,” a vibe that was evident in the way-out-there denim flares in a medium wash or a light one studded with silver rivets and oodles of house favorites like her disc skirts, now in tie-overs, neon brights, or a negative-space iteration on wide, twisted tagliatelle-like panels.</p><p>Spring also found the designer rocking out to fringe, knots, and more to beguiling effect on sailor tops, dresses, and asymmetrical blouses. Turning jeans back to front and shirt cuffs into ankle hems on harem pants are some of her classic punchlines; here they were joined by a few mashups (like Prince of Wales check and leopard and knotted fringe all at once on look 18), which the designer described as “aliens wearing vintage.” Macramé got a plotline all its own as did theatrical fringed numbers that somehow looked both kooky and (mostly) wearable.</p><p>By turns familiar and fun, this lineup had all the sass, style, inside jokes, and OTT proportions fans have come to expect from the brand—in a kind of Easter egg moment, the designer herself did a few turns here, guitar in hand. That’s the kind of bootstrapping A.W.A.K.E Mode has always stood for, and it makes you wonder what Alaverdian might have up her sleeve next.</p></div>",
+ "cover": {
+  "id": "6ac13c953f89a8a947fa2c38",
+  "file": "00001-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ac13c953f89a8a947fa2c38",
+     "file": "00001-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ac13c9685b2e9a9cbecba73",
+     "file": "00002-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ac13c9756c8f66d9aab3f3f",
+     "file": "00003-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ac13c984c53c4a67015194a",
+     "file": "00004-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ac13c994c52c0de8642a1c7",
+     "file": "00005-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ac13c967bb96837460e8039",
+     "file": "00006-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ac13c99fe4c5f58feb58885",
+     "file": "00007-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ac13c9b03caf3ff1e637692",
+     "file": "00008-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ac13c9bbcb1c544646d43e0",
+     "file": "00009-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ac13c9b90f283c50041b1a4",
+     "file": "00010-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ac13c9efdec02cd78845bd3",
+     "file": "00011-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ac13c9eb0104b9c1a1aa2e9",
+     "file": "00012-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ac13c9ec6a00ccd679be4b3",
+     "file": "00013-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ac13ca04c52c0de8642a1cd",
+     "file": "00014-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ac13ca07af546515529c76a",
+     "file": "00015-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ac13ca12c333f1903722e41",
+     "file": "00016-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ac13ca27d9829bb6e5b3b2d",
+     "file": "00017-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ac13ca38ed46cc687351a43",
+     "file": "00018-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ac13ca390f283c50041b1ad",
+     "file": "00019-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ac13ca4193a83109b2b327f",
+     "file": "00020-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ac13ca63d7cb8d7df6cd50c",
+     "file": "00021-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ac13ca6e96d8a4b3c42e3a9",
+     "file": "00022-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ac13ca67bb96837460e803f",
+     "file": "00023-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ac13ca990f283c50041b1b3",
+     "file": "00024-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ac13ca98ae7e686ab85fc08",
+     "file": "00025-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ac13ca9149ad464111cad01",
+     "file": "00026-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ac13cab149ad464111cad07",
+     "file": "00027-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ac13cac64a1bb6d452b3a61",
+     "file": "00028-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ac13cac34156006375d00ac",
+     "file": "00029-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ac13cac069a75b94a1eb1d0",
+     "file": "00030-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ac13cad754af37d9dc38f50",
+     "file": "00031-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ac13caeaff92533fd300311",
+     "file": "00032-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ac13cae55c5582d13a30b17",
+     "file": "00033-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ac13cb039b91c662fc17568",
+     "file": "00034-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ac13cb02e02214eebac4c06",
+     "file": "00035-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ac13cb0150563bd5082a47a",
+     "file": "00036-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ac13cb1069a75b94a1eb1d6",
+     "file": "00037-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ac13cb3069a75b94a1eb1dc",
+     "file": "00038-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ac13cb28ed46cc687351a49",
+     "file": "00039-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ac13cb3150563bd5082a480",
+     "file": "00040-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ac13cb57af546515529c770",
+     "file": "00041-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ac13cb5255cb44abc30a98a",
+     "file": "00042-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ac13cb639b91c662fc1756e",
+     "file": "00043-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ac13cb7ab9514ff88d11714",
+     "file": "00044-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ac13cb83232cb8c69e8b880",
+     "file": "00045-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ac13cb84281b5dd1bde1d40",
+     "file": "00046-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ac13cbac23ae62f45a42d4a",
+     "file": "00047-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ac13cba396561677257635b",
+     "file": "00048-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ac13cba4b6cd7a157fdec56",
+     "file": "00049-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ac13cbc6d60497579f44343",
+     "file": "00050-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ac13cbcab9514ff88d1171a",
+     "file": "00051-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ac13cbd4281b5dd1bde1d46",
+     "file": "00052-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ac13cbd58b4304da3e88cdb",
+     "file": "00053-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ac1531f2023fd20981080f9",
+     "file": "00001-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ac1531f6e9588a5ef13d6c8",
+     "file": "00002-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ac1531f34156006375d01a2",
+     "file": "00003-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ac15321c23ae62f45a42e1f",
+     "file": "00004-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ac15320bf97e72231d5da83",
+     "file": "00005-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ac15321b8f1d8d045279e65",
+     "file": "00006-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ac15322c6a00ccd679be519",
+     "file": "00007-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ac15322757dd389e4bc4d3f",
+     "file": "00008-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ac15323012a68e51bac6d71",
+     "file": "00009-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ac15324ae79d57f05fff301",
+     "file": "00010-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ac15324902b27db4efcf4ad",
+     "file": "00011-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ac1532444d7e0e414e4008f",
+     "file": "00012-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ac15326ab9514ff88d117e1",
+     "file": "00013-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ac153264fc686a4550dd187",
+     "file": "00014-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ac153260e7d7744701dba8e",
+     "file": "00015-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ac15328754af37d9dc38fac",
+     "file": "00016-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ac153280a2b0e578eaebe02",
+     "file": "00017-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ac15328a806c63c2dc27f65",
+     "file": "00018-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ac15329149ad464111cad66",
+     "file": "00019-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ac1532a6d60497579f44372",
+     "file": "00020-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ac1532a4cfa6cb9ca5a5987",
+     "file": "00021-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ac1532be91783b2420a7c39",
+     "file": "00022-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ac1532c255cb44abc30a9e2",
+     "file": "00023-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ac1532c150563bd5082a4f2",
+     "file": "00024-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ac1532dfdec02cd78845c72",
+     "file": "00025-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ac1532d9fe6ba8297d9ff28",
+     "file": "00026-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ac1532d7d9829bb6e5b3b8b",
+     "file": "00027-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ac1532ffe4c5f58feb588e4",
+     "file": "00028-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ac1532f90f283c50041b292",
+     "file": "00029-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ac1532f2023fd2098108100",
+     "file": "00030-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ac153303f89a8a947fa2ce4",
+     "file": "00031-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ac15331a806c63c2dc27f6c",
+     "file": "00032-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ac153318c1bd493c8bef36c",
+     "file": "00033-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ac153329fe6ba8297d9ff2f",
+     "file": "00034-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ac15333cc3fa7edff41628b",
+     "file": "00035-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ac15333e6038582f3ab4d92",
+     "file": "00036-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ac15333902b27db4efcf4b4",
+     "file": "00037-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ac153353f89a8a947fa2ceb",
+     "file": "00038-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ac15336c78f8fbfbb1c43ce",
+     "file": "00039-awake-mode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:09:34"
+}

@@ -1,0 +1,578 @@
+{
+ "key": "spring-2027-ready-to-wear__j-w-anderson",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/j-w-anderson",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "j-w-anderson",
+ "brandName": "JW Anderson",
+ "designers": "By Jonathan Anderson",
+ "eventDate": "",
+ "pubDate": "June 17, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>“Curation” is described as “Jonathan Anderson’s main creative tool” in the first line of his press release for this JW Anderson collection. The word “curation” originated in the Latin verb <em>curare</em>—to care for, or to attend to—and in this collection and lookbook (for which Anderson was unavailable to speak) he exhibited a contemporary curation of his original fashion endeavor.</p><p>Anderson’s selective assembly of garments, accessories, lifestyle objects, and people was set within a Hella Keck-designed seascape studio tableau shot by Heikki Kaski that was all roiling foam and crashing breaker. Washed up in front of them was a deliberate selection of fashion flotsam, some of which was resurfaced and sometimes refigured to anticipate the tidal flow of the season: Anderson’s release directed our attention to new fabrications of his fold-over trouser and twist jean.</p><p>Craft supplied a curatorial anchor. Donegal wool knits sprouted wildflowers and ferns, while Anderson’s house knit drew on the image of a traditional Irish cottage. A squirrel motif derived from a Scottish Fair Isle pattern from Sanquhar, according to the release. A red and blue coat and scarf came through a collaboration with Johnstons of Elgin. These references to folk textile, domestic object, and rural making, so often presented within a frame of nostalgia or tweeness, were here made bracingly fresh.</p><p>As previously, the totality of Anderson’s curation extended to his cast. Amongst several standouts Ivor Braka gave end-of-the-pier Iggy Pop, while Tommy Campe delivered camp Venus anadyomene. Anderson’s release also highlighted his inclusion of ceramicist Akiko Hirai, Dree Hemingway, and art critic/historian Dr. James Fox.</p></div>",
+ "cover": {
+  "id": "6a300967545a83525fa9316d",
+  "file": "00001-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6a300967545a83525fa9316d",
+     "file": "00001-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6a3009675294ce46d6ad318b",
+     "file": "00003-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6a30096aef95315ef2d39105",
+     "file": "00004-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6a30096d2d0ad6754b7b0b24",
+     "file": "00007-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6a30096e2dfc45261599e92c",
+     "file": "00008-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6a30096d2d0ad6754b7b0b2a",
+     "file": "00009-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6a300970e72078d442733cde",
+     "file": "00010-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6a300970dfe73c20247f4861",
+     "file": "00011-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6a300973ef95315ef2d3910b",
+     "file": "00013-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6a300974a912e2eaafb32a61",
+     "file": "00014-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6a300974dfe73c20247f4867",
+     "file": "00015-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6a3009764982090437f151fb",
+     "file": "00016-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6a300976d7318b4ca8d21491",
+     "file": "00017-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6a30097754efa927ec9db450",
+     "file": "00018-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6a300979a912e2eaafb32a67",
+     "file": "00019-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6a300979ef95315ef2d39116",
+     "file": "00020-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6a300979036d8b076cabca35",
+     "file": "00021-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6a30097ccb95d8afdb77683d",
+     "file": "00024-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6a30097f5641ee581d3bba83",
+     "file": "00025-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6a300980036d8b076cabca3b",
+     "file": "00026-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6a3009825294ce46d6ad3191",
+     "file": "00028-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6a3009836a9dbd44bc6fb8a3",
+     "file": "00029-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6a3009835294ce46d6ad3197",
+     "file": "00030-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6a3009864982090437f15201",
+     "file": "00031-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6a300987036d8b076cabca41",
+     "file": "00032-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6a300987545a83525fa93173",
+     "file": "00033-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6a3009892d0ad6754b7b0b3d",
+     "file": "00035-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6a30098ade87433bb96f3d28",
+     "file": "00036-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6a30098ca912e2eaafb32a72",
+     "file": "00037-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6a30098ca2051cd267a1e74a",
+     "file": "00038-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6a30098c67856ae42fe9cf79",
+     "file": "00039-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6a300990ef95315ef2d3912e",
+     "file": "00041-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6a30098fc4588656f0f6e648",
+     "file": "00042-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6a300992de87433bb96f3d34",
+     "file": "00043-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6a300992dfe73c20247f4875",
+     "file": "00044-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6a300993ec61324c358371e9",
+     "file": "00045-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6a300995de87433bb96f3d3a",
+     "file": "00046-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6a3009959500c57343eedf62",
+     "file": "00047-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6a300996a912e2eaafb32a7b",
+     "file": "00048-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6a3009985641ee581d3bba8c",
+     "file": "00050-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6a3009987aa6c1825c7ae31e",
+     "file": "00051-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6a30099a5f8ca2f28d22098f",
+     "file": "00052-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6a30099c54efa927ec9db46a",
+     "file": "00053-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6a30099b247a148c4a849248",
+     "file": "00054-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6a30099dec61324c358371ef",
+     "file": "00055-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6a30099e5294ce46d6ad31a2",
+     "file": "00056-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6a30099e6a9dbd44bc6fb8bc",
+     "file": "00057-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6a3009a0cb95d8afdb776855",
+     "file": "00058-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6a3009a26a9dbd44bc6fb8c2",
+     "file": "00059-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6a3009a1e72078d442733cfe",
+     "file": "00060-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6a3009a32dfc45261599e93f",
+     "file": "00061-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6a3009a429e8a8e6bb180434",
+     "file": "00062-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6a3009a52dfc45261599e945",
+     "file": "00063-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6a3009a75641ee581d3bba98",
+     "file": "00064-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6a3009a75641ee581d3bba9a",
+     "file": "00065-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6a3009a7de87433bb96f3d43",
+     "file": "00066-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6a3009aa2d0ad6754b7b0b46",
+     "file": "00067-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6a300e5cec61324c35837257",
+     "file": "00002-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6a300e5d2dfc45261599ea2b",
+     "file": "00005-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6a300e5c5641ee581d3bbb51",
+     "file": "00006-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6a300e5f2dfc45261599ea36",
+     "file": "00012-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6a300e60667df4ca244c9072",
+     "file": "00022-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6a300e6067856ae42fe9cf9c",
+     "file": "00023-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6a300e62dfe73c20247f48df",
+     "file": "00027-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6a300e63247a148c4a849281",
+     "file": "00034-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6a300e63ec61324c3583725d",
+     "file": "00040-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6a300e652d0ad6754b7b0bb7",
+     "file": "00049-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6a300ff0a912e2eaafb32abe",
+     "file": "00068-jw-anderson-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:16:06"
+}

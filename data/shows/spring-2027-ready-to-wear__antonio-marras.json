@@ -1,0 +1,532 @@
+{
+ "key": "spring-2027-ready-to-wear__antonio-marras",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/antonio-marras",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "antonio-marras",
+ "brandName": "Antonio Marras",
+ "designers": "By Antonio Marras",
+ "eventDate": "2026-09-23T10:30:00.000Z",
+ "pubDate": "September 23, 2026",
+ "authors": [
+  "Giorgia Feroldi"
+ ],
+ "reviewHtml": "<div><p>After a season spent indoors, Antonio Marras took his spring 2027 show into the open air, the most literal exit he could have staged. The invitation was a wedding announcement: that of Ippolita and Antiogu, in Alghero, “the midday after St. John’s night.” A long banquet table stood on the basketball court of Giardino Vincenzo Muccioli, a public park in Milan’s Tortona district, its asphalt covered in overlapping rugs. The audience sat a long while in the noon sun with the familiar impatience of guests waiting for the bride and groom. “A wedding is the moment when different people come together,” Marras said backstage. “This is the wedding of the day after, when we’re a little wrecked, a little tired, when everything is a bit undone, disheveled, unhinged.”</p><p>“Fashion also has a duty to unhinge things, to take things apart,” he continued. His own starting point is construction: “I start out as a minimalist, but I lose myself in the process. Then I need to encrust, dirty, embroider, leave the marks of our existence.” Checks and stripes collided with painterly flowers and reworked camouflage, a Marras staple. Military trousers came overlaid with sequined lace flowers; a navy jacket banded in fringe went over a lace skirt; a sprigged chiffon shirtdress was strapped into a boned corset; argyle knee socks turned up under tailored shorts. The last stretch went to black, down to a strapless ball gown with an embroidered bodice and lace veil.</p><p>Jewelry, a new collaboration with Giovanni Raspini, cast Sardinian masks, geckos, and flowers in burnished bronze. Overall, Sardinia was simply there, as it often is in Marras’s work. “We are the stratification of an existence,” he said. “Phoenicians, Romans, Greeks, French, Spanish—everyone arrived in Sardinia and left traces. I put my hands into that endless reservoir. It’s a DNA made of small fragments, the way my fashion is made of small details you discover as you go.” Even the collection’s title hid another layer: “A Midsummer Midday Wedding” nodded to Shakespeare, whose midsummer comedy ends with the wedding of Theseus and Hippolyta, Ippolita in Italian, while Antiogu is the Sardinian form of Antioco.</p><p>For the finale, the models returned in pairs, each carrying their own chair—on a shoulder, upside down, or held flat—before taking a place at the table. Then Edward Watson, former Royal Ballet principal, climbed onto it and revisited the banquet-table dance from Miloš Forman’s Hair, trading its exuberance for “Dio, come ti amo,” sung by Paola Turci with Paolo Fresu. The newlyweds came last: the bride in ecru tulle and a veil, the groom in an embroidered short suit and white socks.</p></div>",
+ "cover": {
+  "id": "6ab3f32dc3da9e61c480dfc9",
+  "file": "00001-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab3f32dc3da9e61c480dfc9",
+     "file": "00001-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab3f32d165cd105d2a6a5e0",
+     "file": "00002-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab3f330ce4c8e686d6491e0",
+     "file": "00003-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab3f330183dc0e007957988",
+     "file": "00004-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab3f331fd79e4f77a8e8a24",
+     "file": "00005-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab3f33690cdea95c550fa65",
+     "file": "00006-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab3f336d5a7e278bc3a8b46",
+     "file": "00007-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab3f3372f624faf8dfeb5de",
+     "file": "00008-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab3f32db3f885941cf23839",
+     "file": "00009-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab3f33832bbecb4e09436c1",
+     "file": "00010-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab3f33aed95c15d9c51827f",
+     "file": "00011-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab3f33bde29258163c9bf2b",
+     "file": "00012-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab3f33bb3f885941cf23840",
+     "file": "00013-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab3f33c075a24caf7709822",
+     "file": "00014-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab3f33ecb7ec6d5f192e62e",
+     "file": "00015-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab3f33e629dd7e86da7da64",
+     "file": "00016-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab3f33fe37ba4d87131ff10",
+     "file": "00017-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab3f342d2ec4563ae4b6856",
+     "file": "00018-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab3f34375a8286d88b7aa48",
+     "file": "00019-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab3f342960621234e4f82c7",
+     "file": "00020-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab3f347922df252b2fcfd71",
+     "file": "00021-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab3f3472586e6b46d453288",
+     "file": "00022-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab3f347c85088c57cbd774c",
+     "file": "00023-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab3f34ecb55dc083d4afdb3",
+     "file": "00024-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab3f34ec85088c57cbd7759",
+     "file": "00025-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab3f34ec85088c57cbd7754",
+     "file": "00026-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab3f355cae34159d4a502f4",
+     "file": "00027-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab3f3546375a57126f6e4c5",
+     "file": "00028-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab3f3554f76e9791360487b",
+     "file": "00029-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab3f35d587f6e3c29fe2dc8",
+     "file": "00030-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab3f35c158dd3617186f1b0",
+     "file": "00031-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab3f35ded95c15d9c518286",
+     "file": "00032-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab3f366c3da9e61c480dfd4",
+     "file": "00033-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab3f366c3da9e61c480dfd6",
+     "file": "00034-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab3f365f389c056c32bb213",
+     "file": "00035-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab3f36b075a24caf770982c",
+     "file": "00036-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab3f36bd5a7e278bc3a8b50",
+     "file": "00037-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab3f36be61132e6cb2fdeb6",
+     "file": "00038-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab3f371922df252b2fcfd7b",
+     "file": "00039-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab3f372f389c056c32bb21a",
+     "file": "00040-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab3f3724b65c2e6d3acdd24",
+     "file": "00041-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab3f377922df252b2fcfd82",
+     "file": "00042-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab3f37837270f01060483b9",
+     "file": "00043-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab3f3789850b0d1a0871c94",
+     "file": "00044-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab3f380587f6e3c29fe2dcf",
+     "file": "00045-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab3f380158dd3617186f1ba",
+     "file": "00046-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab3f381ce4c8e686d6491e7",
+     "file": "00047-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab3f386ce4c8e686d6491ee",
+     "file": "00048-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab3f386690567190692719d",
+     "file": "00049-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab3f3872c272d27ff2ea4e8",
+     "file": "00050-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab3f38b78f12d8d6e3909a0",
+     "file": "00051-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab3f38b9a60f1c74661c6ed",
+     "file": "00052-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab3f38cd992ab7f0f226c4a",
+     "file": "00053-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab3f390d5a7e278bc3a8b60",
+     "file": "00054-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab3f390df91bde353709a45",
+     "file": "00055-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab3f391ddd57250e5eb44b4",
+     "file": "00056-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab3f39620d467e24d47d373",
+     "file": "00057-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab3f396c85088c57cbd7761",
+     "file": "00058-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab3f396c85088c57cbd7767",
+     "file": "00059-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab3f39bcb55dc083d4afdba",
+     "file": "00060-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab3f39cfd79e4f77a8e8a2b",
+     "file": "00061-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ab3f39cc1635249ff9664ed",
+     "file": "00062-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6ab3f39f37270f01060483c6",
+     "file": "00063-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:10:49"
+}

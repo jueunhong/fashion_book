@@ -1,0 +1,516 @@
+{
+ "key": "spring-2027-ready-to-wear__christophe-lemaire",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/christophe-lemaire",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "christophe-lemaire",
+ "brandName": "Lemaire",
+ "designers": "By Christophe Lemaire & Sarah-Linh Tran",
+ "eventDate": "",
+ "pubDate": "June 25, 2026",
+ "authors": [
+  "Amy Verner"
+ ],
+ "reviewHtml": "<div><p>Lemaire shows prove that it’s possible to conjure a palpable atmosphere sans spectacle, that a minimalist runway and a soundtrack composed of sounds as much as music can feel transporting. Around mid-way through the collection, an extract of rainfall played while giant fans sent a breeze through a soaring, concrete hall within the Opera Bastille. A male model instantly placed the hood from his windbreaker over his head, while another wearing a more precious outer layer sped up as though seeking shelter. Amidst an unprecedented Paris heatwave that is utterly inescapable, the subtle simulation of a quick downpour created even more appreciation for how Christophe Lemaire and Sarah-Linh Tran consider every element in service of their overall vision.</p><p>Initially, it seemed as though the collection was leaning towards looks in cotton voile and mesh that were super light, occasionally transparent, and loosely constructed in pale accords—a women’s blouse in lemon sorbet here, a double-layered men’s shirt in gradient beige and violet there. But then came ensembles in more substantial weights and deeper wood-like tones, such as an interesting leather-effect lacquered denim and a sculpted brown dress whose contours had the visual effect of wind passing through it.</p><p>Lemaire and Tran also experimented with a motif from the late artist Claudine Wick, who had contributed to the erotically-themed <em>Plexus</em> magazine in the late 1960s. Here, they mused that tracking down her family contributed its own layer to the outcome. “It’s eroticism, but in a dreamy way, and from a woman’s point of view, which is always interesting,” Lemaire explained. And to be clear, it was neither explicit nor gratuitous. In fact, Tran noted how they were seeking a sense of calm this season. “To take more time and be sensitive to things that don’t shout,” she said. “It’s about being a bit more present to things that you see and feel.”</p><p>Another recurring feature of Lemaire shows is how the casting reflects their attraction to “characters” who live in the clothes—and this latest selection of models appeared at once diverse and highly specific as they toted bags like real people in the street. Wherever they were heading, many offset their dressed-up looks with flip-flops, unambiguously signaling ease. As for the racer-back, coiled neckline dress in vermillion knit that came out early in the lineup only to return as the final look, it sent a hot charge through this latest exercise in sophisticated, straightforward cool.</p></div>",
+ "cover": {
+  "id": "6a3cd7e72f7d71f28b5aa8c1",
+  "file": "00001-lemaire-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6a3cd7e72f7d71f28b5aa8c1",
+     "file": "00001-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6a3cd7e6b40a45c312cad716",
+     "file": "00002-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6a3cd7e7e7349c94ffbe61f6",
+     "file": "00003-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6a3cd7ea67e25768bf4906c7",
+     "file": "00004-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6a3cd7eccf1779c1e5d558b5",
+     "file": "00005-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6a3cd7ebcf1779c1e5d558af",
+     "file": "00006-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6a3cd7edd4f75b1bdcba19d8",
+     "file": "00007-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6a3cd7f01e3a070a13527950",
+     "file": "00008-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6a3cd7f0224a1b3d1a613466",
+     "file": "00009-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6a3cd7f1d69100dab637f642",
+     "file": "00010-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6a3cd7f6636bc8fa745d4ff4",
+     "file": "00011-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6a3cd7f53fa645671e4dd1ea",
+     "file": "00012-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6a3cd7f5377daf788c93f8dc",
+     "file": "00013-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6a3cd7f9f3e7e6451dfacbf6",
+     "file": "00014-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6a3cd7f98236cf03d68a9607",
+     "file": "00015-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6a3cd7fbc166d6fb9f53cfa7",
+     "file": "00016-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6a3cd7fcd3ae4b0de636ec04",
+     "file": "00017-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6a3cd7fdd72c28258909278d",
+     "file": "00018-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6a3cd7fe6f89b55907072f0c",
+     "file": "00019-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6a3cd801a5e55f251b58a566",
+     "file": "00020-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6a3cd8013a2bde2c88e6c35d",
+     "file": "00021-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6a3cd8033fa645671e4dd1f3",
+     "file": "00022-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6a3cd8058236cf03d68a9615",
+     "file": "00023-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6a3cd805a6acdc71658e9d60",
+     "file": "00024-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6a3cd807b40a45c312cad71c",
+     "file": "00025-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6a3cd8091e3a070a1352795e",
+     "file": "00026-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6a3cd80af5759b66eaf2e869",
+     "file": "00027-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6a3cd80ae7349c94ffbe61fc",
+     "file": "00028-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6a3cd80d4786d6e0bbaaccb9",
+     "file": "00029-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6a3cd80e1e3a070a13527969",
+     "file": "00030-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6a3cd80e1af678fb9c86edb5",
+     "file": "00031-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6a3cd811d0a935866037c72a",
+     "file": "00032-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6a3cd813636bc8fa745d4fff",
+     "file": "00033-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6a3cd8123fa645671e4dd1f9",
+     "file": "00034-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6a3cd8146f89b55907072f12",
+     "file": "00035-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6a3cd8168a1499b9ed895eec",
+     "file": "00036-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6a3cd8176f89b55907072f18",
+     "file": "00037-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6a3cd8184a680d32c1714a62",
+     "file": "00038-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6a3cd81a4786d6e0bbaaccc8",
+     "file": "00039-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6a3cd81a35607c7c7a8bd589",
+     "file": "00040-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6a3cd81ca6acdc71658e9d69",
+     "file": "00041-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6a3cd81d8a1499b9ed895ef5",
+     "file": "00042-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6a3cd81e2f7d71f28b5aa8d9",
+     "file": "00043-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6a3cd820377daf788c93f8ea",
+     "file": "00044-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6a3cd821377daf788c93f8f0",
+     "file": "00045-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6a3cd855e55aa569bef94089",
+     "file": "00046-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6a3cd826a5e55f251b58a576",
+     "file": "00047-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6a3cd825fb20c669e9e4536d",
+     "file": "00048-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6a3cd826e9675e56c177bd3a",
+     "file": "00049-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6a3cd829183b3ef6fdb25e11",
+     "file": "00050-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6a3cd82be55aa569bef94083",
+     "file": "00051-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6a3cd82a3426df27bdb4086a",
+     "file": "00052-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6a3cd82d67e25768bf4906d0",
+     "file": "00053-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6a3cd82e44c3ebaf6f33ea20",
+     "file": "00054-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6a3cd82f8236cf03d68a962f",
+     "file": "00055-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6a3cd8312416cd028fe0d9c8",
+     "file": "00056-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6a3cd831f5759b66eaf2e874",
+     "file": "00057-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6a3cd8322416cd028fe0d9d3",
+     "file": "00058-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6a3cd8368a1499b9ed895f00",
+     "file": "00059-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6a3cd83619a4321626bcd452",
+     "file": "00060-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6a3cd8374b2060275198cc16",
+     "file": "00061-lemaire-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:16:50"
+}

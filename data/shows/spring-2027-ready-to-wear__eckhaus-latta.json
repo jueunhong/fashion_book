@@ -1,0 +1,1768 @@
+{
+ "key": "spring-2027-ready-to-wear__eckhaus-latta",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/eckhaus-latta",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "eckhaus-latta",
+ "brandName": "Eckhaus Latta",
+ "designers": "By Mike Eckhaus & Zoe Latta",
+ "eventDate": "2026-09-12T00:00:00.000Z",
+ "pubDate": "September 12, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>Manila envelopes printed with the words: “Do Not Open. Wait for Laughter” waited for guests at Eckhaus Latta. Everybody followed the instructions. Mike Eckhaus and Zoe Latta have built an audience that encompasses the cream of the establishment-critic crop to the coolest of downtown kids, and everybody played along. The mood was merry. It was Friday night and there was an after-party later to celebrate the duo’s new J.Crew collaboration.</p><p>But first, their new spring collection, which was a familiar, but increasingly refined mix of tees, knits, jeans. The pencil skirt that opened the show was shot through with metal threads for a perma-wrinkle look, and T-shirts were cut on the bias to enhance their natural drape. Sheerness was a recurring theme, whether the designers were layering stretch mesh in different pop colors for tanks and tube dresses, or cutting cloudlike, weightless shifts to slip on over opaque slips and separates. The effect wasn’t leering, as exposed skin can sometimes feel on the runways, but sexy in an off-hand, “I’m not trying hard” way.</p><p>It’s a quality Eckhaus and Latta are good at. Denim is a specialty, and the twisting seam, barrel shaped jeans that slung low from the hips looked as reliably cool as ever, but they also leaned into more formal tailoring. Elegance is a stuffy word to use here but it fits for men’s trousers cut with a sort of paperbag waist, a belt bisecting a half unzipped zipper. The guys got a black suit with a smart fit, too; next time it’d be nice to see the women’s equivalent.</p><p>Eventually, a tinkling of laughs on the soundtrack. The show wasn’t over; it was time for part two: the reveal of the duo’s see-now, buy-now J.Crew collection. The confetti inside the now-opened envelopes was for tossing at the models as they walked by. (A rollneck they did for the brand earlier this year sold out in three hours, which is cause for celebration by any measure.) These clothes had a younger, more straight-world vibe—preppy almost. That distinction seemed intentional. The Eckhaus Latta brand has been growing swiftly over the last several years, especially with the addition of a handbag offering, and the goal is to keep getting bigger. Or land a big creative director gig? “We’re not interested in remaining tiny or nice or specific to a small group of people,” Latta said. J.Crew was the beneficiary this season. As for next season? Industry execs, it’s your move.</p></div>",
+ "cover": {
+  "id": "6aa4bd301e552c9c6109bfd7",
+  "file": "00001-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa4bd301e552c9c6109bfd7",
+     "file": "00001-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa4bd309b0a728312eee5a3",
+     "file": "00002-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa4bd31e0820bb324a9058d",
+     "file": "00003-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa4bd331a7e8ad41083b426",
+     "file": "00004-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa4bd33373ec98caa9780d4",
+     "file": "00005-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa4bd334c6acbb5b9550355",
+     "file": "00006-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa4bd35c07485ee2a00ece3",
+     "file": "00007-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa4bd361e552c9c6109bfe4",
+     "file": "00008-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa4bd36f7c57b5f8f83feee",
+     "file": "00009-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa4bd389c7fdcf335a5ddef",
+     "file": "00010-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa4bd389b0a728312eee5aa",
+     "file": "00011-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa4bd38c07485ee2a00ecf0",
+     "file": "00012-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa4bd3a9a050e9dce5ab7b6",
+     "file": "00013-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa4bd3b373ec98caa9780e7",
+     "file": "00014-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa4bd3ba66aa4c2df08c978",
+     "file": "00015-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa4bd3c75b3267701e834c4",
+     "file": "00016-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa4bd3de4e766690f77f5ac",
+     "file": "00017-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa4bd3da7cedc9e222935f9",
+     "file": "00018-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa4bd3fb6bdd74488d321f7",
+     "file": "00019-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa4bd3fc3d42955bbcc337a",
+     "file": "00020-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa4bd405ae80cd1c546da5a",
+     "file": "00021-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa4bd41c07485ee2a00ecf7",
+     "file": "00022-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa4bd42a66aa4c2df08c97f",
+     "file": "00023-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa4bd42d4a0661153cfd43a",
+     "file": "00024-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa4bd44058ab3c425933b9b",
+     "file": "00025-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa4bd44a7cedc9e22293603",
+     "file": "00026-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa4bd4476576ed0552e0acf",
+     "file": "00027-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa4bd469c7fdcf335a5ddf6",
+     "file": "00028-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa4bd47e4e766690f77f5b3",
+     "file": "00029-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa4bd47373ec98caa9780f4",
+     "file": "00030-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa4bd489b0a728312eee5ba",
+     "file": "00031-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa4bd4a9b0a728312eee5c1",
+     "file": "00032-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa4bd4ac3b02680d15f952f",
+     "file": "00033-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa4bd4b67fe11be1afa991c",
+     "file": "00034-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa4bd4de0820bb324a905a9",
+     "file": "00035-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa4bd4da66aa4c2df08c98a",
+     "file": "00036-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa4bd4d058ab3c425933bae",
+     "file": "00037-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa4bd4f5ae80cd1c546da6a",
+     "file": "00038-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa4bd4f139ff545046e609d",
+     "file": "00039-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa4bd50e4e766690f77f5ba",
+     "file": "00040-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa4bd51a66aa4c2df08c99c",
+     "file": "00041-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa4bd52251b042262c63155",
+     "file": "00042-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa4bd52373ec98caa9780fe",
+     "file": "00043-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa4bd53a7cedc9e22293610",
+     "file": "00044-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa4bd5475b3267701e834d1",
+     "file": "00045-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa4bd54c3d42955bbcc338d",
+     "file": "00046-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa507f88c91e1e1e24c9e59",
+     "file": "00001-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa507f875b3267701e83a55",
+     "file": "00002-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa507f8058ab3c4259340ec",
+     "file": "00003-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa508019b0a728312eeec60",
+     "file": "00004-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa50801e4e766690f77fadb",
+     "file": "00005-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa508019c7fdcf335a5e2c4",
+     "file": "00006-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa5080a94d2267b967c1b04",
+     "file": "00007-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa5080994d2267b967c1b02",
+     "file": "00008-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa5080ae4e766690f77fae2",
+     "file": "00009-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa508122e4581f6984be97b",
+     "file": "00010-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa5081275b3267701e83a5c",
+     "file": "00011-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa50812d4a0661153cfd915",
+     "file": "00012-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa5081b076f22746d970bee",
+     "file": "00013-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa5081bc07485ee2a00f205",
+     "file": "00014-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa5081b7bfdb86b334d0aa3",
+     "file": "00015-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa5082276576ed0552e103b",
+     "file": "00016-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa508241cc5e31996bbb494",
+     "file": "00017-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa508248c91e1e1e24c9e60",
+     "file": "00018-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa5082a076f22746d970bf5",
+     "file": "00019-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa5082c4d6fce885ab47067",
+     "file": "00020-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa5082c9c7fdcf335a5e2cb",
+     "file": "00021-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa5083176576ed0552e1042",
+     "file": "00022-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa508359b0a728312eeec67",
+     "file": "00023-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa508344c6acbb5b9550a3f",
+     "file": "00024-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa50837e0820bb324a90a38",
+     "file": "00025-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa5083d076f22746d970bfc",
+     "file": "00026-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa5083df51d770fd94403c6",
+     "file": "00027-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa5083fe0820bb324a90a3f",
+     "file": "00028-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa5084c2e4581f6984be988",
+     "file": "00029-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa50846e0820bb324a90a46",
+     "file": "00030-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa508471a7e8ad41083b984",
+     "file": "00031-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa5084e67fe11be1afa9dfd",
+     "file": "00032-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa5084f9c7fdcf335a5e2d2",
+     "file": "00033-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa50854373ec98caa97868b",
+     "file": "00034-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa5085b9b0a728312eeec6e",
+     "file": "00035-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa508584d6fce885ab47074",
+     "file": "00036-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa5085c76576ed0552e1049",
+     "file": "00037-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa50865af993cbfb7f1fca6",
+     "file": "00038-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa50863c3d42955bbcc3974",
+     "file": "00039-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa50864d4a0661153cfd91c",
+     "file": "00040-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa50869af993cbfb7f1fcad",
+     "file": "00041-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa5086c2e4581f6984be99b",
+     "file": "00042-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa5086d4d6fce885ab4707b",
+     "file": "00043-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa50870076f22746d970c03",
+     "file": "00044-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa50874e4e766690f77faef",
+     "file": "00045-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa508745ae80cd1c546df8c",
+     "file": "00046-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa50878076f22746d970c0a",
+     "file": "00047-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa5087c5ae80cd1c546df93",
+     "file": "00048-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa5087caf993cbfb7f1fcba",
+     "file": "00049-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa5087f94d2267b967c1b15",
+     "file": "00050-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa50884d4a0661153cfd923",
+     "file": "00051-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa508845ae80cd1c546df9a",
+     "file": "00052-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa508874c6acbb5b9550a4c",
+     "file": "00053-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa5088de0820bb324a90a59",
+     "file": "00054-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa5088d72e9829129344cfa",
+     "file": "00055-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa5088f76576ed0552e1062",
+     "file": "00056-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa5089967fe11be1afa9e0a",
+     "file": "00057-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa5089694d2267b967c1b22",
+     "file": "00058-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa508978c91e1e1e24c9e6d",
+     "file": "00059-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa508a3a7cedc9e22293a7e",
+     "file": "00060-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa508a076576ed0552e1069",
+     "file": "00061-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa508a1e4e766690f77faf6",
+     "file": "00062-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa508a81553ea21ca3be3fa",
+     "file": "00063-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa508a98bdc0ffc49ec7bcc",
+     "file": "00064-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa508ab4d6fce885ab4708e",
+     "file": "00065-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa508b09b0a728312eeec7b",
+     "file": "00066-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa508b167fe11be1afa9e11",
+     "file": "00067-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6aa508b375b3267701e83a63",
+     "file": "00068-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6aa508b8058ab3c42593410b",
+     "file": "00069-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6aa508b94d6fce885ab47095",
+     "file": "00070-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6aa508bb4c6acbb5b9550a59",
+     "file": "00071-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6aa508bf076f22746d970c17",
+     "file": "00072-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6aa508c24c6acbb5b9550a60",
+     "file": "00073-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6aa508c3a66aa4c2df08cf0b",
+     "file": "00074-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6aa508c79c7fdcf335a5e2df",
+     "file": "00075-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6aa508c994d2267b967c1b29",
+     "file": "00076-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6aa508cb373ec98caa978698",
+     "file": "00077-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6aa508d0076f22746d970c1e",
+     "file": "00078-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6aa508d194d2267b967c1b30",
+     "file": "00079-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6aa508d34d6fce885ab4709c",
+     "file": "00080-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6aa508d77bfdb86b334d0ab6",
+     "file": "00081-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6aa508d876576ed0552e1076",
+     "file": "00082-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6aa508e194d2267b967c1b37",
+     "file": "00083-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6aa508e0058ab3c425934124",
+     "file": "00084-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6aa508e19b0a728312eeec82",
+     "file": "00085-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6aa508e7a7cedc9e22293a85",
+     "file": "00086-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6aa508e91cc5e31996bbb4b3",
+     "file": "00087-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6aa508e98bdc0ffc49ec7bd3",
+     "file": "00088-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6aa508ed4c6acbb5b9550a67",
+     "file": "00089-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6aa508f1af993cbfb7f1fcdf",
+     "file": "00090-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6aa508f1d4a0661153cfd936",
+     "file": "00091-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6aa508f5076f22746d970c31",
+     "file": "00092-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6aa508f8e0820bb324a90a60",
+     "file": "00093-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6aa508f91a7e8ad41083b991",
+     "file": "00094-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6aa508fd1a7e8ad41083b998",
+     "file": "00095-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6aa509018bdc0ffc49ec7bda",
+     "file": "00096-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6aa50901373ec98caa97869f",
+     "file": "00097-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6aa50904a7cedc9e22293a92",
+     "file": "00098-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6aa5090a75b3267701e83a6a",
+     "file": "00099-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6aa5090a1553ea21ca3be40d",
+     "file": "00100-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6aa5090b1cc5e31996bbb4ba",
+     "file": "00101-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6aa50911373ec98caa9786a6",
+     "file": "00102-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6aa509129c7fdcf335a5e2e6",
+     "file": "00103-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6aa509128bdc0ffc49ec7be1",
+     "file": "00104-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6aa509138c91e1e1e24c9e86",
+     "file": "00105-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6aa50914e4e766690f77fb03",
+     "file": "00106-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6aa509149c7fdcf335a5e2ed",
+     "file": "00107-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6aa50915d4a0661153cfd93d",
+     "file": "00108-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6aa50916c3d42955bbcc3987",
+     "file": "00109-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6aa5091694d2267b967c1b44",
+     "file": "00110-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6aa50917a66aa4c2df08cf30",
+     "file": "00111-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6aa509184c6acbb5b9550a73",
+     "file": "00112-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6aa5091875b3267701e83a71",
+     "file": "00113-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6aa509198c91e1e1e24c9e93",
+     "file": "00114-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6aa50919076f22746d970c3e",
+     "file": "00115-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6aa5091a8bdc0ffc49ec7be8",
+     "file": "00116-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6aa5091b4d6fce885ab470af",
+     "file": "00117-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6aa5091b058ab3c42593412b",
+     "file": "00118-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6aa5091c9b0a728312eeec8f",
+     "file": "00119-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6aa5091d75b3267701e83a78",
+     "file": "00120-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6aa5091dc07485ee2a00f22a",
+     "file": "00121-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6aa5091e4c6acbb5b9550a7b",
+     "file": "00122-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6aa5091f076f22746d970c4b",
+     "file": "00123-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6aa5091fc07485ee2a00f231",
+     "file": "00124-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6aa50920076f22746d970c52",
+     "file": "00125-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6aa50921a66aa4c2df08cf37",
+     "file": "00126-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6aa509218bdc0ffc49ec7bef",
+     "file": "00127-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6aa50922076f22746d970c59",
+     "file": "00128-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6aa5092276576ed0552e1095",
+     "file": "00129-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6aa50923076f22746d970c60",
+     "file": "00130-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6aa5092372e9829129344d12",
+     "file": "00131-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6aa50924076f22746d970c67",
+     "file": "00132-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6aa50925c3d42955bbcc399a",
+     "file": "00133-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6aa50926a66aa4c2df08cf3e",
+     "file": "00134-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6aa50926373ec98caa9786b3",
+     "file": "00135-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6aa5092776576ed0552e109c",
+     "file": "00136-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6aa50928c3d42955bbcc39a1",
+     "file": "00137-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6aa50928e4e766690f77fb10",
+     "file": "00138-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6aa509295ae80cd1c546dfad",
+     "file": "00139-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6aa5092a39653c76a6dbe350",
+     "file": "00140-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6aa5092ae4e766690f77fb17",
+     "file": "00141-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6aa5092bc3d42955bbcc39a8",
+     "file": "00142-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6aa5092cc07485ee2a00f238",
+     "file": "00143-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6aa5092cc07485ee2a00f23f",
+     "file": "00144-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6aa5092d9c7fdcf335a5e300",
+     "file": "00145-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6aa5092d1cc5e31996bbb4c7",
+     "file": "00146-eckhaus-latta-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6aa4c1252e4581f6984be41c",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6aa4c125c3b02680d15f9542",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6aa4c1252e4581f6984be41e",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6aa4c12905485defc132faec",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6aa4c12a058ab3c425933bc3",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6aa4c12a5ae80cd1c546da84",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6aa4c12e2e4581f6984be435",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6aa4c13067fe11be1afa992c",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6aa4c12fd4a0661153cfd44b",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6aa4c131e4e766690f77f5d3",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6aa4c134f51d770fd943fe32",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6aa4c13576576ed0552e0ae5",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6aa4c1362e4581f6984be442",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6aa4c13876576ed0552e0aec",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6aa4c139f7c57b5f8f83ff0e",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6aa4c13bb6bdd74488d32253",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6aa4c13cd4a0661153cfd452",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6aa4c13d1a7e8ad41083b48a",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6aa4c140be989299f899b9de",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6aa4c14072e9829129344821",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6aa4c14167fe11be1afa9933",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6aa4c1445ae80cd1c546da8b",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6aa4c146e4e766690f77f5da",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6aa4c1452e4581f6984be44f",
+     "file": "Eckhauslatta_NYFW_SS27_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 683
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:35"
+}

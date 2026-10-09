@@ -1,0 +1,2178 @@
+{
+ "key": "spring-2027-ready-to-wear__fendi",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/fendi",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "fendi",
+ "brandName": "Fendi",
+ "designers": "By Maria Grazia Chiuri",
+ "eventDate": "2026-09-23T12:00:00.000Z",
+ "pubDate": "September 23, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>In 1972 the Milanese musician Adriano Celentano conducted an experiment: He released a song without meaning, its lyrics written entirely in gibberish meant to sound like English, to see if it could still move an audience. At first the song bombed. But two nationally televised performances featuring group choreography and Celentano’s own distinctive dancing—his nickname was <em>Il Molleggiato</em>, or “The Bouncy”—saw it rise high in the charts, first in Italy and then in multiple countries across Europe. Today that song, “Prisencolinensinainciusol,” remains famous and feels modern: in fact, last night it featured in Vogue World Milan.</p><p>One of those two TV performances featured another Italian pop progressive, Raffaella Carrà, whose immortal Italo-disco banger “Rumore” was mixed into the “Prisencolinensinainciusol”-dominated soundtrack at Maria Grazia Chiuri’s Fendi show today. You could see Celentano’s experimental approach in 1972 as a mirror of Chiuri’s in 2026. Speaking at a preview, she said: “Fashion is part of our language.… Clothes give another sense to the body.” She added: “Fashion is that. What do you like? What is your memory? Putting this together is like being a DJ. I think it is impossible to concentrate on only one aspect.”</p><p>The Fendi runway contained a mirrored box inspired by the artist Luciano Fabro’s “Cubo di specchi,” around which we sat. As the models passed within the box, we could sort of see them, fairground-style, in repeated, diffused reflection. The space was designed to put the audience into our own sight lines as we tried to look at the collection, transforming the mirror from an instrument of self-reflection into one through which we encountered others. I looked rough, as usual by this point in the season, and even more so in comparison with the soignée <em>Vogue</em> colleagues alongside me.</p><p>Chiuri’s experiment, a bit like Celentano’s, ultimately led to an unintended outcome that could be counted as successful. Her process did not necessarily leave you questioning the conventional language of clothes in relation to the body—which I think was the point—but it did leave you squinting in special concentration in order to make out her garments. I didn’t want to cheat that process by looking at these unobscured runway photos before reporting my impressions, but the collection seemed to be a marked evolution of Chiuri’s silhouette-driven and purposefully focused first few Fendi forays.</p><p>There was a touch more color, and a dose of almost glam-rock hard-edged decadence: long black dresses with grommet-punched cutaways at the back; dresses fringed in beads and fur; an Afghan-style coat-dress parqueted in geometric Fendi patterns, possibly in-house brown astrakhan; and another in black with gold frogging. There were also silk romper shorts edged with lace under bralettes and fur; a menswear jacket in roughly cut pelts; and striped shirting that opened in a low tousle at the chest and seemed a Celentano reference. There was leopard. Chiuri mentioned that the collection also contained a new version of the baguette resized to hold only a phone, but I missed this, and probably many other things besides, on her runway. This was a collection to re-see.</p><p>Lining up to leave, I heard several people enjoying the fact that this show’s setup allowed them to include their own image in their footage of the runway. It also forced you to look at clothes a little differently, and see if they still moved you.</p></div>",
+ "cover": {
+  "id": "6ab3e985d2ec4563ae4b680f",
+  "file": "00001-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab3e985d2ec4563ae4b680f",
+     "file": "00001-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab3e985629dd7e86da7da2b",
+     "file": "00002-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab3e985739fb9f3cbe4e4d3",
+     "file": "00003-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab3e9873a0ce3dfa40ec51e",
+     "file": "00004-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab3e98878f12d8d6e3908b5",
+     "file": "00005-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab3e988012f42ecefd7e652",
+     "file": "00006-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab3e989addc67abd613ecba",
+     "file": "00007-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab3e98ac1635249ff966466",
+     "file": "00008-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab3e98a922df252b2fcfa01",
+     "file": "00009-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab3e98b165cd105d2a6a592",
+     "file": "00010-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab3e98c2a54eecdc3df503d",
+     "file": "00011-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab3e98c183dc0e007957959",
+     "file": "00012-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab3e98e6905671906927139",
+     "file": "00013-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab3e98eae5a9336d99742b2",
+     "file": "00014-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab3e98e183dc0e007957960",
+     "file": "00015-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab3e9909a60f1c74661c6b5",
+     "file": "00016-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab3e9906905671906927140",
+     "file": "00017-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab3e990f389c056c32bb193",
+     "file": "00018-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab3e99290cdea95c550fa34",
+     "file": "00019-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab3e992c1635249ff96646d",
+     "file": "00020-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab3e99214ccbd52b9827ae2",
+     "file": "00021-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab3e994de29258163c9beca",
+     "file": "00022-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab3e994158dd3617186ec55",
+     "file": "00023-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab3e994a08edad548cb055e",
+     "file": "00024-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab3e9962baadf60c10b9667",
+     "file": "00025-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab3e996b9c77cc985f7cba8",
+     "file": "00026-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab3e9969c006cc96f0268ff",
+     "file": "00027-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab3e998587f6e3c29fe2c4e",
+     "file": "00028-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab3e998b9c77cc985f7cbaf",
+     "file": "00029-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab3e9992586e6b46d452d5b",
+     "file": "00030-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab3e99ab928a1250c97b087",
+     "file": "00031-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab3e99af41ca128cf501d1d",
+     "file": "00032-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab3e99b78f12d8d6e3908bc",
+     "file": "00033-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab3e99ca8cecdcf4ced780c",
+     "file": "00034-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab3e99cca53e295a6f33d37",
+     "file": "00035-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab3e99daa3666e810e23d28",
+     "file": "00036-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab3e99e03ab96cc1a7677dd",
+     "file": "00037-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab3e99e9c006cc96f026906",
+     "file": "00038-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab3e99f9850b0d1a0871ad5",
+     "file": "00039-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab3e9a05a9ef0a2d1f675a6",
+     "file": "00040-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab3e9a0587f6e3c29fe2c55",
+     "file": "00041-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab3e9a1cb55dc083d4afd8f",
+     "file": "00042-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab3e9a262afe80493d24d23",
+     "file": "00043-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab3e9a2960621234e4f81b2",
+     "file": "00044-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab3e9a3ce4c8e686d64917e",
+     "file": "00045-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab3e9a5834c79e817fda10a",
+     "file": "00046-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab3e9a575a8286d88b7a89c",
+     "file": "00047-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab3e9a5d2ec4563ae4b681c",
+     "file": "00048-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab3e9a778f12d8d6e3908c9",
+     "file": "00049-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab3e9a7fd79e4f77a8e8a0b",
+     "file": "00050-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab3e9a7e1dd8e43704d38de",
+     "file": "00051-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab3e9a93832bec213a0138c",
+     "file": "00052-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab3e9a9c85088c57cbd71f7",
+     "file": "00053-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab3e9a9df91bde35370990c",
+     "file": "00054-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab3e9ab68afeb135b1743a6",
+     "file": "00055-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab3e9abaa9c3b45d7862d74",
+     "file": "00056-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab3e9ab2f10edbf4f4b2ccf",
+     "file": "00057-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab3e9ae4ed5add777796233",
+     "file": "00058-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab3e9ae4ed5add777796235",
+     "file": "00059-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab3e9add5a7e278bc3a8b1b",
+     "file": "00060-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab3e9af1da74c6253ecc5ea",
+     "file": "00061-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ab3e9b02ab1a5522d6dc793",
+     "file": "00062-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6ab3e9b1587f6e3c29fe2c5c",
+     "file": "00063-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6ab3e9b1aa3666e810e23d35",
+     "file": "00064-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Look 65",
+     "id": "6ab3e9b2b6e2c67246a15d9c",
+     "file": "00065-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Look 66",
+     "id": "6ab3e9b2c383023125f59b7a",
+     "file": "00066-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Look 67",
+     "id": "6ab3e9b4b341ebae22bf0b86",
+     "file": "00067-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Look 68",
+     "id": "6ab3e9b4c383023125f59b81",
+     "file": "00068-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Look 69",
+     "id": "6ab3e9b5c383023125f59b88",
+     "file": "00069-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Look 70",
+     "id": "6ab3e9b64ed5add777796240",
+     "file": "00070-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Look 71",
+     "id": "6ab3e9b6ca53e295a6f33d3e",
+     "file": "00071-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ab3f9c375798d6d49647d52",
+     "file": "00001-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ab3f9c3b6e2c67246a1609c",
+     "file": "00002-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ab3f9c3c1635249ff9665fb",
+     "file": "00003-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ab3f9c866edf621bf8d508a",
+     "file": "00004-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ab3f9c84f76e979136048aa",
+     "file": "00005-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ab3f9c890cdea95c550fabd",
+     "file": "00006-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ab3f9cc14ccbd52b9827b43",
+     "file": "00007-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ab3f9ccc5e98824fcb6452f",
+     "file": "00008-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ab3f9cdce4c8e686d64931b",
+     "file": "00009-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ab3f9d15a9ef0a2d1f67720",
+     "file": "00010-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ab3f9d1502a1983d07e0751",
+     "file": "00011-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ab3f9d1502a1983d07e0753",
+     "file": "00012-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ab3f9d6e1dd8e43704d39d7",
+     "file": "00013-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ab3f9d65b1cd174f1729291",
+     "file": "00014-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ab3f9db32bbecb4e09436f5",
+     "file": "00016-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ab3f9d62a54eecdc3df526f",
+     "file": "00015-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ab3f9da158dd3617186f2b1",
+     "file": "00017-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ab3f9db5b1cd174f1729298",
+     "file": "00018-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ab3f9de960621234e4f8318",
+     "file": "00019-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ab3f9dfc85088c57cbd77a6",
+     "file": "00020-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ab3f9dfcdca9880a4d5bc1f",
+     "file": "00021-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ab3f9e02ab1a5522d6dcd11",
+     "file": "00022-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ab3f9e328dc51eb5f78f8e7",
+     "file": "00023-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ab3f9e33832bec213a01450",
+     "file": "00024-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ab3f9e45b1cd174f172929f",
+     "file": "00025-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ab3f9e7c85088c57cbd77ad",
+     "file": "00026-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ab3f9e769056719069271cd",
+     "file": "00027-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ab3f9e8d992ab7f0f226e67",
+     "file": "00028-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ab3f9eb41ac68e233972eeb",
+     "file": "00029-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ab3f9ec41ac68e233972ef2",
+     "file": "00030-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ab3f9ecb928a1250c97b2bf",
+     "file": "00031-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ab3f9ee5a9ef0a2d1f67727",
+     "file": "00032-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ab3f9f02586e6b46d4532b9",
+     "file": "00033-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ab3f9f1cae34159d4a50336",
+     "file": "00035-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ab3f9f0fd79e4f77a8e8a7c",
+     "file": "00034-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ab3f9f3ca53e295a6f33f04",
+     "file": "00036-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ab3f9f437270f01060483f3",
+     "file": "00037-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ab3f9f456219c94dbbdd915",
+     "file": "00038-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ab3f9f8c262729c61b5a249",
+     "file": "00040-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ab3f9f6b928a1250c97b2c6",
+     "file": "00039-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ab3f9f922b59d6e8df2a2f9",
+     "file": "00041-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ab3f9fa69056719069271d4",
+     "file": "00042-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ab3f9fcdbce94314f955359",
+     "file": "00043-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ab3f9fcddd57250e5eb4596",
+     "file": "00044-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ab3f9fd1da74c6253ecc7d1",
+     "file": "00045-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ab3f9ffddd57250e5eb459d",
+     "file": "00046-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ab3fa01e9158f3b75d060dc",
+     "file": "00048-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ab3fa0162afe80493d24d9e",
+     "file": "00047-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ab3fa0237270f01060483fa",
+     "file": "00049-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ab3fa06587f6e3c29fe2e0a",
+     "file": "00051-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ab3fa053485b178b73d34d7",
+     "file": "00050-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ab3fa06d992ab7f0f226e74",
+     "file": "00052-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ab3fa08587f6e3c29fe2e11",
+     "file": "00053-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ab3fa0aaddc67abd613edfd",
+     "file": "00055-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ab3fa0b075a24caf770986d",
+     "file": "00056-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ab3fa0a68afeb135b174eb7",
+     "file": "00054-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ab3fa0db3f885941cf23aae",
+     "file": "00057-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ab3fa0e1da74c6253ecc7de",
+     "file": "00058-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ab3fa112baadf60c10b96d8",
+     "file": "00060-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ab3fa0fd992ab7f0f226e80",
+     "file": "00059-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ab3fa12b9c77cc985f7cd0d",
+     "file": "00061-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ab3fa13c262729c61b5a255",
+     "file": "00062-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ab3fa14165cd105d2a6a6ed",
+     "file": "00063-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ab3fa16ae5a9336d99744a7",
+     "file": "00064-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ab3fa17b341ebae22bf0c0e",
+     "file": "00066-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ab3fa1bb928a1250c97b2cd",
+     "file": "00067-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ab3fa1600016084df773673",
+     "file": "00065-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ab3fa1bdbce94314f955366",
+     "file": "00068-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ab3fa1bce4c8e686d649334",
+     "file": "00069-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ab3fa20addc67abd613ee04",
+     "file": "00070-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ab3fa206375a57126f6e5e4",
+     "file": "00071-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ab3fa20d2ec4563ae4b6987",
+     "file": "00072-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ab3fa25e374beeeafec7032",
+     "file": "00073-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ab3fa252f624faf8dfeb63b",
+     "file": "00074-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ab3fa259850b0d1a0871cf3",
+     "file": "00075-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ab3fa29b6e2c67246a160b9",
+     "file": "00076-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ab3fa2a1da74c6253ecc7ea",
+     "file": "00077-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ab3fa2a2ab1a5522d6dcd18",
+     "file": "00078-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ab3fa2cb341ebae22bf0c1a",
+     "file": "00079-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ab3fa2e90cdea95c550fac4",
+     "file": "00080-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6ab3fa2e6375a57126f6e5eb",
+     "file": "00081-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6ab3fa2f4b65c2e6d3acdd76",
+     "file": "00082-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6ab3fa3175a8286d88b7aaaf",
+     "file": "00083-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6ab3fa32c5e98824fcb64545",
+     "file": "00084-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6ab3fa3562afe80493d24db1",
+     "file": "00085-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6ab3fa34075a24caf7709877",
+     "file": "00086-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6ab3fa3688411e832eca32ed",
+     "file": "00087-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6ab3fa3888411e832eca32f4",
+     "file": "00088-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6ab3fa39d2ec4563ae4b6997",
+     "file": "00089-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6ab3fa39cae34159d4a50349",
+     "file": "00090-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6ab3fa3baa9c3b45d7862e3a",
+     "file": "00091-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6ab3fa3dcb55dc083d4afebc",
+     "file": "00092-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6ab3fa3d4b65c2e6d3acdd7d",
+     "file": "00093-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6ab3fa3e7e0434cedbdead0d",
+     "file": "00094-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6ab3fa41d992ab7f0f226fc7",
+     "file": "00095-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6ab3fa42addc67abd613ee11",
+     "file": "00096-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6ab3fa42960621234e4f8328",
+     "file": "00097-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6ab3fa462ab1a5522d6dcd1f",
+     "file": "00098-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6ab3fa46739fb9f3cbe4e582",
+     "file": "00099-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6ab3fa469850b0d1a0871cfa",
+     "file": "00100-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6ab3fa49960621234e4f832f",
+     "file": "00101-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6ab3fa4b62afe80493d24db8",
+     "file": "00102-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6ab3fa4b22b59d6e8df2a30c",
+     "file": "00103-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6ab3fa4cce4c8e686d649347",
+     "file": "00104-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6ab3fa4ee37ba4d87131ff49",
+     "file": "00105-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6ab3fa4f00016084df77367f",
+     "file": "00106-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6ab3fa4f03ab96cc1a76782c",
+     "file": "00107-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6ab3fa529850b0d1a0871d01",
+     "file": "00108-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6ab3fa532586e6b46d4532c6",
+     "file": "00109-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6ab3fa53c85088c57cbd77c2",
+     "file": "00110-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6ab3fa54ddd57250e5eb45ae",
+     "file": "00111-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6ab3fa56e1dd8e43704d39ee",
+     "file": "00112-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6ab3fa5790cdea95c550fad0",
+     "file": "00113-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6ab3fa58f41ca128cf501f3a",
+     "file": "00114-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6ab3fa5a2c272d27ff2ea50d",
+     "file": "00115-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6ab3fa5bfd79e4f77a8e8a8e",
+     "file": "00116-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6ab3fa5d2baadf60c10b96f0",
+     "file": "00117-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6ab3fa5ed5a7e278bc3a8c70",
+     "file": "00118-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6ab3fa5ff41ca128cf501f41",
+     "file": "00119-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6ab3fa6066edf621bf8d50a5",
+     "file": "00120-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6ab3fa623a0ce3dfa40ec699",
+     "file": "00121-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6ab3fa632ab1a5522d6dcd26",
+     "file": "00122-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6ab3fa64165cd105d2a6a708",
+     "file": "00123-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6ab3fa654b65c2e6d3acdd84",
+     "file": "00124-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6ab3fa6737270f0106048401",
+     "file": "00125-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6ab3fa68183dc0e0079579e6",
+     "file": "00126-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6ab3fa68cfb5c490f4c1e549",
+     "file": "00127-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6ab3fa6b00016084df773686",
+     "file": "00128-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6ab3fa6cc3da9e61c480e0ad",
+     "file": "00129-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6ab3fa6d2f624faf8dfeb648",
+     "file": "00131-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6ab3fa6c75798d6d49647d6b",
+     "file": "00130-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6ab3fa70012f42ecefd7e750",
+     "file": "00132-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6ab3fa71b928a1250c97b2da",
+     "file": "00133-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6ab3fa71a8cecdcf4ced7882",
+     "file": "00134-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6ab3fa74922df252b2fcfdc2",
+     "file": "00135-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6ab3fa757226303ca1538139",
+     "file": "00136-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6ab3fa75922df252b2fcfdc9",
+     "file": "00137-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6ab3fa77e1dd8e43704d39fb",
+     "file": "00138-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6ab3fa79e1dd8e43704d3a08",
+     "file": "00140-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6ab3fa79cfb5c490f4c1e550",
+     "file": "00139-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6ab3fa7aaa9c3b45d7862e4d",
+     "file": "00141-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6ab3fa7de9158f3b75d060f5",
+     "file": "00142-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6ab3fa7ecdca9880a4d5bc4f",
+     "file": "00143-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6ab3fa7eb9c77cc985f7cd2b",
+     "file": "00144-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6ab3fa813a0ce3dfa40ec6a0",
+     "file": "00145-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6ab3fa82e1dd8e43704d3a1b",
+     "file": "00146-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Detail Look 147",
+     "id": "6ab3fa8275a8286d88b7aabc",
+     "file": "00147-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Detail Look 148",
+     "id": "6ab3fa86ed95c15d9c5182d3",
+     "file": "00149-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Detail Look 149",
+     "id": "6ab3fa85183dc0e0079579ed",
+     "file": "00148-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Detail Look 150",
+     "id": "6ab3fa8622b59d6e8df2a319",
+     "file": "00150-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Detail Look 151",
+     "id": "6ab3fa872ab1a5522d6dcd2d",
+     "file": "00151-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Detail Look 152",
+     "id": "6ab3fa8a69056719069271f8",
+     "file": "00152-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Detail Look 153",
+     "id": "6ab3fa8a502a1983d07e0764",
+     "file": "00153-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Detail Look 154",
+     "id": "6ab3fa8bb9c77cc985f7cd32",
+     "file": "00154-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Detail Look 155",
+     "id": "6ab3fa8d9a60f1c74661c747",
+     "file": "00155-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Detail Look 156",
+     "id": "6ab3fa8e834c79e817fda31a",
+     "file": "00156-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Detail Look 157",
+     "id": "6ab3fa8f66edf621bf8d50ac",
+     "file": "00157-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 158,
+     "caption": "Detail Look 158",
+     "id": "6ab3fa902f624faf8dfeb661",
+     "file": "00158-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 159,
+     "caption": "Detail Look 159",
+     "id": "6ab3fa92c3da9e61c480e0ba",
+     "file": "00159-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 160,
+     "caption": "Detail Look 160",
+     "id": "6ab3fa937e0434cedbdead14",
+     "file": "00160-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 161,
+     "caption": "Detail Look 161",
+     "id": "6ab3fa94a8cecdcf4ced7897",
+     "file": "00161-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 162,
+     "caption": "Detail Look 162",
+     "id": "6ab3fa97cdca9880a4d5bc56",
+     "file": "00163-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 163,
+     "caption": "Detail Look 163",
+     "id": "6ab3fa954ed5add77779639f",
+     "file": "00162-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 164,
+     "caption": "Detail Look 164",
+     "id": "6ab3fa97c85088c57cbd77c9",
+     "file": "00164-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 165,
+     "caption": "Detail Look 165",
+     "id": "6ab3fa9a2ab1a5522d6dcd39",
+     "file": "00165-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 166,
+     "caption": "Detail Look 166",
+     "id": "6ab3fa9b2baadf60c10b9709",
+     "file": "00166-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 167,
+     "caption": "Detail Look 167",
+     "id": "6ab3fa9b7226303ca153814c",
+     "file": "00167-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 168,
+     "caption": "Detail Look 168",
+     "id": "6ab3fa9d9c006cc96f026adc",
+     "file": "00168-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 169,
+     "caption": "Detail Look 169",
+     "id": "6ab3fa9f012f42ecefd7e763",
+     "file": "00169-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 170,
+     "caption": "Detail Look 170",
+     "id": "6ab3fa9fae5a9336d99744ba",
+     "file": "00170-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 171,
+     "caption": "Detail Look 171",
+     "id": "6ab3faa0ae5a9336d99744c1",
+     "file": "00171-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 172,
+     "caption": "Detail Look 172",
+     "id": "6ab3faa35a9ef0a2d1f67740",
+     "file": "00172-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 173,
+     "caption": "Detail Look 173",
+     "id": "6ab3faa4ddd57250e5eb45bb",
+     "file": "00173-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 174,
+     "caption": "Detail Look 174",
+     "id": "6ab3faa4d2ec4563ae4b69b6",
+     "file": "00174-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 175,
+     "caption": "Detail Look 175",
+     "id": "6ab3faa600016084df77368d",
+     "file": "00175-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 176,
+     "caption": "Detail Look 176",
+     "id": "6ab3faa7cb7ec6d5f192e689",
+     "file": "00176-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 177,
+     "caption": "Detail Look 177",
+     "id": "6ab3faa9b6e2c67246a1610c",
+     "file": "00177-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 178,
+     "caption": "Detail Look 178",
+     "id": "6ab3faa92f624faf8dfeb668",
+     "file": "00178-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 179,
+     "caption": "Detail Look 179",
+     "id": "6ab3faaac3da9e61c480e0c1",
+     "file": "00179-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 180,
+     "caption": "Detail Look 180",
+     "id": "6ab3faadcfb5c490f4c1e56f",
+     "file": "00180-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 181,
+     "caption": "Detail Look 181",
+     "id": "6ab3faad75a8286d88b7aac9",
+     "file": "00181-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 182,
+     "caption": "Detail Look 182",
+     "id": "6ab3faaeb9c77cc985f7cd39",
+     "file": "00182-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 183,
+     "caption": "Detail Look 183",
+     "id": "6ab3fab13832bec213a01556",
+     "file": "00183-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 184,
+     "caption": "Detail Look 184",
+     "id": "6ab3fab1c3da9e61c480e0c8",
+     "file": "00184-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 185,
+     "caption": "Detail Look 185",
+     "id": "6ab3fab1d992ab7f0f226fd4",
+     "file": "00185-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 186,
+     "caption": "Detail Look 186",
+     "id": "6ab3fab5de29258163c9c1d6",
+     "file": "00186-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 187,
+     "caption": "Detail Look 187",
+     "id": "6ab3fab6b6e2c67246a16113",
+     "file": "00187-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 188,
+     "caption": "Detail Look 188",
+     "id": "6ab3fab6b9c77cc985f7cd46",
+     "file": "00188-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 189,
+     "caption": "Detail Look 189",
+     "id": "6ab3fab82baadf60c10b9710",
+     "file": "00189-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 190,
+     "caption": "Detail Look 190",
+     "id": "6ab3faba2ab1a5522d6dcd40",
+     "file": "00190-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 191,
+     "caption": "Detail Look 191",
+     "id": "6ab3faba88411e832eca330c",
+     "file": "00191-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 192,
+     "caption": "Detail Look 192",
+     "id": "6ab3fabbdbce94314f955376",
+     "file": "00192-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 193,
+     "caption": "Detail Look 193",
+     "id": "6ab3fabe28dc51eb5f78f90a",
+     "file": "00193-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 194,
+     "caption": "Detail Look 194",
+     "id": "6ab3fabf5a9ef0a2d1f67747",
+     "file": "00194-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 195,
+     "caption": "Detail Look 195",
+     "id": "6ab3fabfae5a9336d99744e6",
+     "file": "00195-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 196,
+     "caption": "Detail Look 196",
+     "id": "6ab3fac2addc67abd613ee29",
+     "file": "00196-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 197,
+     "caption": "Detail Look 197",
+     "id": "6ab3fac203ab96cc1a767849",
+     "file": "00197-fendi-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:20"
+}

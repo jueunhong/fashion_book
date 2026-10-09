@@ -1,0 +1,356 @@
+{
+ "key": "spring-2027-ready-to-wear__blumarine",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/blumarine",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "blumarine",
+ "brandName": "Blumarine",
+ "designers": "By David Koma",
+ "eventDate": "2026-09-25T10:30:00.000Z",
+ "pubDate": "September 25, 2026",
+ "authors": [
+  "Tiziana Cardini"
+ ],
+ "reviewHtml": "<div><p>David Koma has kept the Blumarine girl in the grip of dark romanticism so far. Apparently she needed a holiday. So this time he sent her to California.</p><p>The journey began with a research trip to Los Angeles, a place Koma says he visits at least once a year to reset his brain. There, the Blumarine girl was imagined stepping out of the shadows and into the Californian sun: less gothic heroine, more ingenue, more beach-to-boudoir fantasy. Koma’s own description was straightforward: She goes to California, dates a surfer, and has a good time.</p><p>The approach was deliberately lightweight but not exactly a departure. By his own admission, Koma remains a control freak, and he built the collection around the friction between his instinct for precision and the looseness of the fantasy. Beachwear morphed into eveningwear; eveningwear was made to look cheekily undone. Somewhere between the two, innocence got a little lost. Tulle, transparency, and lingerie-minded silhouettes supplied the boudoir, while surf references supplied the beach. The point, apparently, was not to choose.</p><p>The California in question was less postcard perfect than culturally assembled: early-2000s Los Angeles with hints of the racy fantasy of ’70s <em>Playboy</em>. Koma was careful to distinguish it from nostalgic Y2K, though the distinction became rather academic once the surf T-shirts and retro sexiness started piling up.</p><p>Color provided another way out of the dark. Pastels appeared, but sun faded rather than sugary, with enough saturation to retain what Koma called a “kick.” Flounces, ruffles, and an abundance of sheer lace barely concealed a streak of kink. Koma is partial to the tension between release and control. He hasn’t abandoned the sharpness he considers his signature; he has simply loosened the corset a little.</p></div>",
+ "cover": {
+  "id": "6ab670449b0c1ee9de1aaef2",
+  "file": "00001-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab670449b0c1ee9de1aaef2",
+     "file": "00001-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab67044139de20d749d2d2d",
+     "file": "00002-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab67044e15edd92cd8f66d5",
+     "file": "00003-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab670465e71e0832db71d65",
+     "file": "00004-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab670461fa17d01eb2c8395",
+     "file": "00005-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab670462a79d12c22f124c0",
+     "file": "00006-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab67049ee8256bafc815a26",
+     "file": "00007-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab6704905cb49bf2749f71d",
+     "file": "00008-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab670495ac10a45bed208e6",
+     "file": "00009-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab6704bcf5181efbb596531",
+     "file": "00010-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab6704bb66ba1d3c6f14ea7",
+     "file": "00011-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab6704bbeee9df4b11faecd",
+     "file": "00012-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab6704dfbba9e0894fa962d",
+     "file": "00013-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab6704dee5ecb3810ba1d43",
+     "file": "00014-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab6704ebabdf35ba65f584a",
+     "file": "00015-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab67050e4ae2bd07764c8f2",
+     "file": "00016-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab6705091820000b8e34979",
+     "file": "00017-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab67050babdf35ba65f5851",
+     "file": "00018-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab670531deb15139cbc167c",
+     "file": "00019-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab67052b66ba1d3c6f14eae",
+     "file": "00020-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab67053907dfdfaaebea2d3",
+     "file": "00021-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab670564c6cb78a5595da9e",
+     "file": "00022-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab6705641fd3559bc61b960",
+     "file": "00023-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab67056f1d4a8b18e7b7647",
+     "file": "00024-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab67058ec6de9db8eaf7eb5",
+     "file": "00025-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab670585ac10a45bed208ed",
+     "file": "00026-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab670581036d5d629faff51",
+     "file": "00027-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab6705b81887f3ec359cd3f",
+     "file": "00028-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab6705bee8256bafc815a33",
+     "file": "00029-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab6705b8701e4ac4e6feffa",
+     "file": "00030-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab6705ef7b00d63f7c3d6cf",
+     "file": "00031-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab6705ea8462986af3a983a",
+     "file": "00032-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab6705e167da7fc951509fa",
+     "file": "00033-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab670606e73ee112f59b067",
+     "file": "00034-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab670601deb15139cbc1686",
+     "file": "00035-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab67060f7b00d63f7c3d6d6",
+     "file": "00036-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab67063867c872295c72ed5",
+     "file": "00037-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab67063da8ff5a62a3422ab",
+     "file": "00038-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab6706365db88057ecb078c",
+     "file": "00039-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab67065da5677f0ca560924",
+     "file": "00040-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab67065bfaeeae8af2573bc",
+     "file": "00041-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:11:29"
+}

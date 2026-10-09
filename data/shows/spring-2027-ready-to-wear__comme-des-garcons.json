@@ -1,0 +1,690 @@
+{
+ "key": "spring-2027-ready-to-wear__comme-des-garcons",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/comme-des-garcons",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "comme-des-garcons",
+ "brandName": "Comme des Garçons",
+ "designers": "By Rei Kawakubo",
+ "eventDate": "2026-10-03T15:30:00.000Z",
+ "pubDate": "October 3, 2026",
+ "authors": [
+  "Sarah Mower"
+ ],
+ "reviewHtml": "<div><p>“When royal life and real life become one.” When Rei Kawakubo issued this clue to the meaning of her spring show, it raised many questions. Was she being satirical, politically cutting, or personal?</p><p>We could take the last first: Kawakubo most certainly is the Queen of avant-garde fashion. More like an empress, in fact. She’s a designer and retailer with a global empire, and is the inspiration to other designers, young and not so young. However, how likely is it that the ever-reserved Kawakubo would symbolically be crowning herself in this show? Not at all.</p><p>Then what can she mean by the abstract padded cotton and wired crowns that topped every look, except those of the last segment, which appeared to be a project in denim? If monarchy is a bad thing, does it also stand in for the giant tech barons who are now far more globally powerful than any royal family and imperiling democracy into the bargain?</p><p>Perhaps. When you looked into the smothering 3D abstract sculptures her models were carrying, it seemed as though nothing good was breaking through the cracks. The first, a spherical denim skirt, seemed to resemble a giant Halloween pumpkin, with red-rose tissue appearing behind the jagged cut-out teeth.</p><p>Perhaps it was the dark, fairytale, bestial nature of autocratic rule Kawakubo was showing when a cascade of fake hair sprouted over a kind of crinoline and feathers broke out on royal ledges. Palatial visuals were apparently playing out in the furnishing fabrics that kept appearing in shapes that might resemble collapsed upholstery: Ticking stripes, exploded gingham checks, antique lookalike brocade and polka dots.</p><p>But are there monsters within the throne-room, or is there a trapped princess somewhere in there? It seemed poignant when one look carried a curtain of blonde hair with ceremonial golden curtain tassels hanging within it. A young female presence without a face.</p><p>Things did not go so well for the power of the crowned heads later on. The patches of red ruching, gushes of red tape, an encasing exoskeleton and finally, a clear evocation of bloody entrails was a reminder, perhaps, of how France, where Kawakubo has been showing for decades, did away with its royal family a very long time ago.</p><p>Or was she also just annoyed with the situation that pertains to the Japanese royal family? It’s been in the news recently that although Emperor Naruhito has one child, his popular 24-year-old daughter, Princess Aiko, she’s still barred from succeeding to the Chrysanthemum Throne because she is female. A reform bill cementing this male-emperors-only law was passed as recently as July.</p><p>Still, at the great risk of laying thoughts onto Kawakubo’s constructs, perhaps it’s more a case of her warning to all would-be royalty to be careful what you wish for. It could be great fun to wear one of her crowns for a day, but when it comes to the real lives of today’s queens and princesses around the world, maybe not so much.</p></div>",
+ "cover": {
+  "id": "6ac15031fdec02cd78845c61",
+  "file": "00001-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ac15031fdec02cd78845c61",
+     "file": "00001-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ac150307af546515529c7d0",
+     "file": "00002-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ac150317cb6738462fbd234",
+     "file": "00003-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ac15033746a1f8889ec872e",
+     "file": "00004-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ac15034bcb1c544646d440e",
+     "file": "00005-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ac15034a806c63c2dc27f52",
+     "file": "00006-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ac150359731360f260a8b7a",
+     "file": "00007-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ac150369fe6ba8297d9ff1e",
+     "file": "00008-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ac15036ce375c64b20346a5",
+     "file": "00009-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ac15037e6038582f3ab4d7f",
+     "file": "00010-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ac150380a2b0e578eaebdfb",
+     "file": "00011-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ac15038b8f1d8d045279e5e",
+     "file": "00012-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ac150391805401f71cb543e",
+     "file": "00013-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ac1503afdec02cd78845c6b",
+     "file": "00014-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ac1503b069a75b94a1eb2a4",
+     "file": "00015-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ac1503b069a75b94a1eb2ab",
+     "file": "00016-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ac1503c7765fc2a459b70d9",
+     "file": "00017-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ac1503c8c1bd493c8bef34d",
+     "file": "00018-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ac1503d012a68e51bac6d6a",
+     "file": "00019-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ac1503e7c368cae9013867a",
+     "file": "00020-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ac1503fec0d05a3812ec942",
+     "file": "00021-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ac15040ab9514ff88d117c1",
+     "file": "00022-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ac15040925266d327a96082",
+     "file": "00023-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ac163b539b91c662fc17616",
+     "file": "00001-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ac163b5206653fe9d688cf9",
+     "file": "00002-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ac163b5069a75b94a1eb39b",
+     "file": "00003-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ac163b7255cb44abc30aa56",
+     "file": "00004-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ac163b83f645faaa658dd51",
+     "file": "00005-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ac163b844d7e0e414e400b3",
+     "file": "00006-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ac163b94cfa6cb9ca5a59cb",
+     "file": "00007-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ac163ba4281b5dd1bde1e21",
+     "file": "00008-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ac163baffc4c1785fe71e69",
+     "file": "00009-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ac163bb3f645faaa658dd58",
+     "file": "00010-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ac163bb03caf3ff1e637721",
+     "file": "00011-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ac163bc757dd389e4bc4d68",
+     "file": "00012-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ac163bd1afd74137e73dde5",
+     "file": "00013-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ac163be39b91c662fc1761d",
+     "file": "00014-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ac163be754af37d9dc39019",
+     "file": "00015-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ac163bfe91783b2420a7ca7",
+     "file": "00016-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ac163c03d7cb8d7df6cd569",
+     "file": "00017-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ac163c0c23ae62f45a42e4b",
+     "file": "00018-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ac163c12023fd209810818b",
+     "file": "00019-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ac163c2884125edc6b34d39",
+     "file": "00020-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ac163c24fc686a4550dd1bf",
+     "file": "00021-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ac163c34b6cd7a157fdecd7",
+     "file": "00022-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ac163c434156006375d01e4",
+     "file": "00023-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ac163c4884125edc6b34d40",
+     "file": "00024-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ac163c50a55a75a04eea0b8",
+     "file": "00025-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ac163c6150563bd5082a546",
+     "file": "00026-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ac163c6012a68e51bac6dc3",
+     "file": "00027-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ac163c7a2fa1a04d7a92c12",
+     "file": "00028-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ac163c9069a75b94a1eb3a2",
+     "file": "00029-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ac163c93232cb8c69e8b90b",
+     "file": "00030-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ac163c9e979be3eb4b8c89e",
+     "file": "00031-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ac163cb3d7cb8d7df6cd570",
+     "file": "00032-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ac163cc177abff9e0187173",
+     "file": "00033-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ac163cc884125edc6b34d58",
+     "file": "00034-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ac163ce9731360f260a8bc6",
+     "file": "00035-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ac163cf0e7d7744701dbb00",
+     "file": "00036-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ac163cf7c368cae901386ec",
+     "file": "00037-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ac163d07cb6738462fbd26e",
+     "file": "00038-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ac163d1746a1f8889ec876c",
+     "file": "00039-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ac163d2255cb44abc30aa63",
+     "file": "00040-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ac163d234156006375d01eb",
+     "file": "00041-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ac163d464a1bb6d452b3af8",
+     "file": "00042-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ac163d42e02214eebac4ca5",
+     "file": "00043-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ac163d56c438819ad51ffbc",
+     "file": "00044-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ac163d6c6a00ccd679be563",
+     "file": "00045-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ac163d7206653fe9d688d06",
+     "file": "00046-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ac163d8e6038582f3ab4e0d",
+     "file": "00047-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ac163da150563bd5082a54d",
+     "file": "00048-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ac163dac78f8fbfbb1c4446",
+     "file": "00049-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ac163db7765fc2a459b7126",
+     "file": "00050-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ac163ddb8f1d8d045279e87",
+     "file": "00051-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ac163dd255cb44abc30aa6a",
+     "file": "00052-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ac163de4c53c4a6701519bc",
+     "file": "00053-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ac163e055c5582d13a30c32",
+     "file": "00055-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ac163dfe91783b2420a7cae",
+     "file": "00054-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ac163e0069a75b94a1eb3a9",
+     "file": "00056-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ac163e1bf97e72231d5dae8",
+     "file": "00057-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ac163e2e91783b2420a7cb5",
+     "file": "00058-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ac163e36e7230f6723743ae",
+     "file": "00059-comme-des-garcons-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:52"
+}

@@ -1,0 +1,2114 @@
+{
+ "key": "spring-2027-ready-to-wear__diesel",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/diesel",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "diesel",
+ "brandName": "Diesel",
+ "designers": "By Glenn Martens",
+ "eventDate": "2026-09-22T14:00:00.000Z",
+ "pubDate": "September 22, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>Talk about going out with a bang. Glenn Martens ended his six-year story at Diesel this afternoon with a collection containing all the gestures Diesel lovers lust after: disintegration, hybridization, pop, tailored tension, and unstructured release. It powerfully signaled a designer who has plenty left in the tank. Now all that Martens energy will be focused exclusively on Maison Margiela.</p><p>Speaking backstage pre-show, Martens championed the team he has built around him since arriving here in 2020. He said: “If you think about it, six years ago it was literally T-shirts and five-pocket trousers, and look at all of it now. I’m so proud of everybody. It’s one of the most amazing things to see all of these butterflies becoming fantastic.” He added that he was leaving Renzo Rosso’s core brand with “a great platform” and a team “ready for a next chapter.” Martens should certainly feel he can ride into Diesel’s sunset with his head held high. Today he wore sunglasses indoors for the first time at one of his shows here.</p><p>Martens’s first Vogue Runway–reviewed collection for Diesel, spring 2022, opened with the model Ella Snyder. Today he closed with her too. There were some wonderful pieces of fabric development to support the underlying feel of a slow peeling that permeated this collection: Denim was coated, then lasered to resemble leather; orchid-shaped cutaways appeared to eat into knits and polos; foil-printed surfaces cracked open to reveal trompe l’oeil suggestions of other garments beneath. Elsewhere, T-shirts and sweatshirts were shredded almost to remnants, while tailoring and shirting seemed caught up, twisted, and partially undone, as if half-torn from the body.</p><p>The mood this signified was foreplayed by the heavy breathing that ran over the PA before a slowly rising techno mix revealed itself midway through as a beautiful nosebleed variation on Donna Summer’s “Love to Love You Baby.” As the music built and Summer moaned, scores of Diesel-wearing plants in the audience started making out with increasingly enthusiastic abandon. Sex positivity has run through all of Martens’s work at Diesel: After last season’s walk of shame, he was nipping back for a second taste. It was an uproarious scene that had the crowd screaming as Snyder closed the finale and the designer took his final bow.</p><p>Martens really came good at Diesel.</p></div>",
+ "cover": {
+  "id": "6ab39f4d2586e6b46d452a54",
+  "file": "00001-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab39f4d2586e6b46d452a54",
+     "file": "00001-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab39f4db341ebae22bf0486",
+     "file": "00002-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab39f5014ccbd52b9827444",
+     "file": "00003-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab39f50b928a1250c97a39a",
+     "file": "00004-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab39f50ae5a9336d9973e14",
+     "file": "00005-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab39f55587f6e3c29fe2613",
+     "file": "00006-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab39f5620d467e24d47cbcb",
+     "file": "00007-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab39f55d5a7e278bc3a7e09",
+     "file": "00008-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab39f58587f6e3c29fe261a",
+     "file": "00009-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab39f4dcdca9880a4d5b97d",
+     "file": "00010-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab39f585b1cd174f1728fc7",
+     "file": "00011-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab39f58ddd57250e5eb3ace",
+     "file": "00012-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab39f5c66edf621bf8d4b24",
+     "file": "00013-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab39f5c9a60f1c74661c433",
+     "file": "00014-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab39f5c1da74c6253ecc34b",
+     "file": "00015-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab39f5f20d467e24d47cbd2",
+     "file": "00016-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab39f5f68afeb135b173fa5",
+     "file": "00017-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab39f5f3832bec213a00954",
+     "file": "00018-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab39f63d992ab7f0f2269bc",
+     "file": "00019-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab39f63addc67abd613ea9d",
+     "file": "00020-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab39f63f389c056c32baee4",
+     "file": "00021-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab39f66b341ebae22bf0493",
+     "file": "00022-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab39f66cb7ec6d5f192e340",
+     "file": "00023-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab39f67922df252b2fcf826",
+     "file": "00024-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab39f68502a1983d07e031d",
+     "file": "00025-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab39f69f41ca128cf501254",
+     "file": "00026-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab39f6a2de19bf7e3d7351c",
+     "file": "00027-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab39f6bae5a9336d9973e1e",
+     "file": "00028-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab39f6d220c72df4e348291",
+     "file": "00029-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab39f6d75a8286d88b7a685",
+     "file": "00030-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab39f6dd992ab7f0f2269c3",
+     "file": "00031-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab39f7232bbecb4e094345b",
+     "file": "00032-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab39f72f389c056c32baeeb",
+     "file": "00033-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab39f72c1635249ff96571f",
+     "file": "00034-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab39f77d5a7e278bc3a7e16",
+     "file": "00035-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab39f76d992ab7f0f2269ca",
+     "file": "00036-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab39f77ddd57250e5eb3ad5",
+     "file": "00037-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab39f7cc262729c61b5998c",
+     "file": "00038-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab39f7c33ff9718f0588291",
+     "file": "00039-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab39f7d075a24caf7708f55",
+     "file": "00040-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab39f842f624faf8dfeb323",
+     "file": "00041-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab39f84d2ec4563ae4b651c",
+     "file": "00042-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab39f84b9c77cc985f7c8fe",
+     "file": "00043-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab39f8bb928a1250c97a3a1",
+     "file": "00044-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab39f8b68afeb135b173fac",
+     "file": "00045-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab39f8b158dd3617186e9f8",
+     "file": "00046-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab39f9368afeb135b173fb3",
+     "file": "00047-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab39f93aa9c3b45d7862781",
+     "file": "00048-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab39f93dbce94314f954f26",
+     "file": "00049-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab39f9bd5a7e278bc3a7e1d",
+     "file": "00050-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab39f9b183dc0e00795775a",
+     "file": "00051-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab39f9b37270f0106048142",
+     "file": "00052-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab39fa5ec5f4cfa18deb5d3",
+     "file": "00053-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab39fa58639480f32fb4ca9",
+     "file": "00054-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab39fa5b9c77cc985f7c905",
+     "file": "00055-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab39faeaa3666e810e23805",
+     "file": "00056-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab39faf28dc51eb5f78f47d",
+     "file": "00057-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab39fae2a54eecdc3df496c",
+     "file": "00058-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab39fb662afe80493d24627",
+     "file": "00059-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab39fb62c272d27ff2ea2c9",
+     "file": "00060-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab39fb7b341ebae22bf04a0",
+     "file": "00061-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ab39fbe00016084df772d1d",
+     "file": "00062-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6ab39fbf158dd3617186e9ff",
+     "file": "00063-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6ab39fbf5a9ef0a2d1f673e5",
+     "file": "00064-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Look 65",
+     "id": "6ab39fc7f41ca128cf50125b",
+     "file": "00065-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Look 66",
+     "id": "6ab39fc78e1ad3c053e909fb",
+     "file": "00066-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Look 67",
+     "id": "6ab39fc7075a24caf7708f5c",
+     "file": "00067-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Look 68",
+     "id": "6ab39fcfec5f4cfa18deb5da",
+     "file": "00068-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Look 69",
+     "id": "6ab39fcf6375a57126f6e235",
+     "file": "00069-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Look 70",
+     "id": "6ab39fcf2c272d27ff2ea2d0",
+     "file": "00070-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Look 71",
+     "id": "6ab39fd7f41ca128cf501265",
+     "file": "00071-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Look 72",
+     "id": "6ab39fd7addc67abd613eaaa",
+     "file": "00072-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Look 73",
+     "id": "6ab39fd7d5a7e278bc3a7e24",
+     "file": "00073-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Look 74",
+     "id": "6ab39fdad5a7e278bc3a7e2b",
+     "file": "00074-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Look 75",
+     "id": "6ab39fdbddd57250e5eb3adc",
+     "file": "00075-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ab3a181d5a7e278bc3a7e7a",
+     "file": "00001-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ab3a181c5cdea54f62ad27f",
+     "file": "00002-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ab3a1802c272d27ff2ea2dd",
+     "file": "00003-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ab3a184922df252b2fcf833",
+     "file": "00004-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ab3a1852a54eecdc3df4980",
+     "file": "00005-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ab3a185cdca9880a4d5b98d",
+     "file": "00006-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ab3a1868623499d724ed1f1",
+     "file": "00007-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ab3a1892a54eecdc3df4987",
+     "file": "00008-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ab3a1892de19bf7e3d73532",
+     "file": "00009-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ab3a18956219c94dbbdd293",
+     "file": "00010-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ab3a18d220c72df4e3482a6",
+     "file": "00011-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ab3a18dcb7ec6d5f192e366",
+     "file": "00012-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ab3a18d470e67174cf57ba2",
+     "file": "00013-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ab3a191470e67174cf57ba9",
+     "file": "00014-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ab3a19137270f0106048155",
+     "file": "00015-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ab3a1915b1cd174f1728fda",
+     "file": "00016-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ab3a1943a0ce3dfa40eb857",
+     "file": "00017-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ab3a1952de19bf7e3d73539",
+     "file": "00018-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ab3a195df91bde353709776",
+     "file": "00019-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ab3a197f389c056c32baf01",
+     "file": "00020-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ab3a19975a8286d88b7a6a1",
+     "file": "00021-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ab3a19a2f624faf8dfeb341",
+     "file": "00022-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ab3a19a33ff9718f05882be",
+     "file": "00023-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ab3a19cb9c77cc985f7c915",
+     "file": "00024-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ab3a19ea08edad548cb0350",
+     "file": "00025-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ab3a19d2f624faf8dfeb348",
+     "file": "00026-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ab3a19f183dc0e00795776d",
+     "file": "00027-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ab3a1a12f624faf8dfeb34f",
+     "file": "00028-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ab3a1a12586e6b46d452a73",
+     "file": "00029-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ab3a1a275a8286d88b7a6a8",
+     "file": "00030-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ab3a1a656219c94dbbdd29a",
+     "file": "00031-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ab3a1a6220c72df4e3482ad",
+     "file": "00032-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ab3a1a633ff9718f05882c5",
+     "file": "00033-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ab3a1a990cdea95c550f7e3",
+     "file": "00034-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ab3a1aa5a9ef0a2d1f673f2",
+     "file": "00035-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ab3a1a9012f42ecefd7e498",
+     "file": "00036-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ab3a1ad2baadf60c10b942e",
+     "file": "00037-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ab3a1ad7226303ca1536e31",
+     "file": "00038-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ab3a1ad00016084df772d30",
+     "file": "00039-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ab3a1b19850b0d1a08717b7",
+     "file": "00040-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ab3a1b18e1ad3c053e90a02",
+     "file": "00041-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ab3a1b2587f6e3c29fe2639",
+     "file": "00042-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ab3a1b356219c94dbbdd2a1",
+     "file": "00043-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ab3a1b6d4439b01adb1d192",
+     "file": "00044-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ab3a1b678f12d8d6e39021c",
+     "file": "00045-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ab3a1b69850b0d1a08717be",
+     "file": "00046-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ab3a1b9c262729c61b59993",
+     "file": "00047-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ab3a1b9922df252b2fcf83a",
+     "file": "00048-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ab3a1b975a8286d88b7a6af",
+     "file": "00049-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ab3a1bc739fb9f3cbe4e37e",
+     "file": "00050-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ab3a1bde1dd8e43704d377f",
+     "file": "00051-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ab3a1bdf41ca128cf50126c",
+     "file": "00052-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ab3a1be2a54eecdc3df4994",
+     "file": "00053-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ab3a1c12f624faf8dfeb356",
+     "file": "00054-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ab3a1c1cb55dc083d4afc3f",
+     "file": "00055-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ab3a1c290cdea95c550f7ea",
+     "file": "00056-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ab3a1c6df91bde35370977d",
+     "file": "00057-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ab3a1c67226303ca1536e38",
+     "file": "00058-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ab3a1c620d467e24d47cbe2",
+     "file": "00059-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ab3a1cae1dd8e43704d378c",
+     "file": "00060-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ab3a1ca22b59d6e8df2a020",
+     "file": "00061-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ab3a1caa8cecdcf4ced75fe",
+     "file": "00062-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ab3a1cd90cdea95c550f7f1",
+     "file": "00063-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ab3a1cefd79e4f77a8e870d",
+     "file": "00064-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ab3a1ce739fb9f3cbe4e391",
+     "file": "00065-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ab3a1d1c1635249ff96573b",
+     "file": "00066-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ab3a1d1fd79e4f77a8e8714",
+     "file": "00067-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ab3a1d2fd79e4f77a8e871b",
+     "file": "00068-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ab3a1d378f12d8d6e390223",
+     "file": "00069-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ab3a1d49c006cc96f026578",
+     "file": "00070-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ab3a1d7922df252b2fcf841",
+     "file": "00071-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ab3a1d7c5e98824fcb64099",
+     "file": "00072-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ab3a1d7b9c77cc985f7c928",
+     "file": "00073-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ab3a1da88411e832eca2cf8",
+     "file": "00074-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ab3a1dbd4439b01adb1d199",
+     "file": "00075-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ab3a1dcfd79e4f77a8e8722",
+     "file": "00076-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ab3a1dd3832bec213a0095e",
+     "file": "00077-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ab3a1de2a54eecdc3df499b",
+     "file": "00078-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ab3a1de9a60f1c74661c440",
+     "file": "00079-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ab3a1e03a0ce3dfa40eb864",
+     "file": "00080-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6ab3a1e1c85088c57cbd700f",
+     "file": "00081-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6ab3a1e132bbecb4e094346e",
+     "file": "00082-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6ab3a1e2960621234e4f7f8e",
+     "file": "00083-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6ab3a1e520d467e24d47cbe9",
+     "file": "00084-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6ab3a1e6c383023125f59495",
+     "file": "00085-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6ab3a1e6dbce94314f954f3c",
+     "file": "00086-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6ab3a1eacb55dc083d4afc4c",
+     "file": "00087-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6ab3a1ea88411e832eca2cff",
+     "file": "00088-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6ab3a1ea165cd105d2a6a3bf",
+     "file": "00089-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6ab3a1efaa9c3b45d786278e",
+     "file": "00090-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6ab3a1ee165cd105d2a6a3c6",
+     "file": "00091-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6ab3a1efaa3666e810e2381c",
+     "file": "00092-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6ab3a1f2b3f885941cf234c2",
+     "file": "00093-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6ab3a1f34b65c2e6d3acdb32",
+     "file": "00094-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6ab3a1f38623499d724ed1fe",
+     "file": "00095-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6ab3a1f6b6e2c67246a15c0f",
+     "file": "00096-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6ab3a1f72a54eecdc3df49a2",
+     "file": "00097-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6ab3a1f7df91bde35370978a",
+     "file": "00098-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6ab3a1f866edf621bf8d4b3d",
+     "file": "00099-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6ab3a1fb7226303ca1536e3f",
+     "file": "00100-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6ab3a1fbf389c056c32baf08",
+     "file": "00101-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6ab3a1fbd5a7e278bc3a7e87",
+     "file": "00102-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6ab3a200960621234e4f7f95",
+     "file": "00103-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6ab3a2008623499d724ed20b",
+     "file": "00104-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6ab3a200cdca9880a4d5b9a0",
+     "file": "00105-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6ab3a2032f624faf8dfeb35d",
+     "file": "00106-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6ab3a204addc67abd613eae2",
+     "file": "00107-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6ab3a204b9c77cc985f7c92f",
+     "file": "00108-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6ab3a20588411e832eca2d07",
+     "file": "00109-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6ab3a207e1dd8e43704d379f",
+     "file": "00110-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6ab3a20803ab96cc1a767599",
+     "file": "00111-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6ab3a208739fb9f3cbe4e398",
+     "file": "00112-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6ab3a209cdca9880a4d5b9a7",
+     "file": "00113-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6ab3a20c587f6e3c29fe2646",
+     "file": "00114-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6ab3a20c3a0ce3dfa40eb86b",
+     "file": "00115-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6ab3a20d56219c94dbbdd2ae",
+     "file": "00116-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6ab3a210e1dd8e43704d37a6",
+     "file": "00117-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6ab3a2118e1ad3c053e90a09",
+     "file": "00118-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6ab3a21078f12d8d6e39022a",
+     "file": "00119-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6ab3a2134f76e97913604532",
+     "file": "00120-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6ab3a2146375a57126f6e248",
+     "file": "00121-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6ab3a2142de19bf7e3d73540",
+     "file": "00122-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6ab3a2172586e6b46d452a86",
+     "file": "00123-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6ab3a2174b65c2e6d3acdb39",
+     "file": "00124-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6ab3a217012f42ecefd7e4ab",
+     "file": "00125-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6ab3a21a7e0434cedbdea9a4",
+     "file": "00126-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6ab3a21a28dc51eb5f78f4a8",
+     "file": "00127-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6ab3a21a20d467e24d47cbf0",
+     "file": "00128-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6ab3a21d220c72df4e3482b4",
+     "file": "00129-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6ab3a21d9850b0d1a08717c5",
+     "file": "00130-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6ab3a21eb341ebae22bf04b3",
+     "file": "00131-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6ab3a220587f6e3c29fe264d",
+     "file": "00132-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6ab3a2213a0ce3dfa40eb872",
+     "file": "00133-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6ab3a221c5cdea54f62ad292",
+     "file": "00134-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6ab3a223470e67174cf57bb6",
+     "file": "00135-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6ab3a22420d467e24d47cbf7",
+     "file": "00136-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6ab3a2243832bec213a0096b",
+     "file": "00137-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6ab3a227cb7ec6d5f192e36d",
+     "file": "00138-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6ab3a2273a0ce3dfa40eb879",
+     "file": "00139-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6ab3a227d992ab7f0f2269dd",
+     "file": "00140-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6ab3a22b9850b0d1a08717cc",
+     "file": "00141-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6ab3a22b9c006cc96f026597",
+     "file": "00142-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6ab3a22be37ba4d87131f715",
+     "file": "00143-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6ab3a22eb928a1250c97a3ae",
+     "file": "00144-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6ab3a22e9850b0d1a08717d3",
+     "file": "00145-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6ab3a22f7e0434cedbdea9ab",
+     "file": "00146-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Detail Look 147",
+     "id": "6ab3a23278f12d8d6e390231",
+     "file": "00147-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Detail Look 148",
+     "id": "6ab3a23378f12d8d6e390238",
+     "file": "00148-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Detail Look 149",
+     "id": "6ab3a233032be8c4d6c33e28",
+     "file": "00149-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Detail Look 150",
+     "id": "6ab3a236f389c056c32baf0f",
+     "file": "00150-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Detail Look 151",
+     "id": "6ab3a237183dc0e00795777a",
+     "file": "00151-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Detail Look 152",
+     "id": "6ab3a237012f42ecefd7e4b2",
+     "file": "00152-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Detail Look 153",
+     "id": "6ab3a2399a60f1c74661c453",
+     "file": "00153-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Detail Look 154",
+     "id": "6ab3a23b5a9ef0a2d1f673f9",
+     "file": "00154-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Detail Look 155",
+     "id": "6ab3a23bb6e2c67246a15c1c",
+     "file": "00155-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Detail Look 156",
+     "id": "6ab3a23b7226303ca1536e46",
+     "file": "00156-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Detail Look 157",
+     "id": "6ab3a23f1da74c6253ecc36d",
+     "file": "00157-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 158,
+     "caption": "Detail Look 158",
+     "id": "6ab3a23fcdca9880a4d5b9ae",
+     "file": "00158-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 159,
+     "caption": "Detail Look 159",
+     "id": "6ab3a23f9850b0d1a08717da",
+     "file": "00159-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 160,
+     "caption": "Detail Look 160",
+     "id": "6ab3a242075a24caf7708f69",
+     "file": "00160-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 161,
+     "caption": "Detail Look 161",
+     "id": "6ab3a2438e1ad3c053e90a10",
+     "file": "00161-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 162,
+     "caption": "Detail Look 162",
+     "id": "6ab3a24332bbecb4e0943475",
+     "file": "00162-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 163,
+     "caption": "Detail Look 163",
+     "id": "6ab3a24532bbecb4e094347c",
+     "file": "00163-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 164,
+     "caption": "Detail Look 164",
+     "id": "6ab3a246629dd7e86da7d6d4",
+     "file": "00164-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 165,
+     "caption": "Detail Look 165",
+     "id": "6ab3a247220c72df4e3482c1",
+     "file": "00165-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 166,
+     "caption": "Detail Look 166",
+     "id": "6ab3a2482f624faf8dfeb364",
+     "file": "00166-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 167,
+     "caption": "Detail Look 167",
+     "id": "6ab3a249b928a1250c97a3b5",
+     "file": "00167-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 168,
+     "caption": "Detail Look 168",
+     "id": "6ab3a24b75a8286d88b7a6c2",
+     "file": "00168-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 169,
+     "caption": "Detail Look 169",
+     "id": "6ab3a24c03ab96cc1a7675a0",
+     "file": "00169-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 170,
+     "caption": "Detail Look 170",
+     "id": "6ab3a24cc5cdea54f62ad29f",
+     "file": "00170-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 171,
+     "caption": "Detail Look 171",
+     "id": "6ab3a24d9c006cc96f0265a1",
+     "file": "00171-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 172,
+     "caption": "Detail Look 172",
+     "id": "6ab3a250f41ca128cf50127e",
+     "file": "00172-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 173,
+     "caption": "Detail Look 173",
+     "id": "6ab3a250a8cecdcf4ced760b",
+     "file": "00173-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 174,
+     "caption": "Detail Look 174",
+     "id": "6ab3a2504f76e9791360453c",
+     "file": "00174-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 175,
+     "caption": "Detail Look 175",
+     "id": "6ab3a2535a9ef0a2d1f67405",
+     "file": "00175-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 176,
+     "caption": "Detail Look 176",
+     "id": "6ab3a2542de19bf7e3d73553",
+     "file": "00176-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 177,
+     "caption": "Detail Look 177",
+     "id": "6ab3a254e61132e6cb2fdbb5",
+     "file": "00177-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 178,
+     "caption": "Detail Look 178",
+     "id": "6ab3a257e374beeeafec6cb4",
+     "file": "00178-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 179,
+     "caption": "Detail Look 179",
+     "id": "6ab3a25756219c94dbbdd2bb",
+     "file": "00179-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 180,
+     "caption": "Detail Look 180",
+     "id": "6ab3a25703ab96cc1a7675a7",
+     "file": "00180-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 181,
+     "caption": "Detail Look 181",
+     "id": "6ab3a25b7226303ca1536e56",
+     "file": "00181-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 182,
+     "caption": "Detail Look 182",
+     "id": "6ab3a25b2f624faf8dfeb376",
+     "file": "00182-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 183,
+     "caption": "Detail Look 183",
+     "id": "6ab3a25b2c272d27ff2ea30f",
+     "file": "00183-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 184,
+     "caption": "Detail Look 184",
+     "id": "6ab3a25ec85088c57cbd7016",
+     "file": "00184-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 185,
+     "caption": "Detail Look 185",
+     "id": "6ab3a25eb928a1250c97a3bf",
+     "file": "00185-diesel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:10"
+}

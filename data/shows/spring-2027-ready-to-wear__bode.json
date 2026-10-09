@@ -1,0 +1,626 @@
+{
+ "key": "spring-2027-ready-to-wear__bode",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bode",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "bode",
+ "brandName": "Bode",
+ "designers": "By Emily Adams Bode Aujla ",
+ "eventDate": "",
+ "pubDate": "August 18, 2026",
+ "authors": [
+  "Laird Borrelli-Persson"
+ ],
+ "reviewHtml": "<div><p>One story told in two chapters. That’s the measured, relatable pace at which Emily Adams Bode Aujla reveals her deeply researched collections, which are known for their extensive material development. She and her team spent a full year figuring out how to work with a single boucle yarn, for example, and pored over sources that included boys’ scouting guides, back issues of <em>Frontier Times</em>, and the National Cowboy and Western Archive.</p><p>Spring finds Bode Aujla closing the book on last season’s <a href=\"https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/bode\" target=\"_blank\" rel=\"noopener\">Rodeo Bodeo</a> theme built on memories of Checkers, the beloved pony of her youth, a retired Barrel Racer. “There’s the juxtaposition of the personal narrative and the historical aspect,” the designer explained. “For the first part, I was mostly drawn to a lot of images and histories around the ’20s through the ’40s,” she said. “Things that I’m always inspired by—like children’s costumes—which are more like ’40s [and] ’50s—that come through again in the spring collection.”</p><p>As impressive as it is that entire essays could be written for nearly every garment in a Bode collection, it can’t be assumed that the customer is a subject matter expert. The clothes have to have an immediate emotional appeal that will have people reaching for hangers, and wallets. Carefully considered details and artisanship provoke positive visceral reactions. As with fall, the appeal of the spring offering is its adjacency to Westernwear and more broadly a “country” feeling—note the sweet cornflower blue ginghams. Rivets festoon chore jackets cut in suede or denim for men, and a folksy brown-and-white cow-print pony skin is used across the collection.</p><p>Bode Aujla wisely held on to the smoking looks from fall. These are accessorized with (currently trending) cummerbunds or prize ribbons. Men’s pants are cut a bit cropped and are styled without socks for a youthful, effortless effect. Their counterparts on the women’s side are spangled tulle pieces inspired by rodeo costumes. The heroine pieces are fringed leather pants with patch pockets, a paisley jacket adapted from a Victorian capelet, and a suede skirt charmingly embroidered with cows and ropes.</p><p>The ease of warmer days and the lazier pace of summer is captured by the pajama-like ease of shorts and soft tops with button details that reference Edwardian children’s underclothes. If there’s a quibble here, it is that Bode’s casting continues to skew very young—the models look like young teens–while the people wearing the brand seem to be more mature. The freshness of the cast can be related to Bode Aujla’s feeling for the way, as she put it, “this collection and how it kind of really evokes this idea of the American Pilgrimage West and the open range” (think: new starts and untested possibilities), but the Bode universe might expand with a calibration between the brand imagery and its core customers.</p></div>",
+ "cover": {
+  "id": "6a841c3737173f0a07e0c358",
+  "file": "00001-bode-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6a841c3737173f0a07e0c358",
+     "file": "00001-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6a841c37400ac6747a9f4620",
+     "file": "00002-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6a841c377cfcea03544befc5",
+     "file": "00003-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6a841c3a37173f0a07e0c35e",
+     "file": "00004-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6a841c3a65c3cce9841448cc",
+     "file": "00005-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6a841c3abcb256a4e1522098",
+     "file": "00006-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6a841c3d21f6dedb2eaf6e48",
+     "file": "00007-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6a841c3df7fca29e1859c4f4",
+     "file": "00008-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6a841c3d1e42d4a4abfa487e",
+     "file": "00009-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6a841c40f7fca29e1859c500",
+     "file": "00010-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6a841c40f7fca29e1859c4fa",
+     "file": "00011-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6a841c40b70bfef73ea5f829",
+     "file": "00012-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6a841c4225be2c313688d980",
+     "file": "00013-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6a841c43f7fca29e1859c506",
+     "file": "00014-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6a841c43020ce813d04267cf",
+     "file": "00015-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6a841c445d4b13f35af0eee8",
+     "file": "00016-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6a841c45b56fb36198db4300",
+     "file": "00017-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6a841c4521f6dedb2eaf6e4e",
+     "file": "00018-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6a841c4658678dc7f22b0fed",
+     "file": "00019-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6a841c47f7fca29e1859c50c",
+     "file": "00020-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6a841c4865c3cce9841448d2",
+     "file": "00021-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6a841c49020ce813d04267e0",
+     "file": "00022-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6a841c491c45a39813e53e35",
+     "file": "00023-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6a856b32a2608abd70885317",
+     "file": "00024-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6a841c4b21f6dedb2eaf6e54",
+     "file": "00025-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6a841c4c020ce813d04267e6",
+     "file": "00026-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6a841c4c58678dc7f22b0ff3",
+     "file": "00027-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6a841c4d21f6dedb2eaf6e5d",
+     "file": "00028-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6a841c4e5d4b13f35af0eef8",
+     "file": "00029-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6a841c4f008d5d1992301c72",
+     "file": "00030-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6a841c4f21f6dedb2eaf6e63",
+     "file": "00031-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6a841c51b70bfef73ea5f83a",
+     "file": "00032-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6a841c5137173f0a07e0c369",
+     "file": "00033-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6a841c52a7e32bee4ddc33a7",
+     "file": "00034-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6a841c53a7e32bee4ddc33b2",
+     "file": "00035-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6a841c5458678dc7f22b1001",
+     "file": "00036-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6a841c541e42d4a4abfa488a",
+     "file": "00037-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6a841c55a4fa0d37561f6b29",
+     "file": "00038-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6a841c56a7e32bee4ddc33b8",
+     "file": "00039-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6a841c57a445d1e97a914872",
+     "file": "00040-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6a841c57de67dcd8a62bf263",
+     "file": "00041-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6a841c5861de06d7262e8436",
+     "file": "00042-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6a841c5a020ce813d04267ec",
+     "file": "00043-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6a841c5aa7e32bee4ddc33be",
+     "file": "00044-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6a841c5ae4c0ca0174392616",
+     "file": "00045-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6a841c5c9922eacc3d90024f",
+     "file": "00046-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6a841c5cbcb256a4e15220ad",
+     "file": "00047-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6a841c5d1e42d4a4abfa4890",
+     "file": "00048-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6a841c5f95eb07d5ae3b9944",
+     "file": "00049-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6a841c5f809838ce95d66778",
+     "file": "00050-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6a841c5fdd708dc0499c5b86",
+     "file": "00051-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6a841c61b70bfef73ea5f845",
+     "file": "00052-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6a841c61dd708dc0499c5b8c",
+     "file": "00053-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6a841c62a7e32bee4ddc33c9",
+     "file": "00054-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6a841c6358678dc7f22b1007",
+     "file": "00055-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6a841c641e42d4a4abfa4896",
+     "file": "00056-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6a841c6458678dc7f22b100d",
+     "file": "00057-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6a841c657cfcea03544befdd",
+     "file": "00058-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6a841c6761de06d7262e8449",
+     "file": "00059-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6a841c679dd5f340fb899202",
+     "file": "00060-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6a841c675d4b13f35af0ef0d",
+     "file": "00061-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6a841c6925be2c313688d990",
+     "file": "00062-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6a841c6a37173f0a07e0c377",
+     "file": "00063-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6a841c6ab70bfef73ea5f859",
+     "file": "00065-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Look 65",
+     "id": "6a841c6c253be4d26a81f5df",
+     "file": "00066-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Look 66",
+     "id": "6a841c6c9dd5f340fb89920b",
+     "file": "00067-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Look 67",
+     "id": "6a841c6d9dd5f340fb899216",
+     "file": "00068-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Look 68",
+     "id": "6a841c6f020ce813d04267f7",
+     "file": "00069-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Look 69",
+     "id": "6a841c6fbcb256a4e15220b3",
+     "file": "00070-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Look 70",
+     "id": "6a841c6f7cfcea03544befe3",
+     "file": "00071-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Look 71",
+     "id": "6a841c7165c3cce9841448e9",
+     "file": "00072-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Look 72",
+     "id": "6a841c7221f6dedb2eaf6e6e",
+     "file": "00073-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Look 73",
+     "id": "6a841c72dd708dc0499c5b97",
+     "file": "00074-bode-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6a841ef3b70bfef73ea5f87c",
+     "file": "00064-bode-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:11:37"
+}

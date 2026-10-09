@@ -1,0 +1,264 @@
+{
+ "key": "spring-2027-ready-to-wear__blauer",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/blauer",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "blauer",
+ "brandName": "Blauer B.Glam",
+ "designers": "",
+ "eventDate": "",
+ "pubDate": "",
+ "authors": [],
+ "reviewHtml": "",
+ "cover": {
+  "id": "6aac26b7007cc9bf2a8a22ac",
+  "file": "00001-blauer-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aac26b7007cc9bf2a8a22ac",
+     "file": "00001-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aac26b7b6230e28383600e8",
+     "file": "00002-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aac26b718511a438e66f037",
+     "file": "00003-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aac26b9a3f85a7183cbec30",
+     "file": "00004-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aac26b918511a438e66f03e",
+     "file": "00005-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aac26b9bbaf0080f505b315",
+     "file": "00006-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aac26bb9afa6adef6c16d1c",
+     "file": "00007-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aac26bc93d83eb3fd537f54",
+     "file": "00008-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aac26bbd00115acd7b02338",
+     "file": "00009-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aac26bcae6a0317ef14362a",
+     "file": "00010-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aac26be9afa6adef6c16d23",
+     "file": "00011-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aac26be2222e5fc5afd2e3a",
+     "file": "00012-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aac26beae6a0317ef143631",
+     "file": "00013-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aac2682fa23e248ce6c10db",
+     "file": "00001a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aac26826ffbb91686fe2b60",
+     "file": "00002a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aac2682fb14210cac870f86",
+     "file": "00002b-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aac26849afa6adef6c16d12",
+     "file": "00002c-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aac2684007cc9bf2a8a2291",
+     "file": "00002d-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aac2685adf1db6e9fe7575e",
+     "file": "00004a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aac2686d4c65b010ead02be",
+     "file": "00005a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aac2686fa23e248ce6c10e2",
+     "file": "00006a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aac2687007cc9bf2a8a2298",
+     "file": "00007a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aac2688c6f16ea5c6169526",
+     "file": "00008a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aac2688fa23e248ce6c10e9",
+     "file": "00009a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aac2688fb14210cac870f8d",
+     "file": "00010a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aac268a007cc9bf2a8a229f",
+     "file": "00011a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aac268aae6a0317ef143617",
+     "file": "00011b-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aac268a2222e5fc5afd2e2a",
+     "file": "00012a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aac268c635d68f8721e69f4",
+     "file": "00013a-blauer-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:11:27"
+}

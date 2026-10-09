@@ -1,0 +1,276 @@
+{
+ "key": "spring-2027-ready-to-wear__monique-lhuillier",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/monique-lhuillier",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "monique-lhuillier",
+ "brandName": "Monique Lhuillier",
+ "designers": "By Monique Lhuillier",
+ "eventDate": "",
+ "pubDate": "September 9, 2026",
+ "authors": [
+  "Christian Allaire"
+ ],
+ "reviewHtml": "<div><p>No designer wants their clothes to be associated with the word “fussy,” but it’s a hard adjective to avoid in the world of evening wear or gala attire. When you’re decked out in full sequins or a sweeping train, it hardly conveys the idea of effortless chic. But this season, Monique Lhuillier—who is adept at occasion dressing—was up to the challenge. She aimed to simplify and strip down her signature assortment of cocktail dresses and gowns, wondering if her fanciful creations could be less, well, froo-froo. “Spring was all about modern, dark romance,” said the designer. </p><p>For years now, Lhuillier has built a customer base around her embroidered or floral-print dresses or sweeping evening gowns, and there was no shortage of that drama for spring—but if you looked closer, you could see her clear attempts at stripping things back and refining. She focused largely on draping this season, finding beauty in the strong silhouettes she could craft with a singular roll of fabric. “I really found joy in the draping,” she said. “I wanted silhouettes that felt Grecian.” Her opening number for the collection was a simple cobalt-blue jersey gown draped off the shoulder, and finished with a high leg slit. A formal-feeling design, in something as comfortable as a T-shirt. </p><p>She followed it up with a chiffon sky-blue gown, complete with a fitted strapless bodice and detachable shoulder cape. Many of her gowns this season had such versatile styling approaches, featuring removable capes or jackets that completed the look, if desired. It was nice to have the option. Still, some of her pieces required being more fully committed, like the black, squared-neck gown finished with oversized-pearl shoulder straps. It would be a wearable workout—the fashion equivalent of doing a weighted shoulder press. </p><p>Streamlining may have been the focus this season, but as someone who specializes in glamour, Lhuillier couldn’t resist letting her over-the-top side come out to play. Her more intricate offerings included a strapless pink mini dress with metallic-foiled raffia accents all over it for texture—a more lightweight answer to covering it in crystals or beads. “It’s easy to pack,” she said. Bond Girl-worthy creations included a slinky, gold-sequin number with an asymmetric knotted tie. Perhaps more dated, or certainly not for everyone, were her explosions of tulle, including a full-on red mermaid strapless gown, with sheer hints of pink tulle peeking through the underlay.</p><p>When Lhuillier found a balance of simple-yet-striking, it worked much more effectively. Her take on the enduring ’90s slip dress, in a silver-champagne combo, featured beads that beautifully accentuated the natural lines of the body. She also designed a tulle T-shirt gown covered in a grid arrangement of beads—almost resembling tweed. “It felt effortless, like an essential in a woman’s closet,” said Lhuillier. Forget a basic white tee: In her eyes, you need a totally bedazzled floor-length one.</p></div>",
+ "cover": {
+  "id": "6aa85227cc7bb7dfd5ca3275",
+  "file": "00001-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa85227cc7bb7dfd5ca3275",
+     "file": "00001-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa852272a30cd04b17e1d5c",
+     "file": "00002-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa8522714f9c5a1f3dde222",
+     "file": "00003-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa852292a30cd04b17e1d63",
+     "file": "00004-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa8522b0671ed916e05e60d",
+     "file": "00005-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa8522a96c4bd2db72d790e",
+     "file": "00006-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa8522bcc7bb7dfd5ca327c",
+     "file": "00007-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa8522c65480a84190768ec",
+     "file": "00008-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa8522d08a947d1507009dd",
+     "file": "00009-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa8522e65480a84190768f3",
+     "file": "00010-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa8522e08a947d1507009e4",
+     "file": "00011-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa8522fb15c3aa2dfc799a5",
+     "file": "00012-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa85230cc7bb7dfd5ca3283",
+     "file": "00013-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa852311ff44e0712c72d45",
+     "file": "00014-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa852318e731464b917664a",
+     "file": "00015-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa85232e45c3ba8a977b8aa",
+     "file": "00016-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa852330671ed916e05e614",
+     "file": "00017-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa8523412c05396fa76f69f",
+     "file": "00018-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa8523400a9514258499fa3",
+     "file": "00019-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa852356dce13d72043b391",
+     "file": "00020-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa85236a565658f309e56ac",
+     "file": "00021-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa8523683d5bc4b1ab0d573",
+     "file": "00022-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa85237b93d5d68bf1ec0e4",
+     "file": "00023-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa85238c0995109725c68fa",
+     "file": "00024-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa8523807b61c6969ed08d9",
+     "file": "00025-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa85239b15c3aa2dfc799ac",
+     "file": "00026-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa8523afbfc9de8b165fd1c",
+     "file": "00027-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa8523bb15c3aa2dfc799b3",
+     "file": "00028-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa8523c96c4bd2db72d791b",
+     "file": "00029-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa8523c83d5bc4b1ab0d580",
+     "file": "00030-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa8523f0671ed916e05e621",
+     "file": "00031-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:18:22"
+}

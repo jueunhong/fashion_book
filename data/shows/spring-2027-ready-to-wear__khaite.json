@@ -1,0 +1,898 @@
+{
+ "key": "spring-2027-ready-to-wear__khaite",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/khaite",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "khaite",
+ "brandName": "Khaite",
+ "designers": "By Catherine Holstein",
+ "eventDate": "2026-09-12T23:00:00.000Z",
+ "pubDate": "September 13, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>The “stealth” Khaite woman has left the building. Under the spotlights of the cavernous Brooklyn Storehouse last night, a softer vision emerged. Leaving aside the white bra and high-waisted black leather hobble skirt Kaia Gerber wore to open the show, this was a collection of flower embroidered lace dresses finished with exterior basques, pastel shifts evoking antique lingerie, and diaphanous mousseline trapeze tops and skirts, much of it edged in horsehair ruffles so the pieces gently bobbed down the runway. Romance is the word that comes to mind.</p><p>Why the change of heart? Catherine Holstein said it started with a martini at the Gritti Palace in Venice. She and her husband Griffin Frazen, an architect who designs Khaite’s store and show sets, are besotted with the city and its mix of the old and the new. The moldings on the Gritti bar’s ceiling inspired the cameo-like cut-outs on the pastel lyocell shift that is the centerpiece of the collection. These photos are too moody and dark to see it clearly, but that dress is edged in hand-tatted lace with little creatures woven into the pattern.</p><p>“Sometimes I used to say we should be taking things away,” Holstein explained, “and now I was saying, ‘what can we add?’” She meant it down to the tiniest touches; Gerber’s bra was hand-finished with basting stitches, as were the corsetry details exposed underneath the undone fastenings of a wiggle dress.</p><p>Under the spotlights in the otherwise pitch black warehouse, the clothes had a hazy, dreamy quality. The Marisa Berenson in <em>Barry Lyndon</em>-by-way-of Gibson Girl up-dos some of the models wore only added to the feeling. But Khaite being one of New York fashion’s great commercial success stories, it’s worth considering what will translate on the store floors and out there in the much-less-magical-than-Venice real world. This observer is nominating the evening suits: the sheer little jackets and matching slim skirts with ruffled horsehair trim are a so-old-it’s-new-again idea. Does anyone really need another little black cocktail dress?</p></div>",
+ "cover": {
+  "id": "6aa6f74d68e9989fd437a99d",
+  "file": "00001-khaite-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa6f74d68e9989fd437a99d",
+     "file": "00001-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa6f74d6ac2bee91ce534f8",
+     "file": "00002-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa6f74d91f360d97fdec3a1",
+     "file": "00003-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa6f751ea2b89b7ae2164d8",
+     "file": "00004-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa6f752f65a1de3071eeac7",
+     "file": "00005-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa6f752c0995109725c4cb1",
+     "file": "00006-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa6f756f0a75abf762ce77a",
+     "file": "00007-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa6f7586ac2bee91ce534fe",
+     "file": "00008-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa6f7576fde3e7e45828549",
+     "file": "00009-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa6f75af55ec3201971a939",
+     "file": "00010-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa6f75c2ccb01af79d58f2b",
+     "file": "00011-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa6f75d5f6162147e97786e",
+     "file": "00012-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa6f75e2ff34b9abf5cd1a5",
+     "file": "00013-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa6f7616ac2bee91ce53504",
+     "file": "00014-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa6f7627f90644021dceb38",
+     "file": "00015-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa6f762f65a1de3071eeacd",
+     "file": "00016-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa6f766c0995109725c4cb7",
+     "file": "00017-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa6f7687f90644021dceb3e",
+     "file": "00018-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa6f767f130cb70f984373f",
+     "file": "00019-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa6f7695f6162147e977874",
+     "file": "00020-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa6f76d6fde3e7e45828552",
+     "file": "00021-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa6f76d913fec6ac39a2e34",
+     "file": "00022-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa6f76e5f6162147e97787a",
+     "file": "00023-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa6f7716fde3e7e45828558",
+     "file": "00024-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa6f7735f6162147e977880",
+     "file": "00025-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa6f773af8b0afa7f7f1223",
+     "file": "00026-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa6f776c0995109725c4cbd",
+     "file": "00027-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa6f7788592e5e172970c38",
+     "file": "00028-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa6f778f31222139a992b68",
+     "file": "00029-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa6f779f130cb70f9843745",
+     "file": "00030-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa6f77d65c911e0833110c7",
+     "file": "00031-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa6f77e913fec6ac39a2e3a",
+     "file": "00032-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa6f77e7f90644021dceb4e",
+     "file": "00033-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa6f7826fde3e7e4582855e",
+     "file": "00034-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa6f783af8b0afa7f7f122c",
+     "file": "00035-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa6f784f0a75abf762ce783",
+     "file": "00036-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa6f787913fec6ac39a2e40",
+     "file": "00037-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa6f7895f1be77119f58c89",
+     "file": "00038-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa6f78a8664427eed539e0d",
+     "file": "00039-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa6f78c7f90644021dceb54",
+     "file": "00040-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa6f78d7f90644021dceb5a",
+     "file": "00041-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa6f78ed5403d5a6092b234",
+     "file": "00042-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa6f791af8b0afa7f7f1232",
+     "file": "00043-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa6f7926fde3e7e45828564",
+     "file": "00044-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa6f79465c911e0833110cd",
+     "file": "00045-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa6f79765c911e0833110d3",
+     "file": "00046-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aa6f7982ff34b9abf5cd1b0",
+     "file": "00047-khaite-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aae8e5c2cf33a965f5ed447",
+     "file": "00001-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aae8e5dad92be4cb6733af5",
+     "file": "00002-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aae8e5ceddaacba7ae7960f",
+     "file": "00003-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aae8e5e55895cc1ffb1d7dd",
+     "file": "00004-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aae8e5e0af8bea07a5720a7",
+     "file": "00005-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aae8e5e2fbb360b9cf2fa11",
+     "file": "00006-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aae8e60b946b299ee2a7963",
+     "file": "00007-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aae8e602f122d07d312c52a",
+     "file": "00008-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aae8e60f408bbdfd8fb1a0a",
+     "file": "00009-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aae8e61994247fc8ca75377",
+     "file": "00010-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aae8e6207aa1fa4e8cd5a50",
+     "file": "00011-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aae8e62c38ea18e90adcb38",
+     "file": "00012-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aae8e63d49d014ee898dbc7",
+     "file": "00013-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aae8e64d49d014ee898dbce",
+     "file": "00014-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aae8e64ca7813f14226aca8",
+     "file": "00015-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aae8e658f5a3da39ff23824",
+     "file": "00016-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aae8e6696fdbffdcdd5bc87",
+     "file": "00017-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aae8e668b9b03d180f99c77",
+     "file": "00018-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aae8e6799e6fd418b70496a",
+     "file": "00019-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aae8e68852cebaa77c157ef",
+     "file": "00020-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aae8e6799e6fd418b704971",
+     "file": "00021-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aae8e69130d82300a35ecd8",
+     "file": "00022-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aae8e69a26fee20936a8e80",
+     "file": "00023-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aae8e690f5d81ea029f3353",
+     "file": "00024-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aae8e6b07aa1fa4e8cd5a57",
+     "file": "00025-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aae8e6b0af8bea07a5720ae",
+     "file": "00026-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aae8e6cdf385a417280a30e",
+     "file": "00027-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aae8e6dca7813f14226acaf",
+     "file": "00028-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aae8e6d6dcec0e432b25c00",
+     "file": "00029-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aae8e6ea26fee20936a8e87",
+     "file": "00030-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aae8e6f438b723e9709657b",
+     "file": "00031-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aae8e6f86e9e51a6e07bbbf",
+     "file": "00032-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aae8e6f2cf33a965f5ed44e",
+     "file": "00033-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aae8e708e35287336046d36",
+     "file": "00034-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aae8e7173da167a514d409c",
+     "file": "00035-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aae8e71b260c740f76893f4",
+     "file": "00036-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aae8e7296fdbffdcdd5bc8e",
+     "file": "00037-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aae8e73e6494ff491a647e2",
+     "file": "00038-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aae8e732cf33a965f5ed455",
+     "file": "00039-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aae8e74b260c740f76893fb",
+     "file": "00040-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aae8e7439da9bb1ef4515c6",
+     "file": "00041-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aae8e75434e56fcafc8edb8",
+     "file": "00042-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aae8e76994247fc8ca7538a",
+     "file": "00043-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aae8e767afcf8f18ce5afc2",
+     "file": "00044-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aae8e77e6b102593bfc4657",
+     "file": "00045-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aae8e782fbb360b9cf2fa1e",
+     "file": "00046-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aae8e79bd7ace7c649ae86e",
+     "file": "00047-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aae8e79b91793b98ac55165",
+     "file": "00048-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aae8e7a9df75302f99bc4df",
+     "file": "00049-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aae8e7a0fd516441ad4e926",
+     "file": "00050-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aae8e7ba26fee20936a8e8e",
+     "file": "00051-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aae8e7cbe1d8528004e4e8d",
+     "file": "00052-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aae8e7cfdb636644c330d9a",
+     "file": "00053-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aae8e7d7d67e866b99b577b",
+     "file": "00054-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aae8e7d2cf33a965f5ed462",
+     "file": "00055-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aae8e7ee6494ff491a647e9",
+     "file": "00056-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aae8e7e6dcec0e432b25c07",
+     "file": "00057-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aae8e7f63120c8790b7e04d",
+     "file": "00058-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aae8e802f122d07d312c531",
+     "file": "00059-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aae8e80cccdb9c54f189f70",
+     "file": "00060-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aae8e81e1406ac8739907f1",
+     "file": "00061-khaite-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:16:11"
+}

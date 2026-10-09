@@ -1,0 +1,268 @@
+{
+ "key": "spring-2026-couture__ashi-studio",
+ "url": "https://www.vogue.com/fashion-shows/spring-2026-couture/ashi-studio",
+ "season": "spring-2026-couture",
+ "seasonName": "Spring 2026 Couture",
+ "brand": "ashi-studio",
+ "brandName": "Ashi Studio",
+ "designers": "By Mohammed Ashi",
+ "eventDate": "",
+ "pubDate": "February 3, 2026",
+ "authors": [
+  "Tina Isaac-Goizé"
+ ],
+ "reviewHtml": "<div><p>While Ashi’s creations idealize feminine curves, placing whoever wears them squarely on a pedestal, the designer’s inspirations tend to draw from darker corners.</p><p>Backstage before the show, he said he was focusing on “the sharp edges of yearning that raise the boundaries between two people.” Nosferatu films- both old and recent, were a touchpoint. But the original inspiration for this collection came straight from the cradle of couture: at last year’s exhibition on Charles Frederick Worth at the Petit Palais, the designer felt a sense of mourning, perhaps for a world that no longer exists, but also for unrequited love.</p><p>Victoriana offered ample references, from somewhat macabre jewels that encase the locks of a lost love under glass, to mourning clothes and Gothic Romance. Pinned on the mood board was a swatch of milky, superfine latex, which the designer handled like fabric, layering it “like peeling skin” over a hand-painted corset gown to ghostly effect and singeing its edges for good measure. The art of hair lockets surfaced on a remarkable corset with feathery arabesques made from real tresses and a full braid trailing down the back: that piece represented a couture debut for the artisan Ghislaine Tortereau who, as the founder of the wigmaker Peruke in Paris, is famed in the world of cinema but had never seen her work on the runway before. She wasn’t alone: neither had the dozen or so other artisans Ashi tapped to help produce this collection.</p><p>Graphic flourishes abounded, from a spiky black gown fully embroidered in hand-cut paillettes and singed peacock feathers, to a sculptural corseted number in green croc and diaphanous dresses finished in sepia-toned feathers. The designer is an avid collector of many things, and this outing was steeped in found treasures, from the fabrics on all of the corsets (save for that croc number) to passementerie fringes and the figurative brass doorknobs embellishing clutches.</p><p>A relative newcomer to the couture calendar, Ashi again displayed a couture world all his own with this collection, not to mention an unimpeachable commitment to craft. Many of these looks were quite simply stunning; a few would be perfectly at home in a museum right now, not a hundred years hence; and several could be contenders for the red carpet. What would be nice to see more of, however, are creations that don’t conjure an impression that a woman should spend her life on a pedestal.</p></div>",
+ "cover": {
+  "id": "697b68cba6b9469e07b7c033",
+  "file": "00001-ashi-studio-spring-2026-couture-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "697b68cba6b9469e07b7c033",
+     "file": "00001-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "697b68cb27e5df4b431d73c2",
+     "file": "00002-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "697b68cc9e38dedeba72b6a3",
+     "file": "00003-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "697b68cf24253e9d56920118",
+     "file": "00004-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "697b68ce0531e83d2fefa071",
+     "file": "00005-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "697b68cf3139a994e9c98159",
+     "file": "00006-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "697b68d127e5df4b431d73c4",
+     "file": "00007-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "697b68d2c220b5247500953c",
+     "file": "00008-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "697b68d2539db8a8f46d4390",
+     "file": "00009-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "697b68d4f4d40964c1d54861",
+     "file": "00010-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "697b68d5601f6eda3bc1cedd",
+     "file": "00011-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "697b68d59ee317237fef988c",
+     "file": "00012-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "697b68d7c4f69a68e3639927",
+     "file": "00013-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "697b68d874bd4068b43b7b1d",
+     "file": "00014-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "697b68d875ef65c26ed6faf9",
+     "file": "00015-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "697b68db0dc0ca27e0b7b4d9",
+     "file": "00016-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "697b68db4089a41c07ba3e8b",
+     "file": "00017-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "697b68dbc220b5247500953e",
+     "file": "00018-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "697b68de2dd311a1bbdb39c0",
+     "file": "00019-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "697b68dec028fc4cbbb8e953",
+     "file": "00020-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "697b68dea45e06d5e90cc2c9",
+     "file": "00021-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "697b68e0da1f82e87914f873",
+     "file": "00022-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "697b68e1fd389ad563ab8edd",
+     "file": "00023-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "697b68e14b7fc497424ee99f",
+     "file": "00024-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "697b68e3af17a5483fbdaf1a",
+     "file": "00025-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "697b68e427e5df4b431d73c6",
+     "file": "00026-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "697b68e4a45e06d5e90cc2cb",
+     "file": "00027-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "697b68e72440f172b9d5e40f",
+     "file": "00028-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "697b68e8539db8a8f46d4392",
+     "file": "00029-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "697b68e770c2ac35b2a7748f",
+     "file": "00030-ashi-studio-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:52:23"
+}

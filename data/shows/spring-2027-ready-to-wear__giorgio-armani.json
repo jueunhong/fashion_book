@@ -1,0 +1,746 @@
+{
+ "key": "spring-2027-ready-to-wear__giorgio-armani",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/giorgio-armani",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "giorgio-armani",
+ "brandName": "Giorgio Armani",
+ "designers": "By Silvana Armani",
+ "eventDate": "2026-09-27T09:00:00.000Z",
+ "pubDate": "September 27, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>The invitation for this show came attached to a charm in the shape of an all-white Rubik’s Cube. In part it signaled a series of rearrangements in this apex Giorgio Armani line that seemed synced with greater adjustments at play across the Armani Group. It also prefigured the all-white, <em>Saturday Night Fever</em>–ish dance-floor set on which the models walked beneath a disco ball.</p><p>Grace Jones wore a strictly silhouetted black Giorgio Armani jacket on the cover of her 1981 album, <em>Nightclubbing</em>, as Armani’s US profile was accelerating. Today his niece Silvana Armani spent much of this collection exploring a similarly sleek, spare, and nocturnal aesthetic. This yielded tuxedo dresses in black liquid silks; evening dresses suspended from bustiers crafted in shiny resin strips in black or metallic finishes; and a cotton pullover whose wide, curved neckline was punctuated with flashing chrome studs.</p><p>This was, I reckon, the first Giorgio Armani collection to be held in his Via Bergognone fashion theater since the June 2024 menswear show. There have been many slight changes to the house ritual between then and now. Everyone seemed deeply relaxed that it began more than 30 minutes after its advertised time; Mr. Armani would have been flashing the house lights in agitated gusto after 10. The models came one by one, with none of his favored onrush of looks in a brace or cluster. The often unconvincing smiles he liked his models to wear were replaced by the more usual runway expression of detached serenity. The Silvana-imposed withdrawal of her uncle’s customary abundance of hats continued.</p><p>Mr. Armani was also very much present, as both memory and avatar. As Francesca Ragazzi heard from Silvana backstage preshow, the Agnese Zogla–modeled Look 21 re-created Armani’s First Communion suit. There was also a crystal-embellished jacket printed with a famous later portrait of the house founder—the same image reproduced on the awesome T-shirts available in the Armani/Silos gift shop across the road. Butterflies fluttered in and out of the collection as decorative motifs, embroidered in paillettes on tops and dresses or worked into vests of delicate chain mesh. Their recurring presence reflected Silvana’s ongoing negotiation between metamorphosis and precedent.</p></div>",
+ "cover": {
+  "id": "6ab8f62a40e1112a4a68cb6e",
+  "file": "00001-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab8f62a40e1112a4a68cb6e",
+     "file": "00001-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab8f62a91be8c26ee998b87",
+     "file": "00002-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab8f62caef774080b85169c",
+     "file": "00003-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab8f62d7ea227d0254c3cc4",
+     "file": "00004-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab8f62daef774080b8516a3",
+     "file": "00005-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab8f62ff7ed0551c814fa93",
+     "file": "00006-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab8f62afaedd423c776be40",
+     "file": "00007-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab8f630f829484daaa988ee",
+     "file": "00008-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab8f630d63c62d8aa2efc37",
+     "file": "00009-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab8f631fb4ef11157661a39",
+     "file": "00010-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab8f632a6780c5bc2c79479",
+     "file": "00011-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab8f63287f777d9e21a05a7",
+     "file": "00012-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab8f6331631dd84a90ccc8e",
+     "file": "00013-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab8f63452686d3b85567258",
+     "file": "00014-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab8f634257cc6347b00fdcf",
+     "file": "00015-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab8f635274afebd8fe7095d",
+     "file": "00016-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab8f636d32bb4a04ad3bfcc",
+     "file": "00017-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab8f636d0294c3e2eb651bb",
+     "file": "00018-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab8f637c91ee4223dbae4d3",
+     "file": "00019-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab8f638b525f9cae6379de6",
+     "file": "00020-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab8f6383c33fafe4dcb2f8c",
+     "file": "00021-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab8f6396d0a73e1d744da59",
+     "file": "00022-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab8f63a3c33fafe4dcb2f93",
+     "file": "00023-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab8f63a842476b128e4aaab",
+     "file": "00024-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab8f63b91be8c26ee998b8e",
+     "file": "00025-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab8f63c212a6660a46ac75f",
+     "file": "00026-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab8f63c6b1d14d42184b312",
+     "file": "00027-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab8f63dd32bb4a04ad3bfd6",
+     "file": "00028-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab8f63ebd49d4bf4ce83a67",
+     "file": "00029-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab8f63f605d2596a3e08a95",
+     "file": "00030-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab8f63f2fb19ab6c6f1b586",
+     "file": "00031-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab8f641f7ed0551c814fa9a",
+     "file": "00032-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab8f6419d8abd58ace86447",
+     "file": "00033-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab8f641ef335fc9bcef82eb",
+     "file": "00034-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab8f643c66a1f81714cf411",
+     "file": "00035-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab8f644897b83f7cfdade28",
+     "file": "00036-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab8f6449aa0cf35db07b3a9",
+     "file": "00037-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab8f645b56b036cef571dfd",
+     "file": "00038-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab8f64616eea1cf998bd225",
+     "file": "00039-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab8f646fd95979e80bfda25",
+     "file": "00040-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab8f647313a513f3ef8b1b4",
+     "file": "00041-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab8f648d0294c3e2eb651c2",
+     "file": "00042-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab8f648607efe7fa1a2cff0",
+     "file": "00043-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab8f6494362ed75da556166",
+     "file": "00044-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab8f64a6d0a73e1d744da60",
+     "file": "00045-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab8f64a48914f616f23b146",
+     "file": "00046-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab8f64ba6780c5bc2c79486",
+     "file": "00047-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab8f64c7ea227d0254c3cd4",
+     "file": "00048-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab8f64cdb2626cc7fbfc7dc",
+     "file": "00049-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab8f64d9aa0cf35db07b3b3",
+     "file": "00050-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab8f64e313a513f3ef8b1bb",
+     "file": "00051-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab8f64e842476b128e4aab5",
+     "file": "00052-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab8f64fe612bb3815406e9d",
+     "file": "00053-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab8f6509d46a2811ae314c0",
+     "file": "00054-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab8f651ccd72c5c8adce589",
+     "file": "00055-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab8f6516b1d14d42184b319",
+     "file": "00056-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab8f65265ebbdfe21297a32",
+     "file": "00057-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab8f65371508c42174fea67",
+     "file": "00058-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab8f653607efe7fa1a2cff7",
+     "file": "00059-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab8f654e0183b142acb07b8",
+     "file": "00060-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab8f6550d8516345ca83993",
+     "file": "00061-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ab8f655d5d65dcf54db5ead",
+     "file": "00062-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6ab8f656fb4ef11157661a4c",
+     "file": "00063-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6ab8f6586d0a73e1d744da6a",
+     "file": "00064-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Look 65",
+     "id": "6ab8f658f1863be0c530d866",
+     "file": "00065-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Look 66",
+     "id": "6ab8f65828a231d00383854d",
+     "file": "00066-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Look 67",
+     "id": "6ab8f65971c5c4a46965e17c",
+     "file": "00067-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6ab9417ed0294c3e2eb6523a",
+     "file": "Giorgio%20Armani%20SS27%20by%20Acielle%20STYLEDUMONDEIMG_7560FullRes.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6ab9417ed5d65dcf54db5f23",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_01.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6ab9417fdb2626cc7fbfc87f",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6ab94180e84b123334c21f5d",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6ab94180869f42d05373b7ba",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6ab9416340e1112a4a68cc27",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6ab94163c9a31986ceee34f0",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6ab94163affc7bff878592c9",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6ab941646d4bf06d5efada56",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6ab941642fb19ab6c6f1b64b",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6ab941446b1d14d42184b3a0",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6ab94144897b83f7cfdaded2",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6ab94144368cfb7bda9241a1",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6ab941450d8516345ca83a1d",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6ab94145d5d65dcf54db5f1c",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6ab940e75fa0fc8df1123cb3",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_15.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6ab940e6f7244220f9f3e097",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6ab940e6d32bb4a04ad3c06b",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6ab940e90e8712c4cdbbb170",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6ab940e92c3ac4183709b4da",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_19.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6ab940e8b525f9cae6379e64",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6ab940ea4d6cf1610d7b83b5",
+     "file": "GiorgioArmani_MilanFashionweek_SS27_BACKSTAGE_Acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:48"
+}

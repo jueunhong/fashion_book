@@ -1,0 +1,1602 @@
+{
+ "key": "spring-2027-ready-to-wear__givenchy",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/givenchy",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "givenchy",
+ "brandName": "Givenchy",
+ "designers": "By Sarah Burton",
+ "eventDate": "2026-10-02T15:30:00.000Z",
+ "pubDate": "October 3, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>“In a world that’s very precarious I wanted to find a balance in it.” That was Sarah Burton’s mission statement for spring. As usual, she set about finding it by making cut her founding principal. “Everything is cut in a very engineered way,” she said backstage, “very clean, almost to cut through the noise of everything.”</p><p>There surely is a lot of noise. Our Instagram feeds this week have been clogged with news too grim to bring up here, much of it about the horrendous ways women are mistreated in a misogynist society. What we choose to wear or not wear can’t protect us from those larger forces, but arming ourselves in the black leather dress that opened the show, with zippers curving down the sides to reveal its bumblebee yellow underside, might make us feel stronger or better prepared.</p><p>Burton, unlike many of her peers who seem oddly unperturbed about how a woman feels in their clothes, is laser-focused on precisely that. Givenchy show fittings, she made a point of saying, are two-way conversations, ones in which the models have an equal say about what they like and what they don’t, and which clothes speak to them. It could be a poured-on leather dress like the show opener, or one of her expertly tailored pant suits, or a butch tank top tucked into perfect jeans punctuated by a belt buckle made from a mirrored makeup compact.</p><p>In her first collections for the house, Burton thought a lot about finding softness and roundness in her suiting. They blossomed voluptuously at the hips. This season’s suits have evolved, with front panels that pitch forward and overlap at the hems the way a woman crosses her legs. Still feminine but razor sharp. Asymmetry featured in other ways: In the form of a knit dress with a single strap that curves around a demi-cup bra or a clean white blouse (an important and growing category at Givenchy, she said), or trench dresses with storm flaps flying off in askew directions.</p><p>Jackets with sleeves sliced from shoulders and pressed flat against the torso, and pants whose extended waistbands draped down at the sides weren’t as relatable, but her instinct to test tradition reverberated in an audience full of women who are questioning what the dominant culture has taught us to accept as normal. Meanwhile, a couple of rigorously tailored double-breasted coats, one in Prince of Wales check and another in a deep navy blue, would prove indispensable in any culture.</p><p>Her boldest experiments were with a pair of evening dresses in fine jersey draped from wing-like arabesques of brass wire. “It was just this idea of suspension, and sensuality, and fluidity,” she said. Alexander Calder’s 1926 <em>Cirque Calder</em> was a reference. The great American artist used to put on performances in which he played ringleader, manipulating the little figures and telling stories about them. The difference here is that Burton and the clients she’s cultivating are very much their own women.</p></div>",
+ "cover": {
+  "id": "6ac000ef8ab75efcb4d2706a",
+  "file": "00001-givenchy-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ac000ef8ab75efcb4d2706a",
+     "file": "00001-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ac000ef8ab75efcb4d2706c",
+     "file": "00002-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ac000ef8ddfb494dc3697e8",
+     "file": "00003-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ac000f140c5243c03843dbe",
+     "file": "00004-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ac000f12c333f1903722811",
+     "file": "00005-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ac000f1ebbd62f2073b1c55",
+     "file": "00006-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ac000f3d348857ed480d7af",
+     "file": "00007-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ac000f31805401f71cb4b48",
+     "file": "00008-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ac000f3193a83109b2b2aa0",
+     "file": "00009-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ac000f5f96090b2c67b3326",
+     "file": "00010-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ac000f562ec73b1074f85e4",
+     "file": "00011-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ac000f50a2b0e578eaeb31f",
+     "file": "00012-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ac000f657c551bb0c87b749",
+     "file": "00013-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ac000f7defb8771431b2f16",
+     "file": "00014-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ac000f71cde1601e6f8903e",
+     "file": "00015-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ac000f8759bc686f1a66ea0",
+     "file": "00016-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ac000f98ddfb494dc3697f5",
+     "file": "00017-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ac000f91995ccfb977da8e9",
+     "file": "00018-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ac000fa0a2b0e578eaeb326",
+     "file": "00019-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ac000fa4954cb36d4b9d0a7",
+     "file": "00020-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ac000fbc50141a8bfb2a0d1",
+     "file": "00021-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ac000fcdccb542c38ec7114",
+     "file": "00022-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ac000fc652d8e99615c6967",
+     "file": "00023-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ac000fc4c53c4a67015129f",
+     "file": "00024-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ac000fe4559d85bbb42334f",
+     "file": "00025-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ac000fe74b01926e81d7d5e",
+     "file": "00026-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ac000fe2c333f1903722818",
+     "file": "00027-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ac000ff03caf3ff1e636e44",
+     "file": "00028-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ac00100043d0eeb5ad4d621",
+     "file": "00029-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ac001007d8f9610eeea0589",
+     "file": "00030-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ac00101d348857ed480d7b6",
+     "file": "00031-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ac00102fdec02cd788455d5",
+     "file": "00032-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ac00102c6a00ccd679bdd96",
+     "file": "00033-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ac00103dccb542c38ec711e",
+     "file": "00034-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ac0010368443385db46fdf9",
+     "file": "00035-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ac001045654d81857a5a66a",
+     "file": "00036-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ac00105759bc686f1a66ead",
+     "file": "00037-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ac0010568443385db46fe00",
+     "file": "00038-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ac00106c4da3082e3d88ae9",
+     "file": "00039-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ac00107ca5ede010f12bdc3",
+     "file": "00040-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ac001073fc068873bc6bf7a",
+     "file": "00041-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ac00107e979be3eb4b8bcf9",
+     "file": "00042-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ac00109a2fa1a04d7a92487",
+     "file": "00043-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ac0010a0154f2020c5cb181",
+     "file": "00044-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ac001094603b83417be2b7c",
+     "file": "00045-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ac0010bbf97e72231d5d3df",
+     "file": "00046-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ac0010b25d0ccf4d5ee72a3",
+     "file": "00047-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ac0010d8ee395d7d6c263ad",
+     "file": "00048-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ac0010dc50141a8bfb2a0de",
+     "file": "00049-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ac0010d4281b5dd1bde0f38",
+     "file": "00050-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ac0010e8ae7e686ab85f316",
+     "file": "00051-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ac0010f193a83109b2b2aad",
+     "file": "00052-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ac0010f40c5243c03843dcf",
+     "file": "00053-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ac001103bd6d6f7cde0a71a",
+     "file": "00054-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ac00111fdec02cd788455dc",
+     "file": "00055-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ac00111a6353072874b3870",
+     "file": "00056-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ac03367defb8771431b33f0",
+     "file": "00001-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ac0336610f3dcc4110975c4",
+     "file": "00002-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ac033674954cb36d4b9d5bc",
+     "file": "00003-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ac0336825d0ccf4d5ee78e3",
+     "file": "00004-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ac0336a7765fc2a459b6ae2",
+     "file": "00005-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ac033693bd6d6f7cde0a89f",
+     "file": "00006-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ac0336a88a71e2f5206b1ef",
+     "file": "00007-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ac0336be9e3fde56d0df22d",
+     "file": "00008-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ac0336cf623c259f81a38f9",
+     "file": "00009-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ac0336c7c368cae9013803b",
+     "file": "00010-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ac0336d4d254d28e9306c99",
+     "file": "00011-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ac0336e925266d327a95af9",
+     "file": "00012-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ac0336ebc251d176852e325",
+     "file": "00013-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ac0336f62ec73b1074f8974",
+     "file": "00014-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ac033700154f2020c5cb22d",
+     "file": "00015-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ac0337157c551bb0c87b806",
+     "file": "00016-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ac033720e7d7744701db59b",
+     "file": "00018-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ac033730a2b0e578eaeb78b",
+     "file": "00020-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ac03375bafc4fd8ce6da7e1",
+     "file": "00022-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ac03376884125edc6b3476e",
+     "file": "00023-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ac03376b4fd3d800118ecb4",
+     "file": "00024-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ac03378c6a00ccd679bdf1b",
+     "file": "00025-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ac03378e4fff725a76a9aed",
+     "file": "00026-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ac033788ee395d7d6c26847",
+     "file": "00027-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ac0337bb452e764982733f5",
+     "file": "00029-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ac0337b4603b83417be2c3c",
+     "file": "00030-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ac0337d5654d81857a5a8e7",
+     "file": "00032-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ac0337d03caf3ff1e63709a",
+     "file": "00033-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ac0337ec9fffaac15e561fb",
+     "file": "00034-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ac0337f043d0eeb5ad4d9e6",
+     "file": "00035-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ac03380193a83109b2b2b79",
+     "file": "00037-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ac033814c53c4a67015134d",
+     "file": "00038-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ac03381f623c259f81a3900",
+     "file": "00039-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ac03382110cd7cc5f6bf317",
+     "file": "00040-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ac03383bafc4fd8ce6da7e8",
+     "file": "00041-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ac03383f5f28b09808db1f0",
+     "file": "00042-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ac033847d8f9610eeea05ff",
+     "file": "00044-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ac0338556c8f66d9aab39dd",
+     "file": "00045-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ac03385e9e3fde56d0df240",
+     "file": "00046-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ac0338625d0ccf4d5ee78f6",
+     "file": "00047-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ac0338756c8f66d9aab39e4",
+     "file": "00048-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ac03387902b27db4efcee23",
+     "file": "00049-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ac03388d9ddf8263be8ac97",
+     "file": "00050-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ac03388d9ddf8263be8ac99",
+     "file": "00051-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ac0338988a71e2f5206b1f6",
+     "file": "00052-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ac0338a0a2b0e578eaeb792",
+     "file": "00053-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ac0338b3fc068873bc6c0d2",
+     "file": "00055-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ac0338c6e7230f672373cf0",
+     "file": "00056-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ac0338c4c53c4a670151354",
+     "file": "00057-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ac0338cf8fce5767e6cec30",
+     "file": "00058-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ac0338de9e3fde56d0df247",
+     "file": "00059-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ac0338eb8f1d8d045279781",
+     "file": "00060-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ac0338e7c368cae90138048",
+     "file": "00061-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ac0338f5654d81857a5a8ee",
+     "file": "00062-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ac03390652d8e99615c69f8",
+     "file": "00063-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ac03390069a75b94a1ead05",
+     "file": "00064-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ac033912c333f19037228d1",
+     "file": "00065-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ac033924c53c4a67015135b",
+     "file": "00066-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ac033935649234c0b1476df",
+     "file": "00068-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ac033933f645faaa658d6fd",
+     "file": "00069-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ac033950e7d7744701db5af",
+     "file": "00070-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ac033950a2b0e578eaeb799",
+     "file": "00071-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ac03395193a83109b2b2b86",
+     "file": "00072-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ac03396f8d06ee51a0d8b0f",
+     "file": "00073-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ac033976e7230f672373cfd",
+     "file": "00074-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ac033977c368cae9013804f",
+     "file": "00075-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ac033984d254d28e9306ca6",
+     "file": "00076-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ac033996e7230f672373d04",
+     "file": "00077-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ac0339aee459cc3fa79b574",
+     "file": "00079-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ac0339baff92533fd2ffd76",
+     "file": "00080-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ac0339b1b5af4cf224dba93",
+     "file": "00081-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ac0339cfdec02cd7884568d",
+     "file": "00083-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ac0339d56c8f66d9aab39eb",
+     "file": "00084-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ac0339ee4c2be2c4c20e3e2",
+     "file": "00086-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ac0339fe4c2be2c4c20e3e9",
+     "file": "00087-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ac0339f40c5243c03843ee6",
+     "file": "00088-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ac033a02023fd2098107ac0",
+     "file": "00089-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ac033a14c53c4a670151368",
+     "file": "00090-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ac033a14d254d28e9306cad",
+     "file": "00091-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ac033a2c4da3082e3d88f82",
+     "file": "00092-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6ac033a3f623c259f81a390d",
+     "file": "00093-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6ac033a3e979be3eb4b8be66",
+     "file": "00094-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6ac033a4b452e764982733fc",
+     "file": "00095-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6ac033a43fc068873bc6c0d9",
+     "file": "00096-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6ac033a5aff92533fd2ffd7d",
+     "file": "00097-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6ac033a68ee395d7d6c2685a",
+     "file": "00098-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6ac033a6b0104b9c1a1a9d6e",
+     "file": "00100-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6ac033a7c78f8fbfbb1c3dac",
+     "file": "00101-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6ac033a856c8f66d9aab39f2",
+     "file": "00102-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6ac033a80e7d7744701db5b6",
+     "file": "00103-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6ac033a94559d85bbb42370e",
+     "file": "00104-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6ac033aa90f283c50041ab03",
+     "file": "00105-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6ac033aa7d8f9610eeea0612",
+     "file": "00106-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6ac033ab6e7230f672373d0b",
+     "file": "00107-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6ac033ac5654d81857a5a8f5",
+     "file": "00108-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6ac033ad884125edc6b34775",
+     "file": "00109-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6ac033ae012a68e51bac67f3",
+     "file": "00110-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6ac033af884125edc6b3477c",
+     "file": "00111-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6ac033afa2fa1a04d7a92643",
+     "file": "00112-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6ac033b17c368cae90138057",
+     "file": "00114-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6ac033b1e063894da06e483a",
+     "file": "00115-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6ac033b31b5af4cf224dba9a",
+     "file": "00117-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6ac033b310f3dcc4110975cb",
+     "file": "00118-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6ac033b4110cd7cc5f6bf330",
+     "file": "00119-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6ac033b5012a68e51bac67fa",
+     "file": "00120-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6ac033b6e063894da06e4841",
+     "file": "00122-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6ac033b658b4304da3e88780",
+     "file": "00123-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6ac033b7c9fffaac15e56202",
+     "file": "00124-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6ac033b87d8f9610eeea0619",
+     "file": "00125-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6ac033b9c78f8fbfbb1c3db3",
+     "file": "00127-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6ac033b9e4c2be2c4c20e3f0",
+     "file": "00128-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6ac033bbc836e17df10b7cbe",
+     "file": "00130-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6ac033bcf8d06ee51a0d8b22",
+     "file": "00131-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6ac033bc8ee395d7d6c26861",
+     "file": "00133-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6ac033bdf5f28b09808db203",
+     "file": "00134-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6ac033be193a83109b2b2b9f",
+     "file": "00135-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6ac033bedccb542c38ec7736",
+     "file": "00136-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6ac033bfd9ddf8263be8acaa",
+     "file": "00137-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6ac033c00154f2020c5cb246",
+     "file": "00139-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6ac033c17af546515529c27e",
+     "file": "00140-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6ac033c1bc251d176852e339",
+     "file": "00141-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6ac033c225d0ccf4d5ee7904",
+     "file": "00142-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6ac033c3e9e3fde56d0df254",
+     "file": "00144-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6ac033c4925266d327a95b06",
+     "file": "00145-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6ac033c45654d81857a5a902",
+     "file": "00146-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6ac033c58ee395d7d6c26868",
+     "file": "00147-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6ac033c66e7230f672373d12",
+     "file": "00148-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6ac033c67cb6738462fbccbc",
+     "file": "00149-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6ac033c785b2e9a9cbecb28f",
+     "file": "00150-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6ac033c71cde1601e6f890f1",
+     "file": "00151-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6ac033c8e9e3fde56d0df25b",
+     "file": "00152-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6ac033c9e063894da06e4848",
+     "file": "00153-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6ac033caaff92533fd2ffd84",
+     "file": "00155-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6ac033cb3f645faaa658d710",
+     "file": "00156-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6ac033cbc836e17df10b7cc5",
+     "file": "00157-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6ac033cc25d0ccf4d5ee790b",
+     "file": "00158-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6ac033cde979be3eb4b8be6d",
+     "file": "00159-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6ac033cd25d0ccf4d5ee7912",
+     "file": "00160-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6ac033cead3b31918381b124",
+     "file": "00161-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6ac033cf884125edc6b34783",
+     "file": "00162-givenchy-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:53"
+}

@@ -1,0 +1,928 @@
+{
+ "key": "spring-2026-couture__schiaparelli",
+ "url": "https://www.vogue.com/fashion-shows/spring-2026-couture/schiaparelli",
+ "season": "spring-2026-couture",
+ "seasonName": "Spring 2026 Couture",
+ "brand": "schiaparelli",
+ "brandName": "Schiaparelli",
+ "designers": "By Daniel Roseberry",
+ "eventDate": "",
+ "pubDate": "January 26, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>Haute couture is a vanishingly small club. With two new members joining the ranks this week at Christian Dior and Chanel, Schiaparelli’s Daniel Roseberry knew it was his moment to flex.</p><p>For inspiration he took a trip to Rome, where he had his first encounter with the Sistine Chapel. “I was so struck by the difference between the walls and the ceiling,” he said. “The walls were done 40 years prior by a group of artists. They were so static and controlled and rigorous, and then the ceiling is like this four-year slow motion, orgasmic thing. And I was so inspired by that release.”</p><p>The Michelangelo of couture? No, but with the cancellation of Giambattista Valli’s show, due to financial straits, and Giorgio Armani’s passing last September, Roseberry has found himself quite suddenly the metier’s “old master” at 40.</p><p>Putting a proverbial stake in the ground, he designed a dramatic collection to showcase not just Schiaparelli’s craftspeople but also his own fierce imagination. “The idea,” he said, “was to keep the rigor of the last few seasons but make it way more expressive.” Among the beautiful creatures who stalked his runway were “Isabella Blowfish,” a rigorously cut tailleur covered in spiny spikes named after the late couture collector Isabella Blow, and a pair of “Infanta Terribles,” one a bustier top, the other a fitted jacket, with almost menacing scorpion tails curving out and up from the small of the back.</p><p>Femme fleurs these were not. Other couturiers can have their flora; Roseberry prefers fauna. Elsa Schiaparelli had her own flair for animalia, of course. There was Wallis Simpson’s scandalously sheer lobster dress, and the Costume Institute at The Met owns a fur jacket designed complete with a cat head hood. Roseberry took it into new realms: a feathered wing sprouted from the back of a strapless black dress, and claws (or were they beaks?) grew from the breasts and shoulder blades of feathered jackets. His Schiaparelli draws such serious collectors because of its strangeness, the beautiful made more irresistible with a healthy soupçon of weird.</p><p>Roseberry dressed Teyana Taylor for the Golden Globes, where she picked up a Best Supporting Actress award for One Battle After Another, and she was in his audience this morning as a newly minted Oscar nominee. Taylor is the archetypal Schiap client: a daredevil extrovert for whom dressing is performance art. Case in point, she wore a reproduction of the priceless Crown Jewels stolen from the Louvre last year. If she opts to stick with Schiaparelli for the Academy Awards, a bustier gown whose profile “mimics a bird in flight” has winner written all over it.</p></div>",
+ "cover": {
+  "id": "697c7d2b281104816219213d",
+  "file": "00001-schiaparelli-spring-2026-couture-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "697c7d2b281104816219213d",
+     "file": "00001-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "697c7d2c731fa4dc9ec6ff0d",
+     "file": "00002-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "697c7d2b36d9d31b22fa1026",
+     "file": "00003-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "697c7d2ef9dc0936028080ad",
+     "file": "00004-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "697c7d2e5a57510d444d0ca5",
+     "file": "00005-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "697c7d2f3a4ae11000a40d1f",
+     "file": "00006-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "697c7d314b64c643f4cbce29",
+     "file": "00007-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "697c7d31b35b2d2f4647ca4a",
+     "file": "00008-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "697c7d31b4ab142f3513f165",
+     "file": "00009-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "697c7d34c4f69a68e3639967",
+     "file": "00010-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "697c7d346bfd7883c41dc5dc",
+     "file": "00011-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "697c7d34eeb76e7c9a491395",
+     "file": "00012-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "697c7d37d0457bf987ad3ddd",
+     "file": "00013-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "697c7d380c61c27036fbdb88",
+     "file": "00014-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "697c7d37731fa4dc9ec6ff0f",
+     "file": "00015-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "697c7d3abe46ef95e45b23e6",
+     "file": "00016-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "697c7d3bc220b52475009586",
+     "file": "00017-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "697c7d3abb2196d5ac72b11e",
+     "file": "00018-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "697c7d3d5a57510d444d0ca7",
+     "file": "00019-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "697c7d3d8af3585c99b827ae",
+     "file": "00020-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "697c7d435a57510d444d0ca9",
+     "file": "00021-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "697c7d409e38dedeba72b7b5",
+     "file": "00022-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "697c7d40eeb76e7c9a491397",
+     "file": "00023-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "697c7d435dfc44151a334238",
+     "file": "00024-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "697c7d43c533e7f93d51fb17",
+     "file": "00025-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "697c7d45da96909ce03a52b2",
+     "file": "00026-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "697c7d451d85e776c5a1d228",
+     "file": "00027-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "697c7d46d458682d955c60ee",
+     "file": "00028-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "697c7d483a4ae11000a40d21",
+     "file": "00029-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "697c7d48d458682d955c60f0",
+     "file": "00030-schiaparelli-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "698f6565aa11e855a91153dc",
+     "file": "00001-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "698f6566405bf0ca5e463d39",
+     "file": "00002-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "698f6568cdbe93976df55630",
+     "file": "00003-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "698f6569615163f241470554",
+     "file": "00004-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "698f656926e43596d5b97a31",
+     "file": "00005-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "698f656b10ddff7e99899a36",
+     "file": "00006-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "698f656b205814c064e35a6c",
+     "file": "00007-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "698f656c32956e9fd93f3005",
+     "file": "00008-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "698f656fceed63970b1bfa29",
+     "file": "00009-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "698f6565b5b7b17d0366eb80",
+     "file": "00010-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "698f656f2b01d792eb4232a2",
+     "file": "00011-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "698f656fceed63970b1bfa30",
+     "file": "00012-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "698f657203afff136ab3c3bf",
+     "file": "00013-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "698f6572cc3e7be9b85dbfef",
+     "file": "00014-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "698f6572c0e20f3612f688d9",
+     "file": "00015-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "698f657530cbe9b5588feff6",
+     "file": "00016-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "698f657578d8299c6f621ba7",
+     "file": "00017-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "698f6575205814c064e35a79",
+     "file": "00018-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "698f6578f124b1e1240ce811",
+     "file": "00019-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "698f6578c627e9b2e12d4d4c",
+     "file": "00020-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "698f657873d18457d5bd9504",
+     "file": "00021-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "698f657b932b51c385c9445f",
+     "file": "00022-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "698f6592f124b1e1240ce818",
+     "file": "00046-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "698f657b75532ecca2e9de0f",
+     "file": "00023-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "698f657b595dc36c7d38f259",
+     "file": "00024-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "698f657ecdbe93976df5563d",
+     "file": "00025-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "698f65937715592cd8ea65a9",
+     "file": "00047-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "698f657e615163f24147055b",
+     "file": "00026-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "698f657ef00403fd40cd2238",
+     "file": "00027-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "698f6581c627e9b2e12d4d59",
+     "file": "00028-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "698f658126e43596d5b97a38",
+     "file": "00029-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "698f6593c0e20f3612f688e6",
+     "file": "00048-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "698f65810e6e55a15d496bac",
+     "file": "00030-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "698f6584baa96b15a8cebf71",
+     "file": "00031-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "698f6585595dc36c7d38f260",
+     "file": "00032-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "698f6585540964213e1fa8be",
+     "file": "00033-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "698f659522e5bd84fdec3f11",
+     "file": "00049-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "698f658761469120fc27838d",
+     "file": "00034-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "698f65968fe0c5f5f43fe311",
+     "file": "00050-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "698f658726e43596d5b97a3f",
+     "file": "00035-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "698f6588615163f241470562",
+     "file": "00036-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "698f658a2d8dcc2c95c4a9b7",
+     "file": "00037-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "698f6596baa96b15a8cebf78",
+     "file": "00051-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "698f658af00403fd40cd223f",
+     "file": "00038-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "698f658b740e34441941efa3",
+     "file": "00039-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "698f658d205814c064e35a80",
+     "file": "00040-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "698f658dcdbe93976df55650",
+     "file": "00041-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "698f658d540964213e1fa8c5",
+     "file": "00042-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "698f658fc5e20555dee52f30",
+     "file": "00043-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "698f65909e4a86b49f1fb280",
+     "file": "00044-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "698f6590932b51c385c9446c",
+     "file": "00045-schiaparelli-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6977afbf14d91067a1cf071d",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_001.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6977afc0cb24b99baf06cb83",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_002.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6977afc072e07b2c0ce386f2",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_003.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6977afc16749bf18a02c4a8b",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_004.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6977afc182d4226210e7fdab",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_005.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6977afc131a6bcc8f789299d",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_006.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6977afc2bf12ccf21ab99837",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_007.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6977afc214d91067a1cf071f",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_008.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6977afc34f279ce17c149539",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_009.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6977afc45657dc3cdb7c3cb8",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_010.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6977afc4398768eafb8737a8",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_011.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6977afc4b8f85fd1f236b28e",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_012.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6977afc58526c782beb8612a",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_013.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6977afc5d86c4a1201082ad1",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_014.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6977afc63d85b6313f85bb6f",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_015.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6977afc67ed7902254fe2101",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_016.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6977afc78526c782beb8612c",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_017.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6977afc7f920f09a3cf311eb",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_018.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6977afc81fea5b908ea66861",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_019.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6977afc814d91067a1cf0721",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_020.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6977afc9185b10af37af9ba9",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_021.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6977afc95657dc3cdb7c3cba",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_022.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6977afca549c339797c8ed5d",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_023.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6977afca4f279ce17c14953b",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_024.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "6977afcbbf074a5b7d1f13c3",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_025.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "6977afcba64a1fce6777f968",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_026.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "6977afcbf920f09a3cf311ed",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_027.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "6977afcc03158b21d2bf570c",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_028.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Backstage Look 29",
+     "id": "6977afcdc4d137c9a9efcc1f",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_029.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Backstage Look 30",
+     "id": "6977afcdfd114ac1515ce3d4",
+     "file": "SCHIAPARELLI_COUTURE_SS26_BACKSTAGE_ACIELLESTYLEDUMONDE_030.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:53:06"
+}

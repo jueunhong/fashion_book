@@ -1,0 +1,202 @@
+{
+ "key": "spring-2027-ready-to-wear__gabe-gordon",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gabe-gordon",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "gabe-gordon",
+ "brandName": "Gabe Gordon",
+ "designers": "By Gabe Gordon",
+ "eventDate": "",
+ "pubDate": "September 24, 2026",
+ "authors": [
+  "Max Berlinger"
+ ],
+ "reviewHtml": "<div><p>Gabe Gordon tried things a little differently this season. First off, after collaborating with his husband Timothy Gibbons for the last few years, they took a creative break this time. Additionally, while Gordon often designs his collections around a unifying narrative, this season he took a more “free-flowing” approach to “see where it takes me.” Despite this, certain signature themes emerged, namely his interest in horror films and dolls. The latter came through research into mid-century mannequins, which led him to vintage bathing suits and then stuffed animals loved so dearly they’ve become distressed and tattered with wear. </p><p>The result was a mash-up that was typically Gordon—the sweetly pretty and the strangely off-kilter. So a virginal bobby sock cardigan with a Peter Pan collar and laced sleeves got a demented spin with wide-eyed, matted stuffed animal faces embedded at the chest. Similarly, a pair of flirty knickers became cotton-candy fluffs with their pink plushie adornments. The toys also turned up as oddball brooches or cockades of mangled faces adorned with stitches. They were as charming as they were disquieting. </p><p>Gordon studied textile design at RISD, and the core of his collection comes from knits he weaves himself on two looms in his Bushwick studio. There was an orange bathing suit-like maillot with external seaming and an open lattice-work lace at the neckline, a pale green skirt set consisting of a cropped polo and a wonky-seamed pencil skirt with just a touch of frayed underlayer peeking from the hem, and a new riff on his popular Vortex cardigan, with its pinched torso, now with a zipper in lieu of the traditional buttons. Elsewhere there were riffs on school uniforms, like a sporty jersey dress with a low-cut placket and miniskirt, a viscose-and-wool bodycon dress inspired by a varsity sweater and cardigans with a logo crest, featuring two kissing poodles and a curly G. </p><p>Altogether, the collection held an intriguing tension—ideas of adolescence rubbing up against something with a darker tinge. There was a sexiness paired with a certain strangeness that made it much more thought-provoking than, say, a baby doll dress or lacy lingerie. In that way, it possessed a cinematic strain familiar to fans of David Lynch or even John Waters. Perversity was a word that kept popping to mind, especially when looking at a super cropped sweater, a pair of bloomers, or a white knit halter dress with an unraveling hem vaguely reminiscent of Marilyn Monroe’s infamous subway frock. If there were a connective thread beyond Gordon’s love of horror, he said there was a feeling of memory throughout the collection. He pointed to his moodboard of spooky mannequin heads and shabby children’s toys. “They feel like they’re holding the history of time,” he said.</p></div>",
+ "cover": {
+  "id": "6ab58e6c0ed2b347012dd502",
+  "file": "00001-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab58e6c0ed2b347012dd502",
+     "file": "00001-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab58e6cbb458945b5d067d3",
+     "file": "00002-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab58e6c9cd9e167938567a6",
+     "file": "00003-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab58e6e4ca9db33ed4fbb27",
+     "file": "00004-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab58e6efa68a233a5094406",
+     "file": "00005-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab58e6e2a79d12c22f12005",
+     "file": "00006-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab58e704d44d052a6a76ab0",
+     "file": "00007-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab58e704d44d052a6a76ab6",
+     "file": "00008-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab58e708a326f4df3797a1a",
+     "file": "00009-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab58e7277240a31bb3ceda6",
+     "file": "00010-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab58e7299ce84538f66adc1",
+     "file": "00011-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab58e73f7b00d63f7c3d175",
+     "file": "00012-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab58e74ecf9ee9c5adbfddd",
+     "file": "00013-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab58e7475798d6d496492ff",
+     "file": "00014-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab58e7525294d7c4c11ac2d",
+     "file": "00015-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab58e760914bb0197abc9c6",
+     "file": "00016-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab58e7679901010a3d8f862",
+     "file": "00017-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab58e7677240a31bb3cedaf",
+     "file": "00018-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ab58e30ed28e05ed5a0042c",
+     "file": "00001a-gabe-gordon-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ab58e30856a53a731eb32c0",
+     "file": "00001b-gabe-gordon-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ab58e30e9e24626162fa8a7",
+     "file": "00007a-gabe-gordon-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:38"
+}

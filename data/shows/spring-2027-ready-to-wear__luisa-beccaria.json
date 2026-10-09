@@ -1,0 +1,516 @@
+{
+ "key": "spring-2027-ready-to-wear__luisa-beccaria",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/luisa-beccaria",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "luisa-beccaria",
+ "brandName": "Luisa Beccaria",
+ "designers": "By Luisa Beccaria & Lucilla Bonaccorsi",
+ "eventDate": "2026-09-23T07:30:00.000Z",
+ "pubDate": "September 23, 2026",
+ "authors": [
+  "Tiziana Cardini"
+ ],
+ "reviewHtml": "<div><p>At Milan’s Aquarium, with its leafy garden and filtered summer light, Luisa Beccaria’s Herbarium felt less like a theme than a book come to life. The collection opened like an imaginary botanical archive, with its flowers translated into color, texture, and movement. Petal-like ruffles, cutwork, appliqué, and embroidered blooms gave the clothes a sense of unfurling, while luminous organzas, liquid-looking fabrics, and sequins caught and reflected the light.</p><p>There was a pleasing dimensionality to the weightless prettiness: Dégradé mohair knits shifted from one color to another like evening skies or water, while poplins, brocades, stretch cottons, and graphic stripes provided a more grounded counterpoint. Even the swimwear was folded into the same decorative language, with retro-tinged silhouettes and matching little skirts.</p><p>The palette ventured beyond the expected garden pastels into vivid violet, watery blue, and warm brown. Lace, crochet effects, and intricate handiwork supplied the artisanal detail beneath the romance. Beccaria has always understood the pleasure of dressing up; here the pleasure was in making those clothes move, breathe, and catch the light along with the garden around them.</p></div>",
+ "cover": {
+  "id": "6ab3a79de61132e6cb2fdbc1",
+  "file": "00001-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab3a79de61132e6cb2fdbc1",
+     "file": "00001-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab3a79d2c272d27ff2ea322",
+     "file": "00002-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab3a79d6375a57126f6e269",
+     "file": "00003-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab3a7a1ca53e295a6f33b99",
+     "file": "00004-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab3a7a132bbecb4e0943495",
+     "file": "00005-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab3a7a17226303ca1536e83",
+     "file": "00006-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab3a7a690cdea95c550f823",
+     "file": "00007-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab3a7a52ab1a5522d6dc5e6",
+     "file": "00008-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab3a7a5220c72df4e3482e6",
+     "file": "00009-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab3a7a95b1cd174f1728ff9",
+     "file": "00010-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab3a7a9fd79e4f77a8e873c",
+     "file": "00011-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab3a7a95a9ef0a2d1f67431",
+     "file": "00012-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab3a7ac20d467e24d47cc1b",
+     "file": "00013-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab3a7ad470e67174cf57bdc",
+     "file": "00014-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab3a7ad41ac68e233972cf6",
+     "file": "00015-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab3a7af2a54eecdc3df49c3",
+     "file": "00016-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab3a7b032bbecb4e094349f",
+     "file": "00017-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab3a7b03485b178b73d320e",
+     "file": "00018-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab3a7b1c5e98824fcb640c0",
+     "file": "00019-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab3a7b37e0434cedbdea9e0",
+     "file": "00020-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab3a7b322b59d6e8df2a03b",
+     "file": "00021-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab3a7b462afe80493d2465d",
+     "file": "00022-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab3a7b67226303ca1536e8a",
+     "file": "00023-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab3a7b7220c72df4e3482f0",
+     "file": "00024-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab3a7b741ac68e233972d03",
+     "file": "00025-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab3a7b9d5a7e278bc3a7eb3",
+     "file": "00026-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab3a7b9d4439b01adb1d1ca",
+     "file": "00027-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab3a7baca53e295a6f33ba0",
+     "file": "00028-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab3a7bb739fb9f3cbe4e3b1",
+     "file": "00029-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab3a7bccae34159d4a4ffde",
+     "file": "00030-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab3a7bd8623499d724ed250",
+     "file": "00031-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab3a7bec262729c61b599ba",
+     "file": "00032-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab3a7bf9c006cc96f0265b6",
+     "file": "00033-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab3a7c0a08edad548cb036e",
+     "file": "00034-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab3a7c1d4439b01adb1d1d1",
+     "file": "00035-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab3a7c2ec5f4cfa18deb631",
+     "file": "00036-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab3a7c2addc67abd613eb04",
+     "file": "00037-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab3a7c3dbce94314f954f49",
+     "file": "00038-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab3a7c5165cd105d2a6a3e9",
+     "file": "00039-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab3a7c6629dd7e86da7d70a",
+     "file": "00040-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab3a7c6b3f885941cf234e4",
+     "file": "00041-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab3a7c8220c72df4e3482f7",
+     "file": "00042-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab3a7c92586e6b46d452a9f",
+     "file": "00043-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab3a7c968afeb135b173fcd",
+     "file": "00044-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab3a7caf41ca128cf5012a1",
+     "file": "00045-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab3a7cc4b65c2e6d3acdb58",
+     "file": "00046-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab3a7cd2baadf60c10b9450",
+     "file": "00047-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab3a7cd33ff9718f0588303",
+     "file": "00048-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab3a7cec383023125f594d6",
+     "file": "00049-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab3a7d0012f42ecefd7e4f1",
+     "file": "00050-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab3a7d020d467e24d47cc2e",
+     "file": "00051-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab3a7d19c006cc96f0265c3",
+     "file": "00052-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab3a7d3cb55dc083d4afc7c",
+     "file": "00053-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab3a7d32a54eecdc3df49cd",
+     "file": "00054-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab3a7d433ff9718f058830a",
+     "file": "00055-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab3a7d5012f42ecefd7e4f8",
+     "file": "00056-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab3a7d6ddd57250e5eb3b04",
+     "file": "00057-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab3a7d73485b178b73d3221",
+     "file": "00058-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab3a7d8d4439b01adb1d1d8",
+     "file": "00059-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab3a7d937270f010604817b",
+     "file": "00060-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab3a7daa08edad548cb0375",
+     "file": "00061-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:17:06"
+}

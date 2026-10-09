@@ -1,0 +1,252 @@
+{
+ "key": "spring-2027-ready-to-wear__durazzi",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/durazzi",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "durazzi",
+ "brandName": "Durazzi",
+ "designers": "By Ilenia Durazzi",
+ "eventDate": "",
+ "pubDate": "September 23, 2026",
+ "authors": [
+  "Tiziana Cardini"
+ ],
+ "reviewHtml": "<div><p>For Ilenia Durazzi a collection extends beyond the clothes to include the people and creative exchanges around them. Her seasonless mood board featured women whose personality and independence transcend time, as well as women who actually wear Durazzi: friends, artists, and other members of her creative circle.</p><p>That community has a physical home at The Atrium, Durazzi’s Milan space, which has become part exhibition, part studio, part residency this season. Artists occupied different corners, creating small autonomous worlds. Durazzi was less curator than host, allowing different languages to coexist and occasionally collide. The program will continue with exhibitions, a book fair, and other projects throughout the year.</p><p>The Atrium made for an apt setting for Assemblage, the collection’s title. The idea appeared in the clothes and the prints—a new departure for the brand. In burgundy and icy tones, fragments were drawn from the artists’ environments while remaining entirely designed in-house. “We don’t use art as decoration,” Durazzi said. The clothes are meant to amplify the wearers, rather than turn them into a walking exhibition.</p><p>Her established codes—equestrian references, leather, tailoring, uniforms—were similarly lightened for summer. Fluid silk contrasted with exceptionally thin nappa; raw-edged eel skins created subtle relief; reworked silk mimicked leather’s texture without the weight. Tailoring was long and lean, with seams and construction left just visible enough. A gilet was separated from a jacket; harnesses and straps detached and reappeared elsewhere.</p><p>A small men’s offering translated the same codes into softer tailoring, Texan boots, cutouts, and two-tone treatments. The shirt-jacket, a recurring staple, captured a softened, relaxed approach to tailoring that can be worn loose, sleeves rolled, or reconfigured. It recalls an earlier Durazzi gesture in which jackets were secured with leather straps, an incidental detail that has gradually become a code.</p><p>If assemblage is ultimately about putting disparate things together, Durazzi’s proposition was less about accumulation and more about controlled coexistence: Different materials, disciplines, references, and personalities share the same space without overpowering one another. These clothes left room for the person wearing them, which may be their most sophisticated construction of all.</p></div>",
+ "cover": {
+  "id": "6ab3e1dd75a8286d88b7a813",
+  "file": "00001-durazzi-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab3e1dd75a8286d88b7a813",
+     "file": "00001-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab3e1dd69056719069270ea",
+     "file": "00002-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab3e1dddf91bde353709831",
+     "file": "00003-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab3e1dfdbce94314f9550a6",
+     "file": "00004-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab3e1de8623499d724ed31d",
+     "file": "00005-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab3e1dfe1dd8e43704d389f",
+     "file": "00006-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab3e1e0c85088c57cbd716c",
+     "file": "00007-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab3e1e100016084df7733b3",
+     "file": "00008-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab3e1e12de19bf7e3d737bb",
+     "file": "00009-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab3e1e2aa3666e810e23c75",
+     "file": "00010-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab3e1e2e1dd8e43704d38a5",
+     "file": "00011-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab3e1e4ce4c8e686d648bc5",
+     "file": "00012-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab3e1e4e374beeeafec6db0",
+     "file": "00013-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab3e1e5cb7ec6d5f192e548",
+     "file": "00014-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab3e1e6629dd7e86da7d833",
+     "file": "00015-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab3e1e6a08edad548cb04e8",
+     "file": "00016-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab3e1e7d5a7e278bc3a8ae0",
+     "file": "00017-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab3e1e8d992ab7f0f226b1f",
+     "file": "00018-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab3e1e820d467e24d47ce31",
+     "file": "00019-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab3e1e9183dc0e007957901",
+     "file": "00020-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab3e1ea5b1cd174f17290ed",
+     "file": "00021-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab3e1eaca53e295a6f33cac",
+     "file": "00022-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab3e1ea2c272d27ff2ea476",
+     "file": "00023-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab3e1ec4b65c2e6d3acdcad",
+     "file": "00024-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab3e1ecca53e295a6f33cb2",
+     "file": "00025-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab3e1ec960621234e4f8123",
+     "file": "00026-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab3e1ee629dd7e86da7d839",
+     "file": "00027-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab3e1eed5a7e278bc3a8ae6",
+     "file": "00028-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:30"
+}

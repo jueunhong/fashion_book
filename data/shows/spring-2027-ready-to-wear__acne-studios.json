@@ -1,0 +1,1226 @@
+{
+ "key": "spring-2027-ready-to-wear__acne-studios",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/acne-studios",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "acne-studios",
+ "brandName": "Acne Studios",
+ "designers": "By Jonny Johansson",
+ "eventDate": "2026-09-30T16:30:00.000Z",
+ "pubDate": "September 30, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>When Jonny Johansson is at work, he sometimes finds himself thinking about the <em>Vasa,</em> a spectacularly appointed warship designed to transmit the magnificence and power of Sweden to an awestruck wider world. Unfortunately the <em>Vasa</em> sailed less than a mile in Stockholm harbor on her maiden voyage in 1628 before a gust of wind tipped her over. She sank.</p><p>Acne Studios, though, is no <em>Vasa</em>: It’s been sailing through fashion’s perilous waters for 30 years without ever going down. Johansson, however, seems prone to procatalepsis. He said, “I think about us sometimes when we go here [Paris]. I’m like, Are we going here like a ship trying to bleed out creativity?”</p><p>This collection was entitled Denim Hystoria, and worked to enmesh Acne’s own history with a broader survey of the past. London’s New Romantics (with Adam Ant on the soundtrack) were the subcultural spark that ignited that collision. “I started pulling the basic idea of a pair of five-pocket jeans, 1996, first jeans, with a historic dress,” said Johansson. “That’s the tension I was going for.”</p><p>There were jaunty puffed skirts and open-back peplums; smocked tops; tiny cropped caban jackets that exposed plenty of lower back; pink leather capri pants; cute, cropped breeches; and long trenches pulled together with double belts. Denim was manipulated into epauletted low-slung coats, strapped boots, and Rococo-ish jeans bearing fragments of historical imagery. Some treated green denim came curled and strapped around the body, while crushed cutesy-floral leather and brocade trousers pushed the historical materiality further.</p><p>Cameo-like portrait brooches were pinned onto lapels; high boots with cuffed shafts came in blowsy, mumsy florals; satin shoes were ostentatiously ribboned and buckled. There was a buccaneering, musketeering air to some of it—rapier wit, stirring horns, jostling boots, “gadzooks”—helped along by the extract from “Prince Charming” in Frédéric Sanchez’s soundtrack. Rib-knit underwear, knickers, and argyle leggings created further fracas.</p><p>Some looks seemed purposefully overboard: a lot of elements competing for the same patch of deck. But the skirt-over-jean crux of it was a novel bit of rigging you could see translating into a high-velocity product for all-aboard Acne-philes.</p></div>",
+ "cover": {
+  "id": "6abe4040090fd8150d0e4f7d",
+  "file": "00001-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abe4040090fd8150d0e4f7d",
+     "file": "00001-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abe4040ff70a1606ea4a77a",
+     "file": "00002-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abe4040f0c0ebd3410d51c6",
+     "file": "00003-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abe4042d3d65afcb2ae6478",
+     "file": "00004-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abe4043531180ce5b047fb6",
+     "file": "00005-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abe40434685a1dfd0f3e424",
+     "file": "00006-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abe4045f1ed2146ff9bbdff",
+     "file": "00007-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abe404505cdb880c85228be",
+     "file": "00008-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abe4046a63d40803b343df8",
+     "file": "00009-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abe4048ac49a16ce3a024c6",
+     "file": "00010-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abe40487716ecf0a95a0f12",
+     "file": "00011-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abe40485710bdd87b1c3a95",
+     "file": "00012-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abe404a5b248ac2000fad2c",
+     "file": "00013-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abe404b296caf17f1e1c21f",
+     "file": "00014-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abe404b05cdb880c85228c4",
+     "file": "00015-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abe404de8fbc7f8edaf6259",
+     "file": "00016-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abe404e673fa17f917397ff",
+     "file": "00017-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abe404edfa7af4660237b39",
+     "file": "00018-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abe4050d92fde31dccb73f8",
+     "file": "00019-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abe4050f0541dce55a9d67e",
+     "file": "00020-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abe40515dd7e62d38b728c4",
+     "file": "00021-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abe4052673fa17f91739805",
+     "file": "00022-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abe40534bb07e53ea81ae73",
+     "file": "00023-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abe4053cd062db23eb7f372",
+     "file": "00024-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abe4055d92fde31dccb73fe",
+     "file": "00025-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abe4056c4dc846ba16b1cc3",
+     "file": "00026-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abe40567e195b25978940cf",
+     "file": "00027-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abe40585dd7e62d38b728ca",
+     "file": "00028-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abe4059aa86f33c3f41be6c",
+     "file": "00029-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abe405930d90c19e5186fcd",
+     "file": "00030-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6abe405a7ffcbbad709748c3",
+     "file": "00031-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6abe405b89239e8fc763adc9",
+     "file": "00032-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6abe405b31bca91f8690d0da",
+     "file": "00033-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6abe405dcce01410956006b5",
+     "file": "00034-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6abe405ebf7f6962493b04f9",
+     "file": "00035-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6abe405edaaf5bd02522c86e",
+     "file": "00036-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6abe406020318f4ea39b2dbd",
+     "file": "00037-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6abe4061a63d40803b343dfe",
+     "file": "00038-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6abe40617d8f9610eee9f290",
+     "file": "00039-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6abe4063ac49a16ce3a024cc",
+     "file": "00040-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6abe4063aa86f33c3f41be75",
+     "file": "00041-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6abe4064bd344835c739c3d2",
+     "file": "00042-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6abe4066583205de58e661ef",
+     "file": "00043-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6abe40665dd7e62d38b728d5",
+     "file": "00044-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6abe4067e4c2be2c4c20d315",
+     "file": "00045-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6abe40697147f71ff9bd85f7",
+     "file": "00046-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6abe40697d8f9610eee9f296",
+     "file": "00047-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6abe40697ffcbbad709748cc",
+     "file": "00048-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6abe406b7470eea9d43471be",
+     "file": "00049-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6abe406ce8fbc7f8edaf6267",
+     "file": "00050-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6abecfaec4dc846ba16b21f7",
+     "file": "00001-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6abecfaed3d65afcb2ae6be2",
+     "file": "00002-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6abecfaf4559d85bbb422cce",
+     "file": "00003-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6abecfb2cce0141095600ec0",
+     "file": "00004-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6abecfb2f1ed2146ff9bc2a9",
+     "file": "00005-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6abecfb25b248ac2000fb673",
+     "file": "00006-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6abecfb46144f6d78ca34900",
+     "file": "00007-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6abecfb5b9a995b39e89b085",
+     "file": "00008-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6abecfb4ac49a16ce3a026fb",
+     "file": "00009-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6abecfb73f823812fe60452d",
+     "file": "00010-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6abecfb7ca8466327ca7817f",
+     "file": "00011-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6abecfb739afb34b58435b08",
+     "file": "00012-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6abecfb89d8dc3773e997241",
+     "file": "00013-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6abecfb96144f6d78ca34907",
+     "file": "00014-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6abecfba88a71e2f5206a7f2",
+     "file": "00015-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6abecfbbe4fff725a76a9020",
+     "file": "00016-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6abecfbc10f3dcc411096afe",
+     "file": "00017-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6abecfbc4361eef7cafa478d",
+     "file": "00018-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6abecfbd7edd852f65a59596",
+     "file": "00019-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6abecfbfc4dc846ba16b21fe",
+     "file": "00020-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6abecfbf7ffcbbad70974be3",
+     "file": "00021-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6abecfbfd3d65afcb2ae6be9",
+     "file": "00022-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6abecfc2ccc8aed07815108d",
+     "file": "00023-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6abecfc24fc772951d0c7028",
+     "file": "00024-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6abecfc21b5af4cf224dad75",
+     "file": "00025-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6abecfc57d8f9610eee9f55b",
+     "file": "00026-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6abecfc5d3d65afcb2ae6bf0",
+     "file": "00027-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6abecfc597c919e9a0471f43",
+     "file": "00028-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6abecfc74361eef7cafa4794",
+     "file": "00029-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6abecfc8959a03b459dd3559",
+     "file": "00030-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6abecfc8b7fd5e578c356373",
+     "file": "00031-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6abecfcacce0141095600ecd",
+     "file": "00032-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6abecfca39afb34b58435b0f",
+     "file": "00033-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6abecfcb68443385db46f251",
+     "file": "00034-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6abecfcd7ffcbbad70974bea",
+     "file": "00035-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6abecfcd6144f6d78ca3490e",
+     "file": "00036-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6abecfcd53efe3f692efa2b9",
+     "file": "00037-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6abecfcf97c919e9a0471f4a",
+     "file": "00038-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6abecfcf9d36649374680efd",
+     "file": "00039-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6abecfcf7edd852f65a5959d",
+     "file": "00040-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6abecfd1ccc8aed07815109a",
+     "file": "00041-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6abecfd2a7700e12f5376a0a",
+     "file": "00042-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6abecfd2c423b79d06c14a6b",
+     "file": "00043-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6abecfd44685a1dfd0f3eab5",
+     "file": "00044-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6abecfd45654d81857a59af1",
+     "file": "00045-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6abecfd4f8d06ee51a0d7bbf",
+     "file": "00046-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6abecfd772607c21ab0587e6",
+     "file": "00047-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6abecfd7ccc8aed0781510a1",
+     "file": "00048-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6abecfd7a7700e12f5376a11",
+     "file": "00049-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6abecfd9090fd8150d0e55b8",
+     "file": "00050-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6abecfd935af9189e6d1ec7f",
+     "file": "00051-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6abecfda3f823812fe60453a",
+     "file": "00052-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6abecfdc3fc068873bc6ac4b",
+     "file": "00053-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6abecfdcf8d06ee51a0d7bc6",
+     "file": "00054-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6abecfdc4f1c0f88032a8298",
+     "file": "00055-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6abecfde5b248ac2000fb67a",
+     "file": "00056-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6abecfdeebbd62f2073b0ee6",
+     "file": "00057-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6abecfdfd9ddf8263be89de2",
+     "file": "00058-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6abecfe120318f4ea39b3168",
+     "file": "00059-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6abecfe1b4b9d8db80b306a8",
+     "file": "00060-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6abecfe26144f6d78ca34915",
+     "file": "00061-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6abecfe410f3dcc411096b11",
+     "file": "00062-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6abecfe41b5af4cf224dad7c",
+     "file": "00063-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6abecfe468443385db46f25e",
+     "file": "00064-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6abecfe753efe3f692efa2c0",
+     "file": "00065-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6abecfe7dfa7af4660237f17",
+     "file": "00066-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6abecfe7090fd8150d0e55bf",
+     "file": "00067-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6abecfead348857ed480cda7",
+     "file": "00068-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6abecfeadaaf5bd02522cbbc",
+     "file": "00069-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6abecfeaa7700e12f5376a1e",
+     "file": "00070-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6abecfed0154f2020c5ca986",
+     "file": "00071-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6abecfed7470eea9d4347b39",
+     "file": "00072-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6abecfedff70a1606ea4abc6",
+     "file": "00073-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6abecfef531180ce5b04847f",
+     "file": "00074-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6abecff46144f6d78ca3491c",
+     "file": "00075-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6abecff09d36649374680f04",
+     "file": "00076-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6abecff4a63d40803b344186",
+     "file": "00077-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6abecff3b7fd5e578c356380",
+     "file": "00078-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6abecff57470eea9d4347b40",
+     "file": "00079-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6abecff6fdb0d10cd3611dd1",
+     "file": "00080-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6abecff77ac7546ee0fb54ef",
+     "file": "00081-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6abecff74c64fb3a21fa205e",
+     "file": "00082-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6abecff931bca91f8690d4ed",
+     "file": "00083-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6abecffac423b79d06c14a77",
+     "file": "00084-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6abecffa7d8f9610eee9f562",
+     "file": "00085-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6abecffb4361eef7cafa47a1",
+     "file": "00086-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6abecffe7470eea9d4347b47",
+     "file": "00088-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6abed00148f0b2d20bb18940",
+     "file": "00087-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6abed001aa86f33c3f41c0c5",
+     "file": "00089-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6abed0009d8dc3773e997254",
+     "file": "00090-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6abed003959a03b459dd3560",
+     "file": "00091-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6abed00339afb34b58435b1c",
+     "file": "00092-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6abed0048ab75efcb4d262c3",
+     "file": "00093-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6abed005ff70a1606ea4abd3",
+     "file": "00094-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6abed006daaf5bd02522cbc9",
+     "file": "00095-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6abed0084f1c0f88032a829f",
+     "file": "00096-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6abed007dfa7af4660237f1e",
+     "file": "00097-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6abed009ac49a16ce3a02702",
+     "file": "00098-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6abed009f43a22b23bbdf130",
+     "file": "00099-acne-studios-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:09:41"
+}

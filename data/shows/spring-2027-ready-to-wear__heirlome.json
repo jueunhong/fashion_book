@@ -1,0 +1,324 @@
+{
+ "key": "spring-2027-ready-to-wear__heirlome",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/heirlome",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "heirlome",
+ "brandName": "Heirlome",
+ "designers": "By Stephanie Suberville",
+ "eventDate": "2026-09-15T14:00:00.000Z",
+ "pubDate": "September 15, 2026",
+ "authors": [
+  "Joan Kennedy"
+ ],
+ "reviewHtml": "<div><p>Each season, Stephanie Suberville—born in Monterrey, Mexico, and based in New York City—collaborates with a Mexican artisan. The designer is precise in her approach, sifting through the official list of Grandes Maestros del Arte Popular Mexicano, traveling and forging relationships. She produces each piece in a limited run that she promises not to recut, both so artisans don’t feel she owns their work and to create a sense of get-it-while-you-can specialness. For spring 2027—at the insistence of his daughter, Maricarmen Jiménez—she returned to the work of Oaxacan alebrije craftsman Angélico Jiménez, with whom she had collaborated for fall 2024 on a series of prints inspired by the creatures’ carved and painted bodies.</p><p>Shortly after Angélico’s work was delivered to stores, he passed away. Maricarmen is now taking up his mantle and trying to secure master artisan status herself. Rather than carving in cedar like her father, she’s chosen copal, a tree that has deep meaning for her Zapotec community.</p><p>“[She said,] ‘My dad was a feminist, and there’s not a lot of artisans that are female in the area—he wanted me to succeed,’” said Suberville, who agreed to reuse the print with her blessing if she also created her own. It was Suberville’s first runway show, so it felt right to revisit an earlier collection and share the moment, given the role partnership plays in her own brand building.</p><p>Mariacarmen created a more diminutive, dimensional version. For one look, a shirt in her print was layered beneath her father’s, poking out at the collar and cuffs. Suberville often animates her clothes with tassels and texture; this time the way they bounced down the runway mirrored the hypnotizing nature of the Jimenezes’ fantastical carved creatures. She added a twist to the base of the tassel to allude to the snakes around the neck of a goddess who popped out of a copal tree cut down by Spanish conquistadors, according to a Oaxacan legend. A few boxy skirt looks took cues from the huipil. Suberville knows how to create shapes that convey fluidity and ease, as evidenced by a black silk trouser and top. She included several knitwear and crochet pieces as part of her ongoing collaboration with the Bolivian women’s artisan collective Madres &amp; Artesanas Tex.</p><p>This time she fleshed out Heirlome’s offer with denim because she noticed people were naturally pairing her tops with it. Suberville’s approach to clothing is detailed and intentional—which made the collection feel tightly tethered together. But she’s also guided by feeling: “A lot of it is intuitive,” she said.</p></div>",
+ "cover": {
+  "id": "6aa981b773e408aa3747e0c9",
+  "file": "00001-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa981b773e408aa3747e0c9",
+     "file": "00001-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa981b7c6ce7cc6f94a4fa8",
+     "file": "00002-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa981b7f367786d76da4f99",
+     "file": "00003-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa981b92b9868797b887fa1",
+     "file": "00004-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa981b923942f3aed4502a5",
+     "file": "00005-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa981b9d6fbb747916601cf",
+     "file": "00006-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa981bc57c782df275703b2",
+     "file": "00007-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa981bc4ebf513e3991cdb6",
+     "file": "00008-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa981bd6d92aadd4b1b56ef",
+     "file": "00009-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa981bf4ebf513e3991cdbe",
+     "file": "00010-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa981bfa2a2f46eaa3be93b",
+     "file": "00011-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa981bfc9409921dd65b9aa",
+     "file": "00012-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa98216f367786d76da4fb3",
+     "file": "00013-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa981c2c9409921dd65b9b1",
+     "file": "00014-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa9821625301ef4d522b499",
+     "file": "00015-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa981c51a6aa79202cbe262",
+     "file": "00016-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa981c54ebf513e3991cdcc",
+     "file": "00017-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa981c5b7726e5fdfe60c10",
+     "file": "00018-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa981c76d92aadd4b1b56f6",
+     "file": "00019-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa981c772b110d2d4cd2cc5",
+     "file": "00020-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa981c9947c2b355365a2d8",
+     "file": "00021-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa981ca2dc8b924e37e6ebf",
+     "file": "00022-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa981ca947c2b355365a2df",
+     "file": "00023-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa981cba5f56b8a70540896",
+     "file": "00024-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa981ccf367786d76da4fa0",
+     "file": "00025-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa981ccc9409921dd65b9be",
+     "file": "00026-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa98da04ebf513e3991ce71",
+     "file": "00027-heirlome-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa981ce65480a8419078c31",
+     "file": "00028-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa981cec42ddc7f7984b6ca",
+     "file": "00029-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa981cf16b3f3103d2329a9",
+     "file": "00030-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa981d0330c9941b92fc7ab",
+     "file": "00031-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa981d0947c2b355365a2e6",
+     "file": "00032-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa981d123942f3aed4502b2",
+     "file": "00033-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa981d357c782df275703b9",
+     "file": "00034-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa981d3b7726e5fdfe60c20",
+     "file": "00035-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa981d3d3ed9f255c9963f2",
+     "file": "00036-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa981d5b7726e5fdfe60c27",
+     "file": "00037-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:15:07"
+}

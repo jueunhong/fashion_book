@@ -1,0 +1,388 @@
+{
+ "key": "spring-2027-ready-to-wear__monse",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/monse",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "monse",
+ "brandName": "Monse",
+ "designers": "By Fernando Garcia & Laura Kim",
+ "eventDate": "2026-09-11T21:00:00.000Z",
+ "pubDate": "September 11, 2026",
+ "authors": [
+  "Alexandra Hildreth "
+ ],
+ "reviewHtml": "<div><p>It was Monse’s grand return to the runway for the first time since co-designers Laura Kim and Fernando Garcia departed Oscar de la Renta, and they certainly pulled out all the stops. Perched inside the very sunny glass dome atop the old Domino Sugar factory, the sweeping space provided a dramatic backdrop for swinging fringe jackets, delicate sheer organza sets, a crescendoing choir of “Like a Prayer,” and a drone buzzing overhead.</p><p>Many seasons of Monse have begun with a flower, and for spring, Kim opted for the tulip—specifically, a purple and white variation from Amsterdam. Its relaxed, wayward stem and bright petals floated across a large majority of the collection. “There’s something so beautiful about how this kind of tulip is caused by a virus,” she said, referring to the “broken” color effect. As in fashion, some things require a bit of extra engineering.</p><p>If flowers were the focus, they were represented in literal abundance from the 3D halter neck of a dress to a graphic print to the embroidery on a sweater. More abstractly, tulips were interpreted across the opening looks using the backside of a special green-and-pink textile the designers developed at Lake Como. There was still a dash of suiting with asymmetrical lapels or, more successfully, in a sheer brown skirt suit with Barbie pink underwear underneath. The kinetic fringe on a striped button-down shirt and a brown workwear jacket gave some fun movement. Monse is back in the swing of things.</p></div>",
+ "cover": {
+  "id": "6aa4997abe989299f899b7f2",
+  "file": "00001-monse-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa4997abe989299f899b7f2",
+     "file": "00001-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa4997a5ae80cd1c546d91c",
+     "file": "00002-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa4997a53a8a9db8c96ce2b",
+     "file": "00003-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa4997dbe989299f899b7f9",
+     "file": "00004-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa4997d251b042262c62f10",
+     "file": "00005-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa4997dd4a0661153cfd26d",
+     "file": "00006-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa4997f373ec98caa977ec0",
+     "file": "00007-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa49980139ff545046e5e29",
+     "file": "00008-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa4998014cb858763488a05",
+     "file": "00009-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa4998286e33d8f0edde0ee",
+     "file": "00010-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa499821a7e8ad41083b2aa",
+     "file": "00011-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa499831e877cdd507f16c1",
+     "file": "00012-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa49984d4a0661153cfd27d",
+     "file": "00013-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa499850597a1723a885096",
+     "file": "00014-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa499844c6acbb5b95501e8",
+     "file": "00015-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa49987c3d42955bbcc3253",
+     "file": "00016-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa499861e552c9c6109be07",
+     "file": "00017-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa49987f7c57b5f8f83fd85",
+     "file": "00018-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa49988d4a0661153cfd287",
+     "file": "00019-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa499893c9c6773157dab0b",
+     "file": "00020-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa4998a53a8a9db8c96ce38",
+     "file": "00021-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa4998b5ae80cd1c546d923",
+     "file": "00022-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa4998bb8a3399f810d097a",
+     "file": "00023-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa4998cb8a3399f810d0981",
+     "file": "00024-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa4998d5ae80cd1c546d92c",
+     "file": "00025-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa4998d67fe11be1afa9730",
+     "file": "00026-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa4998e67fe11be1afa9737",
+     "file": "00027-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa4998ff7c57b5f8f83fd8f",
+     "file": "00028-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa4998f67fe11be1afa9741",
+     "file": "00029-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa49990be989299f899b80f",
+     "file": "00030-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa499919c7fdcf335a5da7d",
+     "file": "00031-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa49992e8b2e8d41760745a",
+     "file": "00032-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa49993f54ec4b21064b387",
+     "file": "00033-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa4999453a8a9db8c96ce3f",
+     "file": "00034-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa49994b8a3399f810d098b",
+     "file": "00035-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa49995139ff545046e5e39",
+     "file": "00036-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa499963c9c6773157dab12",
+     "file": "00037-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa49998be989299f899b816",
+     "file": "00038-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa49997b8a3399f810d0992",
+     "file": "00039-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa49998be989299f899b81d",
+     "file": "00040-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa49999e0820bb324a90392",
+     "file": "00041-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa4999ab8a3399f810d0999",
+     "file": "00042-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa4999b3c9c6773157dab1c",
+     "file": "00043-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa4999bf54ec4b21064b38e",
+     "file": "00044-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa4999cc3b02680d15f9313",
+     "file": "00045-monse-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:18:25"
+}

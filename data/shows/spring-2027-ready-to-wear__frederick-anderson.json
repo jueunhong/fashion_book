@@ -1,0 +1,436 @@
+{
+ "key": "spring-2027-ready-to-wear__frederick-anderson",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/frederick-anderson",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "frederick-anderson",
+ "brandName": "Frederick Anderson",
+ "designers": "By Frederick Anderson",
+ "eventDate": "2026-09-15T19:00:00.000Z",
+ "pubDate": "September 15, 2026",
+ "authors": [
+  "Christian Allaire"
+ ],
+ "reviewHtml": "<div><p>Shortly before Frederick Anderson unveiled his spring 2027 collection today, he welcomed singer Allison Russell to sing an opening song on the runway. The Grammy winner performed one of her biggest hits, “Eve Was Black”: “Eve was Black, haven’t you heard? / The mother of all was dark and good.”</p><p>This was an intentional opening, of course: This summer, Anderson found himself grappling with America’s 250th anniversary, and he saw an opportunity to use his fashion as a means of empowerment and uplifting—just like Russell’s song. “I started thinking about why people weren’t excited about America’s 250,” he said. “It’s because we’re going in the reverse of all the ideals that this country was founded on. This country was founded upon immigrants: I wanted to look at American fashion from my lens, looking at references of Indigenous and African style.”</p><p>Pillars of these cultural motifs could be found sprinkled into his collection: There were beautiful embroideries, of course, and intricate uses of natural fabrics such as raffia and silk. For a designer who typically uses a lot of black—or, to the contrary, veers supercolorful—this was an atypically earthy collection for Anderson, grounded in browns, greens, and blues. “I liked the idea of playing in my ‘garden’—and all the rich cultures who built it,” he said. These inclinations toward more organic and grounded feelings—like the use of sprightly florals, or the knit crochets—played out perfectly for spring. One of his opening looks was a pink floral-print silk jumpsuit, and the model even carried a huge bag of fresh hydrangeas along with her—as though she’d just come back from the farmers market.</p><p>Anderson’s more glamorous takes on natural motifs shined even more, mostly because he is at his best when he leans extravagant. His blush ball skirts came adorned with strips of raffia, styled with chic white short-sleeve blouses. Or there was the cherry red knit two-piece set, totally sheer and laced-up on the top, but covered in all the right areas. Anderson’s work so often revolves around texture play, and it was interesting to see how he mashed up dainty lace tops with tapestry-style brocade trousers, too, even though it’s not necessarily a combo that anyone and everyone would want to try.</p><p>The designer concluded the show with a series of clean, all-white looks. They included a moment of levity—the slip dress with fringed tassels all over it—and a more intricate deep-V dress, with a skirt made of cascading flower stems and petals. This was Anderson trying to end things on an optimistic note—especially as one looks ahead to America’s next 250 years. “It was about purity,” he said of the grand finale.”There’s always a way to rebound, and to look forward at the future.”</p></div>",
+ "cover": {
+  "id": "6aa9b82a330c9941b92fd118",
+  "file": "00001-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa9b82a330c9941b92fd118",
+     "file": "00001-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa9b8274ebf513e3991d586",
+     "file": "00002-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa9b82959223886b378e634",
+     "file": "00003-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa9b82c8b6cfaaed73948b4",
+     "file": "00004-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa9b82d947c2b355365ac68",
+     "file": "00005-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa9b830f367786d76da58b1",
+     "file": "00006-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa9b8322dc8b924e37e7473",
+     "file": "00007-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa9b832677112612d701bdb",
+     "file": "00008-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa9b83659223886b378e63b",
+     "file": "00009-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa9b83a947c2b355365ac6f",
+     "file": "00010-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa9b839677112612d701be5",
+     "file": "00011-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa9b83a8b6cfaaed73948bb",
+     "file": "00012-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa9b840c9409921dd65c248",
+     "file": "00013-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa9b840a5f56b8a70541197",
+     "file": "00014-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa9b841a2a2f46eaa3bef90",
+     "file": "00015-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa9b846c42ddc7f7984bfc1",
+     "file": "00016-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa9b847c42ddc7f7984bfc8",
+     "file": "00017-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa9b8474304fa45551a4028",
+     "file": "00018-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa9b84bc42ddc7f7984bfcf",
+     "file": "00019-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa9b84da2a2f46eaa3bef97",
+     "file": "00020-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa9b84e4ebf513e3991d590",
+     "file": "00021-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa9b8514304fa45551a402f",
+     "file": "00022-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa9b8539d99ebd123a938b0",
+     "file": "00023-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa9b854330c9941b92fd122",
+     "file": "00024-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa9b857c6ce7cc6f94a5552",
+     "file": "00025-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa9b85863969b1f753995d4",
+     "file": "00026-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa9b859a5f56b8a705411a4",
+     "file": "00027-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa9b85b677112612d701bec",
+     "file": "00028-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa9b85d73e408aa3747e836",
+     "file": "00029-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa9b8651a6aa79202cbedd6",
+     "file": "00030-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa9b8651a6aa79202cbeddb",
+     "file": "00031-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa9b863a6558a6a8601433b",
+     "file": "00032-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa9b86873e408aa3747e83d",
+     "file": "00033-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa9b86ef367786d76da58c1",
+     "file": "00034-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa9b86ec2a8f49f79f5e9cf",
+     "file": "00035-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa9b86e72b110d2d4cd31da",
+     "file": "00036-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa9b871330c9941b92fd129",
+     "file": "00037-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa9b871677112612d701bf6",
+     "file": "00038-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa9b8712b9868797b88833c",
+     "file": "00039-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa9b873b7726e5fdfe615aa",
+     "file": "00040-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa9b8738ed9cc92eb3def7b",
+     "file": "00041-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa9b87325301ef4d522bf7c",
+     "file": "00042-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa9b875e3d4f7c4f163d81f",
+     "file": "00043-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa9b8759d99ebd123a938bd",
+     "file": "00044-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa9b8762dc8b924e37e747d",
+     "file": "00045-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa9b8774ebf513e3991d5a0",
+     "file": "00046-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aa9b877a6558a6a86014345",
+     "file": "00047-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6aa9b878c9409921dd65c250",
+     "file": "00048-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6aa9b8792b9868797b88834c",
+     "file": "00049-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6aa9b879947c2b355365ac7f",
+     "file": "00050-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6aa9b87ac2a8f49f79f5e9d6",
+     "file": "00051-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:37"
+}

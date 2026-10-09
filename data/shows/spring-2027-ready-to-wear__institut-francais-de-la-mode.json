@@ -1,0 +1,1324 @@
+{
+ "key": "spring-2027-ready-to-wear__institut-francais-de-la-mode",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/institut-francais-de-la-mode",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "institut-francais-de-la-mode",
+ "brandName": "Institut Français de la Mode",
+ "designers": "",
+ "eventDate": "",
+ "pubDate": "June 23, 2026",
+ "authors": [
+  "Ashley Ogawa Clarke"
+ ],
+ "reviewHtml": "<div><p>As well as kicking off the Paris schedule each season with a bang of uninhibited creativity, the IFM graduate show is a fertile hunting ground for fashion houses hungry to spot the next generation of Paris-based design talent. Eagle-eyed executives from LVMH, Kering, and Hermès lined the front row, alongside Celine’s Michael Rider. One talented graduate from the show will receive an internship at Celine, handpicked by Rider.</p><p>Rider, who notably spent the early years of his career as a teacher, is an ideal mentor. “We had the idea that it could be very good to have a big artistic director [involved], and his name came very naturally,” said Thierry Rondenet, who directs the course alongside Hervé Yvrenogeau. “We contacted him and he said yes immediately.”</p><p>The 27 designers that made up the show—already whittled down from a year of 66 students by an expert committee—didn’t make Rider’s choice easy. The looks (6 per designer, 162 total!) that made the long strut down the Les Docks venue represented countries that spanned France to Russia to Vietnam to Sweden, in a show that was as vivid and entertaining as it was diverse. “You have to be relevant in two minutes!” said Yvrenogeau.</p><p>If there was a common thread to be found in this year’s crop, it was a collective yearning to escape from the boundaries of the physical body and an exorcism of personal identity that was expressed in a fabulous clashing of colors and textures, extraterrestrial proportions that toyed with gender norms, and an aggressively deconstructivist approach to tailoring.</p><p>There were dives into Black identity from Lauriane Lothin (133-138) and Adony Biguer (157-162), commentary on the masculine form from Arthur Vieillard (61-66) who made tailored jackets with shoulders as wide as they were long, and anachronistic explorations through time and culture; Hoang Le (127-132) showed space-age Buddhist monks, while Yaouen Chausseblanche (49-54) reinterpreted Breton folklore into a contemporary show of cartoonish knits.</p><p>Saulė Milonaitė (97-102) offered some light relief halfway through with a humorous showing called “bread-a-porter” that mixed baked goods with evening wear, including a croissant transformed into a pair of pants that got the phones standing to attention. Particularly impressive were the many feats of textile manipulation: Jean Oltra (103-108) made a pair of black leather pants that somehow blended into heliotrope velvet, while Hyacinthe Nasli-Bakir (73-78) showed some beautifully variegated prints inspired by photographer Sophie Calle’s Blind.</p><p>Though there is usually a handicraft quality to student shows (by necessity), this year it felt more pronounced and intentional. “Handmade is very important,” said Rondenet. “Doing things by yourself, especially with the fabric, they really want to go deep in this kind of experimentation because it means a lot to them.” So much for the impending doom of AI. “They don’t speak about it,” shrugged Yvrenogeau.</p><p>At the finale, the troop of students came out holding hands with their models, repping slogan T-shirts that read ‘YOUR SILENCE IS POLITICAL’. Indeed, there were no mousy wallflowers to be found here: brash, bold, and ballsy, this lot said it with their chests.</p></div>",
+ "cover": {
+  "id": "6a3ab8a7cf1779c1e5d5450b",
+  "file": "00001-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6a3ab8a7cf1779c1e5d5450b",
+     "file": "00001-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6a3ab8a7eb584eab99557686",
+     "file": "00002-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6a3ab8a7c6743ac336912164",
+     "file": "00003-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6a3ab8aa35607c7c7a8bc562",
+     "file": "00004-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6a3ab8aa2416cd028fe0c749",
+     "file": "00005-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6a3ab8ab4b2060275198bb69",
+     "file": "00006-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6a3ab8ade97fc399faad89dd",
+     "file": "00007-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6a3aba27ed80d4f491718a3c",
+     "file": "00008-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6a3ab8ade7349c94ffbe4c80",
+     "file": "00009-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6a3ab8aec1ad3fd723578de5",
+     "file": "00010-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6a3ab8b0a6acdc71658e8ce7",
+     "file": "00011-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6a3ab8b108262b0a28465dd2",
+     "file": "00012-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6a3ab8b03a2bde2c88e6b694",
+     "file": "00013-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6a3ab8b2f3e7e6451dfab9b8",
+     "file": "00014-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6a3ab8b31af678fb9c86d9c7",
+     "file": "00015-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6a3ab8b4815d9fad91f1ab9b",
+     "file": "00016-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6a3ab8b52f996aea7fc4723a",
+     "file": "00017-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6a3ab8b622a20bc05d1e52bc",
+     "file": "00018-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6a3ab8b7eb584eab9955768d",
+     "file": "00019-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6a3ab8b867e25768bf48ee29",
+     "file": "00020-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6a3ab8b9c166d6fb9f53bf86",
+     "file": "00021-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6a3ab8bafb20c669e9e43ea7",
+     "file": "00022-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6a3ab8bc1a93911a5a88c322",
+     "file": "00023-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6a3ab8bcf3e7e6451dfab9bf",
+     "file": "00024-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6a3ab8bc187cb61636779d63",
+     "file": "00025-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6a3ab8bfc7f0e3e0eb7b4726",
+     "file": "00026-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6a3ab8bf7cba7c0674f0ea61",
+     "file": "00027-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6a3ab8bf1c05fc7ccf198f5e",
+     "file": "00028-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6a3ab8c2cc68b1e41520d511",
+     "file": "00029-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6a3ab8c3d1ddba749507ae7e",
+     "file": "00030-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6a3ab8c3e7349c94ffbe4c87",
+     "file": "00031-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6a3ab8c4ed80d4f491718982",
+     "file": "00032-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6a3ab8c681a477f96a0809ad",
+     "file": "00033-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6a3ab8c6c1ad3fd723578dec",
+     "file": "00034-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6a3ab8c72f996aea7fc47241",
+     "file": "00035-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6a3ab8c93a2bde2c88e6b6a1",
+     "file": "00036-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6a3ab8c92416cd028fe0c753",
+     "file": "00037-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6a3ab8ca3a2bde2c88e6b6a8",
+     "file": "00038-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6a3ab8cccd924eef382d5549",
+     "file": "00039-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6a3ab8cc08262b0a28465dd9",
+     "file": "00040-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6a3ab8cc2416cd028fe0c75a",
+     "file": "00041-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6a3ab8ced69100dab637e94e",
+     "file": "00042-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6a3ab8cfb7498a8e498505d6",
+     "file": "00043-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6a3ab8cfcc68b1e41520d518",
+     "file": "00044-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6a3ab8d1bf8d114e6dbada12",
+     "file": "00045-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6a3ab8d3cf1779c1e5d54512",
+     "file": "00046-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6a3ab8d3a6acdc71658e8d00",
+     "file": "00047-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6a3ab8d6e97fc399faad89f0",
+     "file": "00048-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6a3ab8d61a93911a5a88c32f",
+     "file": "00049-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6a3ab8d635607c7c7a8bc56c",
+     "file": "00050-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6a3ab8d8c166d6fb9f53bf8d",
+     "file": "00051-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6a3ab8d9d72c2825890911c1",
+     "file": "00052-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6a3ab8d936eec2bef97b8ac0",
+     "file": "00053-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6a3ab8db3fa645671e4dc05d",
+     "file": "00054-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6a3ab8dc2f7d71f28b5a98a0",
+     "file": "00055-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6a3ab8dccd924eef382d5550",
+     "file": "00056-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6a3ab8decc68b1e41520d51f",
+     "file": "00057-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6a3ab8df1ad57a5d403092a1",
+     "file": "00058-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6a3ab8df35607c7c7a8bc573",
+     "file": "00059-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6a3ab8e1e7349c94ffbe4c9e",
+     "file": "00060-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6a3ab8e21a93911a5a88c33c",
+     "file": "00061-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6a3ab8e27cba7c0674f0ea68",
+     "file": "00062-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6a3ab8e481a477f96a0809b7",
+     "file": "00063-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6a3ab8e51e3a070a13525f81",
+     "file": "00064-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Look 65",
+     "id": "6a3ab8e54562d742e606120b",
+     "file": "00065-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Look 66",
+     "id": "6a3ab8e7d72c2825890911cb",
+     "file": "00066-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Look 67",
+     "id": "6a3ab8e7187cb61636779d73",
+     "file": "00067-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Look 68",
+     "id": "6a3ab8e8cc68b1e41520d52c",
+     "file": "00068-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Look 69",
+     "id": "6a3ab8eaf5759b66eaf2c6dd",
+     "file": "00069-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Look 70",
+     "id": "6a3ab8eb08421d7a2e4fb532",
+     "file": "00070-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Look 71",
+     "id": "6a3ab8ebfb20c669e9e43eae",
+     "file": "00071-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Look 72",
+     "id": "6a3ab8ed04f4986021cd0abb",
+     "file": "00072-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Look 73",
+     "id": "6a3ab8ee08262b0a28465de6",
+     "file": "00073-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Look 74",
+     "id": "6a3ab8ed377daf788c93e0fb",
+     "file": "00074-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Look 75",
+     "id": "6a3ab8f07cba7c0674f0ea75",
+     "file": "00075-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Look 76",
+     "id": "6a3ab8f0e9675e56c177ab48",
+     "file": "00076-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Look 77",
+     "id": "6a3ab8f11ad57a5d403092ae",
+     "file": "00077-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Look 78",
+     "id": "6a3ab8f21e3a070a13525f88",
+     "file": "00078-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Look 79",
+     "id": "6a3ab8f32416cd028fe0c767",
+     "file": "00079-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Look 80",
+     "id": "6a3ab8f408262b0a28465ded",
+     "file": "00080-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Look 81",
+     "id": "6a3ab8f5d1ddba749507ae94",
+     "file": "00081-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Look 82",
+     "id": "6a3ab8f604f4986021cd0ac2",
+     "file": "00082-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Look 83",
+     "id": "6a3ab8f6c6743ac336912180",
+     "file": "00083-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Look 84",
+     "id": "6a3ab8f8a6acdc71658e8d0a",
+     "file": "00084-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Look 85",
+     "id": "6a3ab8f91e3a070a13525f8f",
+     "file": "00085-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Look 86",
+     "id": "6a3ab8fa5435d76bc8050d75",
+     "file": "00086-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Look 87",
+     "id": "6a3ab8fbf3e7e6451dfab9cf",
+     "file": "00087-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Look 88",
+     "id": "6a3ab8fcb40a45c312cac5f4",
+     "file": "00088-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Look 89",
+     "id": "6a3ab8fc35607c7c7a8bc57d",
+     "file": "00089-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Look 90",
+     "id": "6a3ab8fdc9e57d20ee94e11d",
+     "file": "00090-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Look 91",
+     "id": "6a3ab8ffd72c2825890911db",
+     "file": "00091-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Look 92",
+     "id": "6a3ab8ffd1ddba749507ae9b",
+     "file": "00092-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Look 93",
+     "id": "6a3ab900815d9fad91f1aba8",
+     "file": "00093-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Look 94",
+     "id": "6a3ab9024562d742e606121b",
+     "file": "00094-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Look 95",
+     "id": "6a3ab902ed80d4f491718992",
+     "file": "00095-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Look 96",
+     "id": "6a3ab9037cba7c0674f0ea7c",
+     "file": "00096-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Look 97",
+     "id": "6a3ab90467e25768bf48ee42",
+     "file": "00097-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Look 98",
+     "id": "6a3ab90581a477f96a0809c1",
+     "file": "00098-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Look 99",
+     "id": "6a3ab9063a2bde2c88e6b6af",
+     "file": "00099-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Look 100",
+     "id": "6a3ab907cd924eef382d5560",
+     "file": "00100-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Look 101",
+     "id": "6a3ab9072f996aea7fc47263",
+     "file": "00101-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Look 102",
+     "id": "6a3ab90881a477f96a0809c8",
+     "file": "00102-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Look 103",
+     "id": "6a3ab90a67e25768bf48ee49",
+     "file": "00103-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Look 104",
+     "id": "6a3ab90a3fa645671e4dc06a",
+     "file": "00104-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Look 105",
+     "id": "6a3ab90bf5759b66eaf2c6ea",
+     "file": "00105-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Look 106",
+     "id": "6a3ab90dc7f0e3e0eb7b4736",
+     "file": "00106-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Look 107",
+     "id": "6a3ab90de7349c94ffbe4cba",
+     "file": "00107-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Look 108",
+     "id": "6a3ab90e2f996aea7fc4726d",
+     "file": "00108-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Look 109",
+     "id": "6a3ab910d69100dab637e967",
+     "file": "00109-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Look 110",
+     "id": "6a3ab910bf8d114e6dbada19",
+     "file": "00110-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Look 111",
+     "id": "6a3ab91135607c7c7a8bc587",
+     "file": "00111-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Look 112",
+     "id": "6a3ab9125435d76bc8050d7c",
+     "file": "00112-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Look 113",
+     "id": "6a3ab912c6743ac336912187",
+     "file": "00113-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Look 114",
+     "id": "6a3ab914815d9fad91f1abaf",
+     "file": "00114-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Look 115",
+     "id": "6a3ab915c166d6fb9f53bf97",
+     "file": "00115-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Look 116",
+     "id": "6a3ab9168236cf03d68a7cbe",
+     "file": "00116-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Look 117",
+     "id": "6a3ab917c9e57d20ee94e130",
+     "file": "00117-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Look 118",
+     "id": "6a3ab9183fa645671e4dc077",
+     "file": "00118-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Look 119",
+     "id": "6a3ab919377daf788c93e114",
+     "file": "00119-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Look 120",
+     "id": "6a3ab91a36eec2bef97b8ad0",
+     "file": "00120-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Look 121",
+     "id": "6a3ab91bb7498a8e498505e6",
+     "file": "00121-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Look 122",
+     "id": "6a3ab91b08421d7a2e4fb542",
+     "file": "00122-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Look 123",
+     "id": "6a3ab91dfb20c669e9e43ebb",
+     "file": "00123-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Look 124",
+     "id": "6a3ab91df3e7e6451dfab9d9",
+     "file": "00124-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Look 125",
+     "id": "6a3ab91ef5759b66eaf2c6f1",
+     "file": "00125-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Look 126",
+     "id": "6a3ab92022a20bc05d1e52cc",
+     "file": "00126-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Look 127",
+     "id": "6a3ab920b40a45c312cac601",
+     "file": "00127-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Look 128",
+     "id": "6a3ab921815d9fad91f1abb6",
+     "file": "00128-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Look 129",
+     "id": "6a3ab923d1ddba749507aea8",
+     "file": "00129-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Look 130",
+     "id": "6a3ab923ed80d4f491718999",
+     "file": "00130-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Look 131",
+     "id": "6a3ab924eb584eab995576ac",
+     "file": "00131-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Look 132",
+     "id": "6a3ab926c9e57d20ee94e137",
+     "file": "00132-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Look 133",
+     "id": "6a3ab9264786d6e0bbaabe39",
+     "file": "00133-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Look 134",
+     "id": "6a3ab927b9bb88869f46ae5b",
+     "file": "00134-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Look 135",
+     "id": "6a3ab92836eec2bef97b8ae0",
+     "file": "00135-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Look 136",
+     "id": "6a3ab929fb20c669e9e43ec2",
+     "file": "00136-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Look 137",
+     "id": "6a3ab92ae7349c94ffbe4ccd",
+     "file": "00137-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Look 138",
+     "id": "6a3ab92b36eec2bef97b8ae7",
+     "file": "00138-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Look 139",
+     "id": "6a3ab92ce9675e56c177ab58",
+     "file": "00139-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Look 140",
+     "id": "6a3ab92c1ad57a5d403092be",
+     "file": "00140-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Look 141",
+     "id": "6a3ab92e6f89b559070720d2",
+     "file": "00141-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Look 142",
+     "id": "6a3ab92f3cfefa8b70144c49",
+     "file": "00142-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Look 143",
+     "id": "6a3ab92f22a20bc05d1e52d3",
+     "file": "00143-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Look 144",
+     "id": "6a3ab9311af678fb9c86d9e0",
+     "file": "00144-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Look 145",
+     "id": "6a3ab931bf8d114e6dbada26",
+     "file": "00145-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Look 146",
+     "id": "6a3ab93224787c7dfa0aa992",
+     "file": "00146-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Look 147",
+     "id": "6a3ab9341a93911a5a88c358",
+     "file": "00147-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Look 148",
+     "id": "6a3ab935fb20c669e9e43ec9",
+     "file": "00148-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Look 149",
+     "id": "6a3ab9351e3a070a13525f99",
+     "file": "00149-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Look 150",
+     "id": "6a3ab9372416cd028fe0c780",
+     "file": "00150-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Look 151",
+     "id": "6a3ab937d1ddba749507aeaf",
+     "file": "00151-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Look 152",
+     "id": "6a3ab938e55aa569bef92476",
+     "file": "00152-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Look 153",
+     "id": "6a3ab93a3fa645671e4dc08b",
+     "file": "00153-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Look 154",
+     "id": "6a3ab93a98abfca1b32579d8",
+     "file": "00154-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Look 155",
+     "id": "6a3ab93bd69100dab637e96e",
+     "file": "00155-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Look 156",
+     "id": "6a3ab93d1ffac9999c51d4fb",
+     "file": "00156-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Look 157",
+     "id": "6a3ab93dfb20c669e9e43ed0",
+     "file": "00157-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 158,
+     "caption": "Look 158",
+     "id": "6a3ab93e1a93911a5a88c35f",
+     "file": "00158-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 159,
+     "caption": "Look 159",
+     "id": "6a3ab9402f996aea7fc4727d",
+     "file": "00159-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 160,
+     "caption": "Look 160",
+     "id": "6a3ab940c7f0e3e0eb7b4740",
+     "file": "00160-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 161,
+     "caption": "Look 161",
+     "id": "6a3ab9402f7d71f28b5a98b0",
+     "file": "00161-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 162,
+     "caption": "Look 162",
+     "id": "6a3ab943f5759b66eaf2c6f8",
+     "file": "00162-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:15:30"
+}

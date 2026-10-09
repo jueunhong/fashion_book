@@ -1,0 +1,1346 @@
+{
+ "key": "spring-2027-ready-to-wear__luar",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/luar",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "luar",
+ "brandName": "Luar",
+ "designers": "By Raul Lopez",
+ "eventDate": "2026-09-14T23:30:00.000Z",
+ "pubDate": "September 15, 2026",
+ "authors": [
+  "Max Berlinger"
+ ],
+ "reviewHtml": "<div><p>In the never-ending search to find a buzzy new location to show one’s collection, Raul Lopez of Luar took us to a new frontier—Queens. More specifically, Flushing Meadows-Corona Park, where he showed his spring 2027 collection under the Unisphere, an imposing 120-foot-wide stainless steel globe.</p><p>“There was no plan B,” the designer said during a preview, noting that he bumped into a childhood friend’s father while looking at the space and considered it an omen. “I go to Queens all the time. I even go there on the weekends to the gay clubs. I love Queens.”</p><p>The collection, titled Christopher Street Columbus, was inspired, in part, by Tudor era clothing, but, as is his custom, Lopez filtered it through a decidedly modern, queer lens (hence Christopher Street, a popular gay hangout spot in New York). Lopez, who is Dominican, also added touches from his homeland, where Columbus touched down on his first voyage to the Americas.</p><p>“I wanted to play with the idea of colonization,” he said, “Reclaiming it. And my reclamation was me on Christopher Street. And then dressing up for survival and to fit in and to, obviously, look good, but also to be rebellious.”</p><p>Lopez, a showman who’s not one for subtlety, painted in broad strokes, with full pleated breeches bisecting a double-breasted suit or paired with a biker jacket with sloping shoulders; sharp-shouldered coats with a dashing neck closure; a leather bodice with dramatic puffed sleeves; and track jackets that slightly resembled doublets.</p><p>In the studio, his powerful silhouettes were certainly eye-catching, but it was his way with textiles that really stood out. For example, on a trip to the Dominican Republic, he took pictures of cacao pods, which come in a dizzying array of colors from yellow to green to brown; he had them scanned and printed onto silk, which then made its way into snazzy suits or a draped top. Elsewhere, umber jacquards were a nod to the earthy, decaying textures of rotten cacao, broad suits with nipped waists came in brown-and-black striped velvet, smoky skirts were crafted from dyed lace; and some of the more restrained looks came in creamy navy moiré. He closed out the show with sequined dresses with asymmetric hems finished off with a feather sash at the waist.</p><p>Lopez has made a name for himself with his accessories—namely his large-handled Ana—and he had terrific details throughout here. There were pouchettes made in collaboration with MCM, sharp mules, and even sporty flip-flops made with the Brazilian brand Kenner. Ripped gloves revealed bejeweled fingers—pulled directly from a practice from the 1500s, which Lopez discovered on TikTok—and boas had their feathers curled for additional bounce.</p><p>And while the Unisphere was certainly a cinematic backdrop worthy of a selfie (evidenced by the crowds using it as a photo op pre-show), the scale of the location did, ultimately, swallow the collection. After seeing the richness of the clothes at the studio, they felt small at the venue. It’s a shame—they were so thoughtfully designed, and they deserved a better showcase.</p></div>",
+ "cover": {
+  "id": "6aa92b19a5f56b8a705403b1",
+  "file": "00001-luar-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa92b19a5f56b8a705403b1",
+     "file": "00001-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa92b1965480a841907815a",
+     "file": "00002-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa92b19b15c3aa2dfc7b2a5",
+     "file": "00003-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa92b1d8ed9cc92eb3ddc80",
+     "file": "00004-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa92b1c9e4ca6cf8b945460",
+     "file": "00005-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa92b1cd6fbb7479165f9f0",
+     "file": "00006-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa92b1ed3ed9f255c995a82",
+     "file": "00007-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa92b1f947c2b3553659c7f",
+     "file": "00008-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa92b1f9e4ca6cf8b945467",
+     "file": "00009-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa92b21d6fbb7479165f9f7",
+     "file": "00010-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa92b222a30cd04b17e32b0",
+     "file": "00011-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa92b2265480a8419078164",
+     "file": "00012-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa92b23aad44d06f6c0326e",
+     "file": "00013-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa92b2525301ef4d522ac24",
+     "file": "00014-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa92b25faa5ce0c6948a164",
+     "file": "00015-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa92b254ebf513e3991c697",
+     "file": "00016-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa92b27e45c3ba8a977ce29",
+     "file": "00017-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa92b286d92aadd4b1b4d4e",
+     "file": "00018-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa92b28330c9941b92fbd95",
+     "file": "00019-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa92b2a947c2b3553659c86",
+     "file": "00020-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa92b2a2a30cd04b17e32b7",
+     "file": "00021-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa92b2a2b9868797b8879d0",
+     "file": "00022-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa92b2c2a30cd04b17e32c4",
+     "file": "00023-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa92b2d65480a841907816b",
+     "file": "00024-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa92b2eb93d5d68bf1eddcc",
+     "file": "00025-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa92b2fc42ddc7f7984affb",
+     "file": "00026-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa92b30a7b8779de31a9ee2",
+     "file": "00027-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa92b3065480a8419078172",
+     "file": "00028-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa92b318b6cfaaed7393918",
+     "file": "00029-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa92b326d92aadd4b1b4d67",
+     "file": "00030-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa92b339e4ca6cf8b945477",
+     "file": "00031-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa92b34a7b8779de31a9ee9",
+     "file": "00032-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa92b359e4ca6cf8b94547e",
+     "file": "00033-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa92b35c6ce7cc6f94a47b7",
+     "file": "00034-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa92b362a30cd04b17e32d1",
+     "file": "00035-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa92b37b15c3aa2dfc7b2b5",
+     "file": "00036-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa92b38947c2b3553659c8d",
+     "file": "00037-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa92b38faa5ce0c6948a174",
+     "file": "00038-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa92b3965480a841907817f",
+     "file": "00039-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa92b3af367786d76da4644",
+     "file": "00040-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa92b3b16b3f3103d2323e8",
+     "file": "00041-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa92b3bc42ddc7f7984b008",
+     "file": "00042-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa92b3d4ebf513e3991c6a4",
+     "file": "00043-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa92b3d65480a8419078186",
+     "file": "00044-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa92b3da7b8779de31a9ef9",
+     "file": "00045-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa92b3f2a30cd04b17e32d8",
+     "file": "00046-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aa92b3ff367786d76da464b",
+     "file": "00047-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6aa92b401a6aa79202cbd941",
+     "file": "00048-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6aa92b41b7726e5fdfe6046d",
+     "file": "00049-luar-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa93133947c2b3553659cc0",
+     "file": "00001-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa931338b6cfaaed7393988",
+     "file": "00002-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa93133faa5ce0c6948a1c8",
+     "file": "00003-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa93136aad44d06f6c032c4",
+     "file": "00004-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa93136b15c3aa2dfc7b2d1",
+     "file": "00006-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa93136f367786d76da4680",
+     "file": "00005-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa93138b7726e5fdfe604d2",
+     "file": "00007-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa9313865480a84190781f2",
+     "file": "00008-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa93138a5f56b8a7054041d",
+     "file": "00009-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa9313aa2a2f46eaa3bdff8",
+     "file": "00010-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa9313b2b9868797b887a12",
+     "file": "00011-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa9313cd3ed9f255c995add",
+     "file": "00012-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa9313d677112612d7008b5",
+     "file": "00013-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa9313ed6fbb7479165fa2e",
+     "file": "00014-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa9313e4ebf513e3991c6c8",
+     "file": "00015-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa9313fb15c3aa2dfc7b2d8",
+     "file": "00016-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa931412b9868797b887a19",
+     "file": "00017-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa93141a7b8779de31a9f06",
+     "file": "00018-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa93143947c2b3553659cc7",
+     "file": "00019-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa93143a2a2f46eaa3bdfff",
+     "file": "00020-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa93144330c9941b92fbdde",
+     "file": "00021-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa931458b6cfaaed739398f",
+     "file": "00022-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa93145aad44d06f6c032cb",
+     "file": "00023-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa931469e4ca6cf8b945496",
+     "file": "00024-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa93149947c2b3553659cce",
+     "file": "00025-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa9314aa2a2f46eaa3be006",
+     "file": "00026-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa9314a330c9941b92fbde5",
+     "file": "00027-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa9314d1a6aa79202cbd995",
+     "file": "00028-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa9314d677112612d7008bc",
+     "file": "00029-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa9314ea7b8779de31a9f0d",
+     "file": "00030-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa9314fd3ed9f255c995afc",
+     "file": "00031-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa9314f73e408aa3747d81c",
+     "file": "00032-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa931522dc8b924e37e66a9",
+     "file": "00033-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa931539e4ca6cf8b9454a3",
+     "file": "00034-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa931544ebf513e3991c6cf",
+     "file": "00035-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa93154b93d5d68bf1ede02",
+     "file": "00036-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa931568b6cfaaed739399c",
+     "file": "00038-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa9315565480a84190781ff",
+     "file": "00037-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa93156c42ddc7f7984b05e",
+     "file": "00039-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa93157aad44d06f6c032d2",
+     "file": "00040-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa93159a5f56b8a70540430",
+     "file": "00041-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa93159b7726e5fdfe604df",
+     "file": "00042-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa9315aaad44d06f6c032d9",
+     "file": "00043-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa9315b16b3f3103d232415",
+     "file": "00044-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa9315c8b6cfaaed73939a3",
+     "file": "00045-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa9315da7b8779de31a9f14",
+     "file": "00046-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa9315de45c3ba8a977ce58",
+     "file": "00047-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa93160a2a2f46eaa3be00d",
+     "file": "00048-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa9315fd6fbb7479165fa3b",
+     "file": "00049-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa9315f16b3f3103d23241c",
+     "file": "00050-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa93162b7726e5fdfe604ec",
+     "file": "00051-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa93162faa5ce0c6948a1d5",
+     "file": "00052-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa93163b15c3aa2dfc7b2df",
+     "file": "00053-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa93166947c2b3553659ce1",
+     "file": "00054-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa931678ed9cc92eb3ddcc9",
+     "file": "00055-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa93168c6ce7cc6f94a4804",
+     "file": "00056-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa93169b93d5d68bf1ede09",
+     "file": "00057-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa9316a25301ef4d522ac99",
+     "file": "00059-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa93169faa5ce0c6948a1dc",
+     "file": "00058-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa9316c2a30cd04b17e3358",
+     "file": "00060-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa9316bd3ed9f255c995b03",
+     "file": "00061-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa9316c16b3f3103d232423",
+     "file": "00062-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa9316fe45c3ba8a977ce65",
+     "file": "00063-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa9316faad44d06f6c032e6",
+     "file": "00064-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa9316fb7726e5fdfe604f9",
+     "file": "00065-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa931749e4ca6cf8b9454aa",
+     "file": "00066-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa93175e45c3ba8a977ce6c",
+     "file": "00067-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6aa93175b93d5d68bf1ede10",
+     "file": "00068-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6aa93176e45c3ba8a977ce73",
+     "file": "00069-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6aa93177e45c3ba8a977ce7a",
+     "file": "00070-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6aa931798b6cfaaed73939b0",
+     "file": "00072-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6aa9317716b3f3103d232430",
+     "file": "00071-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6aa9317b330c9941b92fbdec",
+     "file": "00073-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6aa9317bb15c3aa2dfc7b2e6",
+     "file": "00074-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6aa9317d8ed9cc92eb3ddcd0",
+     "file": "00075-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6aa9317d9e4ca6cf8b9454b7",
+     "file": "00076-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6aa9317dd6fbb7479165fa71",
+     "file": "00077-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6aa93180d6fbb7479165fa78",
+     "file": "00078-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6aa931808b6cfaaed73939bd",
+     "file": "00079-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6aa931806d92aadd4b1b4df1",
+     "file": "00080-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6aa931849e4ca6cf8b9454c4",
+     "file": "00081-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6aa93184b7726e5fdfe60500",
+     "file": "00082-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6aa931854ebf513e3991c6d6",
+     "file": "00083-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6aa931876d92aadd4b1b4df8",
+     "file": "00084-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6aa93188947c2b3553659ce8",
+     "file": "00085-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6aa93188a7b8779de31a9f33",
+     "file": "00086-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6aa9318a9e4ca6cf8b9454cb",
+     "file": "00087-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6aa9318bc42ddc7f7984b06b",
+     "file": "00088-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6aa9318b2b9868797b887a32",
+     "file": "00089-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6aa9318cb93d5d68bf1ede17",
+     "file": "00090-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6aa9318d6d92aadd4b1b4dff",
+     "file": "00091-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6aa9318d2dc8b924e37e66c8",
+     "file": "00092-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6aa9318ed3ed9f255c995b16",
+     "file": "00093-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6aa93190a7b8779de31a9f40",
+     "file": "00094-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6aa93190b7726e5fdfe6050d",
+     "file": "00095-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6aa9319116b3f3103d232437",
+     "file": "00096-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6aa93194f367786d76da46e8",
+     "file": "00097-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6aa9319516b3f3103d23243e",
+     "file": "00098-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6aa931954ebf513e3991c6dd",
+     "file": "00099-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6aa9319765480a841907821e",
+     "file": "00100-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6aa93197d6fbb7479165fa7f",
+     "file": "00101-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6aa931972dc8b924e37e66cf",
+     "file": "00102-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6aa9319a73e408aa3747d82f",
+     "file": "00103-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6aa9319aa2a2f46eaa3be020",
+     "file": "00104-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6aa9319bb15c3aa2dfc7b2ed",
+     "file": "00105-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6aa9319e16b3f3103d232445",
+     "file": "00106-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6aa9319e677112612d7008f8",
+     "file": "00107-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6aa9319e8ed9cc92eb3ddcdd",
+     "file": "00108-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6aa931a16d92aadd4b1b4e0c",
+     "file": "00109-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6aa931a025301ef4d522aca6",
+     "file": "00110-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6aa931a1c6ce7cc6f94a4811",
+     "file": "00111-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6aa931a34ebf513e3991c6e9",
+     "file": "00112-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6aa931a4c6ce7cc6f94a4818",
+     "file": "00113-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6aa931a48b6cfaaed73939c4",
+     "file": "00114-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6aa931a58ed9cc92eb3ddcea",
+     "file": "00115-luar-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:17:03"
+}

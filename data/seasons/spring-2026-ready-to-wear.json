@@ -1,0 +1,2007 @@
+{
+ "slug": "spring-2026-ready-to-wear",
+ "name": "Spring 2026 Ready-to-Wear",
+ "shows": [
+  {
+   "name": "A Letter",
+   "brand": "aletta",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/aletta"
+  },
+  {
+   "name": "A.L.C.",
+   "brand": "a-l-c",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/a-l-c"
+  },
+  {
+   "name": "A.W.A.K.E. Mode",
+   "brand": "a-w-a-k-e",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/a-w-a-k-e"
+  },
+  {
+   "name": "Aaron Esh",
+   "brand": "aaron-esh",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/aaron-esh"
+  },
+  {
+   "name": "Abra",
+   "brand": "abra",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/abra"
+  },
+  {
+   "name": "Acne Studios",
+   "brand": "acne-studios",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/acne-studios"
+  },
+  {
+   "name": "Adam Lippes",
+   "brand": "adam-lippes",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/adam-lippes"
+  },
+  {
+   "name": "Adeam",
+   "brand": "adeam",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/adeam"
+  },
+  {
+   "name": "AGL",
+   "brand": "agl",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/agl"
+  },
+  {
+   "name": "Ahluwalia",
+   "brand": "ahluwalia-studio",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ahluwalia-studio"
+  },
+  {
+   "name": "Akris",
+   "brand": "akris",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/akris"
+  },
+  {
+   "name": "Alaïa",
+   "brand": "azzedine-alaia",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/azzedine-alaia",
+   "cover": {
+    "id": "68e131b1aabe601ddb9cbde4",
+    "file": "00001-alaia-spring-2026-ready-to-wear-credit-brand.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Alainpaul",
+   "brand": "alainpaul",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/alainpaul"
+  },
+  {
+   "name": "Alberta Ferretti",
+   "brand": "alberta-ferretti",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/alberta-ferretti"
+  },
+  {
+   "name": "Alejandra Alonso Rojas",
+   "brand": "alejandra-alonso-rojas",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/alejandra-alonso-rojas"
+  },
+  {
+   "name": "Alessandra Rich",
+   "brand": "alessandra-rich",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/alessandra-rich"
+  },
+  {
+   "name": "Alexander Wang",
+   "brand": "alexander-wang",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/alexander-wang"
+  },
+  {
+   "name": "Alice + Olivia",
+   "brand": "alice-olivia",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/alice-olivia"
+  },
+  {
+   "name": "Altuzarra",
+   "brand": "altuzarra",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/altuzarra"
+  },
+  {
+   "name": "Ambush",
+   "brand": "ambush",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ambush"
+  },
+  {
+   "name": "Andreas Kronthaler for Vivienne Westwood",
+   "brand": "andreas-kronthaler-for-vivienne-westwood",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/andreas-kronthaler-for-vivienne-westwood"
+  },
+  {
+   "name": "Ann Demeulemeester",
+   "brand": "ann-demeulemeester",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ann-demeulemeester"
+  },
+  {
+   "name": "Anna October",
+   "brand": "anna-october",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/anna-october"
+  },
+  {
+   "name": "Anna Sui",
+   "brand": "anna-sui",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/anna-sui"
+  },
+  {
+   "name": "Annakiki",
+   "brand": "annakiki",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/annakiki"
+  },
+  {
+   "name": "Anrealage",
+   "brand": "anrealage",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/anrealage"
+  },
+  {
+   "name": "Anteprima",
+   "brand": "anteprima",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/anteprima"
+  },
+  {
+   "name": "Antonio Grimaldi",
+   "brand": "antonio-grimaldi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/antonio-grimaldi"
+  },
+  {
+   "name": "Antonio Marras",
+   "brand": "antonio-marras",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/antonio-marras"
+  },
+  {
+   "name": "ArdAzAei",
+   "brand": "ardazaei",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ardazaei"
+  },
+  {
+   "name": "Area",
+   "brand": "area",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/area"
+  },
+  {
+   "name": "Armarium",
+   "brand": "armarium",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/armarium"
+  },
+  {
+   "name": "Arthur Arbesser",
+   "brand": "arthur-arbesser",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/arthur-arbesser"
+  },
+  {
+   "name": "Ashish",
+   "brand": "ashish",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ashish"
+  },
+  {
+   "name": "Ashley Williams",
+   "brand": "ashley-williams",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ashley-williams"
+  },
+  {
+   "name": "Ashlyn",
+   "brand": "ashlyn",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ashlyn"
+  },
+  {
+   "name": "Attersee",
+   "brand": "attersee",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/attersee"
+  },
+  {
+   "name": "ATXV",
+   "brand": "atxv",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/atxv"
+  },
+  {
+   "name": "August Barron",
+   "brand": "all-in",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/all-in"
+  },
+  {
+   "name": "Avavav",
+   "brand": "avavav",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/avavav"
+  },
+  {
+   "name": "Avenir",
+   "brand": "avenir",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/avenir"
+  },
+  {
+   "name": "Bach Mai",
+   "brand": "bach-mai",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bach-mai"
+  },
+  {
+   "name": "Balenciaga",
+   "brand": "balenciaga",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/balenciaga",
+   "cover": {
+    "id": "68e19936aa8cadebe7d8de9e",
+    "file": "00001-balenciaga-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Balmain",
+   "brand": "balmain",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/balmain"
+  },
+  {
+   "name": "Barbara Tfank",
+   "brand": "barbara-tfank",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/barbara-tfank"
+  },
+  {
+   "name": "Baro Lucas",
+   "brand": "baro-lucas",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/baro-lucas"
+  },
+  {
+   "name": "Batsheva",
+   "brand": "batsheva",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/batsheva"
+  },
+  {
+   "name": "BCBGMaxAzria",
+   "brand": "bcbg-max-azria",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bcbg-max-azria"
+  },
+  {
+   "name": "Bevza",
+   "brand": "bevza",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bevza"
+  },
+  {
+   "name": "Bibhu Mohapatra",
+   "brand": "bibhu-mohapatra",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bibhu-mohapatra"
+  },
+  {
+   "name": "Bite Studios",
+   "brand": "bite-studios",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bite-studios"
+  },
+  {
+   "name": "Blumarine",
+   "brand": "blumarine",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/blumarine"
+  },
+  {
+   "name": "Bode",
+   "brand": "bode",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bode"
+  },
+  {
+   "name": "Bora Aksu",
+   "brand": "bora-aksu",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bora-aksu"
+  },
+  {
+   "name": "Bosideng",
+   "brand": "bosideng",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bosideng"
+  },
+  {
+   "name": "Boss",
+   "brand": "hugo-boss",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/hugo-boss"
+  },
+  {
+   "name": "Bottega Veneta",
+   "brand": "bottega-veneta",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bottega-veneta"
+  },
+  {
+   "name": "Brandon Maxwell",
+   "brand": "brandon-maxwell",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/brandon-maxwell"
+  },
+  {
+   "name": "Brioni",
+   "brand": "brioni",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/brioni"
+  },
+  {
+   "name": "Bronx Banco",
+   "brand": "bronx-and-banco",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/bronx-and-banco"
+  },
+  {
+   "name": "Brunello Cucinelli",
+   "brand": "brunello-cucinelli",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/brunello-cucinelli"
+  },
+  {
+   "name": "Burberry",
+   "brand": "burberry-prorsum",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/burberry-prorsum"
+  },
+  {
+   "name": "Burc Akyol",
+   "brand": "burc-akyol",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/burc-akyol"
+  },
+  {
+   "name": "Calvin Klein Collection",
+   "brand": "calvin-klein-collection",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/calvin-klein-collection"
+  },
+  {
+   "name": "Campillo",
+   "brand": "campillo",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/campillo"
+  },
+  {
+   "name": "Carolina Herrera",
+   "brand": "carolina-herrera",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/carolina-herrera"
+  },
+  {
+   "name": "Caroline Hu",
+   "brand": "caroline-hu",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/caroline-hu"
+  },
+  {
+   "name": "Carven",
+   "brand": "carven",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/carven"
+  },
+  {
+   "name": "Casablanca",
+   "brand": "casablanca",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/casablanca"
+  },
+  {
+   "name": "Cecilie Bahnsen",
+   "brand": "cecilie-bahnsen",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/cecilie-bahnsen"
+  },
+  {
+   "name": "Celine",
+   "brand": "celine",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/celine",
+   "cover": {
+    "id": "68f8fb308bb96dcba628e9e0",
+    "file": "00001-celine-spring-2026-ready-to-wear-credit-brand.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "CFCL",
+   "brand": "cfcl",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/cfcl"
+  },
+  {
+   "name": "Chanel",
+   "brand": "chanel",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/chanel",
+   "cover": {
+    "id": "68e43a68df7a6ee79214869e",
+    "file": "00001-chanel-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Charlie Constantinou",
+   "brand": "charlie-constantinou",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/charlie-constantinou"
+  },
+  {
+   "name": "Chloé",
+   "brand": "chloe",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/chloe"
+  },
+  {
+   "name": "Chopova Lowena",
+   "brand": "chopova-lowena",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/chopova-lowena"
+  },
+  {
+   "name": "Christian Cowan",
+   "brand": "christian-cowan",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/christian-cowan"
+  },
+  {
+   "name": "Christian Dior",
+   "brand": "christian-dior",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/christian-dior"
+  },
+  {
+   "name": "Christian Siriano",
+   "brand": "christian-siriano",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/christian-siriano"
+  },
+  {
+   "name": "Christian Wijnants",
+   "brand": "christian-wijnants",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/christian-wijnants"
+  },
+  {
+   "name": "Christopher Esber",
+   "brand": "christopher-esber",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/christopher-esber"
+  },
+  {
+   "name": "Christopher John Rogers",
+   "brand": "christopher-john-rogers",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/christopher-john-rogers"
+  },
+  {
+   "name": "Cinq à Sept",
+   "brand": "cinq-a-sept",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/cinq-a-sept"
+  },
+  {
+   "name": "Claro Couture",
+   "brand": "claro-couture",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/claro-couture"
+  },
+  {
+   "name": "Co",
+   "brand": "co",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/co"
+  },
+  {
+   "name": "Coach",
+   "brand": "coach",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/coach"
+  },
+  {
+   "name": "Colleen Allen",
+   "brand": "colleen-allen",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/colleen-allen"
+  },
+  {
+   "name": "Collina Strada",
+   "brand": "collina-strada",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/collina-strada"
+  },
+  {
+   "name": "Comme des Garçons",
+   "brand": "comme-des-garcons",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/comme-des-garcons",
+   "cover": {
+    "id": "68e1683970bf01d0febb4bf0",
+    "file": "00001-comme-des-garcons-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Commission",
+   "brand": "commission",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/commission"
+  },
+  {
+   "name": "Cong Tri",
+   "brand": "cong-tri",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/cong-tri"
+  },
+  {
+   "name": "Conner Ives",
+   "brand": "conner-ives",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/conner-ives"
+  },
+  {
+   "name": "Coperni",
+   "brand": "coperni",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/coperni"
+  },
+  {
+   "name": "Cos",
+   "brand": "cos",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/cos"
+  },
+  {
+   "name": "Courrèges",
+   "brand": "courreges",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/courreges"
+  },
+  {
+   "name": "Cult Gaia",
+   "brand": "cult-gaia",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/cult-gaia"
+  },
+  {
+   "name": "Cynthia Rowley",
+   "brand": "cynthia-rowley",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/cynthia-rowley"
+  },
+  {
+   "name": "Dagmar",
+   "brand": "dagmar",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/dagmar"
+  },
+  {
+   "name": "David Koma",
+   "brand": "david-koma",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/david-koma"
+  },
+  {
+   "name": "Di Petsa",
+   "brand": "di-petsa",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/di-petsa"
+  },
+  {
+   "name": "Diane von Furstenberg",
+   "brand": "diane-von-furstenberg",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/diane-von-furstenberg"
+  },
+  {
+   "name": "Diesel",
+   "brand": "diesel",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/diesel"
+  },
+  {
+   "name": "Dilara Findikoglu",
+   "brand": "dilara-findikoglu",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/dilara-findikoglu"
+  },
+  {
+   "name": "Diotima",
+   "brand": "diotima",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/diotima"
+  },
+  {
+   "name": "Dolce & Gabbana",
+   "brand": "dolce-gabbana",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/dolce-gabbana"
+  },
+  {
+   "name": "Donna Karan",
+   "brand": "donna-karan",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/donna-karan"
+  },
+  {
+   "name": "Dries Van Noten",
+   "brand": "dries-van-noten",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/dries-van-noten"
+  },
+  {
+   "name": "Dsquared2",
+   "brand": "dsquared",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/dsquared"
+  },
+  {
+   "name": "Durazzi",
+   "brand": "durazzi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/durazzi"
+  },
+  {
+   "name": "Duro Olowu",
+   "brand": "duro-olowu",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/duro-olowu"
+  },
+  {
+   "name": "Dušan",
+   "brand": "dusan",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/dusan"
+  },
+  {
+   "name": "Eckhaus Latta",
+   "brand": "eckhaus-latta",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/eckhaus-latta"
+  },
+  {
+   "name": "Edeline Lee",
+   "brand": "edeline-lee",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/edeline-lee"
+  },
+  {
+   "name": "Elena Velez",
+   "brand": "elena-velez",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/elena-velez"
+  },
+  {
+   "name": "Elie Saab",
+   "brand": "elie-saab",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/elie-saab"
+  },
+  {
+   "name": "Elisabetta Franchi",
+   "brand": "elisabetta-franchi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/elisabetta-franchi"
+  },
+  {
+   "name": "Emilia Wickstead",
+   "brand": "emilia-wickstead",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/emilia-wickstead"
+  },
+  {
+   "name": "Emilio Pucci",
+   "brand": "emilio-pucci",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/emilio-pucci"
+  },
+  {
+   "name": "Emporio Armani",
+   "brand": "emporio-armani",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/emporio-armani"
+  },
+  {
+   "name": "Enfants Riches Déprimés",
+   "brand": "enfants-riches-deprimes",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/enfants-riches-deprimes"
+  },
+  {
+   "name": "Erdem",
+   "brand": "erdem",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/erdem"
+  },
+  {
+   "name": "Ermanno Scervino",
+   "brand": "ermanno-scervino",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ermanno-scervino"
+  },
+  {
+   "name": "Etro",
+   "brand": "etro",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/etro"
+  },
+  {
+   "name": "Eudon Choi",
+   "brand": "eudon-choi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/eudon-choi"
+  },
+  {
+   "name": "European Culture",
+   "brand": "european-culture",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/european-culture"
+  },
+  {
+   "name": "Fashion East",
+   "brand": "fashion-east",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/fashion-east"
+  },
+  {
+   "name": "Fashion Institute of Technology",
+   "brand": "fashion-institute-of-technology",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/fashion-institute-of-technology"
+  },
+  {
+   "name": "Fear of God",
+   "brand": "fear-of-god",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/fear-of-god"
+  },
+  {
+   "name": "Fendi",
+   "brand": "fendi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/fendi"
+  },
+  {
+   "name": "Ferragamo",
+   "brand": "salvatore-ferragamo",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/salvatore-ferragamo"
+  },
+  {
+   "name": "Ferrari",
+   "brand": "ferrari",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ferrari"
+  },
+  {
+   "name": "Fforme",
+   "brand": "fforme",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/fforme"
+  },
+  {
+   "name": "Francesco Biasia",
+   "brand": "francesco-biasia",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/francesco-biasia"
+  },
+  {
+   "name": "Francesco Murano",
+   "brand": "francesco-murano",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/francesco-murano"
+  },
+  {
+   "name": "Frederick Anderson",
+   "brand": "frederick-anderson",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/frederick-anderson"
+  },
+  {
+   "name": "Gabriela Hearst",
+   "brand": "gabriela-hearst",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/gabriela-hearst"
+  },
+  {
+   "name": "Ganni",
+   "brand": "ganni",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ganni"
+  },
+  {
+   "name": "Gauchere",
+   "brand": "gauchere",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/gauchere"
+  },
+  {
+   "name": "GCDS",
+   "brand": "gcds",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/gcds"
+  },
+  {
+   "name": "Genny",
+   "brand": "genny",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/genny"
+  },
+  {
+   "name": "Giambattista Valli",
+   "brand": "giambattista-valli",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/giambattista-valli"
+  },
+  {
+   "name": "Giorgio Armani",
+   "brand": "giorgio-armani",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/giorgio-armani"
+  },
+  {
+   "name": "Giovanna Flores",
+   "brand": "giovanna-flores",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/giovanna-flores"
+  },
+  {
+   "name": "Giuseppe Di Morabito",
+   "brand": "giuseppe-di-morabito",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/giuseppe-di-morabito"
+  },
+  {
+   "name": "Givenchy",
+   "brand": "givenchy",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/givenchy",
+   "cover": {
+    "id": "68e03c05694730553cda3285",
+    "file": "00001-givenchy-spring-2026-ready-to-wear-credit-brand.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Grace Ling",
+   "brand": "grace-ling",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/grace-ling"
+  },
+  {
+   "name": "Greta Constantine",
+   "brand": "greta-constantine",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/greta-constantine"
+  },
+  {
+   "name": "Gucci",
+   "brand": "gucci",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/gucci"
+  },
+  {
+   "name": "H&M Studio",
+   "brand": "hm",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/hm"
+  },
+  {
+   "name": "Harris Reed",
+   "brand": "harris-reed",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/harris-reed"
+  },
+  {
+   "name": "Head of State",
+   "brand": "head-of-state",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/head-of-state"
+  },
+  {
+   "name": "Heirlome",
+   "brand": "heirlome",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/heirlome"
+  },
+  {
+   "name": "Hermès",
+   "brand": "hermes",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/hermes",
+   "cover": {
+    "id": "68e13fdc7248375310415c1e",
+    "file": "00001-hermes-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Hervé Léger",
+   "brand": "herve-leger",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/herve-leger"
+  },
+  {
+   "name": "Hodakova",
+   "brand": "hodakova",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/hodakova"
+  },
+  {
+   "name": "Hope For Flowers",
+   "brand": "hope-for-flowers",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/hope-for-flowers"
+  },
+  {
+   "name": "House of Aama",
+   "brand": "house-of-aama",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/house-of-aama"
+  },
+  {
+   "name": "HUI",
+   "brand": "hui",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/hui"
+  },
+  {
+   "name": "Huishan Zhang",
+   "brand": "huishan-zhang",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/huishan-zhang"
+  },
+  {
+   "name": "Institut Français de la Mode",
+   "brand": "institut-francais-de-la-mode",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/institut-francais-de-la-mode"
+  },
+  {
+   "name": "Institution By Galib Gassanoff",
+   "brand": "institution-by-galib-gassanoff",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/institution-by-galib-gassanoff"
+  },
+  {
+   "name": "Isabel Marant",
+   "brand": "isabel-marant",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/isabel-marant"
+  },
+  {
+   "name": "Issey Miyake",
+   "brand": "issey-miyake",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/issey-miyake"
+  },
+  {
+   "name": "Jacquemus",
+   "brand": "jacquemus",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jacquemus"
+  },
+  {
+   "name": "Jane Wade",
+   "brand": "jane-wade",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jane-wade"
+  },
+  {
+   "name": "Jason Wu Collection",
+   "brand": "jason-wu",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jason-wu"
+  },
+  {
+   "name": "Jawara Alleyne",
+   "brand": "jawara-alleyne",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jawara-alleyne"
+  },
+  {
+   "name": "Jean Paul Gaultier",
+   "brand": "jean-paul-gaultier",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jean-paul-gaultier",
+   "cover": {
+    "id": "68e2a5901603eb3f4fda8842",
+    "file": "00001-jean-paul-gaultier-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Jenny Packham",
+   "brand": "jenny-packham",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jenny-packham"
+  },
+  {
+   "name": "Jil Sander",
+   "brand": "jil-sander",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jil-sander"
+  },
+  {
+   "name": "Johanna Ortiz",
+   "brand": "johanna-ortiz",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/johanna-ortiz"
+  },
+  {
+   "name": "Johanna Parv",
+   "brand": "johanna-parv",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/johanna-parv"
+  },
+  {
+   "name": "Julie Kegels",
+   "brand": "julie-kegels",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/julie-kegels"
+  },
+  {
+   "name": "Junya Watanabe",
+   "brand": "junya-watanabe",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/junya-watanabe",
+   "cover": {
+    "id": "68e0f63165f8a95d93f7bec7",
+    "file": "00001-junya-watanabe-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Kallmeyer",
+   "brand": "kallmeyer",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/kallmeyer"
+  },
+  {
+   "name": "Karoline Vitto",
+   "brand": "karoline-vitto",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/karoline-vitto"
+  },
+  {
+   "name": "Kate Barton",
+   "brand": "kate-barton",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/kate-barton"
+  },
+  {
+   "name": "Kent & Curwen",
+   "brand": "kent-and-curwen",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/kent-and-curwen"
+  },
+  {
+   "name": "Khaite",
+   "brand": "khaite",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/khaite"
+  },
+  {
+   "name": "Kiko Kostadinov",
+   "brand": "kiko-kostadinov",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/kiko-kostadinov"
+  },
+  {
+   "name": "Kim Shui",
+   "brand": "kim-shui",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/kim-shui"
+  },
+  {
+   "name": "Kith",
+   "brand": "kith",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/kith"
+  },
+  {
+   "name": "Knwls",
+   "brand": "charlotte-knowles",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/charlotte-knowles"
+  },
+  {
+   "name": "La DoubleJ",
+   "brand": "la-doublej",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/la-doublej"
+  },
+  {
+   "name": "Labrum London",
+   "brand": "labrum-london",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/labrum-london"
+  },
+  {
+   "name": "Lacoste",
+   "brand": "lacoste",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/lacoste"
+  },
+  {
+   "name": "Lafayette 148 New York",
+   "brand": "lafayette-148",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/lafayette-148"
+  },
+  {
+   "name": "Lanvin",
+   "brand": "lanvin",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/lanvin"
+  },
+  {
+   "name": "LaPointe",
+   "brand": "sally-lapointe",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sally-lapointe"
+  },
+  {
+   "name": "LaQuan Smith",
+   "brand": "laquan-smith",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/laquan-smith"
+  },
+  {
+   "name": "Lauren Manoogian",
+   "brand": "lauren-manoogian",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/lauren-manoogian"
+  },
+  {
+   "name": "Lee Mathews",
+   "brand": "lee-mathews",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/lee-mathews"
+  },
+  {
+   "name": "Lela Rose",
+   "brand": "lela-rose",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/lela-rose"
+  },
+  {
+   "name": "Lemaire",
+   "brand": "christophe-lemaire",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/christophe-lemaire"
+  },
+  {
+   "name": "Libertine",
+   "brand": "libertine",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/libertine"
+  },
+  {
+   "name": "Lii",
+   "brand": "lii",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/lii"
+  },
+  {
+   "name": "Loewe",
+   "brand": "loewe",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/loewe",
+   "cover": {
+    "id": "68dfc95ce8444c6f5edcac8a",
+    "file": "00001-loewe-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Loro Piana",
+   "brand": "loro-piana",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/loro-piana"
+  },
+  {
+   "name": "Louis Vuitton",
+   "brand": "louis-vuitton",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/louis-vuitton"
+  },
+  {
+   "name": "LoveShackFancy",
+   "brand": "loveshackfancy",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/loveshackfancy"
+  },
+  {
+   "name": "Luar",
+   "brand": "luar",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/luar"
+  },
+  {
+   "name": "Ludovic de Saint Sernin",
+   "brand": "ludovic-de-saint-sernin",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ludovic-de-saint-sernin"
+  },
+  {
+   "name": "Luis De Javier",
+   "brand": "luis-de-javier",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/luis-de-javier"
+  },
+  {
+   "name": "Luisa Beccaria",
+   "brand": "luisa-beccaria",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/luisa-beccaria"
+  },
+  {
+   "name": "Luisa Spagnoli",
+   "brand": "luisa-spagnoli",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/luisa-spagnoli"
+  },
+  {
+   "name": "Maccapani",
+   "brand": "maccapani",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/maccapani"
+  },
+  {
+   "name": "Magda Butrym",
+   "brand": "magda-butrym",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/magda-butrym"
+  },
+  {
+   "name": "Mains",
+   "brand": "mains",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mains"
+  },
+  {
+   "name": "Maison Margiela",
+   "brand": "maison-martin-margiela",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/maison-martin-margiela",
+   "cover": {
+    "id": "68e20e2d0f112dd4f77f7ab6",
+    "file": "00001-maison-margiela-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Mame Kurogouchi",
+   "brand": "mame-kurogouchi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mame-kurogouchi"
+  },
+  {
+   "name": "Marc Jacobs",
+   "brand": "marc-jacobs",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/marc-jacobs",
+   "cover": {
+    "id": "698b0dbbd9eb753c7cd8df6d",
+    "file": "00001-marc-jacobs-spring-2026-ready-to-wear-credit-brand.JPG",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Marco Rambaldi",
+   "brand": "marco-rambaldi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/marco-rambaldi"
+  },
+  {
+   "name": "Margaret Howell",
+   "brand": "margaret-howell",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/margaret-howell"
+  },
+  {
+   "name": "Maria McManus",
+   "brand": "maria-mcmanus",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/maria-mcmanus"
+  },
+  {
+   "name": "Marie Adam-Leenaerdt",
+   "brand": "marie-adam-leenaerdt",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/marie-adam-leenaerdt"
+  },
+  {
+   "name": "Marina Moscone",
+   "brand": "marina-moscone",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/marina-moscone"
+  },
+  {
+   "name": "Mark Fast",
+   "brand": "mark-fast",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mark-fast"
+  },
+  {
+   "name": "Markarian",
+   "brand": "markarian",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/markarian"
+  },
+  {
+   "name": "Marques’Almeida",
+   "brand": "marques-almeida",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/marques-almeida"
+  },
+  {
+   "name": "Mary Katrantzou",
+   "brand": "mary-katrantzou",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mary-katrantzou"
+  },
+  {
+   "name": "Matières Fécales",
+   "brand": "matieres-fecales",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/matieres-fecales"
+  },
+  {
+   "name": "Max Mara",
+   "brand": "max-mara",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/max-mara"
+  },
+  {
+   "name": "Maxhosa",
+   "brand": "maxhosa",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/maxhosa"
+  },
+  {
+   "name": "McQueen",
+   "brand": "alexander-mcqueen",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/alexander-mcqueen",
+   "cover": {
+    "id": "68e2e59150321272a7d96977",
+    "file": "00001-mcqueen-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Melitta Baumeister",
+   "brand": "melitta-baumeister",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/melitta-baumeister"
+  },
+  {
+   "name": "Meryll Rogge",
+   "brand": "meryll-rogge",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/meryll-rogge"
+  },
+  {
+   "name": "Michael Kors Collection",
+   "brand": "michael-kors-collection",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/michael-kors-collection"
+  },
+  {
+   "name": "Mira Mikati",
+   "brand": "mira-mikati",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mira-mikati"
+  },
+  {
+   "name": "Missoni",
+   "brand": "missoni",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/missoni"
+  },
+  {
+   "name": "Mithridate",
+   "brand": "mithridate",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mithridate"
+  },
+  {
+   "name": "Miu Miu",
+   "brand": "miu-miu",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/miu-miu",
+   "cover": {
+    "id": "68e3dd9201a28097c3a7af8f",
+    "file": "00001-miu-miu-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "MM6 Maison Margiela",
+   "brand": "mm6-maison-martin-margiela",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mm6-maison-martin-margiela"
+  },
+  {
+   "name": "Monique Lhuillier",
+   "brand": "monique-lhuillier",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/monique-lhuillier"
+  },
+  {
+   "name": "Monse",
+   "brand": "monse",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/monse"
+  },
+  {
+   "name": "Moschino",
+   "brand": "moschino",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/moschino"
+  },
+  {
+   "name": "Mossi",
+   "brand": "mossi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mossi"
+  },
+  {
+   "name": "MSGM",
+   "brand": "msgm",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/msgm"
+  },
+  {
+   "name": "Mugler",
+   "brand": "mugler",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/mugler"
+  },
+  {
+   "name": "Naeem Khan",
+   "brand": "naeem-khan",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/naeem-khan"
+  },
+  {
+   "name": "Nanushka",
+   "brand": "nanushka",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nanushka"
+  },
+  {
+   "name": "Natasha Zinko",
+   "brand": "natasha-zinko",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/natasha-zinko"
+  },
+  {
+   "name": "Nehera",
+   "brand": "nehera",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nehera"
+  },
+  {
+   "name": "Nells Nelson",
+   "brand": "nells-nelson",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nells-nelson"
+  },
+  {
+   "name": "Niccolò Pasqualetti",
+   "brand": "niccolo-pasqualetti",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/niccolo-pasqualetti"
+  },
+  {
+   "name": "NIHL",
+   "brand": "nihl",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nihl"
+  },
+  {
+   "name": "Nili Lotan",
+   "brand": "nili-lotan",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nili-lotan"
+  },
+  {
+   "name": "Nina Ricci",
+   "brand": "nina-ricci",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nina-ricci"
+  },
+  {
+   "name": "No. 21",
+   "brand": "no-21",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/no-21"
+  },
+  {
+   "name": "Noir Kei Ninomiya",
+   "brand": "noir-kei-ninomiya",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/noir-kei-ninomiya"
+  },
+  {
+   "name": "Nomia",
+   "brand": "nomia",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nomia"
+  },
+  {
+   "name": "Norma Kamali",
+   "brand": "norma-kamali",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/norma-kamali"
+  },
+  {
+   "name": "Off-White",
+   "brand": "off-white",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/off-white"
+  },
+  {
+   "name": "Onitsuka Tiger",
+   "brand": "onitsuka-tiger",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/onitsuka-tiger"
+  },
+  {
+   "name": "Ottolinger",
+   "brand": "ottolinger",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ottolinger"
+  },
+  {
+   "name": "Our Legacy",
+   "brand": "our-legacy",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/our-legacy"
+  },
+  {
+   "name": "Palmer Harding",
+   "brand": "palmerharding",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/palmerharding"
+  },
+  {
+   "name": "Palomo Spain",
+   "brand": "palomo-spain",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/palomo-spain"
+  },
+  {
+   "name": "Pamella Roland",
+   "brand": "pamella-roland",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/pamella-roland"
+  },
+  {
+   "name": "Paolina Russo",
+   "brand": "paolina-russo",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/paolina-russo"
+  },
+  {
+   "name": "Paolo Carzana",
+   "brand": "paolo-carzana",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/paolo-carzana"
+  },
+  {
+   "name": "Parsons MFA",
+   "brand": "parsons-mfa",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/parsons-mfa"
+  },
+  {
+   "name": "Partow",
+   "brand": "nellie-partow",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/nellie-partow"
+  },
+  {
+   "name": "Patou",
+   "brand": "patou",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/patou"
+  },
+  {
+   "name": "Patrick McDowell",
+   "brand": "patrick-mcdowell",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/patrick-mcdowell"
+  },
+  {
+   "name": "Paula Canovas Del Vas",
+   "brand": "paula-canovas-del-vas",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/paula-canovas-del-vas"
+  },
+  {
+   "name": "Pauline Dujancourt",
+   "brand": "pauline-dujancourt",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/pauline-dujancourt"
+  },
+  {
+   "name": "Petar Petrov",
+   "brand": "petar-petrov",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/petar-petrov"
+  },
+  {
+   "name": "PH5",
+   "brand": "ph5",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ph5"
+  },
+  {
+   "name": "Philipp Plein",
+   "brand": "philipp-plein",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/philipp-plein"
+  },
+  {
+   "name": "Plan C",
+   "brand": "plan-c",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/plan-c"
+  },
+  {
+   "name": "Polo Ralph Lauren",
+   "brand": "polo-ralph-lauren",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/polo-ralph-lauren"
+  },
+  {
+   "name": "Ponte",
+   "brand": "ponte",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ponte"
+  },
+  {
+   "name": "Prabal Gurung",
+   "brand": "prabal-gurung",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/prabal-gurung"
+  },
+  {
+   "name": "Prada",
+   "brand": "prada",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/prada"
+  },
+  {
+   "name": "Priscavera",
+   "brand": "priscavera",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/priscavera"
+  },
+  {
+   "name": "Private Policy",
+   "brand": "private-policy",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/private-policy"
+  },
+  {
+   "name": "Proenza Schouler",
+   "brand": "proenza-schouler",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/proenza-schouler"
+  },
+  {
+   "name": "R13",
+   "brand": "r13",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/r13"
+  },
+  {
+   "name": "Rabanne",
+   "brand": "paco-rabanne",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/paco-rabanne"
+  },
+  {
+   "name": "Rachel Antonoff",
+   "brand": "rachel-antonoff",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rachel-antonoff"
+  },
+  {
+   "name": "Rachel Comey",
+   "brand": "rachel-comey",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rachel-comey"
+  },
+  {
+   "name": "Rag & Bone",
+   "brand": "rag-bone",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rag-bone"
+  },
+  {
+   "name": "Rahul Mishra AFEW",
+   "brand": "rahul-mishra-afew",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rahul-mishra-afew"
+  },
+  {
+   "name": "Ralph Lauren",
+   "brand": "ralph-lauren",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ralph-lauren"
+  },
+  {
+   "name": "Raquel Diniz",
+   "brand": "raquel-diniz",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/raquel-diniz"
+  },
+  {
+   "name": "Reem Acra",
+   "brand": "reem-acra",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/reem-acra"
+  },
+  {
+   "name": "Renaissance Renaissance",
+   "brand": "renaissance-renaissance",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/renaissance-renaissance"
+  },
+  {
+   "name": "Rentrayage",
+   "brand": "rentrayage",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rentrayage"
+  },
+  {
+   "name": "Richard Quinn",
+   "brand": "richard-quinn",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/richard-quinn"
+  },
+  {
+   "name": "Rick Owens",
+   "brand": "rick-owens",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rick-owens"
+  },
+  {
+   "name": "Rio",
+   "brand": "gypsy-sport",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/gypsy-sport"
+  },
+  {
+   "name": "Roberto Cavalli",
+   "brand": "roberto-cavalli",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/roberto-cavalli"
+  },
+  {
+   "name": "Rodarte",
+   "brand": "rodarte",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rodarte"
+  },
+  {
+   "name": "Roksanda",
+   "brand": "roksanda",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/roksanda"
+  },
+  {
+   "name": "Romance Was Born",
+   "brand": "romance-was-born",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/romance-was-born"
+  },
+  {
+   "name": "Romeo Hunte",
+   "brand": "romeo-hunte",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/romeo-hunte"
+  },
+  {
+   "name": "Rory William Docherty",
+   "brand": "rory-william-docherty",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rory-william-docherty"
+  },
+  {
+   "name": "RVNG Couture",
+   "brand": "rvng-couture",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/rvng-couture"
+  },
+  {
+   "name": "Sacai",
+   "brand": "sacai",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sacai",
+   "cover": {
+    "id": "68e39d098cc04cc9ca2bbb4b",
+    "file": "00001-sacai-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Sachin & Babi",
+   "brand": "sachin-babi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sachin-babi"
+  },
+  {
+   "name": "Saint Laurent",
+   "brand": "saint-laurent",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/saint-laurent"
+  },
+  {
+   "name": "Sanderlak",
+   "brand": "sanderlak",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sanderlak"
+  },
+  {
+   "name": "Sandy Liang",
+   "brand": "sandy-liang",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sandy-liang"
+  },
+  {
+   "name": "SC103",
+   "brand": "sc103",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sc103"
+  },
+  {
+   "name": "Schiaparelli",
+   "brand": "schiaparelli",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/schiaparelli"
+  },
+  {
+   "name": "Sea",
+   "brand": "sea",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sea"
+  },
+  {
+   "name": "Self-Portrait",
+   "brand": "self-portrait",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/self-portrait"
+  },
+  {
+   "name": "Sergio Hudson",
+   "brand": "sergio-hudson",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sergio-hudson"
+  },
+  {
+   "name": "Sharon Wauchob",
+   "brand": "sharon-wauchob",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sharon-wauchob"
+  },
+  {
+   "name": "Shiatzy Chen",
+   "brand": "shiatzy-chen",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/shiatzy-chen"
+  },
+  {
+   "name": "Shuting Qiu",
+   "brand": "shuting-qiu",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/shuting-qiu"
+  },
+  {
+   "name": "Simkhai",
+   "brand": "jonathan-simkhai",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/jonathan-simkhai"
+  },
+  {
+   "name": "Simon Miller",
+   "brand": "simon-miller",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/simon-miller"
+  },
+  {
+   "name": "Simone Rocha",
+   "brand": "simone-rocha",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/simone-rocha"
+  },
+  {
+   "name": "Simorra",
+   "brand": "simorra",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/simorra"
+  },
+  {
+   "name": "Snow Xue Gao ",
+   "brand": "snow-xue-gao",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/snow-xue-gao"
+  },
+  {
+   "name": "Sportmax",
+   "brand": "sportmax",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sportmax"
+  },
+  {
+   "name": "Ssstein",
+   "brand": "stein",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/stein"
+  },
+  {
+   "name": "Staud",
+   "brand": "staud",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/staud"
+  },
+  {
+   "name": "Stefan Cooke",
+   "brand": "stefan-cooke",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/stefan-cooke"
+  },
+  {
+   "name": "Stella Jean",
+   "brand": "stella-jean",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/stella-jean"
+  },
+  {
+   "name": "Stella McCartney",
+   "brand": "stella-mccartney",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/stella-mccartney"
+  },
+  {
+   "name": "Sunnei",
+   "brand": "sunnei",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/sunnei"
+  },
+  {
+   "name": "Susan Fang",
+   "brand": "susan-fang",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/susan-fang"
+  },
+  {
+   "name": "Tagliatore",
+   "brand": "tagliatore",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tagliatore"
+  },
+  {
+   "name": "Talia Byre",
+   "brand": "talia-byre",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/talia-byre"
+  },
+  {
+   "name": "Tanner Fletcher",
+   "brand": "tanner-fletcher",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tanner-fletcher"
+  },
+  {
+   "name": "Tanya Taylor",
+   "brand": "tanya-taylor",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tanya-taylor"
+  },
+  {
+   "name": "Temperley London",
+   "brand": "temperley-london",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/temperley-london"
+  },
+  {
+   "name": "The Attico",
+   "brand": "attico",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/attico"
+  },
+  {
+   "name": "The Label Edition",
+   "brand": "the-label-edition",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/the-label-edition"
+  },
+  {
+   "name": "The Row",
+   "brand": "row",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/row"
+  },
+  {
+   "name": "Theophilio",
+   "brand": "theophilio",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/theophilio"
+  },
+  {
+   "name": "Theory",
+   "brand": "theory",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/theory"
+  },
+  {
+   "name": "Thom Browne",
+   "brand": "thom-browne",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/thom-browne",
+   "cover": {
+    "id": "68e448f7d5fff1028d17f791",
+    "file": "00001-thom-browne-spring-2026-ready-to-wear-credit-brand.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Tibi",
+   "brand": "tibi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tibi"
+  },
+  {
+   "name": "Tod's",
+   "brand": "tod-s",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tod-s"
+  },
+  {
+   "name": "Toga",
+   "brand": "toga",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/toga"
+  },
+  {
+   "name": "Tokyo James",
+   "brand": "tokyo-james",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tokyo-james"
+  },
+  {
+   "name": "Tolu Coker",
+   "brand": "tolu-coker",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tolu-coker"
+  },
+  {
+   "name": "Tom Ford",
+   "brand": "tom-ford",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tom-ford"
+  },
+  {
+   "name": "Tomo Koizumi",
+   "brand": "tomo-koizumi",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tomo-koizumi"
+  },
+  {
+   "name": "Torishéju",
+   "brand": "torisheju",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/torisheju"
+  },
+  {
+   "name": "Tory Burch",
+   "brand": "tory-burch",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tory-burch"
+  },
+  {
+   "name": "Toteme",
+   "brand": "toteme",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/toteme"
+  },
+  {
+   "name": "Tove",
+   "brand": "tove",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/tove"
+  },
+  {
+   "name": "TWP",
+   "brand": "twp",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/twp"
+  },
+  {
+   "name": "Ulla Johnson",
+   "brand": "ulla-johnson",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/ulla-johnson"
+  },
+  {
+   "name": "Uma Wang",
+   "brand": "uma-wang",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/uma-wang"
+  },
+  {
+   "name": "Undercover",
+   "brand": "undercover",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/undercover"
+  },
+  {
+   "name": "Valentino",
+   "brand": "valentino",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/valentino",
+   "cover": {
+    "id": "68e379e3abd3d64fa0d58c32",
+    "file": "00001-valentino-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Vaquera",
+   "brand": "vaquera",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/vaquera"
+  },
+  {
+   "name": "Veronica Beard",
+   "brand": "veronica-beard",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/veronica-beard"
+  },
+  {
+   "name": "Véronique Leroy",
+   "brand": "veronique-leroy",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/veronique-leroy"
+  },
+  {
+   "name": "Versace",
+   "brand": "versace",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/versace"
+  },
+  {
+   "name": "Vetements",
+   "brand": "vetements",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/vetements"
+  },
+  {
+   "name": "Victoria Beckham",
+   "brand": "victoria-beckham",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/victoria-beckham",
+   "cover": {
+    "id": "68e0cce9edaea224be38ba92",
+    "file": "00001-victoria-beckham-spring-2026-ready-to-wear-credit-gorunway.JPG",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Viktor & Rolf",
+   "brand": "viktor-rolf",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/viktor-rolf"
+  },
+  {
+   "name": "Vivienne Westwood",
+   "brand": "vivienne-westwood",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/vivienne-westwood"
+  },
+  {
+   "name": "Vogue World",
+   "brand": "vogue-world",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/vogue-world",
+   "cover": {
+    "id": "6900b40d93bb60dfe87e4973",
+    "file": "00001-vogue-world-hollywood-spring-2026-ready-to-wear-credit-gorunway.JPG",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Who Decides War",
+   "brand": "who-decides-war",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/who-decides-war"
+  },
+  {
+   "name": "Wiederhoeft",
+   "brand": "wiederhoeft",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/wiederhoeft"
+  },
+  {
+   "name": "Xuly.Bët",
+   "brand": "xulybet",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/xulybet"
+  },
+  {
+   "name": "Yaku",
+   "brand": "yaku",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/yaku"
+  },
+  {
+   "name": "Yigal Azrouël",
+   "brand": "yigal-azrouel",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/yigal-azrouel"
+  },
+  {
+   "name": "Yohji Yamamoto",
+   "brand": "yohji-yamamoto",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/yohji-yamamoto",
+   "cover": {
+    "id": "68e0279939a01419ae036681",
+    "file": "00001-yohji-yamamoto-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Yuhan Wang",
+   "brand": "yuhan-wang",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/yuhan-wang"
+  },
+  {
+   "name": "Zankov",
+   "brand": "zankov",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/zankov"
+  },
+  {
+   "name": "Zimmermann",
+   "brand": "zimmermann",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/zimmermann"
+  },
+  {
+   "name": "Zoe Gustavia Anna Whalen",
+   "brand": "zoe-gustavia-anna-whalen",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/zoe-gustavia-anna-whalen"
+  },
+  {
+   "name": "Zomer",
+   "brand": "zomer",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/zomer"
+  },
+  {
+   "name": "Zuhair Murad",
+   "brand": "zuhair-murad",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/zuhair-murad"
+  },
+  {
+   "name": "16Arlington",
+   "brand": "16arlington",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/16arlington"
+  },
+  {
+   "name": "3.1 Phillip Lim",
+   "brand": "3-1-phillip-lim",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/3-1-phillip-lim"
+  },
+  {
+   "name": "5000",
+   "brand": "5000",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/5000"
+  },
+  {
+   "name": "6397",
+   "brand": "6397",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/6397"
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:38:33"
+}

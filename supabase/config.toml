@@ -1,0 +1,14 @@
+# Runway Book - 원격 프로젝트에 반영할 설정만 선언한다 (supabase config push).
+# 선언하지 않은 항목은 원격 값이 유지된다.
+project_id = "runway-book"
+
+[auth]
+site_url = "https://fashionbook.vercel.app"
+additional_redirect_urls = ["https://fashionbook.vercel.app", "http://localhost:8765"]
+enable_signup = true
+minimum_password_length = 8
+
+[auth.email]
+enable_signup = true
+# 기본 메일 서비스는 발송 제한이 커서 확인 메일 없이 바로 가입되게 한다
+enable_confirmations = false

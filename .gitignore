@@ -1,0 +1,11 @@
+# 비밀 정보
+.env.local
+.env*
+cookies.txt
+# 생성물
+dist/
+data/images/
+__pycache__/
+.vercel/
+supabase/.temp/
+.DS_Store

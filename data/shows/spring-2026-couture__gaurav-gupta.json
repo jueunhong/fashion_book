@@ -1,0 +1,324 @@
+{
+ "key": "spring-2026-couture__gaurav-gupta",
+ "url": "https://www.vogue.com/fashion-shows/spring-2026-couture/gaurav-gupta",
+ "season": "spring-2026-couture",
+ "seasonName": "Spring 2026 Couture",
+ "brand": "gaurav-gupta",
+ "brandName": "Gaurav Gupta",
+ "designers": "By Gaurav Gupta",
+ "eventDate": "",
+ "pubDate": "January 27, 2026",
+ "authors": [
+  "Tiziana Cardini"
+ ],
+ "reviewHtml": "<div><p>“Divine Androgyne,” Gaurav Gupta’s couture collection, was rooted in Indian spiritual philosophy. In this belief system, creation arises from duality; the masculine and feminine coexist within every being, the human and the divine deeply entwined. Feminine energy embodies <em>shakti</em>, while the masculine represents consciousness; neither can exist independently. Their union gives rise to form, becoming the source of the universe, of matter, and of the inner light we carry.</p><p>Gupta and his Indian artisanal atelier gave physical expression to this philosophy through sculpted couture, where bold, body-conscious silhouettes conveyed layered meanings. A black, hourglass-shaped gown featured handcrafted lace tracing the body’s energy points, forming web-like structures that tether spirit to form. Twin looks, intertwined through ribbons and filaments, evoked the idea of the twin flames, karmic partnerships revealed through contrast and convergence; the red feminine energy dissolved into darker masculine tones, underscoring the illusion of separation.</p><p>Time emerged as both material and metaphor. Embroidery composed of clock components shaped fluid silver numbers, reflecting time’s cyclical nature, while metal planets, meteors, and asteroids formed a cosmic language across black velvet, most strikingly in a sculptural bustier dress. Throughout, robotic surfaces intersected with traditional forms, capturing the tension between origin and future. A touching personal moment unfolded as Navkirat Sodhi, Gupta’s life partner, returned to the runway following a fire that left her limbs scarred. Her appearance became a symbol of resilience, healing, and the act of rising together.</p><p>The collection progressed like a “fantasy forest,” explained Gupta, moving through themes of bloom and decay. White bridal looks appeared as primordial beings crafted from petals fused with feathers; serpentine and reptilian structures, insects transformed into chandelier-like forms, and constellations woven in crystal translated philosophical ideas through meticulous couture craftsmanship.</p><p>Sacred Indian references grounded the narrative: jasmine temple flowers recreated in embroidery, corsetry built from brocade, and sari-inspired gold webbing. Red, the color of feminine power and Indian bridal tradition, stood alongside white, emblematic of Western wedding ceremonies. “Not East or West, but universal,” Gupta said. The closing sculptural look embodied this vision, representing the universe itself in a molten, sequined evocation of cosmic force.</p></div>",
+ "cover": {
+  "id": "6978d4e9dd36f2c90b340c47",
+  "file": "00001-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6978d4e9dd36f2c90b340c47",
+     "file": "00001-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6978d4e974abed7c0f4457f1",
+     "file": "00002-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6978d4ea77d2a09a9ccb898e",
+     "file": "00003-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6978d4ecc1d4f0e483fa7236",
+     "file": "00004-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6978d4ecbd02fd5cd2a3d138",
+     "file": "00005-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6978d4ed4ecbcaf7b3d915d9",
+     "file": "00006-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6978d4ef74abed7c0f4457f4",
+     "file": "00007-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6978d4ef4ecbcaf7b3d915db",
+     "file": "00008-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6978d4f01ab0540f0dbac7e9",
+     "file": "00009-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6978d4f16a5bb9241e08628b",
+     "file": "00010-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6978d4f177d2a09a9ccb8990",
+     "file": "00011-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6978d4f3e8ec6617b727f091",
+     "file": "00012-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6978d4f5bcd344c05dbf7e15",
+     "file": "00013-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6978d4f5cd117c4683844b06",
+     "file": "00014-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6978d4f6f45f08bdd90793b9",
+     "file": "00015-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6978d4f85a11a748a4a7e144",
+     "file": "00016-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6978d4f774abed7c0f4457f7",
+     "file": "00017-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6978d4f979b01ae765682592",
+     "file": "00018-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6978d4fa5a11a748a4a7e146",
+     "file": "00019-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6978d4fa79b01ae765682594",
+     "file": "00020-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6978d4fc74abed7c0f4457f9",
+     "file": "00021-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6978d4fd1ab0540f0dbac7ec",
+     "file": "00022-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6978d4fdcd117c4683844b08",
+     "file": "00023-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6978d4ffbcd344c05dbf7e18",
+     "file": "00024-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6978d50077d2a09a9ccb8993",
+     "file": "00025-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6978d500e3160bd375a42b3c",
+     "file": "00026-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6978d50279b01ae765682596",
+     "file": "00027-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6978d503718f4ae85a691f30",
+     "file": "00028-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6978d50379b01ae765682598",
+     "file": "00029-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6978d50507d6d62b3cfa15dc",
+     "file": "00030-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6978d505cd117c4683844b0a",
+     "file": "00031-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6978d5064645e0dea3c2aa6c",
+     "file": "00032-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6978d50722e8517864273af2",
+     "file": "00033-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6978d5081ab0540f0dbac7f0",
+     "file": "00034-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6978d50bbcd344c05dbf7e1a",
+     "file": "00035-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6978d50ae8ec6617b727f094",
+     "file": "00036-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6978d50c718f4ae85a691f32",
+     "file": "00037-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:52:42"
+}

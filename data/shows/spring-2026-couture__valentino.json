@@ -1,0 +1,1240 @@
+{
+ "key": "spring-2026-couture__valentino",
+ "url": "https://www.vogue.com/fashion-shows/spring-2026-couture/valentino",
+ "season": "spring-2026-couture",
+ "seasonName": "Spring 2026 Couture",
+ "brand": "valentino",
+ "brandName": "Valentino",
+ "designers": "By Alessandro Michele",
+ "eventDate": "",
+ "pubDate": "January 28, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>Valentino Garavani died a week and a half ago in Rome at the age of 93. To honor him, the Valentino show began with a clip from Matt Tyrnauer’s documentary <em>Valentino: The Last Empero</em>r. In it, the designer, on the eve of retirement in 2008, remembers how he fell in love with magazines, cinema, and fashion. “I was dreaming about movie stars, about everything beautiful in the world. My mom said, ‘you are a dreamer, you always dream, dream, dream, dream’.” It could’ve been Alessandro Michele talking.</p><p>Anyone who’s watched his career since Gucci knows that Michele has a similar fixation. It was impossible not to recall a 2021 Gucci show on Hollywood Boulevard; only there the models strutted down the Walk of Fame, and here at Valentino, in what was quite possibly a fashion show first, they emerged one-by-one in a series of circular “kaiserpanorama” set up at the Tennis Club de Paris, the audience peeping them through little squares built into the walls. </p><p>The kaiserpanorama dates to 1890, a form of stereoscopic entertainment that predated film. The effect here, once we got comfortable with our roles as voyeurs, was transfixing, the square windows and the spare, neon-white walls sharpening the focus, and the rooms dimming as one model left and another appeared, finding her light. The models had been urged to vamp it up and they obliged; in these photos you see faces in the boxes, but as it was happening, it was iPhone cameras, each of us getting the shot. Michele has a director’s eye for scenography and spectacle, but it’s costume design that he originally wanted to pursue, and in this collection he indulged his most expressive instincts. The higher the feather headdress, the closer to God.</p><p>Because of the set-up of the show, each kaiserpanorama had a different look first. Some saw a trapunto stitched skirt suit in what looked like a 1940s vintage in mauvy pink; others a draped black silk velvet dress with a direct line back to the 1910s and Paul Poiret, the subject of a recent Paris exhibition and also an influence on Jonathan Anderson’s collection for Dior Men; still more saw a creamy satin slip dress and an embroidered ivory cape fit for Greta Garbo as Mata Hari. Where Vogue was seated, it was a caftan with flames of gold sequins licking the neckline and sleeves, topped by, bien sur, an elaborate feather headdress. Katharine Hepburn’s black and white striped <em>Bringing Up Baby</em> gown got a re-airing too.</p><p>Michele decade-hopped with freedom, under no duress to design to a theme, like he might be at a ready-to-wear show destined for stores. What held the collection together was his showmanship and his roving eye for beauty and drama. When all the models cycled through all the kaiserpanorama they reappeared for a final walk down the runway. The first dress was draped in 1980s fashion, plunging to a knot at the navel with full, batwing sleeves. Naturally, it was Valentino red.</p></div>",
+ "cover": {
+  "id": "697a25859f265b560a920f68",
+  "file": "00001-valentino-spring-2026-couture-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "697a25859f265b560a920f68",
+     "file": "00001-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "697a2586747a5f071eb6e16d",
+     "file": "00002-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "697a258552deb098a3330a13",
+     "file": "00003-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "697a2588bc757bffa5042f74",
+     "file": "00004-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "697a2588e88d1a92eedf427f",
+     "file": "00005-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "697a25891ee4ec1b80114fe1",
+     "file": "00006-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "697a258bc12e2d5ee7571665",
+     "file": "00007-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "697a258b747a5f071eb6e16f",
+     "file": "00008-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "697a258c24bcf9b3adcc4173",
+     "file": "00009-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "697a258edfdf5c818ab1ad87",
+     "file": "00010-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "697a258e747a5f071eb6e171",
+     "file": "00011-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "697a258fc8a08947df21e834",
+     "file": "00012-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "697a25904f84ad2690049674",
+     "file": "00013-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "697a259189992acbc7d88b61",
+     "file": "00014-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "697a25925a1f684c789e1c1e",
+     "file": "00015-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "697a25933cec2c8761b77dd7",
+     "file": "00016-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "697a2594e228987c962d5df5",
+     "file": "00017-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "697a259552deb098a3330a15",
+     "file": "00018-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "697a2596f31c0c1f4a577d38",
+     "file": "00019-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "697a25964f84ad2690049677",
+     "file": "00020-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "697a259824bcf9b3adcc4176",
+     "file": "00021-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "697a25997dc91d7a224e1923",
+     "file": "00022-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "697a259ac5fac92e335445f8",
+     "file": "00023-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "697a259c3139a994e9c97a88",
+     "file": "00024-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "697a259c9e7af70223aaba14",
+     "file": "00025-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "697a259ce7ea7b161a53b9dd",
+     "file": "00026-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "697a259f5706bbf1a5ea6ac0",
+     "file": "00027-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "697a25a0b3061247e06260c6",
+     "file": "00028-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "697a259fbc3ba44cc90a8364",
+     "file": "00029-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "697a25a21ee4ec1b80114fe3",
+     "file": "00030-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "697a25a23cec2c8761b77dd9",
+     "file": "00031-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "697a25a452deb098a3330a17",
+     "file": "00032-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "697a25a55ce15893896b5e9d",
+     "file": "00033-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "697a25a661780ea371f27e2c",
+     "file": "00034-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "697a25a79f265b560a920f6a",
+     "file": "00035-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "697a25a8bc757bffa5042f77",
+     "file": "00036-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "697a25a90e020ac9950c9ffd",
+     "file": "00037-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "697a25aa6387df7f76abd5f0",
+     "file": "00038-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "697a25abe7ea7b161a53b9df",
+     "file": "00039-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "697a25acc8a08947df21e836",
+     "file": "00040-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "697a25ad7cb73b20dcb94df9",
+     "file": "00041-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "697a25ae489031dac0ca35c1",
+     "file": "00042-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "697a25afd020de4c61f9a647",
+     "file": "00043-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "697a25b07cb73b20dcb94dfb",
+     "file": "00044-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "697a25b10e020ac9950c9fff",
+     "file": "00045-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "697a25b224bcf9b3adcc4178",
+     "file": "00046-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "697a25b32e7ff3ac8422a331",
+     "file": "00047-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "697a25b5c8a08947df21e838",
+     "file": "00048-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "697a25b5e228987c962d5df8",
+     "file": "00049-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "697a25b5f31c0c1f4a577d3a",
+     "file": "00050-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "697a25b8059e3fea05b3e647",
+     "file": "00051-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "697a25b8d020de4c61f9a649",
+     "file": "00052-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "697a25b85ce15893896b5ea1",
+     "file": "00053-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "697a25bb6ce0755d3cd71a9e",
+     "file": "00054-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "697a25bb3139a994e9c97a8a",
+     "file": "00055-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "697a25bb354e980dde9211e2",
+     "file": "00056-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "697a25be89992acbc7d88b66",
+     "file": "00057-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "697a25be747a5f071eb6e173",
+     "file": "00058-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "697a25be15ea845896cdac93",
+     "file": "00059-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "697a25c06ce0755d3cd71aa0",
+     "file": "00060-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "697a3dfcc5fac92e33544610",
+     "file": "00061-valentino-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "697a66c8f7bbf554af311cfe",
+     "file": "00001-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "697a66c7df76ad743756ef01",
+     "file": "00002-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "697a66c95a1f684c789e1ec4",
+     "file": "00003-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "697a66cb2cc86222f17ce706",
+     "file": "00004-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "697a66cc0d6164e9ba819bd7",
+     "file": "00005-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "697a66cc9da7e4af8c938957",
+     "file": "00006-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "697a66d1744c7c4b3d1cc7d5",
+     "file": "00007-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "697a66d3024d78b585bf75a1",
+     "file": "00008-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "697a66d252deb098a3330a86",
+     "file": "00009-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "697a66d64b7fc497424ee959",
+     "file": "00010-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "697a66d76387df7f76abd637",
+     "file": "00011-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "697a66d8f31c0c1f4a577d74",
+     "file": "00012-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "697a66da52deb098a3330a88",
+     "file": "00013-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "697a66db3cec2c8761b77e4d",
+     "file": "00014-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "697a66dc15ea845896cdaf02",
+     "file": "00015-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "697a66dd4b7fc497424ee95b",
+     "file": "00016-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "697a66de74bd4068b43b7a2a",
+     "file": "00017-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "697a66e2df76ad743756ef03",
+     "file": "00018-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "697a66e452deb098a3330a8a",
+     "file": "00019-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "697a66e2df76ad743756ef05",
+     "file": "00020-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "697a66e7da1f82e87914f499",
+     "file": "00021-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "697a66e7059e3fea05b3ec55",
+     "file": "00022-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "697a66e815ea845896cdaf04",
+     "file": "00023-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "697a66eac67495a34e2b6478",
+     "file": "00024-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "697a66ec15ea845896cdaf08",
+     "file": "00025-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "697a66ec52deb098a3330a8c",
+     "file": "00026-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "697a66eff7bbf554af311d00",
+     "file": "00027-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "697a66f03cec2c8761b77e4f",
+     "file": "00028-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "697a66f1a163e42fcafe0b6b",
+     "file": "00029-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "697a66f64b7fc497424ee95d",
+     "file": "00030-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "697a66f7218f4e58fb061fb6",
+     "file": "00031-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "697a66f7744c7c4b3d1cc7d7",
+     "file": "00032-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "697a66fd0d6164e9ba819bd9",
+     "file": "00033-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "697a66fecf3ea91c30bd477b",
+     "file": "00034-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "697a66ff218f4e58fb061fb8",
+     "file": "00035-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "697a6705a163e42fcafe0b6d",
+     "file": "00036-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "697a6706cf3ea91c30bd477d",
+     "file": "00037-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "697a6707c8a08947df21e87c",
+     "file": "00038-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "697a670b9112ba4b9ed6bc92",
+     "file": "00039-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "697a670fc5fac92e33544628",
+     "file": "00040-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "697a670e9112ba4b9ed6bc94",
+     "file": "00041-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "697a67106387df7f76abd639",
+     "file": "00042-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "697a67145a1f684c789e1ec7",
+     "file": "00043-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "697a6717554b403d2bb93d6b",
+     "file": "00044-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "697a6719c67495a34e2b647a",
+     "file": "00045-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "697a671a2cc86222f17ce708",
+     "file": "00046-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "697a671e059e3fea05b3ec57",
+     "file": "00047-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "697a67207dc91d7a224e1f57",
+     "file": "00048-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "697a6722059e3fea05b3ec59",
+     "file": "00049-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "697a67257cb73b20dcb9507a",
+     "file": "00050-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "697a6725dfdf5c818ab1b186",
+     "file": "00051-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "697a6729f7bbf554af311d02",
+     "file": "00052-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "697a672b059e3fea05b3ec5b",
+     "file": "00053-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "697a672ae88d1a92eedf45ab",
+     "file": "00054-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "697a67300d6164e9ba819bdb",
+     "file": "00055-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "697a673152deb098a3330a8e",
+     "file": "00056-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "697a673315ea845896cdaf0a",
+     "file": "00057-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "697a6737c8a08947df21e87e",
+     "file": "00058-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "697a6737dfdf5c818ab1b188",
+     "file": "00059-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "697a673915ea845896cdaf0c",
+     "file": "00060-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "697a673e744c7c4b3d1cc7d9",
+     "file": "00061-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "697a673ecf3ea91c30bd477f",
+     "file": "00062-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "697a673f2cc86222f17ce70a",
+     "file": "00063-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "697a67449da7e4af8c938959",
+     "file": "00064-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "697a6746dfdf5c818ab1b18a",
+     "file": "00065-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "697a6746747a5f071eb6e41f",
+     "file": "00066-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "697a6749e88d1a92eedf45ad",
+     "file": "00067-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "697a674fc5fac92e3354462a",
+     "file": "00068-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "697a674e5706bbf1a5ea6e63",
+     "file": "00069-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "697a674f2cc86222f17ce70c",
+     "file": "00070-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "697a6754dfdf5c818ab1b18c",
+     "file": "00071-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "697a6756cf3ea91c30bd4781",
+     "file": "00072-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "697a6755683d38cf797d4343",
+     "file": "00073-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "697a67592dd311a1bbdb3622",
+     "file": "00074-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "697a675de228987c962d66fd",
+     "file": "00075-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "697a675d15ea845896cdaf0e",
+     "file": "00076-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "697a675f9112ba4b9ed6bc96",
+     "file": "00077-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "697a6763df76ad743756ef07",
+     "file": "00078-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "697a6765da1f82e87914f49b",
+     "file": "00079-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "697a6766024d78b585bf75a3",
+     "file": "00080-valentino-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "697a33c6059e3fea05b3ec1b",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "697a33c6c8a08947df21e850",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "697a33c79da7e4af8c938924",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "697a33c8024d78b585bf7107",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "697a33c85ce15893896b5eae",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "697a33c8b3061247e06260dc",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "697a33c99f265b560a920f70",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "697a33c9cf3ea91c30bd474f",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "697a33ca2cc86222f17ce16f",
+     "file": "Valentino_ParisCouturess26_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:53:08"
+}

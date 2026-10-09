@@ -1,0 +1,4863 @@
+{
+ "shows": [
+  {
+   "key": "spring-2026-couture__alexis-mabille",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "alexis-mabille",
+   "brandName": "Alexis Mabille",
+   "designers": "By Alexis Mabille",
+   "eventDate": "",
+   "cover": {
+    "id": "697a0b2b1ee4ec1b80114fd8",
+    "file": "00001-alexis-mabille-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30,
+    "Details": 29
+   },
+   "looks": 59,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:14"
+  },
+  {
+   "key": "spring-2026-couture__antonio-grimaldi",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "antonio-grimaldi",
+   "brandName": "Antonio Grimaldi",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "69776801e062d02bd8abdfb1",
+    "file": "00001-antonio-grimaldi-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 19,
+    "Details": 36
+   },
+   "looks": 55,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:17"
+  },
+  {
+   "key": "spring-2026-couture__armani-prive",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "armani-prive",
+   "brandName": "Armani Privé",
+   "designers": "By Silvana Armani",
+   "eventDate": "",
+   "cover": {
+    "id": "69791f552788d784149a5257",
+    "file": "00001-armani-prive-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 64,
+    "Backstage": 47
+   },
+   "looks": 111,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:21"
+  },
+  {
+   "key": "spring-2026-couture__ashi-studio",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "ashi-studio",
+   "brandName": "Ashi Studio",
+   "designers": "By Mohammed Ashi",
+   "eventDate": "",
+   "cover": {
+    "id": "697b68cba6b9469e07b7c033",
+    "file": "00001-ashi-studio-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:23"
+  },
+  {
+   "key": "spring-2026-couture__celia-kritharioti",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "celia-kritharioti",
+   "brandName": "Celia Kritharioti",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6981fe4ce5debc65034d15a7",
+    "file": "00001-celia-kritharioti-spring-2026-couture-credit-brand-sponsored.jpg"
+   },
+   "counts": {
+    "Collection": 63,
+    "Details": 79
+   },
+   "looks": 142,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:26"
+  },
+  {
+   "key": "spring-2026-couture__chanel",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "chanel",
+   "brandName": "Chanel",
+   "designers": "By Matthieu Blazy",
+   "eventDate": "",
+   "cover": {
+    "id": "69789d0e22e5f5556062ec5e",
+    "file": "00001-chanel-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 54,
+    "Details": 192
+   },
+   "looks": 246,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:27"
+  },
+  {
+   "key": "spring-2026-couture__chocheng",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "chocheng",
+   "brandName": "Chochengco",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "697a4b253cec2c8761b77e32",
+    "file": "00001-chochengco-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:29"
+  },
+  {
+   "key": "spring-2026-couture__christian-dior",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "christian-dior",
+   "brandName": "Christian Dior",
+   "designers": "By Jonathan Anderson",
+   "eventDate": "",
+   "cover": {
+    "id": "6977985e581a48ce8371eb10",
+    "file": "00001-christian-dior-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 63,
+    "Details": 180,
+    "Backstage": 31
+   },
+   "looks": 274,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:34"
+  },
+  {
+   "key": "spring-2026-couture__didit-hediprasetyo",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "didit-hediprasetyo",
+   "brandName": "Didit Hediprasetyo",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6977d510fa00d521cc12fc84",
+    "file": "00001-didit-hediprasetyo-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 19
+   },
+   "looks": 19,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:35"
+  },
+  {
+   "key": "spring-2026-couture__elie-saab",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "elie-saab",
+   "brandName": "Elie Saab",
+   "designers": "By Elie Saab",
+   "eventDate": "",
+   "cover": {
+    "id": "697a2b4bdfdf5c818ab1ad8d",
+    "file": "00001-elie-saab-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 59
+   },
+   "looks": 59,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:38"
+  },
+  {
+   "key": "spring-2026-couture__francesco-scognamiglio",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "francesco-scognamiglio",
+   "brandName": "Francesco Scognamiglio",
+   "designers": "By Francesco Scognamiglio",
+   "eventDate": "",
+   "cover": {
+    "id": "69822122d9f6c172e456abe4",
+    "file": "00001-francesco-scognamiglio-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 15
+   },
+   "looks": 15,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:40"
+  },
+  {
+   "key": "spring-2026-couture__gaurav-gupta",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "gaurav-gupta",
+   "brandName": "Gaurav Gupta",
+   "designers": "By Gaurav Gupta",
+   "eventDate": "",
+   "cover": {
+    "id": "6978d4e9dd36f2c90b340c47",
+    "file": "00001-gaurav-gupta-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 37
+   },
+   "looks": 37,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:42"
+  },
+  {
+   "key": "spring-2026-couture__germanier",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "germanier",
+   "brandName": "Germanier",
+   "designers": "By Kévin Germanier",
+   "eventDate": "",
+   "cover": {
+    "id": "697bb075af17a5483fbdaf46",
+    "file": "00001-germanier-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 26
+   },
+   "looks": 26,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:45"
+  },
+  {
+   "key": "spring-2026-couture__julie-de-libran",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "julie-de-libran",
+   "brandName": "Julie de Libran",
+   "designers": "By Julie de Libran",
+   "eventDate": "",
+   "cover": {
+    "id": "697787fb26c07eab78feac56",
+    "file": "00001-julie-de-libran-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 29
+   },
+   "looks": 29,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:47"
+  },
+  {
+   "key": "spring-2026-couture__miss-sohee",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "miss-sohee",
+   "brandName": "Miss Sohee",
+   "designers": "By Sohee Park",
+   "eventDate": "",
+   "cover": {
+    "id": "697ba7f46ae46125f4accaef",
+    "file": "00001-miss-sohee-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 32
+   },
+   "looks": 32,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:50"
+  },
+  {
+   "key": "spring-2026-couture__rahul-mishra",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "rahul-mishra",
+   "brandName": "Rahul Mishra",
+   "designers": "By Rahul Mishra",
+   "eventDate": "",
+   "cover": {
+    "id": "6977affcf920f09a3cf311ef",
+    "file": "00001-rahul-mishra-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 53
+   },
+   "looks": 53,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:53"
+  },
+  {
+   "key": "spring-2026-couture__rami-al-ali",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "rami-al-ali",
+   "brandName": "Rami Al Ali",
+   "designers": "By Rami Al Ali",
+   "eventDate": "",
+   "cover": {
+    "id": "697d7143fdee1e3228bfb983",
+    "file": "00001-rami-al-ali-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:55"
+  },
+  {
+   "key": "spring-2026-couture__robert-wun",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "robert-wun",
+   "brandName": "Robert Wun",
+   "designers": "By Robert Wun",
+   "eventDate": "",
+   "cover": {
+    "id": "697b21d1848b13d1ce71e694",
+    "file": "00001-robert-wun-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 26
+   },
+   "looks": 26,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:52:58"
+  },
+  {
+   "key": "spring-2026-couture__ronald-van-der-kemp",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "ronald-van-der-kemp",
+   "brandName": "Ronald van der Kemp",
+   "designers": "By Ronald van der Kemp",
+   "eventDate": "",
+   "cover": {
+    "id": "697907343f0eefba8e867683",
+    "file": "00001-ronald-van-der-kemp-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 27
+   },
+   "looks": 27,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:53:02"
+  },
+  {
+   "key": "spring-2026-couture__rvng-couture",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "rvng-couture",
+   "brandName": "RVNG Couture",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "69ba6bdeea5137977f4a7e48",
+    "file": "00001-rvng-spring-2026-couture-credit-brand-sponsored.jpg"
+   },
+   "counts": {
+    "Collection": 23
+   },
+   "looks": 23,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:53:04"
+  },
+  {
+   "key": "spring-2026-couture__schiaparelli",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "schiaparelli",
+   "brandName": "Schiaparelli",
+   "designers": "By Daniel Roseberry",
+   "eventDate": "",
+   "cover": {
+    "id": "697c7d2b281104816219213d",
+    "file": "00001-schiaparelli-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30,
+    "Details": 51,
+    "Backstage": 30
+   },
+   "looks": 111,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:53:06"
+  },
+  {
+   "key": "spring-2026-couture__valentino",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "valentino",
+   "brandName": "Valentino",
+   "designers": "By Alessandro Michele",
+   "eventDate": "",
+   "cover": {
+    "id": "697a25859f265b560a920f68",
+    "file": "00001-valentino-spring-2026-couture-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 61,
+    "Details": 80,
+    "Backstage": 9
+   },
+   "looks": 150,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:53:08"
+  },
+  {
+   "key": "spring-2026-couture__viktor-rolf",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "viktor-rolf",
+   "brandName": "Viktor & Rolf",
+   "designers": "By Rolf Snoeren & Viktor Horsting",
+   "eventDate": "",
+   "cover": {
+    "id": "697a593a059e3fea05b3ec45",
+    "file": "00001-viktor-and-rolf-spring-2026-couture-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 16
+   },
+   "looks": 16,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:53:13"
+  },
+  {
+   "key": "spring-2026-couture__zuhair-murad",
+   "season": "spring-2026-couture",
+   "seasonName": "Spring 2026 Couture",
+   "brand": "zuhair-murad",
+   "brandName": "Zuhair Murad",
+   "designers": "By Zuhair Murad",
+   "eventDate": "",
+   "cover": {
+    "id": "697a6ad7cf3ea91c30bd478c",
+    "file": "00001-zuhair-murad-couture-spring-2026-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 46
+   },
+   "looks": 46,
+   "local": false,
+   "fetchedAt": "2026-10-09T15:53:15"
+  },
+  {
+   "key": "spring-2026-ready-to-wear__chanel",
+   "season": "spring-2026-ready-to-wear",
+   "seasonName": "Spring 2026 Ready-to-Wear",
+   "brand": "chanel",
+   "brandName": "Chanel",
+   "designers": "By Matthieu Blazy",
+   "eventDate": "2025-10-06T18:00:00.000Z",
+   "cover": {
+    "id": "68e438f0de381098419f868d",
+    "file": "00001-chanel-spring-2026-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 78,
+    "Details": 201
+   },
+   "looks": 279,
+   "local": false,
+   "fetchedAt": "2026-10-09T12:48:40"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__a-l-c",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "a-l-c",
+   "brandName": "A.L.C.",
+   "designers": "By Andrea Lieberman ",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa3192d76b1913dd8e9838f",
+    "file": "00001-a-l-c-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20,
+    "Details": 10
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:30"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__a-w-a-k-e",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "a-w-a-k-e",
+   "brandName": "A.W.A.K.E. Mode",
+   "designers": "By Natalia Alaverdian",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac13c953f89a8a947fa2c38",
+    "file": "00001-awake-mode-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 53,
+    "Details": 39
+   },
+   "looks": 92,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:34"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__aaron-esh",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "aaron-esh",
+   "brandName": "Aaron Esh",
+   "designers": "By Aaron Esh",
+   "eventDate": "2026-09-18T18:00:00.000Z",
+   "cover": {
+    "id": "6aad96b5172f025a7a63705a",
+    "file": "00001-aaron-esh-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 36
+   },
+   "looks": 36,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:36"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__abra",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "abra",
+   "brandName": "Abra",
+   "designers": "By Abraham Ortuño Perez",
+   "eventDate": "2026-10-05T10:00:00.000Z",
+   "cover": {
+    "id": "6ac3932469f164688e33510a",
+    "file": "00001-abra-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 26
+   },
+   "looks": 26,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:39"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__acne-studios",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "acne-studios",
+   "brandName": "Acne Studios",
+   "designers": "By Jonny Johansson",
+   "eventDate": "2026-09-30T16:30:00.000Z",
+   "cover": {
+    "id": "6abe4040090fd8150d0e4f7d",
+    "file": "00001-acne-studios-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 50,
+    "Details": 99
+   },
+   "looks": 149,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:41"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__act-no-1",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "act-no-1",
+   "brandName": "Act No.1",
+   "designers": "By Luca Lin",
+   "eventDate": "2026-09-26T14:00:00.000Z",
+   "cover": {
+    "id": "6ab7f405104ef380ba169856",
+    "file": "00001-act-no-1-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 31
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:44"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__adam-lippes",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "adam-lippes",
+   "brandName": "Adam Lippes",
+   "designers": "By Adam Lippes",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa195367741b75163deeb7a",
+    "file": "00001-adam-lippes-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20,
+    "Details": 10
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:47"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__advisry",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "advisry",
+   "brandName": "Advisry",
+   "designers": "By Keith Herron",
+   "eventDate": "2026-09-15T15:00:00.000Z",
+   "cover": {
+    "id": "6aa97fdebd471d328de399e6",
+    "file": "00001-advisry-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 40
+   },
+   "looks": 40,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:49"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ahluwalia-studio",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ahluwalia-studio",
+   "brandName": "Ahluwalia",
+   "designers": "By Priya Ahluwalia",
+   "eventDate": "2026-09-19T12:00:00.000Z",
+   "cover": {
+    "id": "6aae9f1e1eb29bd6b9025d73",
+    "file": "00001-ahluwalia-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 39
+   },
+   "looks": 39,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:52"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__aisling-camps",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "aisling-camps",
+   "brandName": "Aisling Camps",
+   "designers": "By Aisling Camps",
+   "eventDate": "2026-09-14T13:00:00.000Z",
+   "cover": {
+    "id": "6aa805e9fbfc9de8b165f911",
+    "file": "00001-aisling-camps-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 21
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:54"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__akris",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "akris",
+   "brandName": "Akris",
+   "designers": "By Albert Kriemler",
+   "eventDate": "2026-10-04T12:00:00.000Z",
+   "cover": {
+    "id": "6ac266cf6d60497579f44920",
+    "file": "00001-akris-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 55
+   },
+   "looks": 55,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:58"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__alainpaul",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "alainpaul",
+   "brandName": "Alainpaul",
+   "designers": "By Alain Paul",
+   "eventDate": "2026-10-01T09:30:00.000Z",
+   "cover": {
+    "id": "6abe561dfdb0d10cd3611931",
+    "file": "00001-alainpaul-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 51
+   },
+   "looks": 51,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:02"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__alberta-ferretti",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "alberta-ferretti",
+   "brandName": "Alberta Ferretti",
+   "designers": "By Lorenzo Serafini",
+   "eventDate": "2026-09-24T14:00:00.000Z",
+   "cover": {
+    "id": "6ab568771fa17d01eb2c7d6f",
+    "file": "00001-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 43,
+    "Backstage": 21
+   },
+   "looks": 64,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:06"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__alessandra-rich",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "alessandra-rich",
+   "brandName": "Alessandra Rich",
+   "designers": "By Alessandra Rich",
+   "eventDate": "",
+   "cover": {
+    "id": "6aaeaa6b1f954b41761faf94",
+    "file": "00001-alessandra-rich-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 33
+   },
+   "looks": 33,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:09"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__aletta",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "aletta",
+   "brandName": "A Letter",
+   "designers": "By Freddy Coomes & Matt Empringham",
+   "eventDate": "2026-09-18T15:00:00.000Z",
+   "cover": {
+    "id": "6aad88752fbb360b9cf2f4fb",
+    "file": "00001-a-letter-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 27,
+    "Details": 3
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:09:28"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__alexander-mcqueen",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "alexander-mcqueen",
+   "brandName": "McQueen",
+   "designers": "By Seán McGirr",
+   "eventDate": "2026-09-20T19:00:00.000Z",
+   "cover": {
+    "id": "6ab0644cb3ec3bf9972d3000",
+    "file": "00001-mcqueen-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 46,
+    "Details": 57
+   },
+   "looks": 103,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:54"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__alice-olivia",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "alice-olivia",
+   "brandName": "Alice + Olivia",
+   "designers": "By Stacey Bendet",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa35cd98dbb61baf7cbea15",
+    "file": "00001-alice-olivia-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 40
+   },
+   "looks": 40,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:12"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__all-in",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "all-in",
+   "brandName": "August Barron",
+   "designers": "By Bror August Vestbø & Benjamin Barron",
+   "eventDate": "2026-09-30T19:00:00.000Z",
+   "cover": {
+    "id": "6abea06c8ab75efcb4d25f22",
+    "file": "00001-august-barron-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 43
+   },
+   "looks": 43,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:02"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__altuzarra",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "altuzarra",
+   "brandName": "Altuzarra",
+   "designers": "By Joseph Altuzarra",
+   "eventDate": "2026-09-12T14:00:00.000Z",
+   "cover": {
+    "id": "6aa5a03b1553ea21ca3be7a2",
+    "file": "00001-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 49,
+    "Details": 129,
+    "Backstage": 37
+   },
+   "looks": 215,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:18"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ambush",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ambush",
+   "brandName": "Ambush",
+   "designers": "By Yoon Ahn",
+   "eventDate": "",
+   "cover": {
+    "id": "6a44d48e0a00d515f6c870ea",
+    "file": "00001-ambush-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 37
+   },
+   "looks": 37,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:20"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__amir-taghi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "amir-taghi",
+   "brandName": "Amir Taghi",
+   "designers": "By Amir Taghi",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa8361c6dce13d72043b163",
+    "file": "00001-amir-taghi-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20
+   },
+   "looks": 20,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:22"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__andreas-kronthaler-for-vivienne-westwood",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "andreas-kronthaler-for-vivienne-westwood",
+   "brandName": "Andreas Kronthaler for Vivienne Westwood",
+   "designers": "By Andreas Kronthaler​",
+   "eventDate": "2026-10-03T12:00:00.000Z",
+   "cover": {
+    "id": "6ac118f690f283c50041b0d4",
+    "file": "00001-andreas-kronthaler-for-vivienne-westwood-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 59,
+    "Details": 185
+   },
+   "looks": 244,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:30"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ann-demeulemeester",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ann-demeulemeester",
+   "brandName": "Ann Demeulemeester",
+   "designers": "By Stefano Gallici",
+   "eventDate": "2026-10-03T16:30:00.000Z",
+   "cover": {
+    "id": "6ac15b4555c5582d13a30c08",
+    "file": "00001-ann-demeulemeester-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 44
+   },
+   "looks": 44,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:32"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__anna-october",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "anna-october",
+   "brandName": "Anna October",
+   "designers": "By Anna October",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab63df6baa4ac93e4bc3a13",
+    "file": "00001-anna-october-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 15,
+    "Details": 6
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:34"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__anna-sui",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "anna-sui",
+   "brandName": "Anna Sui",
+   "designers": "By Anna Sui",
+   "eventDate": "2026-09-12T18:00:00.000Z",
+   "cover": {
+    "id": "6aa5bc268cc832c752565071",
+    "file": "00001-anna-sui-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 35,
+    "Details": 105,
+    "Backstage": 25
+   },
+   "looks": 165,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:38"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__anrealage",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "anrealage",
+   "brandName": "Anrealage",
+   "designers": "By Kunihiko Morinaga",
+   "eventDate": "2026-09-29T17:00:00.000Z",
+   "cover": {
+    "id": "6abc164a0c1a095af5cab630",
+    "file": "00001-anrealage-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 35
+   },
+   "looks": 35,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:40"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__anteprima",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "anteprima",
+   "brandName": "Anteprima",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab53620e70928d204bb814a",
+    "file": "00001-anteprima-spring-2027-ready-to-wear-credit-brand.JPG"
+   },
+   "counts": {
+    "Collection": 25
+   },
+   "looks": 25,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:42"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__antonio-grimaldi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "antonio-grimaldi",
+   "brandName": "Antonio Grimaldi",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6aba8b06f58a405a824aec70",
+    "file": "00001-antonio-grimaldi-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 29
+   },
+   "looks": 29,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:45"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__antonio-marras",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "antonio-marras",
+   "brandName": "Antonio Marras",
+   "designers": "By Antonio Marras",
+   "eventDate": "2026-09-23T10:30:00.000Z",
+   "cover": {
+    "id": "6ab3f32dc3da9e61c480dfc9",
+    "file": "00001-antonio-marras-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 63
+   },
+   "looks": 63,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:49"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__apotts",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "apotts",
+   "brandName": "A. Potts",
+   "designers": "By Aaron Potts",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab5312d41fd3559bc61b307",
+    "file": "00001-a-potts-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 39
+   },
+   "looks": 39,
+   "local": false,
+   "fetchedAt": "2026-10-09T12:54:41"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ardazaei",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ardazaei",
+   "brandName": "ArdAzAei",
+   "designers": "By Bahareh Ardakani",
+   "eventDate": "",
+   "cover": {
+    "id": "6abf80b08ee395d7d6c25c66",
+    "file": "00001-ardazaei-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 28,
+    "Details": 3
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:50"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__area",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "area",
+   "brandName": "Area",
+   "designers": "By Nicholas Aburn",
+   "eventDate": "2026-09-13T15:00:00.000Z",
+   "cover": {
+    "id": "6aa6d62d2ccdbefb0b103457",
+    "file": "00001-area-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 27,
+    "Details": 84,
+    "Backstage": 22
+   },
+   "looks": 133,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:52"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__armarium",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "armarium",
+   "brandName": "Armarium",
+   "designers": "By Giorgia Gabriele",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab4d21a4d44d052a6a76743",
+    "file": "00001-armarium-spring-20227-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20
+   },
+   "looks": 20,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:54"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ashish",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ashish",
+   "brandName": "Ashish",
+   "designers": "By Ashish Gupta",
+   "eventDate": "",
+   "cover": {
+    "id": "6abd569751b8297208635e36",
+    "file": "00001-ashish-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 28
+   },
+   "looks": 28,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:55"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ashley-williams",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ashley-williams",
+   "brandName": "Ashley Williams",
+   "designers": "By Ashley Williams",
+   "eventDate": "2026-09-18T13:00:00.000Z",
+   "cover": {
+    "id": "6aad57833071645c5cd84bee",
+    "file": "00001-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 46
+   },
+   "looks": 46,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:57"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ashlyn",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ashlyn",
+   "brandName": "Ashlyn",
+   "designers": "By Ashlynn Park",
+   "eventDate": "2026-09-12T20:00:00.000Z",
+   "cover": {
+    "id": "6aa5d0422bbd593cadd330ff",
+    "file": "00001-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 35,
+    "Details": 123
+   },
+   "looks": 158,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:58"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__attersee",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "attersee",
+   "brandName": "Attersee",
+   "designers": "By Isabel Wilkinson Schor",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa2eaaea90a5a5de215d83f",
+    "file": "00001-attersee-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20,
+    "Details": 3
+   },
+   "looks": 23,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:00"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__avavav",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "avavav",
+   "brandName": "Avavav",
+   "designers": "By Beate Karlsson",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab393c87e0434cedbdea972",
+    "file": "00001-avavav-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30,
+    "Details": 9
+   },
+   "looks": 39,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:04"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__azzedine-alaia",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "azzedine-alaia",
+   "brandName": "Alaïa",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac1ee8bb05d20c17d484d0a",
+    "file": "00001-alaia-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 37
+   },
+   "looks": 37,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:10:01"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bad-binch-tongtong",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bad-binch-tongtong",
+   "brandName": "Bad Binch Tongtong",
+   "designers": "By Terrence Zhou",
+   "eventDate": "2026-09-10T17:00:00.000Z",
+   "cover": {
+    "id": "6aa302ced265a7fc5cea2b9b",
+    "file": "00001-bad%E2%80%94binch-tongtong-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 24
+   },
+   "looks": 24,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:06"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__balenciaga",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "balenciaga",
+   "brandName": "Balenciaga",
+   "designers": "By Pierpaolo Piccioli",
+   "eventDate": "2026-10-01T12:00:00.000Z",
+   "cover": {
+    "id": "6abe78c938d33e11434e0d5f",
+    "file": "00001-balenciaga-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 73,
+    "Details": 251,
+    "Backstage": 13
+   },
+   "looks": 337,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:08"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__balmain",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "balmain",
+   "brandName": "Balmain",
+   "designers": "By Antonin Tron",
+   "eventDate": "2026-09-30T11:30:00.000Z",
+   "cover": {
+    "id": "6abd1f7ae7f2cb6feb1820d0",
+    "file": "00001-balmain-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 55,
+    "Details": 65,
+    "Backstage": 26
+   },
+   "looks": 146,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:10"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__batsheva",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "batsheva",
+   "brandName": "Batsheva",
+   "designers": "By Batsheva Hay",
+   "eventDate": "",
+   "cover": {
+    "id": "6aabeb1b6ffbb91686fe24c1",
+    "file": "00001-batsheva-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 14
+   },
+   "looks": 14,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:12"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bcbg-max-azria",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bcbg-max-azria",
+   "brandName": "BCBGMaxAzria",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6aaa83cc566e444de1722107",
+    "file": "00001-bcbgmaxazria-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 25,
+    "Details": 25
+   },
+   "looks": 50,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:15"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bevza",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bevza",
+   "brandName": "Bevza",
+   "designers": "By Svitlana Bevza",
+   "eventDate": "",
+   "cover": {
+    "id": "6a9ad1ec0fb79fd6bdab56cd",
+    "file": "00001-bevza-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 21,
+    "Details": 41
+   },
+   "looks": 62,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:18"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bianca-saunders",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bianca-saunders",
+   "brandName": "Bianca Saunders",
+   "designers": "By Bianca Saunders",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab12f965c80e0321cccc512",
+    "file": "00001-bianca-saunders-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 19,
+    "Details": 26
+   },
+   "looks": 45,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:21"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bibhu-mohapatra",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bibhu-mohapatra",
+   "brandName": "Bibhu Mohapatra",
+   "designers": "By Bibhu Mohapatra",
+   "eventDate": "2026-09-14T21:00:00.000Z",
+   "cover": {
+    "id": "6aa88b4acc7bb7dfd5ca3a16",
+    "file": "00001-bibhu-mohapatra-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 47
+   },
+   "looks": 47,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:25"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__blauer",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "blauer",
+   "brandName": "Blauer B.Glam",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6aac26b7007cc9bf2a8a22ac",
+    "file": "00001-blauer-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 13,
+    "Details": 16
+   },
+   "looks": 29,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:27"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__blumarine",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "blumarine",
+   "brandName": "Blumarine",
+   "designers": "By David Koma",
+   "eventDate": "2026-09-25T10:30:00.000Z",
+   "cover": {
+    "id": "6ab670449b0c1ee9de1aaef2",
+    "file": "00001-blumarine-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 41
+   },
+   "looks": 41,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:29"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bode",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bode",
+   "brandName": "Bode",
+   "designers": "By Emily Adams Bode Aujla ",
+   "eventDate": "",
+   "cover": {
+    "id": "6a841c3737173f0a07e0c358",
+    "file": "00001-bode-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 73,
+    "Details": 1
+   },
+   "looks": 74,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:37"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__boloria",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "boloria",
+   "brandName": "Boloria",
+   "designers": "By Olivier Theyskens",
+   "eventDate": "",
+   "cover": {
+    "id": "6a4acaf2289383d8f71c24d7",
+    "file": "00001-boloria-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 58
+   },
+   "looks": 58,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:39"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bora-aksu",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bora-aksu",
+   "brandName": "Bora Aksu",
+   "designers": "By Bora Aksu",
+   "eventDate": "2026-09-18T10:00:00.000Z",
+   "cover": {
+    "id": "6aad2151b260c740f76888a5",
+    "file": "00001-bora-aksu-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 31
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:41"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bosideng",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bosideng",
+   "brandName": "Bosideng",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac4eafc2ba13937819b1157",
+    "file": "00001-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG"
+   },
+   "counts": {
+    "Collection": 56
+   },
+   "looks": 56,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:43"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__bottega-veneta",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "bottega-veneta",
+   "brandName": "Bottega Veneta",
+   "designers": "By Louise Trotter",
+   "eventDate": "2026-09-26T18:00:00.000Z",
+   "cover": {
+    "id": "6ab921bef7ed0551c814fae3",
+    "file": "00001-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 63,
+    "Details": 80
+   },
+   "looks": 143,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:44"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__brandon-maxwell",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "brandon-maxwell",
+   "brandName": "Brandon Maxwell",
+   "designers": "By Brandon Maxwell",
+   "eventDate": "2026-09-13T22:00:00.000Z",
+   "cover": {
+    "id": "6aa81afe14f9c5a1f3ddd7b9",
+    "file": "00001-brandon-maxwell-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:45"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__brioni",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "brioni",
+   "brandName": "Brioni",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab3dea700016084df772e88",
+    "file": "00001-brioni-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 16
+   },
+   "looks": 16,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:48"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__brooks-brothers",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "brooks-brothers",
+   "brandName": "Brooks Brothers",
+   "designers": "By Michael Bastian",
+   "eventDate": "",
+   "cover": {
+    "id": "6aaedd77e4a113d2b556ab90",
+    "file": "00001-brooks-brothers-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 42
+   },
+   "looks": 42,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:50"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__brunello-cucinelli",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "brunello-cucinelli",
+   "brandName": "Brunello Cucinelli",
+   "designers": "By Brunello Cucinelli",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab3a24256219c94dbbdd2b5",
+    "file": "00001-brunello-cucinelli-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 51
+   },
+   "looks": 51,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:52"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__burberry-prorsum",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "burberry-prorsum",
+   "brandName": "Burberry",
+   "designers": "By Daniel Lee",
+   "eventDate": "2026-09-21T18:00:00.000Z",
+   "cover": {
+    "id": "6ab3f9f420d467e24d47d47e",
+    "file": "00001-burberry-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 61,
+    "Details": 108,
+    "Backstage": 47
+   },
+   "looks": 216,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:55"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__burc-akyol",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "burc-akyol",
+   "brandName": "Burc Akyol",
+   "designers": "By Burc Akyol",
+   "eventDate": "2026-09-29T14:00:00.000Z",
+   "cover": {
+    "id": "6abbe49092c392e28241a73d",
+    "file": "00001-burc-akyol-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 32
+   },
+   "looks": 32,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:11:58"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__calvin-klein-collection",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "calvin-klein-collection",
+   "brandName": "Calvin Klein Collection",
+   "designers": "By Veronica Leoni",
+   "eventDate": "2026-09-11T19:00:00.000Z",
+   "cover": {
+    "id": "6aa49cb9b2783ffdb29535de",
+    "file": "00001-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG"
+   },
+   "counts": {
+    "Collection": 53,
+    "Details": 67,
+    "Backstage": 40
+   },
+   "looks": 160,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:00"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__campillo",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "campillo",
+   "brandName": "Campillo",
+   "designers": "By Patricio Campillo",
+   "eventDate": "2026-09-13T20:00:00.000Z",
+   "cover": {
+    "id": "6aa71f7bf130cb70f98439ba",
+    "file": "00001-campillo-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 34
+   },
+   "looks": 34,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:02"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__carolina-herrera",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "carolina-herrera",
+   "brandName": "Carolina Herrera",
+   "designers": "By Wes Gordon",
+   "eventDate": "2026-09-14T22:00:00.000Z",
+   "cover": {
+    "id": "6aa8982f947c2b3553658d3a",
+    "file": "00001-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 64,
+    "Details": 162,
+    "Backstage": 30
+   },
+   "looks": 256,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:06"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__caroline-hu",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "caroline-hu",
+   "brandName": "Caroline Hu",
+   "designers": "By Caroline Hu",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac01af2e9e3fde56d0def1e",
+    "file": "00001-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 12
+   },
+   "looks": 12,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:07"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__carven",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "carven",
+   "brandName": "Carven",
+   "designers": "By Kai Nesselrath",
+   "eventDate": "2026-10-01T10:30:00.000Z",
+   "cover": {
+    "id": "6abe70b6b4d8fdbcc14a9a2b",
+    "file": "00001-carven-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 35,
+    "Details": 65
+   },
+   "looks": 100,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:09"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__casablanca",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "casablanca",
+   "brandName": "Casablanca",
+   "designers": "By Charaf Tajer",
+   "eventDate": "2026-10-02T12:30:00.000Z",
+   "cover": {
+    "id": "6abffa09e9e3fde56d0dee82",
+    "file": "00001-casablanca-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 54
+   },
+   "looks": 54,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:10"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__cdlm",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "cdlm",
+   "brandName": "CDLM",
+   "designers": "By Chris Peters",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa43ecdd4a0661153cfccc2",
+    "file": "00001-cdlm-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 23,
+    "Details": 11
+   },
+   "looks": 34,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:12"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__cecilie-bahnsen",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "cecilie-bahnsen",
+   "brandName": "Cecilie Bahnsen",
+   "designers": "By Cecilie Bahnsen",
+   "eventDate": "2026-10-01T13:30:00.000Z",
+   "cover": {
+    "id": "6abe8ca2f5f28b09808da0f8",
+    "file": "00001-cecilie-bahnsen-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 31
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:13"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__celine",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "celine",
+   "brandName": "Celine",
+   "designers": "By Michael Rider",
+   "eventDate": "2026-10-03T10:00:00.000Z",
+   "cover": {
+    "id": "6ac24db54b6cd7a157fdf111",
+    "file": "00001-celine-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 71,
+    "Details": 161
+   },
+   "looks": 232,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:15"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__cfcl",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "cfcl",
+   "brandName": "CFCL",
+   "designers": "By Yusuke Takahashi",
+   "eventDate": "2026-10-06T11:30:00.000Z",
+   "cover": {
+    "id": "6ac4ff4263c1240d10cde9bd",
+    "file": "00001-cfcl-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 44
+   },
+   "looks": 44,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:17"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__chanel",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "chanel",
+   "brandName": "Chanel",
+   "designers": "By Matthieu Blazy",
+   "eventDate": "2026-10-05T18:00:00.000Z",
+   "cover": {
+    "id": "6ac41209a3c01f09f30786d8",
+    "file": "00001-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 84,
+    "Details": 260
+   },
+   "looks": 344,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:19"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__charlie-constantinou",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "charlie-constantinou",
+   "brandName": "Charlie Constantinou",
+   "designers": "By Charlie Constantinou",
+   "eventDate": "2026-09-20T15:00:00.000Z",
+   "cover": {
+    "id": "6ab014ec9705b01c9168ab5b",
+    "file": "00001-charlie-constantinou-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 31
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:21"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__charlotte-knowles",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "charlotte-knowles",
+   "brandName": "Knwls",
+   "designers": "By Charlotte Knowles & Alexandre Arsenault",
+   "eventDate": "2026-09-19T16:00:00.000Z",
+   "cover": {
+    "id": "6aaecf5ab3ec3bf9972d274a",
+    "file": "00001-knwls-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:19"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__chloe",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "chloe",
+   "brandName": "Chloé",
+   "designers": "By Chemena Kamali",
+   "eventDate": "2026-10-01T08:00:00.000Z",
+   "cover": {
+    "id": "6ac39e9f706b7b0b65f8aead",
+    "file": "00001-chloe-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 55,
+    "Details": 106
+   },
+   "looks": 161,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:23"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__chopova-lowena",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "chopova-lowena",
+   "brandName": "Chopova Lowena",
+   "designers": "By Emma Chopova  & Laura Lowena",
+   "eventDate": "2026-09-19T19:00:00.000Z",
+   "cover": {
+    "id": "6aaeffcde4a113d2b556ac42",
+    "file": "00001-chopova-lowena-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 46,
+    "Details": 107,
+    "Backstage": 21
+   },
+   "looks": 174,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:25"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__christian-cowan",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "christian-cowan",
+   "brandName": "Christian Cowan",
+   "designers": "By Christian Cowan",
+   "eventDate": "2026-09-11T20:00:00.000Z",
+   "cover": {
+    "id": "6aa48c98e0820bb324a90320",
+    "file": "00001-christian-cowan-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 33
+   },
+   "looks": 33,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:27"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__christian-dior",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "christian-dior",
+   "brandName": "Christian Dior",
+   "designers": "By Jonathan Anderson",
+   "eventDate": "2026-09-29T12:30:00.000Z",
+   "cover": {
+    "id": "6abbde5e235e75f89f6a4482",
+    "file": "00001-christian-dior-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 66,
+    "Details": 205,
+    "Backstage": 43
+   },
+   "looks": 314,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:33"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__christian-siriano",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "christian-siriano",
+   "brandName": "Christian Siriano",
+   "designers": "By Christian Siriano",
+   "eventDate": "2026-09-10T22:00:00.000Z",
+   "cover": {
+    "id": "6aa35315093a23c192953d19",
+    "file": "00001-christian-siriano-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 65
+   },
+   "looks": 65,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:35"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__christophe-lemaire",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "christophe-lemaire",
+   "brandName": "Lemaire",
+   "designers": "By Christophe Lemaire & Sarah-Linh Tran",
+   "eventDate": "",
+   "cover": {
+    "id": "6a3cd7e72f7d71f28b5aa8c1",
+    "file": "00001-lemaire-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 61
+   },
+   "looks": 61,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:50"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__christopher-esber",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "christopher-esber",
+   "brandName": "Christopher Esber",
+   "designers": "By Christopher Esber",
+   "eventDate": "2026-10-06T10:30:00.000Z",
+   "cover": {
+    "id": "6ac4f5dbfbf01b08c099b3fb",
+    "file": "00001-christopher-esber-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 48
+   },
+   "looks": 48,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:37"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__cinq-a-sept",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "cinq-a-sept",
+   "brandName": "Cinq à Sept",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa033d089be35efe5aa038a",
+    "file": "00001-cinq-a-sept-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 39
+   },
+   "looks": 39,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:39"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__co",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "co",
+   "brandName": "Co",
+   "designers": "By Stephanie Danan",
+   "eventDate": "",
+   "cover": {
+    "id": "6abf7b46defb8771431b296f",
+    "file": "00001-co-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 21,
+    "Details": 2
+   },
+   "looks": 23,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:43"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__coach",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "coach",
+   "brandName": "Coach",
+   "designers": "By Stuart Vevers",
+   "eventDate": "2026-09-09T23:30:00.000Z",
+   "cover": {
+    "id": "6aa24ea707b669198d51aad2",
+    "file": "00001-coach-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 53,
+    "Details": 147,
+    "Backstage": 22
+   },
+   "looks": 222,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:45"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__colleen-allen",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "colleen-allen",
+   "brandName": "Colleen Allen",
+   "designers": "By Colleen Allen",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa9797dd3ed9f255c9961da",
+    "file": "00001-colleen-allen-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 27,
+    "Details": 3
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:47"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__collina-strada",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "collina-strada",
+   "brandName": "Collina Strada",
+   "designers": "By Hillary Taymour",
+   "eventDate": "2026-09-15T16:00:00.000Z",
+   "cover": {
+    "id": "6aa993ceaad44d06f6c03e36",
+    "file": "00001-collina-strada-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 35,
+    "Details": 117,
+    "Backstage": 10
+   },
+   "looks": 162,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:50"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__comme-des-garcons",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "comme-des-garcons",
+   "brandName": "Comme des Garçons",
+   "designers": "By Rei Kawakubo",
+   "eventDate": "2026-10-03T15:30:00.000Z",
+   "cover": {
+    "id": "6ac15031fdec02cd78845c61",
+    "file": "00001-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 23,
+    "Details": 59
+   },
+   "looks": 82,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:52"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__commission",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "commission",
+   "brandName": "Commission",
+   "designers": "By Dylan Cao & Jin Kay",
+   "eventDate": "",
+   "cover": {
+    "id": "6aac5578763416e3ef9c41e1",
+    "file": "00001-commission-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 36
+   },
+   "looks": 36,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:54"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__conner-ives",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "conner-ives",
+   "brandName": "Conner Ives",
+   "designers": "By Conner Ives",
+   "eventDate": "2026-09-12T16:00:00.000Z",
+   "cover": {
+    "id": "6aa593d9f51d770fd9440699",
+    "file": "00001-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 44,
+    "Details": 132
+   },
+   "looks": 176,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:57"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__courreges",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "courreges",
+   "brandName": "Courrèges",
+   "designers": "By Drew Henry",
+   "eventDate": "2026-09-30T08:30:00.000Z",
+   "cover": {
+    "id": "6abf7702043d0eeb5ad4d0ab",
+    "file": "00001-courreges-spring-2027-ready-to-wear-credit-brand.JPG"
+   },
+   "counts": {
+    "Collection": 50,
+    "Details": 40,
+    "Backstage": 28
+   },
+   "looks": 118,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:12:59"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__cult-gaia",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "cult-gaia",
+   "brandName": "Cult Gaia",
+   "designers": "By Jasmin Larian Hekmat",
+   "eventDate": "2026-09-09T17:00:00.000Z",
+   "cover": {
+    "id": "6aa1d37dae66dd4d38b3d8c4",
+    "file": "00001-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 63
+   },
+   "looks": 63,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:03"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__dagmar",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "dagmar",
+   "brandName": "Dagmar",
+   "designers": "By Sofia Wallenstam",
+   "eventDate": "",
+   "cover": {
+    "id": "6aabeb2f1669d35d19e2fc52",
+    "file": "00001-dagmar-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 19,
+    "Details": 8
+   },
+   "looks": 27,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:05"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__di-petsa",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "di-petsa",
+   "brandName": "Di Petsa",
+   "designers": "By Dimitra Petsa",
+   "eventDate": "2026-09-21T11:00:00.000Z",
+   "cover": {
+    "id": "6ab1304e268de95daa8d17d8",
+    "file": "00001-di-petsa-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 40
+   },
+   "looks": 40,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:07"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__diane-von-furstenberg",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "diane-von-furstenberg",
+   "brandName": "Diane von Furstenberg",
+   "designers": "By Henry Zankov ",
+   "eventDate": "2026-09-10T13:30:00.000Z",
+   "cover": {
+    "id": "6aa2c727fc0fa2f82809f2ec",
+    "file": "00001-diane-von-furstenberg-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 38
+   },
+   "looks": 38,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:08"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__diesel",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "diesel",
+   "brandName": "Diesel",
+   "designers": "By Glenn Martens",
+   "eventDate": "2026-09-22T14:00:00.000Z",
+   "cover": {
+    "id": "6ab39f4d2586e6b46d452a54",
+    "file": "00001-diesel-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 75,
+    "Details": 185
+   },
+   "looks": 260,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:10"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__diotima",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "diotima",
+   "brandName": "Diotima",
+   "designers": "By Rachel Scott",
+   "eventDate": "2026-09-14T20:00:00.000Z",
+   "cover": {
+    "id": "6aa8727ac032038a817f1393",
+    "file": "00001-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 32,
+    "Details": 82,
+    "Backstage": 33
+   },
+   "looks": 147,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:12"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__dolce-gabbana",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "dolce-gabbana",
+   "brandName": "Dolce & Gabbana",
+   "designers": "By Domenico Dolce & Stefano Gabbana",
+   "eventDate": "2026-09-26T10:30:00.000Z",
+   "cover": {
+    "id": "6ab7ebddca6ce23fba505479",
+    "file": "00001-dolce-and-gabbana-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 81,
+    "Details": 266,
+    "Backstage": 23
+   },
+   "looks": 370,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:13"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__donna-karan",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "donna-karan",
+   "brandName": "Donna Karan",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6a97efad74873430a108aefc",
+    "file": "00001-donna-karan-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 45
+   },
+   "looks": 45,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:19"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__dries-van-noten",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "dries-van-noten",
+   "brandName": "Dries Van Noten",
+   "designers": "By Julian Klausner",
+   "eventDate": "2026-09-30T13:00:00.000Z",
+   "cover": {
+    "id": "6abd342a2d48e8d3ff081459",
+    "file": "00001-dries-van-noten-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 61,
+    "Details": 158,
+    "Backstage": 36
+   },
+   "looks": 255,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:24"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__dsquared",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "dsquared",
+   "brandName": "Dsquared2",
+   "designers": "By Dan Caten & Dean Caten",
+   "eventDate": "",
+   "cover": {
+    "id": "6aad505dfc860d09363d747d",
+    "file": "00001-dsquared2-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 15
+   },
+   "looks": 15,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:28"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__durazzi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "durazzi",
+   "brandName": "Durazzi",
+   "designers": "By Ilenia Durazzi",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab3e1dd75a8286d88b7a813",
+    "file": "00001-durazzi-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 28
+   },
+   "looks": 28,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:30"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__dusan",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "dusan",
+   "brandName": "Dušan",
+   "designers": "By Dušan Paunovic",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab4efd39cc8b745435ca397",
+    "file": "00001-dusan-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 16
+   },
+   "looks": 16,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:32"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__eckhaus-latta",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "eckhaus-latta",
+   "brandName": "Eckhaus Latta",
+   "designers": "By Mike Eckhaus & Zoe Latta",
+   "eventDate": "2026-09-12T00:00:00.000Z",
+   "cover": {
+    "id": "6aa4bd301e552c9c6109bfd7",
+    "file": "00001-eckhaus-latta-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 46,
+    "Details": 146,
+    "Backstage": 24
+   },
+   "looks": 216,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:35"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__edeline-lee",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "edeline-lee",
+   "brandName": "Edeline Lee",
+   "designers": "By Edeline Lee",
+   "eventDate": "2026-09-20T10:00:00.000Z",
+   "cover": {
+    "id": "6aafd7c99e57de7e3ea095d3",
+    "file": "00001-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 37
+   },
+   "looks": 37,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:37"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__edward-cuming",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "edward-cuming",
+   "brandName": "Edward Cuming",
+   "designers": "By Edward Cuming",
+   "eventDate": "",
+   "cover": {
+    "id": "6a3d8a631a93911a5a88e2f7",
+    "file": "00001-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 26,
+    "Details": 17
+   },
+   "looks": 43,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:41"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__elena-velez",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "elena-velez",
+   "brandName": "Elena Velez",
+   "designers": "By Elena Velez",
+   "eventDate": "2026-09-13T01:00:00.000Z",
+   "cover": {
+    "id": "6aa66f9402b9c16156ad5077",
+    "file": "00001-elena-velez-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 28
+   },
+   "looks": 28,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:43"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__elie-saab",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "elie-saab",
+   "brandName": "Elie Saab",
+   "designers": "By Elie Saab",
+   "eventDate": "2026-10-03T14:30:00.000Z",
+   "cover": {
+    "id": "6ac35a06af05022ef274a3b0",
+    "file": "00001-elie-saab-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 63
+   },
+   "looks": 63,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:45"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__elisabetta-franchi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "elisabetta-franchi",
+   "brandName": "Elisabetta Franchi",
+   "designers": "By Elisabetta Franchi",
+   "eventDate": "2026-09-25T14:00:00.000Z",
+   "cover": {
+    "id": "6ab6a2bf6e73ee112f59b3c5",
+    "file": "00001-elisabetta-franchi-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 44
+   },
+   "looks": 44,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:47"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__emilia-wickstead",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "emilia-wickstead",
+   "brandName": "Emilia Wickstead",
+   "designers": "By Emilia Wickstead",
+   "eventDate": "",
+   "cover": {
+    "id": "6aafbda3aa9893a8ec628c00",
+    "file": "00001-emilia-wickstead-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 42,
+    "Details": 2
+   },
+   "looks": 44,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:49"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__emily-dawn-long",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "emily-dawn-long",
+   "brandName": "Emily Dawn Long",
+   "designers": "By Emily Dawn Long",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa8220e7f90644021dd0029",
+    "file": "00001-emily-dawn-long-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 18,
+    "Details": 4
+   },
+   "looks": 22,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:51"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__emporio-armani",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "emporio-armani",
+   "brandName": "Emporio Armani",
+   "designers": "By Leo Dell’Orco & Silvana Armani",
+   "eventDate": "2026-09-24T18:00:00.000Z",
+   "cover": {
+    "id": "6ab567bb6a03a5525c7c7640",
+    "file": "00001-emporio-armani-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 71
+   },
+   "looks": 71,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:53"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__enfants-riches-deprimes",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "enfants-riches-deprimes",
+   "brandName": "Enfants Riches Déprimés",
+   "designers": "By Henri Alexander Levy",
+   "eventDate": "2026-10-05T11:30:00.000Z",
+   "cover": {
+    "id": "6ac3a9811fff82525c522116",
+    "file": "00001-enfants-riches-deprimes-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 41
+   },
+   "looks": 41,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:56"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__erdem",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "erdem",
+   "brandName": "Erdem",
+   "designers": "By Erdem Moralioglu",
+   "eventDate": "2026-09-20T11:00:00.000Z",
+   "cover": {
+    "id": "6aafef6848697c2520ab027b",
+    "file": "00001-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 45,
+    "Details": 108,
+    "Backstage": 13
+   },
+   "looks": 166,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:13:59"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__erl",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "erl",
+   "brandName": "ERL",
+   "designers": "By Eli Russell Linnetz",
+   "eventDate": "",
+   "cover": {
+    "id": "6a3ecd975217055957f3ac75",
+    "file": "00001-erl-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 50,
+    "Details": 40
+   },
+   "looks": 90,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:02"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ermanno-scervino",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ermanno-scervino",
+   "brandName": "Ermanno Scervino",
+   "designers": "By Ermanno Scervino",
+   "eventDate": "2026-09-26T08:30:00.000Z",
+   "cover": {
+    "id": "6ab7a98f7f5d66707ad7f2fc",
+    "file": "00001-ermanno-scervino-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 48
+   },
+   "looks": 48,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:05"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ester-manas",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ester-manas",
+   "brandName": "Ester Manas",
+   "designers": "By Ester Manas",
+   "eventDate": "2026-09-29T08:00:00.000Z",
+   "cover": {
+    "id": "6abb9280fc36c88681ecd73d",
+    "file": "00001-ester-manas-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 34
+   },
+   "looks": 34,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:08"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__etro",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "etro",
+   "brandName": "Etro",
+   "designers": "",
+   "eventDate": "2026-09-23T17:00:00.000Z",
+   "cover": {
+    "id": "6ab429a400016084df7737ce",
+    "file": "00001-etro-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 49
+   },
+   "looks": 49,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:11"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__eudon-choi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "eudon-choi",
+   "brandName": "Eudon Choi",
+   "designers": "By Eudon Choi",
+   "eventDate": "",
+   "cover": {
+    "id": "6abb9f7f2ce7403e1d93c185",
+    "file": "00001-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30,
+    "Details": 10
+   },
+   "looks": 40,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:13"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__fashion-east",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "fashion-east",
+   "brandName": "Fashion East",
+   "designers": "",
+   "eventDate": "2026-09-18T16:00:00.000Z",
+   "cover": {
+    "id": "6aad804290b5765338c6a5f5",
+    "file": "00001-fashion-east-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 53,
+    "Backstage": 39
+   },
+   "looks": 92,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:18"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__fendi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "fendi",
+   "brandName": "Fendi",
+   "designers": "By Maria Grazia Chiuri",
+   "eventDate": "2026-09-23T12:00:00.000Z",
+   "cover": {
+    "id": "6ab3e985d2ec4563ae4b680f",
+    "file": "00001-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 71,
+    "Details": 197
+   },
+   "looks": 268,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:20"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__fforme",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "fforme",
+   "brandName": "Fforme",
+   "designers": "By Frances Howie",
+   "eventDate": "2026-09-14T16:00:00.000Z",
+   "cover": {
+    "id": "6aa83c209e4ca6cf8b94373e",
+    "file": "00001-fforme-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 33
+   },
+   "looks": 33,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:25"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__for-restless-sleepers",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "for-restless-sleepers",
+   "brandName": "For Restless Sleepers",
+   "designers": "By Francesca Ruffini",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab7f7aa3c07da0e43d2931a",
+    "file": "00001-for-restless-sleepers-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 28
+   },
+   "looks": 28,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:28"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__francesca-lake",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "francesca-lake",
+   "brandName": "Francesca Lake",
+   "designers": "By Francesca Lake",
+   "eventDate": "",
+   "cover": {
+    "id": "6aad544620fdd47d7dfeb4f7",
+    "file": "00001-francesca-lake-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 16
+   },
+   "looks": 16,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:30"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__francesco-biasia",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "francesco-biasia",
+   "brandName": "Francesco Biasia",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6abe5a1edfa7af4660237b6f",
+    "file": "00001-francesco-biasia-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 15
+   },
+   "looks": 15,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:32"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__francesco-murano",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "francesco-murano",
+   "brandName": "Francesco Murano",
+   "designers": "By Francesco Murano ",
+   "eventDate": "2026-09-24T13:00:00.000Z",
+   "cover": {
+    "id": "6ab536df2f10edbf4f4b47b4",
+    "file": "00001-francesco-murano-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:33"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__frederick-anderson",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "frederick-anderson",
+   "brandName": "Frederick Anderson",
+   "designers": "By Frederick Anderson",
+   "eventDate": "2026-09-15T19:00:00.000Z",
+   "cover": {
+    "id": "6aa9b82a330c9941b92fd118",
+    "file": "00001-frederick-anderson-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 51
+   },
+   "looks": 51,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:37"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__gabe-gordon",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "gabe-gordon",
+   "brandName": "Gabe Gordon",
+   "designers": "By Gabe Gordon",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab58e6c0ed2b347012dd502",
+    "file": "00001-gabe-gordon-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 18,
+    "Details": 3
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:38"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__gabriela-hearst",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "gabriela-hearst",
+   "brandName": "Gabriela Hearst",
+   "designers": "By Gabriela Hearst",
+   "eventDate": "2026-10-05T11:00:00.000Z",
+   "cover": {
+    "id": "6ac3ceafd735dcda2c0b6065",
+    "file": "00001-gabriela-hearst-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 43,
+    "Details": 187,
+    "Backstage": 30
+   },
+   "looks": 260,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:41"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__ganni",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "ganni",
+   "brandName": "Ganni",
+   "designers": "By Ditte Reffstrup",
+   "eventDate": "",
+   "cover": {
+    "id": "6abcff9c0d93ff49d801ffa3",
+    "file": "00001-ganni-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 27,
+    "Details": 3
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:43"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__gauchere",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "gauchere",
+   "brandName": "Gauchere",
+   "designers": "By Marie-Christine Statz",
+   "eventDate": "2026-10-01T16:00:00.000Z",
+   "cover": {
+    "id": "6abe98e34361eef7cafa4569",
+    "file": "00001-gauchere-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 29
+   },
+   "looks": 29,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:44"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__genny",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "genny",
+   "brandName": "Genny",
+   "designers": "By Sara Cavazza Facchini",
+   "eventDate": "2026-09-24T08:30:00.000Z",
+   "cover": {
+    "id": "6ab52c987294db287b7c84c0",
+    "file": "00001-genny-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 44
+   },
+   "looks": 44,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:46"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__giorgio-armani",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "giorgio-armani",
+   "brandName": "Giorgio Armani",
+   "designers": "By Silvana Armani",
+   "eventDate": "2026-09-27T09:00:00.000Z",
+   "cover": {
+    "id": "6ab8f62a40e1112a4a68cb6e",
+    "file": "00001-giorgio-armani-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 67,
+    "Backstage": 22
+   },
+   "looks": 89,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:48"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__giovanna-flores",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "giovanna-flores",
+   "brandName": "Giovanna Flores",
+   "designers": "By Giovanna Flores",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa06d68c51a3f532c3e4331",
+    "file": "00001-giovanna-flores-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 31,
+    "Details": 24
+   },
+   "looks": 55,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:49"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__giuseppe-di-morabito",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "giuseppe-di-morabito",
+   "brandName": "Giuseppe Di Morabito",
+   "designers": "By Giuseppe Di Morabito",
+   "eventDate": "",
+   "cover": {
+    "id": "6abbe1d9bb05aa2abfbcbe5c",
+    "file": "00001-giuseppe-di-morabito-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 19,
+    "Details": 2
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:51"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__givenchy",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "givenchy",
+   "brandName": "Givenchy",
+   "designers": "By Sarah Burton",
+   "eventDate": "2026-10-02T15:30:00.000Z",
+   "cover": {
+    "id": "6ac000ef8ab75efcb4d2706a",
+    "file": "00001-givenchy-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 56,
+    "Details": 140
+   },
+   "looks": 196,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:53"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__grace-ling",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "grace-ling",
+   "brandName": "Grace Ling",
+   "designers": "By Grace Ling",
+   "eventDate": "2026-09-14T00:00:00.000Z",
+   "cover": {
+    "id": "6aa7d84ef1b96b47bccf8725",
+    "file": "00001-grace-ling-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 33
+   },
+   "looks": 33,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:54"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__greta-constantine",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "greta-constantine",
+   "brandName": "Greta Constantine",
+   "designers": "By Kirk Pickersgill ",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab271c6a81e1ea899b210e8",
+    "file": "00001-greta-constantine-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 21
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:58"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__gucci",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "gucci",
+   "brandName": "Gucci",
+   "designers": "By Demna",
+   "eventDate": "2026-09-25T12:00:00.000Z",
+   "cover": {
+    "id": "6ab6b09c6e73ee112f59b41f",
+    "file": "00001-gucci-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 43,
+    "Details": 54
+   },
+   "looks": 97,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:02"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__harris-reed",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "harris-reed",
+   "brandName": "Harris Reed",
+   "designers": "By Harris Reed",
+   "eventDate": "2026-09-17T17:00:00.000Z",
+   "cover": {
+    "id": "6aac4ffcae6a0317ef143713",
+    "file": "00001-harris-reed-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 16
+   },
+   "looks": 16,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:03"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__heirlome",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "heirlome",
+   "brandName": "Heirlome",
+   "designers": "By Stephanie Suberville",
+   "eventDate": "2026-09-15T14:00:00.000Z",
+   "cover": {
+    "id": "6aa981b773e408aa3747e0c9",
+    "file": "00001-heirlome-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 37
+   },
+   "looks": 37,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:07"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__hermes",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "hermes",
+   "brandName": "Hermès",
+   "designers": "By Nadège Vanhée",
+   "eventDate": "2026-10-03T13:00:00.000Z",
+   "cover": {
+    "id": "6ac1256185b2e9a9cbecba08",
+    "file": "00001-hermes-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 63,
+    "Details": 178,
+    "Backstage": 25
+   },
+   "looks": 266,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:09"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__herve-leger",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "herve-leger",
+   "brandName": "Hervé Léger",
+   "designers": "By Michelle Ochs",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa42fec684b1f118045923b",
+    "file": "00001-herve-leger-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 21
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:12"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__hodakova",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "hodakova",
+   "brandName": "Hodakova",
+   "designers": "By Ellen Hodakova Larsson",
+   "eventDate": "2026-09-28T16:00:00.000Z",
+   "cover": {
+    "id": "6abccc79fcc02c67e9afacb7",
+    "file": "00001-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 50,
+    "Details": 157
+   },
+   "looks": 207,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:14"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__hope-for-flowers",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "hope-for-flowers",
+   "brandName": "Hope For Flowers",
+   "designers": "By Tracy Reese",
+   "eventDate": "",
+   "cover": {
+    "id": "6aada2c69893981f2ce62a6c",
+    "file": "00001-hope-for-flowers-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 32,
+    "Details": 3
+   },
+   "looks": 35,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:17"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__hui",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "hui",
+   "brandName": "HUI",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab9396316eea1cf998bd283",
+    "file": "00001-hui-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 40
+   },
+   "looks": 40,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:20"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__huishan-zhang",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "huishan-zhang",
+   "brandName": "Huishan Zhang",
+   "designers": "By Huishan Zhang",
+   "eventDate": "",
+   "cover": {
+    "id": "6aad5c3b81217f699a1541cb",
+    "file": "00001-huishan-zhang-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 33
+   },
+   "looks": 33,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:22"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__imitation-of-christ",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "imitation-of-christ",
+   "brandName": "Imitation of Christ",
+   "designers": "By Tara Subkoff",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa45020c3d42955bbcc2d77",
+    "file": "00001-imitation-of-christ-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 32,
+    "Details": 64
+   },
+   "looks": 96,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:26"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__institut-francais-de-la-mode",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "institut-francais-de-la-mode",
+   "brandName": "Institut Français de la Mode",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6a3ab8a7cf1779c1e5d5450b",
+    "file": "00001-institut-francais-de-la-mode-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 162
+   },
+   "looks": 162,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:30"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__institution-by-galib-gassanoff",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "institution-by-galib-gassanoff",
+   "brandName": "Institution By Galib Gassanoff",
+   "designers": "By Galib Gassanoff",
+   "eventDate": "2026-09-25T08:30:00.000Z",
+   "cover": {
+    "id": "6ab650bac461b6d307654185",
+    "file": "00001-institution-by-galib-gassanoff-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 31
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:32"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__isabel-marant",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "isabel-marant",
+   "brandName": "Isabel Marant",
+   "designers": "By Kim Bekker",
+   "eventDate": "2026-10-01T18:00:00.000Z",
+   "cover": {
+    "id": "6abf52fd47d70956a66770f2",
+    "file": "00001-isabel-marant-spring-2027-ready-to-wear-detail-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 51,
+    "Details": 58,
+    "Backstage": 25
+   },
+   "looks": 134,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:33"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__issey-miyake",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "issey-miyake",
+   "brandName": "Issey Miyake",
+   "designers": "By Satoshi Kondo",
+   "eventDate": "2026-10-02T11:00:00.000Z",
+   "cover": {
+    "id": "6abfc4acbc251d176852e0b5",
+    "file": "00001-issey-miyake-spring-2027-ready-to-wear-credit-gorunway.JPG"
+   },
+   "counts": {
+    "Collection": 55,
+    "Details": 86
+   },
+   "looks": 141,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:34"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__j-w-anderson",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "j-w-anderson",
+   "brandName": "JW Anderson",
+   "designers": "By Jonathan Anderson",
+   "eventDate": "",
+   "cover": {
+    "id": "6a300967545a83525fa9316d",
+    "file": "00001-jw-anderson-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 57,
+    "Details": 11
+   },
+   "looks": 68,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:06"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__jacquemus",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "jacquemus",
+   "brandName": "Jacquemus",
+   "designers": "By Simon Porte Jacquemus",
+   "eventDate": "",
+   "cover": {
+    "id": "6a425d66224a1b3d1a614e0b",
+    "file": "00001-jacquemus-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 49
+   },
+   "looks": 49,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:37"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__jamiehaller",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "jamiehaller",
+   "brandName": "Jamie Haller",
+   "designers": "By Jamie Haller",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa55db867fe11be1afa9f37",
+    "file": "0001-jamie-haller-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 25
+   },
+   "looks": 25,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:41"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__jane-wade",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "jane-wade",
+   "brandName": "Jane Wade",
+   "designers": "By Jane Wade",
+   "eventDate": "2026-09-11T18:00:00.000Z",
+   "cover": {
+    "id": "6aa467f61e877cdd507f1341",
+    "file": "00001-jane-wade-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 36
+   },
+   "looks": 36,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:43"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__jason-wu",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "jason-wu",
+   "brandName": "Jason Wu Collection",
+   "designers": "By Jason Wu",
+   "eventDate": "",
+   "cover": {
+    "id": "6aac43851d7366c35936eb08",
+    "file": "00001-jason-wu-collection-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20
+   },
+   "looks": 20,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:45"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__jean-paul-gaultier",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "jean-paul-gaultier",
+   "brandName": "Jean Paul Gaultier",
+   "designers": "By Duran Lantink",
+   "eventDate": "2026-10-04T18:00:00.000Z",
+   "cover": {
+    "id": "6ac2be6bf5f6b15846f297bf",
+    "file": "00001-jean-paul-gaultier-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 45,
+    "Details": 111,
+    "Backstage": 29
+   },
+   "looks": 185,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:47"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__jenny-packham",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "jenny-packham",
+   "brandName": "Jenny Packham",
+   "designers": "By Jenny Packham",
+   "eventDate": "",
+   "cover": {
+    "id": "6abd4aa70c1a095af5cabd52",
+    "file": "00001-jenny-packham-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20
+   },
+   "looks": 20,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:48"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__jil-sander",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "jil-sander",
+   "brandName": "Jil Sander",
+   "designers": "By Simone Bellotti",
+   "eventDate": "2026-09-23T08:30:00.000Z",
+   "cover": {
+    "id": "6ab40059587f6e3c29fe2e60",
+    "file": "00001-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 64,
+    "Details": 176,
+    "Backstage": 53
+   },
+   "looks": 293,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:51"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__johanna-ortiz",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "johanna-ortiz",
+   "brandName": "Johanna Ortiz",
+   "designers": "By Johanna Ortiz",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac298d0af05022ef274990a",
+    "file": "00001-johanna-ortiz-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 40
+   },
+   "looks": 40,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:53"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__johanna-parv",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "johanna-parv",
+   "brandName": "Johanna Parv",
+   "designers": "By Johanna Parv",
+   "eventDate": "",
+   "cover": {
+    "id": "6aaebfa96c099ab211e81c65",
+    "file": "00001-johanna-parv-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 23
+   },
+   "looks": 23,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:55"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__joseph",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "joseph",
+   "brandName": "Joseph",
+   "designers": "By Mario Arena",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa18dd38e5c8345c751a4d4",
+    "file": "00001-joseph-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 22
+   },
+   "looks": 22,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:57"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__julie-de-libran",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "julie-de-libran",
+   "brandName": "Julie de Libran",
+   "designers": "By Julie de Libran",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac7592d94cf21cfde87ad3f",
+    "file": "00001-julie-de-libran-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 23
+   },
+   "looks": 23,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:15:59"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__julie-kegels",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "julie-kegels",
+   "brandName": "Julie Kegels",
+   "designers": "By Julie Kegels",
+   "eventDate": "2026-09-28T12:30:00.000Z",
+   "cover": {
+    "id": "6aba7dd8f01ee79952c18d5a",
+    "file": "00001-julie-kegels-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 43
+   },
+   "looks": 43,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:01"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__junya-watanabe",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "junya-watanabe",
+   "brandName": "Junya Watanabe",
+   "designers": "By Junya Watanabe",
+   "eventDate": "2026-10-03T08:30:00.000Z",
+   "cover": {
+    "id": "6ac0e7c7012a68e51bac6bb1",
+    "file": "00001-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 46,
+    "Details": 125
+   },
+   "looks": 171,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:02"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__kallmeyer",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "kallmeyer",
+   "brandName": "Kallmeyer",
+   "designers": "By Daniella Kallmeyer",
+   "eventDate": "2026-09-10T20:00:00.000Z",
+   "cover": {
+    "id": "6aa343bdcb2a389b0338c870",
+    "file": "00001-kallmeyer-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 37,
+    "Details": 94
+   },
+   "looks": 131,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:08"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__kate-barton",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "kate-barton",
+   "brandName": "Kate Barton",
+   "designers": "By Kate Barton",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa358079cfb90d5da90a377",
+    "file": "00001-kate-barton-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 24,
+    "Details": 26
+   },
+   "looks": 50,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:10"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__khaite",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "khaite",
+   "brandName": "Khaite",
+   "designers": "By Catherine Holstein",
+   "eventDate": "2026-09-12T23:00:00.000Z",
+   "cover": {
+    "id": "6aa6f74d68e9989fd437a99d",
+    "file": "00001-khaite-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 47,
+    "Details": 61
+   },
+   "looks": 108,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:11"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__kiko-kostadinov",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "kiko-kostadinov",
+   "brandName": "Kiko Kostadinov",
+   "designers": "By Deanna Fanning & Laura Fanning",
+   "eventDate": "2026-10-05T14:00:00.000Z",
+   "cover": {
+    "id": "6ac3d5c4a3c01f09f3077c47",
+    "file": "00001-kiko-kostadinov-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 37,
+    "Details": 102
+   },
+   "looks": 139,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:14"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__kim-shui",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "kim-shui",
+   "brandName": "Kim Shui",
+   "designers": "By Kim Shui",
+   "eventDate": "2026-09-11T22:00:00.000Z",
+   "cover": {
+    "id": "6aa4a2a1b2783ffdb2953608",
+    "file": "00001-kim-shui-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 43
+   },
+   "looks": 43,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:18"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__kozaburo",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "kozaburo",
+   "brandName": "Kozaburo",
+   "designers": "By Kozaburo Akasaka",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa9c521b7726e5fdfe61672",
+    "file": "00001-kozaburo-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 14
+   },
+   "looks": 14,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:21"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__la-doublej",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "la-doublej",
+   "brandName": "La DoubleJ",
+   "designers": "By JJ Martin",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab633aa25294d7c4c11b001",
+    "file": "00001-ladoublej-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:24"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__labrum-london",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "labrum-london",
+   "brandName": "Labrum London",
+   "designers": "By Foday Dumbuya",
+   "eventDate": "2026-09-20T13:00:00.000Z",
+   "cover": {
+    "id": "6aaff912869ede7ce2e35556",
+    "file": "00001-labrum-london-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 40
+   },
+   "looks": 40,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:27"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lacca",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lacca",
+   "brandName": "Lacca",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab621061a75d77275fe184e",
+    "file": "00001-lacca-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 52,
+    "Details": 28
+   },
+   "looks": 80,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:29"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lacoste",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lacoste",
+   "brandName": "Lacoste",
+   "designers": "By Pelagia Kolotouros",
+   "eventDate": "2026-10-04T08:30:00.000Z",
+   "cover": {
+    "id": "6ac2338570a6c0f17eb30bc4",
+    "file": "00001-lacoste-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 55
+   },
+   "looks": 55,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:30"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lafayette-148",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lafayette-148",
+   "brandName": "Lafayette 148 New York",
+   "designers": "By Emily Smith",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa461e0373ec98caa977972",
+    "file": "00001-lafayette-148-new-york-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 27,
+    "Details": 10
+   },
+   "looks": 37,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:33"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lagence",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lagence",
+   "brandName": "L'Agence",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6abd66ef5a78a31598bd29ee",
+    "file": "00001-l-agence-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 30
+   },
+   "looks": 30,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:23"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lanvin",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lanvin",
+   "brandName": "Lanvin",
+   "designers": "By Peter Copping",
+   "eventDate": "2026-10-02T13:30:00.000Z",
+   "cover": {
+    "id": "6ac0123fdaaf5bd02522d3aa",
+    "file": "00001-lanvin-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 46,
+    "Details": 109,
+    "Backstage": 26
+   },
+   "looks": 181,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:35"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__laquan-smith",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "laquan-smith",
+   "brandName": "LaQuan Smith",
+   "designers": "By LaQuan Smith ",
+   "eventDate": "2026-09-15T01:00:00.000Z",
+   "cover": {
+    "id": "6aa92d1925301ef4d522ac6d",
+    "file": "00001-laquan-smith-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 36
+   },
+   "looks": 36,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:39"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lauren-manoogian",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lauren-manoogian",
+   "brandName": "Lauren Manoogian",
+   "designers": "By Lauren Manoogian",
+   "eventDate": "",
+   "cover": {
+    "id": "6aabfb52ae56c8fa30e48a3d",
+    "file": "00001-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 47
+   },
+   "looks": 47,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:42"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lee-mathews",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lee-mathews",
+   "brandName": "Lee Mathews",
+   "designers": "By Lee Mathews",
+   "eventDate": "",
+   "cover": {
+    "id": "6abf7ca4f623c259f81a3693",
+    "file": "00001-lee-mathews-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 32
+   },
+   "looks": 32,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:43"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lela-rose",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lela-rose",
+   "brandName": "Lela Rose",
+   "designers": "By Lela Rose",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab1aaae3fc245b9ea4555e1",
+    "file": "00001-lela-rose-spring-2027-ready-to-wear-credit-brand.jpeg"
+   },
+   "counts": {
+    "Collection": 24
+   },
+   "looks": 24,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:47"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__libertine",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "libertine",
+   "brandName": "Libertine",
+   "designers": "By Johnson Hartig",
+   "eventDate": "2026-09-09T21:00:00.000Z",
+   "cover": {
+    "id": "6aa21868e19fc9b52cafb3f0",
+    "file": "00001-libertine-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 56
+   },
+   "looks": 56,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:52"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__lii",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "lii",
+   "brandName": "Lii",
+   "designers": "By Zane Li",
+   "eventDate": "2026-09-14T17:00:00.000Z",
+   "cover": {
+    "id": "6aa846c214f9c5a1f3dde1ca",
+    "file": "00001-lii-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 35,
+    "Backstage": 8
+   },
+   "looks": 43,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:54"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__loewe",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "loewe",
+   "brandName": "Loewe",
+   "designers": "By Jack McCollough & Lazaro Hernandez",
+   "eventDate": "2026-10-02T09:30:00.000Z",
+   "cover": {
+    "id": "6abfaf54043d0eeb5ad4d19a",
+    "file": "00001-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 67,
+    "Details": 232
+   },
+   "looks": 299,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:55"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__loro-piana",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "loro-piana",
+   "brandName": "Loro Piana",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab3e6e39a60f1c74661c5f1",
+    "file": "00001-loro-piana-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 42,
+    "Details": 25
+   },
+   "looks": 67,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:58"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__louis-vuitton",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "louis-vuitton",
+   "brandName": "Louis Vuitton",
+   "designers": "By Nicolas Ghesquière",
+   "eventDate": "2026-10-06T16:30:00.000Z",
+   "cover": {
+    "id": "6ac5f21d2ba13937819b24c9",
+    "file": "00001-louis-vuitton-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 49,
+    "Details": 50
+   },
+   "looks": 99,
+   "local": true,
+   "fetchedAt": "2026-10-09T12:52:19"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__loveshackfancy",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "loveshackfancy",
+   "brandName": "LoveShackFancy",
+   "designers": "By Rebecca Hessel Cohen",
+   "eventDate": "2026-09-10T21:00:00.000Z",
+   "cover": {
+    "id": "6aa347b27f9097efa24b3cd8",
+    "file": "00001-loveshackfancy-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 48
+   },
+   "looks": 48,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:01"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__luar",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "luar",
+   "brandName": "Luar",
+   "designers": "By Raul Lopez",
+   "eventDate": "2026-09-14T23:30:00.000Z",
+   "cover": {
+    "id": "6aa92b19a5f56b8a705403b1",
+    "file": "00001-luar-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 49,
+    "Details": 115
+   },
+   "looks": 164,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:03"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__luisa-beccaria",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "luisa-beccaria",
+   "brandName": "Luisa Beccaria",
+   "designers": "By Luisa Beccaria & Lucilla Bonaccorsi",
+   "eventDate": "2026-09-23T07:30:00.000Z",
+   "cover": {
+    "id": "6ab3a79de61132e6cb2fdbc1",
+    "file": "00001-luisa-beccaria-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 61
+   },
+   "looks": 61,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:06"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__luisa-spagnoli",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "luisa-spagnoli",
+   "brandName": "Luisa Spagnoli",
+   "designers": "",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab6c2530553bcfdc335cac7",
+    "file": "00001-luisa-spagnoli-spring-2027-ready-to-wear-credit-brand-sponsored.jpg"
+   },
+   "counts": {
+    "Collection": 45
+   },
+   "looks": 45,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:08"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__maccapani",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "maccapani",
+   "brandName": "Maccapani",
+   "designers": "By Margherita Maccapani Missoni",
+   "eventDate": "",
+   "cover": {
+    "id": "6ab6c0bc10e16cd5b98dfa61",
+    "file": "00001-maccapani-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 16
+   },
+   "looks": 16,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:11"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__magda-butrym",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "magda-butrym",
+   "brandName": "Magda Butrym",
+   "designers": "By Magda Butrym",
+   "eventDate": "2026-09-13T19:00:00.000Z",
+   "cover": {
+    "id": "6aa71d8e99741b7f914c7406",
+    "file": "00001-magda-butrym-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 32
+   },
+   "looks": 32,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:14"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__maison-martin-margiela",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "maison-martin-margiela",
+   "brandName": "Maison Margiela",
+   "designers": "By Glenn Martens",
+   "eventDate": "2026-09-29T15:30:00.000Z",
+   "cover": {
+    "id": "6abd36f527313536e8eb225b",
+    "file": "00001-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 62,
+    "Details": 21
+   },
+   "looks": 83,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:16"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__mame-kurogouchi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "mame-kurogouchi",
+   "brandName": "Mame Kurogouchi",
+   "designers": "By Maiko Kurogouchi",
+   "eventDate": "2026-09-29T11:00:00.000Z",
+   "cover": {
+    "id": "6abbc0412e8ce65235540c96",
+    "file": "00001-mame-kurogouchi-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 38
+   },
+   "looks": 38,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:18"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__marc-jacobs",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "marc-jacobs",
+   "brandName": "Marc Jacobs",
+   "designers": "By Marc Jacobs",
+   "eventDate": "",
+   "cover": {
+    "id": "6a4365cfb19562fa6c7f35a2",
+    "file": "00001-marc-jacobs-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 31,
+    "Backstage": 27
+   },
+   "looks": 58,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:20"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__marco-rambaldi",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "marco-rambaldi",
+   "brandName": "Marco Rambaldi",
+   "designers": "By Marco Rambaldi ",
+   "eventDate": "2026-09-26T15:00:00.000Z",
+   "cover": {
+    "id": "6ab7f8d7c0f11547cdf2ba97",
+    "file": "00001-marco-rambaldi-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 38
+   },
+   "looks": 38,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:22"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__margaret-howell",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "margaret-howell",
+   "brandName": "Margaret Howell",
+   "designers": "By Margaret Howell",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac3659a9c71052ff6db8d08",
+    "file": "00001-margaret-howell-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 29
+   },
+   "looks": 29,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:23"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__maria-mcmanus",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "maria-mcmanus",
+   "brandName": "Maria McManus",
+   "designers": "By Maria McManus",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa83f18cc7bb7dfd5ca3049",
+    "file": "00001-maria-mcmanus-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 23,
+    "Details": 6
+   },
+   "looks": 29,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:26"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__marie-adam-leenaerdt",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "marie-adam-leenaerdt",
+   "brandName": "Marie Adam-Leenaerdt",
+   "designers": "By Marie Adam-Leenaerdt",
+   "eventDate": "2026-09-29T09:30:00.000Z",
+   "cover": {
+    "id": "6abbb284580577bf94b52b13",
+    "file": "00001-marie-adam-leenaerdt-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 49,
+    "Details": 168
+   },
+   "looks": 217,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:30"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__marine-serre",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "marine-serre",
+   "brandName": "Marine Serre",
+   "designers": "By Marine Serre",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac140864cfa6cb9ca5a5952",
+    "file": "00001-marine-serre-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 33
+   },
+   "looks": 33,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:32"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__mark-fast",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "mark-fast",
+   "brandName": "Mark Fast",
+   "designers": "By Mark Fast",
+   "eventDate": "2026-09-17T15:00:00.000Z",
+   "cover": {
+    "id": "6aac1a8dd00115acd7b0217e",
+    "file": "00001-mark-fast-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 33
+   },
+   "looks": 33,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:35"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__markarian",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "markarian",
+   "brandName": "Markarian",
+   "designers": "By Alexandra O’Neill",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa9e26445d6761db108aa83",
+    "file": "00005-markarian-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 20,
+    "Details": 3
+   },
+   "looks": 23,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:37"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__marni",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "marni",
+   "brandName": "Marni",
+   "designers": "By Meryll Rogge",
+   "eventDate": "2026-09-24T12:00:00.000Z",
+   "cover": {
+    "id": "6ab58b7d202d4a1414b59389",
+    "file": "00001-marni-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 61,
+    "Details": 102,
+    "Backstage": 32
+   },
+   "looks": 195,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:39"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__marques-almeida",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "marques-almeida",
+   "brandName": "Marques’Almeida",
+   "designers": "By Marta Marques & Paulo Almeida",
+   "eventDate": "2026-09-27T11:00:00.000Z",
+   "cover": {
+    "id": "6abaabac6fd1aec03d845be3",
+    "file": "00001-marques-almeida-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 44
+   },
+   "looks": 44,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:44"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__masha-popova",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "masha-popova",
+   "brandName": "Masha Popova",
+   "designers": "By Masha Popova ",
+   "eventDate": "",
+   "cover": {
+    "id": "6aad90723dbfd89053b79982",
+    "file": "00001-masha-popova-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 19,
+    "Details": 2
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:45"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__matieres-fecales",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "matieres-fecales",
+   "brandName": "Matières Fécales",
+   "designers": "By Hannah Rose Dalton & Steven Raj Bhaskaran",
+   "eventDate": "2026-09-28T17:00:00.000Z",
+   "cover": {
+    "id": "6abad9f6f7f3427c8552bacb",
+    "file": "00001-matieres-fecales-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 96,
+    "Details": 227,
+    "Backstage": 29
+   },
+   "looks": 352,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:47"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__max-mara",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "max-mara",
+   "brandName": "Max Mara",
+   "designers": "By Ian Griffiths",
+   "eventDate": "2026-09-24T07:30:00.000Z",
+   "cover": {
+    "id": "6ab52bf11f95c827276f7ae8",
+    "file": "00001-max-mara-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 47,
+    "Details": 120,
+    "Backstage": 27
+   },
+   "looks": 194,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:48"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__maxhosa",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "maxhosa",
+   "brandName": "Maxhosa",
+   "designers": "By Laduma Ngxokolo",
+   "eventDate": "2026-09-28T15:00:00.000Z",
+   "cover": {
+    "id": "6abaacb7700c78b6d347a5e3",
+    "file": "00001-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 50
+   },
+   "looks": 50,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:50"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__mel-usine",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "mel-usine",
+   "brandName": "Mel Usine",
+   "designers": "By Stephen Biga",
+   "eventDate": "",
+   "cover": {
+    "id": "6aaad9bbcb4f95621ff1d51e",
+    "file": "00001-mel-usine-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 27,
+    "Details": 2
+   },
+   "looks": 29,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:55"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__melitta-baumeister",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "melitta-baumeister",
+   "brandName": "Melitta Baumeister",
+   "designers": "By Melitta Baumeister",
+   "eventDate": "",
+   "cover": {
+    "id": "6ac6399e3555e21309b6ba36",
+    "file": "00001-melitta-baumeister-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 26
+   },
+   "looks": 26,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:17:58"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__meruert-tolegen",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "meruert-tolegen",
+   "brandName": "Meruert Tolegen",
+   "designers": "By Meruert Tolegen",
+   "eventDate": "2026-09-29T08:30:00.000Z",
+   "cover": {
+    "id": "6abbe38ae12b5055bc402120",
+    "file": "00001-meruert-tolegen-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 31
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:01"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__meryll-rogge",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "meryll-rogge",
+   "brandName": "Meryll Rogge",
+   "designers": "By Meryll Rogge",
+   "eventDate": "",
+   "cover": {
+    "id": "6a3be5ced1ddba749507b942",
+    "file": "00001-meryll-rogge-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 19
+   },
+   "looks": 19,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:03"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__michael-kors-collection",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "michael-kors-collection",
+   "brandName": "Michael Kors Collection",
+   "designers": "By Michael Kors",
+   "eventDate": "2026-09-11T14:00:00.000Z",
+   "cover": {
+    "id": "6aa43870b6bdd74488d31a98",
+    "file": "00001-michael-kors-collection-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 66,
+    "Details": 183
+   },
+   "looks": 249,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:04"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__mira-mikati",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "mira-mikati",
+   "brandName": "Mira Mikati",
+   "designers": "By Mira Mikati",
+   "eventDate": "",
+   "cover": {
+    "id": "6abb904c59ec757e15189ebb",
+    "file": "00001-mira-mikati-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 18,
+    "Details": 2
+   },
+   "looks": 20,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:09"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__missoni",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "missoni",
+   "brandName": "Missoni",
+   "designers": "By Alberto Caliri",
+   "eventDate": "2026-09-23T14:00:00.000Z",
+   "cover": {
+    "id": "6ab4105cb9c77cc985f7d332",
+    "file": "00001-missoni-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 34
+   },
+   "looks": 34,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:12"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__mithridate",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "mithridate",
+   "brandName": "Mithridate",
+   "designers": "By Daniel W. Fletcher",
+   "eventDate": "2026-09-17T14:00:00.000Z",
+   "cover": {
+    "id": "6aac10d4635d68f8721e682e",
+    "file": "00001-mithridate-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 47
+   },
+   "looks": 47,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:14"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__miu-miu",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "miu-miu",
+   "brandName": "Miu Miu",
+   "designers": "By Miuccia Prada",
+   "eventDate": "2026-10-04T11:00:00.000Z",
+   "cover": {
+    "id": "6ac259d9b05d20c17d484e30",
+    "file": "00001-miu-miu-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 76,
+    "Details": 210,
+    "Backstage": 29
+   },
+   "looks": 315,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:15"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__mm6-maison-martin-margiela",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "mm6-maison-martin-margiela",
+   "brandName": "MM6 Maison Margiela",
+   "designers": "",
+   "eventDate": "2026-09-23T16:00:00.000Z",
+   "cover": {
+    "id": "6ab4284ae9a6cf3b90a804cd",
+    "file": "00001-mm6-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 55,
+    "Details": 173
+   },
+   "looks": 228,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:20"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__monique-lhuillier",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "monique-lhuillier",
+   "brandName": "Monique Lhuillier",
+   "designers": "By Monique Lhuillier",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa85227cc7bb7dfd5ca3275",
+    "file": "00001-monique-lhuillier-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 31
+   },
+   "looks": 31,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:22"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__monse",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "monse",
+   "brandName": "Monse",
+   "designers": "By Fernando Garcia & Laura Kim",
+   "eventDate": "2026-09-11T21:00:00.000Z",
+   "cover": {
+    "id": "6aa4997abe989299f899b7f2",
+    "file": "00001-monse-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 45
+   },
+   "looks": 45,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:18:25"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__sally-lapointe",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "sally-lapointe",
+   "brandName": "LaPointe",
+   "designers": "By Sally LaPointe",
+   "eventDate": "",
+   "cover": {
+    "id": "6aa17320f1bd0e712773c413",
+    "file": "00001-lapointe-spring-2027-ready-to-wear-credit-brand.jpg"
+   },
+   "counts": {
+    "Collection": 21
+   },
+   "looks": 21,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:16:37"
+  },
+  {
+   "key": "spring-2027-ready-to-wear__salvatore-ferragamo",
+   "season": "spring-2027-ready-to-wear",
+   "seasonName": "Spring 2027 Ready-to-Wear",
+   "brand": "salvatore-ferragamo",
+   "brandName": "Ferragamo",
+   "designers": "By Maximilian Davis",
+   "eventDate": "2026-09-26T09:30:00.000Z",
+   "cover": {
+    "id": "6ab96113d5d65dcf54db5f4a",
+    "file": "00001-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg"
+   },
+   "counts": {
+    "Collection": 62,
+    "Details": 25,
+    "Backstage": 22
+   },
+   "looks": 109,
+   "local": false,
+   "fetchedAt": "2026-10-09T13:14:21"
+  }
+ ],
+ "seasons": [
+  {
+   "slug": "spring-2026-couture",
+   "name": "Spring 2026 Couture",
+   "count": 24
+  },
+  {
+   "slug": "spring-2026-ready-to-wear",
+   "name": "Spring 2026 Ready-to-Wear",
+   "count": 376
+  },
+  {
+   "slug": "spring-2027-ready-to-wear",
+   "name": "Spring 2027 Ready-to-Wear",
+   "count": 345
+  }
+ ],
+ "designers": [
+  {
+   "slug": "chanel",
+   "name": "Chanel",
+   "count": 156
+  }
+ ],
+ "builtAt": "2026-10-09T16:17:56"
+}

@@ -1,0 +1,1178 @@
+{
+ "key": "spring-2027-ready-to-wear__bottega-veneta",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bottega-veneta",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "bottega-veneta",
+ "brandName": "Bottega Veneta",
+ "designers": "By Louise Trotter",
+ "eventDate": "2026-09-26T18:00:00.000Z",
+ "pubDate": "September 26, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>At a studio visit several days before her third Bottega Veneta show, Louise Trotter, a British expat in Milan, laid out her thinking. “The collection,” she said, “is an observation of how we move between seasons…I’m from the Northern Hemisphere, so it’s quite unusual for me to be in a city where you really feel the four seasons, and they’re very integral to the way we live here. I wanted to express that sort of in-between—between what we see and perceive to be protection, which is winter, and then de-robing as we go into spring, summer.”</p><p>Though she may be an outsider in Italy, Trotter is finding her way nicely at the brand. She isn’t really a designer motivated by backstory; it’s the materials and the effects she can get out of them that turn her on. During her first two seasons here, the riches at her fingertips and the high level of artisanship available to her tended to weigh her clothes down, the women’s in particular. This time around, she let the light in.</p><p>Following the parameters she set up in that preview, the show opened with outerwear. Coats had padded, slightly exaggerated shoulders and some of the hems were knotted up, “as if she was going to wade into the water.” That’s an indulgence that most women would think twice about at Bottega Veneta prices, but Trotter’s insistence on the everydayness of her precious garments is appealing. Meanwhile, baby intrecciato leather scarves that she wrapped around waists showed off the atelier’s know-how.</p><p>Vibrant pastels briefly entered the picture in the middle portion of the show: A lilac top worn over a boardroom blue-and-white-striped button-down and butter yellow chinos snapped the audience to attention, ditto the flower-print draped fringe top and skirt set that swished this way and that as it came down the runway—spring had sprung. Next came summer and a whole raft of looks in patchworks of white handmade lace, chunky openwork crochet, and large-scale intrecciato. A vibrant red cotton dress was ruched at the midsection and knotted on the side over a pleated full skirt in the same electric shade. LBDs were swagged with crisscrossing skeins of silk fringe.</p><p>Trotter’s Bottega Veneta, like her predecessor’s, caters to an arty crowd that puts a high premium on craft and creativity, all the way down to the earrings, which looked sculpted from clay or were woven from leather and were often worn mismatched. Still, a plain black one-shoulder long dress with no embellishments was a welcome counterpoint. A little more of that kind of thing, and Trotter will get the balance just right.</p></div>",
+ "cover": {
+  "id": "6ab921bef7ed0551c814fae3",
+  "file": "00001-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab921bef7ed0551c814fae3",
+     "file": "00001-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab921be22fc5493327ac157",
+     "file": "00002-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab921be3c07da0e43d29442",
+     "file": "00003-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab921c2368cfb7bda924171",
+     "file": "00004-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab921c39d8abd58ace864b5",
+     "file": "00005-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab921c32fb19ab6c6f1b5d0",
+     "file": "00006-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab921c787f777d9e21a05eb",
+     "file": "00007-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab921c79ffaf60ef6236d99",
+     "file": "00008-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab921c7e4e8bd0376ab8302",
+     "file": "00009-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab921cb842476b128e4ab08",
+     "file": "00010-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab921cc48914f616f23b1a4",
+     "file": "00011-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab921cc3c07da0e43d29449",
+     "file": "00012-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab921d023892dcb53daba23",
+     "file": "00013-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab921d01fb44c87f6faccc3",
+     "file": "00014-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab921d1e4e8bd0376ab8309",
+     "file": "00015-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab921d5d63c62d8aa2efca2",
+     "file": "00016-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab921d5a993ec9d53d40dfa",
+     "file": "00017-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab921d6408e9735acbc95f7",
+     "file": "00018-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab921d91fb44c87f6faccca",
+     "file": "00019-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab921da897b83f7cfdade8c",
+     "file": "00020-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab921da6d0a73e1d744db20",
+     "file": "00021-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab921ddf1863be0c530d8e0",
+     "file": "00022-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab921dfb00c32a597ce8d22",
+     "file": "00023-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab921de9aa0cf35db07b3f9",
+     "file": "00024-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab921e2bbfacfc239f3d06f",
+     "file": "00025-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab921e3a6780c5bc2c7951f",
+     "file": "00026-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab921e31631dd84a90cccc7",
+     "file": "00027-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab921e6408e9735acbc95fe",
+     "file": "00028-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab921e771c5c4a46965e1bf",
+     "file": "00029-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab921e8368cfb7bda924178",
+     "file": "00030-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab921eab69bd04220611b3d",
+     "file": "00031-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab921eb8ed52f408d4558ca",
+     "file": "00032-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab921ec91be8c26ee998be1",
+     "file": "00033-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab921ee897b83f7cfdade96",
+     "file": "00034-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab921f0aef774080b8516f9",
+     "file": "00035-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab921f055469699cf07d8ac",
+     "file": "00036-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab921f155469699cf07d8b3",
+     "file": "00037-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab921f452686d3b855672b2",
+     "file": "00038-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab921f416eea1cf998bd271",
+     "file": "00039-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab921f6009d253321f43fab",
+     "file": "00040-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab921f81d8a27ae36422ebb",
+     "file": "00041-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab921f82fb19ab6c6f1b5dd",
+     "file": "00042-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab921fa408e9735acbc960b",
+     "file": "00043-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab921fdad59582d4833bfa3",
+     "file": "00044-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab921fde84b123334c21e48",
+     "file": "00045-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab921febd49d4bf4ce83ab9",
+     "file": "00046-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab9220122fc5493327ac164",
+     "file": "00047-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab92202b00c32a597ce8d32",
+     "file": "00048-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab922030e8712c4cdbbb146",
+     "file": "00049-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab922059ffaf60ef6236da3",
+     "file": "00050-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab92206116c9fbb665a70fc",
+     "file": "00051-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab9220791be8c26ee998be8",
+     "file": "00052-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab92209fb4ef11157661a89",
+     "file": "00053-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab9220bcec99af0e7b4ac87",
+     "file": "00054-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab9220d446a4c1410d38233",
+     "file": "00055-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab9220d2fb19ab6c6f1b5e4",
+     "file": "00056-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab9220f0599f56f4670f70e",
+     "file": "00057-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab92211897b83f7cfdadea3",
+     "file": "00058-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab92212f1863be0c530d8ea",
+     "file": "00059-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab9221349073cd2faa2e5a9",
+     "file": "00060-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab922159d46a2811ae314e4",
+     "file": "00061-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ab922167ea227d0254c3d80",
+     "file": "00062-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6ab93d81b525f9cae6379e5d",
+     "file": "00063-bottega-veneta-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ab94022897b83f7cfdadebe",
+     "file": "00001-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ab94022400dbf87de8a8895",
+     "file": "00002-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ab94022c7a02051c30ecd49",
+     "file": "00003-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ab94026700c78b6d3479b6f",
+     "file": "00004-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ab94026400dbf87de8a88a2",
+     "file": "00005-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ab94026bd49d4bf4ce83afd",
+     "file": "00006-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ab9402b9aa0cf35db07b425",
+     "file": "00007-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ab9402b7ea227d0254c3dc1",
+     "file": "00008-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ab9402b009d253321f43fde",
+     "file": "00009-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ab9402f0136915b3054257d",
+     "file": "00010-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ab9402f8ed52f408d455902",
+     "file": "00011-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ab9402f4362ed75da5561e2",
+     "file": "00012-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ab940338ed52f408d455909",
+     "file": "00013-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ab94033842476b128e4ab30",
+     "file": "00014-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ab940344a96c04670fdebce",
+     "file": "00015-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ab94037857edcd06453c2ee",
+     "file": "00016-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ab94038fd95979e80bfdaa9",
+     "file": "00017-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ab94038869f42d05373b7a0",
+     "file": "00018-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ab9403b1631dd84a90ccd16",
+     "file": "00019-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ab9403c87f777d9e21a061c",
+     "file": "00020-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ab9403c313a513f3ef8b262",
+     "file": "00021-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ab9403f684b14b813b20eac",
+     "file": "00022-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ab940400599f56f4670f73c",
+     "file": "00023-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ab94040701e411e9e81b433",
+     "file": "00024-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ab94042605d2596a3e08b2b",
+     "file": "00025-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ab940441d8a27ae36422eeb",
+     "file": "00026-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ab94044c9a31986ceee34d1",
+     "file": "00027-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ab94046400dbf87de8a88a9",
+     "file": "00028-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ab94047bd49d4bf4ce83b0a",
+     "file": "00029-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ab94048e84b123334c21f50",
+     "file": "00030-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ab94049920f649f55bd1653",
+     "file": "00031-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ab9404bb50debf0417e3898",
+     "file": "00032-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ab9404c009d253321f43fe5",
+     "file": "00033-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ab9404db56b036cef571e99",
+     "file": "00034-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ab9404e321e2dd6f92d870e",
+     "file": "00035-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ab9404fdb2626cc7fbfc86b",
+     "file": "00036-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ab94050f1863be0c530d904",
+     "file": "00037-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ab94052c7a02051c30ecd50",
+     "file": "00038-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ab94053408e9735acbc962a",
+     "file": "00039-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ab9405371c5c4a46965e1ed",
+     "file": "00040-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ab9405591be8c26ee998c19",
+     "file": "00041-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ab9405665ebbdfe21297aa4",
+     "file": "00042-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ab9405628a231d0038385a8",
+     "file": "00043-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ab94058fd95979e80bfdab6",
+     "file": "00044-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ab9405a8ed52f408d455916",
+     "file": "00045-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ab9405a7ea227d0254c3dc8",
+     "file": "00046-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ab9405bc0f11547cdf2bc25",
+     "file": "00047-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ab9405e40e1112a4a68cbdb",
+     "file": "00048-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ab9405eef335fc9bcef840f",
+     "file": "00049-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ab9405f59e811af8a0a2867",
+     "file": "00050-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ab940626d4bf06d5efada44",
+     "file": "00051-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ab94062857edcd06453c2f5",
+     "file": "00052-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ab940636d0a73e1d744db4e",
+     "file": "00053-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ab94065f829484daaa9899e",
+     "file": "00054-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ab9406649073cd2faa2e5f2",
+     "file": "00055-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ab94067400dbf87de8a88b0",
+     "file": "00056-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ab940699d46a2811ae31539",
+     "file": "00057-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ab940699d8abd58ace864fb",
+     "file": "00058-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ab9406aaffc7bff878592c2",
+     "file": "00059-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ab9406d16eea1cf998bd2ad",
+     "file": "00060-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ab9406d55469699cf07d8ea",
+     "file": "00061-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ab9406e7286206e4eb66efa",
+     "file": "00062-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ab94071897b83f7cfdadecb",
+     "file": "00063-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ab94072bbfacfc239f3d0a2",
+     "file": "00064-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ab94072c66a1f81714cf4ae",
+     "file": "00065-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ab9407522fc5493327ac185",
+     "file": "00066-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ab94075db2626cc7fbfc878",
+     "file": "00067-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ab940760e8712c4cdbbb169",
+     "file": "00068-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ab94079321e2dd6f92d8715",
+     "file": "00069-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ab9407a869f42d05373b7a7",
+     "file": "00070-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ab9407a275475226e92f2ad",
+     "file": "00071-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ab9407d274afebd8fe709cc",
+     "file": "00072-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ab9407ec91ee4223dbae6a5",
+     "file": "00073-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ab9407e92482cc35f48decb",
+     "file": "00074-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ab940815fa0fc8df1123cac",
+     "file": "00075-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ab9408292482cc35f48ded2",
+     "file": "00076-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ab940827ea227d0254c3dd4",
+     "file": "00077-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ab9408587f777d9e21a0629",
+     "file": "00078-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ab94086920f649f55bd1660",
+     "file": "00079-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ab9408622fc5493327ac18c",
+     "file": "00080-bottega-veneta-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:11:44"
+}

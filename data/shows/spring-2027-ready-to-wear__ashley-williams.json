@@ -1,0 +1,396 @@
+{
+ "key": "spring-2027-ready-to-wear__ashley-williams",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ashley-williams",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "ashley-williams",
+ "brandName": "Ashley Williams",
+ "designers": "By Ashley Williams",
+ "eventDate": "2026-09-18T13:00:00.000Z",
+ "pubDate": "September 18, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>As well as brown bobs so boss they featured on every model, Ashley Williams delivered a collection of whimsically twisted domesticity at the ICA this afternoon. The vibe was <em>Grey Gardens</em> somehow transported from East Hampton to the ’80s and ’90s Midwest. Fabrics were crumpled like wallpaper pulled down by gravity, hordes of soft toys were stuffed into hosiery, and what looked like long-gone kids’ bedsheets featuring characters adjacent to Strawberry Shortcake and Miffy were cut into house dresses, camisoles and vests.</p><p>Especially relishable garments included a Quant-ish minidress in Scooby-Doo florals and a chalk stripe wool dress, both cut to accommodate what Caitlin Moran once described as a Simon and Garfunkel bosom: one running high, the other going low. Frill-fringed hot-pink Barbara Cartland silks were heaped forward into unmade-bed-like backless dresses. Track tops were merged with peachy viscose skirts, or belted and hemmed high in cheerleader pleats. Somehow-sad 1980s Sue Ellen Ewing dresses were sleeved from bold shoulder to gloved fingertip.</p><p>Williams is a hybridist who applies an archly surreal filter to saccharine signifiers of girlhood and femininity, making them weird enough to wear without feeling infantilized or subordinated by. This clever cake-and-eat-it approach has won her a solid IYKYK fanbase of women who relate: she’s currently doing particularly strong business in the basement at Dover Street Market London.</p></div>",
+ "cover": {
+  "id": "6aad57833071645c5cd84bee",
+  "file": "00001-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aad57833071645c5cd84bee",
+     "file": "00001-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aad5783e3fcfb7568eb502b",
+     "file": "00002-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aad57881f954b41761fa50c",
+     "file": "00003-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aad5787bc74e84dbcab8c79",
+     "file": "00004-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aad57886dcec0e432b2553f",
+     "file": "00005-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aad578c3071645c5cd84bf5",
+     "file": "00006-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aad578c6dcec0e432b25546",
+     "file": "00007-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aad578cad92be4cb673334f",
+     "file": "00008-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aad57908e352873360464bd",
+     "file": "00009-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aad5792b6e2d68c96bd21a9",
+     "file": "00010-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aad5783b2bc13f48f50c884",
+     "file": "00011-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aad57924cb2faac92542e17",
+     "file": "00012-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aad5797a7d476d8fa96ea6b",
+     "file": "00013-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aad5799ca7813f14226a3ea",
+     "file": "00014-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aad5799438b723e970960f8",
+     "file": "00015-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aad579a9b98cd2b291eb9b6",
+     "file": "00016-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aad579ead92be4cb6733356",
+     "file": "00017-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aad579e6db603b67b0bcb5d",
+     "file": "00018-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aad579ea8df769096e8f084",
+     "file": "00019-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aad57a2bb4c12ad94ed688a",
+     "file": "00020-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aad57a360823f991da7a859",
+     "file": "00021-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aad57a321e5e36c3f54637f",
+     "file": "00022-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aad57a743b11adf08373142",
+     "file": "00023-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aad57a7cce80340259517bc",
+     "file": "00024-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aad57a75311dc7c879e484a",
+     "file": "00025-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aad57abad92be4cb673335d",
+     "file": "00026-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aad57ac8e352873360464c4",
+     "file": "00027-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aad57ac9bea9d0634656432",
+     "file": "00028-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aad57af852cebaa77c14ff3",
+     "file": "00029-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aad57b0751a923ebe83c2da",
+     "file": "00030-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aad57b060823f991da7a860",
+     "file": "00031-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aad57b20a5946066ef8eefc",
+     "file": "00032-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aad57b390b5765338c6a245",
+     "file": "00033-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aad57b47b69878953120294",
+     "file": "00034-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aad57b5f41bac2a0c229762",
+     "file": "00035-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aad57b760823f991da7a867",
+     "file": "00036-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aad57b87d67e866b99b4acb",
+     "file": "00037-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aad57b9b4ecb0e08c18bf32",
+     "file": "00038-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aad57bb73da167a514d3b32",
+     "file": "00039-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aad57bbd49d014ee898d5d6",
+     "file": "00040-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aad57bcb260c740f7688995",
+     "file": "00041-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aad57bf5311dc7c879e4857",
+     "file": "00042-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aad57bf20fdd47d7dfeb506",
+     "file": "00043-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aad57c0ca7813f14226a3f4",
+     "file": "00044-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aad57c2c38ea18e90adbfc1",
+     "file": "00045-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aad57c2c95d12d6b5059191",
+     "file": "00046-ashley-williams-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:10:57"
+}

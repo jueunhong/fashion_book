@@ -1,0 +1,1760 @@
+{
+ "key": "spring-2027-ready-to-wear__altuzarra",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/altuzarra",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "altuzarra",
+ "brandName": "Altuzarra",
+ "designers": "By Joseph Altuzarra",
+ "eventDate": "2026-09-12T14:00:00.000Z",
+ "pubDate": "September 12, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p><em>Casa Susanna,</em> a photo book chronicling the lives and loves of a group of mid-century men who dressed as women at a country retreat in the Catskills Mountains, was Joseph Altuzarra’s starting point for spring. Something about Susanna Valenti and her friends’ expressiveness served as an unlock for Altuzarra. “I just love how joyful it was,” he said. “I really wanted the collection to feel joyful, to be all about color and this idea of freedom.”</p><p>For the past few seasons, Altuzarra was presenting collections in his Woolworth Building headquarters. Today, he was in its Gilded Age lobby, with its wood-paneled walls and soaring gold-leaf mosaic ceilings. It did feel sort of like a coming-out party: a big reveal after a quieter, more sedate period, at least as far as his design instincts were concerned.</p><p>The shift was clear from the very first exit, a silk madras circle skirt of 1950s proportions with a crinoline underneath to provide its exuberant shape, which he topped with a voluminous black biker jacket. Not every look combined the hyper-feminine with the butch, but he wanted the collection to have that range: from a workingman’s wardrobe to pretty, delicate things. Beyond the biker jackets, the masculine side of the story was fleshed out with broad-shoulder blazers, leather carpenter pants, button-downs with removable (and interchangeable) starched collars and cuffs, and shiny black brogues. On the opposite end: bejeweled plissé dresses and intarsia knit sets in animal motifs.</p><p>Early on, Altuzarra was famous for his slit pencil skirts; this season’s reached new heights, stretching all the way up the hip bones, only they were worn with those brogues when once it would’ve been sky-high heels. He also experimented with dresses and camisoles that unpeeled at the seams, revealing an embellished layer underneath. It’s an idea that has been popping up around fashion; here, the underlying meaning was obvious: “What was once hidden becomes visible; glamour emerges from within.” There are moments in a designer’s trajectory that you’re happy to be around for; Altuzarra’s mini breakthrough was one of those times.</p></div>",
+ "cover": {
+  "id": "6aa5a03b1553ea21ca3be7a2",
+  "file": "00001-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa5a03b1553ea21ca3be7a2",
+     "file": "00001-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa5a03b02b9c16156ad3f71",
+     "file": "00002-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa5a03b4d6fce885ab473b7",
+     "file": "00003-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa5a03d8cc832c752564e03",
+     "file": "00004-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa5a03d7bfdb86b334d10b5",
+     "file": "00005-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa5a03ead457e0f73e8605f",
+     "file": "00006-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa5a03fb9760a091e751c5e",
+     "file": "00007-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa5a03fc07485ee2a00f5e0",
+     "file": "00008-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa5a03f1cc5e31996bbb963",
+     "file": "00009-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa5a04139653c76a6dbe6c8",
+     "file": "00010-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa5a0414d6fce885ab473be",
+     "file": "00011-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa5a041a6e7bf5d8b741407",
+     "file": "00012-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa5a043fd58de7d2d38f0c1",
+     "file": "00013-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa5a043076f22746d97129b",
+     "file": "00014-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa5a043f51d770fd9440757",
+     "file": "00015-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa5a045c1c1a4bd443311fb",
+     "file": "00016-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa5a0453022803b3ad6e5bc",
+     "file": "00017-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa5a045ad457e0f73e8606b",
+     "file": "00018-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa5a046ad599dfb7090481a",
+     "file": "00019-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa5a047e4e766690f77fe7f",
+     "file": "00020-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa5a0471553ea21ca3be7a9",
+     "file": "00021-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa5a048c1c1a4bd4433120b",
+     "file": "00022-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa5a0488cc832c752564e0d",
+     "file": "00023-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa5a0497bfdb86b334d10bf",
+     "file": "00024-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa5a04a1c3fccfa45a62031",
+     "file": "00025-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa5a04ba7cedc9e22293f0f",
+     "file": "00026-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa5a04b076f22746d9712a2",
+     "file": "00027-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa5a04b8bdc0ffc49ec7f13",
+     "file": "00028-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa5a04d1c3fccfa45a62038",
+     "file": "00029-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa5a04d076f22746d9712a9",
+     "file": "00030-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa5a04d1553ea21ca3be7b0",
+     "file": "00031-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa5a04e2e929cd40d935801",
+     "file": "00032-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa5a04f076f22746d9712b0",
+     "file": "00033-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa5a04f72e98291293450e0",
+     "file": "00034-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa5a0504d6fce885ab473ce",
+     "file": "00035-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa5a05175b3267701e83f61",
+     "file": "00036-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa5a051c07485ee2a00f5e7",
+     "file": "00037-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa5a05202b9c16156ad3f7e",
+     "file": "00038-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa5a052a7cedc9e22293f1c",
+     "file": "00039-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa5a053b9760a091e751c74",
+     "file": "00040-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa5a0549b0a728312eef015",
+     "file": "00041-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa5a0541cc5e31996bbb97f",
+     "file": "00042-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa5a05580f05e50b6c1bacf",
+     "file": "00043-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa5a055fd58de7d2d38f0cb",
+     "file": "00044-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa5a0561c3fccfa45a6203f",
+     "file": "00045-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa5a0578c91e1e1e24ca1d3",
+     "file": "00046-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aa5a0572e929cd40d93580e",
+     "file": "00047-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6aa5a0588c91e1e1e24ca1da",
+     "file": "00048-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6aa5a058e4e766690f77fe8c",
+     "file": "00049-altuzarra-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa5d6bb1cc5e31996bbbc8a",
+     "file": "00001-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa5d6bb4d6fce885ab47796",
+     "file": "00002-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa5d6bb91f360d97fdeb217",
+     "file": "00003-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa5d6bd91f360d97fdeb21e",
+     "file": "00004-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa5d6bd5f6162147e97698e",
+     "file": "00005-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa5d6bdc1c1a4bd443316aa",
+     "file": "00006-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa5d6c01c3fccfa45a622fd",
+     "file": "00007-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa5d6c08c91e1e1e24ca55d",
+     "file": "00008-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa5d6c0b9760a091e7521c5",
+     "file": "00009-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa5d6c22ccdbefb0b102721",
+     "file": "00010-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa5d6c239653c76a6dbeb2e",
+     "file": "00011-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa5d6c239653c76a6dbeb30",
+     "file": "00012-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa5d6c3ad599dfb70904b87",
+     "file": "00013-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa5d6c42e929cd40d935bab",
+     "file": "00014-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa5d6c42bbd593cadd33165",
+     "file": "00015-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa5d6c5ea2b89b7ae215619",
+     "file": "00016-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa5d6c691f360d97fdeb22c",
+     "file": "00017-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa5d6c691f360d97fdeb22d",
+     "file": "00018-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa5d6c802b9c16156ad43f9",
+     "file": "00019-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa5d6c81a9daa88990b8292",
+     "file": "00020-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa5d6c8418f190ed715d66a",
+     "file": "00021-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa5d6c92e929cd40d935bb2",
+     "file": "00022-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa5d6cac5240ea509450694",
+     "file": "00023-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa5d6ca1cc5e31996bbbc97",
+     "file": "00024-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa5d6cb3022803b3ad6ead3",
+     "file": "00025-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa5d6cb1c3fccfa45a6230a",
+     "file": "00026-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa5d6ccfd58de7d2d38f479",
+     "file": "00027-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa5d6cdc1c1a4bd443316b1",
+     "file": "00028-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa5d6ce2bbd593cadd3316c",
+     "file": "00029-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa5d6ce1c3fccfa45a62311",
+     "file": "00030-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa5d6cf3022803b3ad6eada",
+     "file": "00031-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa5d6d08c91e1e1e24ca56a",
+     "file": "00032-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa5d6d01a9daa88990b8299",
+     "file": "00033-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa5d6d1c5240ea50945069b",
+     "file": "00034-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa5d6d1ad457e0f73e8644d",
+     "file": "00035-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa5d6d2ad599dfb70904b94",
+     "file": "00036-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa5d6d3c5240ea5094506a2",
+     "file": "00037-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa5d6d4403b4a115dfba01e",
+     "file": "00038-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa5d6d491f360d97fdeb240",
+     "file": "00039-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa5d6d565f1c02545855f3b",
+     "file": "00040-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa5d6d51c3fccfa45a62318",
+     "file": "00041-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa5d6d602b9c16156ad4400",
+     "file": "00042-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa5d6d62e929cd40d935bb9",
+     "file": "00043-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa5d6d7ad599dfb70904ba1",
+     "file": "00044-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa5d6d722449ee1e5b9d66d",
+     "file": "00045-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa5d6d8b9760a091e7521d2",
+     "file": "00046-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa5d6d96631dbf6ddf7bab1",
+     "file": "00047-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa5d6d980f05e50b6c1bf2c",
+     "file": "00048-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa5d6da4d6fce885ab4779d",
+     "file": "00049-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa5d6db5f1be77119f57c24",
+     "file": "00050-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa5d6db80f05e50b6c1bf33",
+     "file": "00051-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa5d6dcad599dfb70904ba8",
+     "file": "00052-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa5d6ddad457e0f73e8645a",
+     "file": "00053-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa5d6ddad457e0f73e86461",
+     "file": "00054-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa5d6dd5f1be77119f57c31",
+     "file": "00055-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa5d6df2bbd593cadd33179",
+     "file": "00056-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa5d6dfea2b89b7ae21562c",
+     "file": "00057-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa5d6df6631dbf6ddf7babe",
+     "file": "00058-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa5d6e15f6162147e976995",
+     "file": "00059-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa5d6e1c5240ea5094506af",
+     "file": "00060-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa5d6e18c91e1e1e24ca571",
+     "file": "00061-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa5d6e32bbd593cadd33180",
+     "file": "00062-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa5d6e302b9c16156ad4407",
+     "file": "00063-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa5d6e380f05e50b6c1bf3a",
+     "file": "00064-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa5d6e5c5240ea5094506b6",
+     "file": "00065-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa5d6e5ea2b89b7ae215633",
+     "file": "00066-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa5d6e58c91e1e1e24ca578",
+     "file": "00067-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6aa5d6e7403b4a115dfba032",
+     "file": "00068-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6aa5d6e81a9daa88990b82ac",
+     "file": "00069-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6aa5d6e7ea2b89b7ae21563a",
+     "file": "00070-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6aa5d6e92ccdbefb0b102728",
+     "file": "00071-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6aa5d6e91cc5e31996bbbcb6",
+     "file": "00072-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6aa5d6e9403b4a115dfba039",
+     "file": "00073-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6aa5d6eb3022803b3ad6eae7",
+     "file": "00074-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6aa5d6eb80f05e50b6c1bf47",
+     "file": "00075-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6aa5d6eb1a9daa88990b82b3",
+     "file": "00076-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6aa5d6ed80f05e50b6c1bf4e",
+     "file": "00077-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6aa5d6ed4d6fce885ab477aa",
+     "file": "00078-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6aa5d6ed91f360d97fdeb25e",
+     "file": "00079-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6aa5d6f05f6162147e9769a2",
+     "file": "00080-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6aa5d6f039653c76a6dbeb65",
+     "file": "00081-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6aa5d6f03022803b3ad6eaf2",
+     "file": "00082-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6aa5d6f165f1c02545855f58",
+     "file": "00083-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6aa5d6f22fd5fff7bc6446ca",
+     "file": "00084-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6aa5d6f21c3fccfa45a62328",
+     "file": "00085-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6aa5d6f45f6162147e9769a9",
+     "file": "00086-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6aa5d6f42ccdbefb0b102733",
+     "file": "00087-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6aa5d6f48cc832c75256526f",
+     "file": "00088-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6aa5d6f65f1be77119f57c38",
+     "file": "00089-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6aa5d6f62fd5fff7bc6446d1",
+     "file": "00090-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6aa5d6f61c3fccfa45a6232f",
+     "file": "00091-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6aa5d6f9403b4a115dfba04b",
+     "file": "00092-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6aa5d6f83022803b3ad6eaf9",
+     "file": "00093-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6aa5d6f9403b4a115dfba04d",
+     "file": "00094-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6aa5d6fa2e929cd40d935bd8",
+     "file": "00095-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6aa5d6fb91f360d97fdeb269",
+     "file": "00096-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6aa5d6fb22449ee1e5b9d679",
+     "file": "00097-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6aa5d6fc22449ee1e5b9d680",
+     "file": "00098-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6aa5d6fced11fcdcdecbd1ff",
+     "file": "00099-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6aa5d6fd8cc832c75256527c",
+     "file": "00100-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6aa5d6fec5240ea5094506c3",
+     "file": "00101-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6aa5d6fe1cc5e31996bbbcc9",
+     "file": "00102-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6aa5d6fead599dfb70904bc5",
+     "file": "00103-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6aa5d700ed11fcdcdecbd206",
+     "file": "00104-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6aa5d701418f190ed715d69d",
+     "file": "00105-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6aa5d7008cc832c752565289",
+     "file": "00106-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6aa5d7021c3fccfa45a62336",
+     "file": "00107-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6aa5d7025f1be77119f57c3f",
+     "file": "00108-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6aa5d7028c91e1e1e24ca57f",
+     "file": "00109-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6aa5d7042fd5fff7bc6446d8",
+     "file": "00110-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6aa5d70422449ee1e5b9d687",
+     "file": "00111-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6aa5d7042bbd593cadd3319c",
+     "file": "00112-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6aa5d7055f1be77119f57c46",
+     "file": "00113-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6aa5d7066631dbf6ddf7bad7",
+     "file": "00114-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6aa5d706ad457e0f73e86484",
+     "file": "00115-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6aa5d7075f6162147e9769b6",
+     "file": "00116-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6aa5d7081c3fccfa45a6233d",
+     "file": "00117-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6aa5d7081a9daa88990b82c0",
+     "file": "00118-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6aa5d70939653c76a6dbeb7e",
+     "file": "00119-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6aa5d70a403b4a115dfba05e",
+     "file": "00120-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6aa5d70a2fd5fff7bc6446e5",
+     "file": "00121-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6aa5d70b65f1c02545855f5f",
+     "file": "00122-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6aa5d70b80f05e50b6c1bf72",
+     "file": "00123-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6aa5d70ced11fcdcdecbd213",
+     "file": "00124-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6aa5d70d65f1c02545855f66",
+     "file": "00125-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6aa5d70ded11fcdcdecbd21a",
+     "file": "00126-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6aa5d70e8c91e1e1e24ca598",
+     "file": "00127-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6aa5d70ec1c1a4bd443316d3",
+     "file": "00128-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6aa5d70e418f190ed715d6a4",
+     "file": "00129-altuzarra-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6aa5935af51d770fd944067c",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6aa5935a1cc5e31996bbb74b",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6aa5935a80f05e50b6c1b9fc",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6aa5935c39653c76a6dbe5d4",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6aa5935d1553ea21ca3be718",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6aa5935b1c3fccfa45a61f83",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6aa5935c8cc832c752564be2",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6aa5935da7cedc9e22293d43",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6aa5935d80f05e50b6c1ba03",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6aa59300fd58de7d2d38f049",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6aa59300a6e7bf5d8b741336",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6aa593008cc832c752564bdb",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6aa59302c1c1a4bd44331098",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6aa593028bdc0ffc49ec7e3b",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6aa593028bdc0ffc49ec7e36",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6aa5930494d2267b967c1cfc",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6aa59304a7cedc9e22293d3c",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6aa59304e4e766690f77fd49",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6aa593068c91e1e1e24ca0f2",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6aa592b4076f22746d9711ef",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6aa592b472e9829129344fad",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6aa592b41c3fccfa45a61f4e",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6aa592b59b0a728312eeef5d",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6aa592b622449ee1e5b9d157",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "6aa592b62e4581f6984bed5d",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_25.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "6aa592b7b9760a091e751b89",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_26.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "6aa592b7fd58de7d2d38f01f",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_27.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "6aa592b76631dbf6ddf7b5ef",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_28.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Backstage Look 29",
+     "id": "6aa592b872e9829129344fb4",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_29.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Backstage Look 30",
+     "id": "6aa5921e94d2267b967c1cdc",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_30.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Backstage Look 31",
+     "id": "6aa5921ec07485ee2a00f4dc",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_31.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 32,
+     "caption": "Backstage Look 32",
+     "id": "6aa5921e80f05e50b6c1b9cc",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_32.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Backstage Look 33",
+     "id": "6aa5921f2e4581f6984bed50",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_33.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Backstage Look 34",
+     "id": "6aa5921f7bfdb86b334d0ff4",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_34.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Backstage Look 35",
+     "id": "6aa59220a7cedc9e22293d10",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_35.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Backstage Look 36",
+     "id": "6aa59220076f22746d9711df",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_36.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 37,
+     "caption": "Backstage Look 37",
+     "id": "6aa592213022803b3ad6e53a",
+     "file": "Altuzarra_NYFW_SS27_backstage_acielle_37.jpg",
+     "w": 1024,
+     "h": 683
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:10:18"
+}

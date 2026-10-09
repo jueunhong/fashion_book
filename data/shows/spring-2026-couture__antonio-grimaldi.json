@@ -1,0 +1,472 @@
+{
+ "key": "spring-2026-couture__antonio-grimaldi",
+ "url": "https://www.vogue.com/fashion-shows/spring-2026-couture/antonio-grimaldi",
+ "season": "spring-2026-couture",
+ "seasonName": "Spring 2026 Couture",
+ "brand": "antonio-grimaldi",
+ "brandName": "Antonio Grimaldi",
+ "designers": "",
+ "eventDate": "",
+ "pubDate": "",
+ "authors": [],
+ "reviewHtml": "",
+ "cover": {
+  "id": "69776801e062d02bd8abdfb1",
+  "file": "00001-antonio-grimaldi-spring-2026-couture-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "69776801e062d02bd8abdfb1",
+     "file": "00001-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "69776802fe186c710ebcf180",
+     "file": "00002-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6977680358924dcab0529d7d",
+     "file": "00003-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "697768048078c585c8e00e73",
+     "file": "00004-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "697768058078c585c8e00e75",
+     "file": "00005-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "697768064018f73ac5e0e816",
+     "file": "00006-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "69776807e852963a02fa0948",
+     "file": "00007-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "69776809e27a72a1f6acec40",
+     "file": "00008-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "697768098c5c83bdc0710bae",
+     "file": "00009-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6977680a101aacb20e037de9",
+     "file": "00010-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6977680de852963a02fa094a",
+     "file": "00011-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6977680df68dd14658ab2707",
+     "file": "00012-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6977680da12a55078f189566",
+     "file": "00013-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "69776811c63c798f1a41134c",
+     "file": "00014-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "69776811e27a72a1f6acec42",
+     "file": "00015-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "69776811a205e0602e471104",
+     "file": "00016-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "69776814cfb5273b0d2397b3",
+     "file": "00017-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "697768168078c585c8e00e77",
+     "file": "00018-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "69776815e27a72a1f6acec44",
+     "file": "00019-antonio-grimaldi-spring-2026-couture-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "697768faa12a55078f189568",
+     "file": "00001a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "697768faa205e0602e471106",
+     "file": "00001b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1504
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "697768fa3e0a868c5ca40ba0",
+     "file": "00002a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "697768fee852963a02fa094e",
+     "file": "00002b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "697768fe54f20ee68731c713",
+     "file": "00003a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "697768fec63c798f1a41134e",
+     "file": "00003b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1472
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "69776901d0a79fa4a13bd350",
+     "file": "00004a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "69776901e852963a02fa0950",
+     "file": "00004b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1360
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "69776902e062d02bd8abdfb5",
+     "file": "00005a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "69776904d312109573eb6e32",
+     "file": "00005b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "69776905d0a79fa4a13bd352",
+     "file": "00006a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1546
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "69776905d0a79fa4a13bd354",
+     "file": "00006b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1414
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "69776907e27a72a1f6acec46",
+     "file": "00007a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "697769084f81d8fc2bf1d338",
+     "file": "00007b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "69776908d312109573eb6e34",
+     "file": "00008a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6977690a54f20ee68731c715",
+     "file": "00008b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6977690cc63c798f1a411350",
+     "file": "00009a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6977690b101aacb20e037deb",
+     "file": "00009b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1414
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6977690d1f6b0a4f9d9d1990",
+     "file": "00010a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6977690ea0f0204c4d7af820",
+     "file": "00010b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6977690f54f20ee68731c717",
+     "file": "00011a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "69776910fe186c710ebcf183",
+     "file": "00011b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "69776911e27a72a1f6acec48",
+     "file": "00012a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "69776913f68dd14658ab2709",
+     "file": "00012b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1443
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "69776915c63c798f1a411352",
+     "file": "00013a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "697769154a9af21830cfdaec",
+     "file": "00013b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "697769161f6b0a4f9d9d1992",
+     "file": "00014a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "69776918cfb5273b0d2397b5",
+     "file": "00014b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6977691a507f950d4b4b5858",
+     "file": "00015a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6977691ac63c798f1a411354",
+     "file": "00015b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1472
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6977691b4f81d8fc2bf1d33a",
+     "file": "00016a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6977691da0f0204c4d7af822",
+     "file": "00016b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1386
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6977691df68dd14658ab270b",
+     "file": "00017a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6977691ea205e0602e471108",
+     "file": "00017b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "69776920fe186c710ebcf185",
+     "file": "00018a-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "697769214a9af21830cfdaee",
+     "file": "00018b-antonio-grimaldi-spring-2026-couture-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:52:17"
+}

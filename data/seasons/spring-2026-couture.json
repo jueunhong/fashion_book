@@ -1,0 +1,157 @@
+{
+ "slug": "spring-2026-couture",
+ "name": "Spring 2026 Couture",
+ "shows": [
+  {
+   "name": "Alexis Mabille",
+   "brand": "alexis-mabille",
+   "path": "/fashion-shows/spring-2026-couture/alexis-mabille"
+  },
+  {
+   "name": "Antonio Grimaldi",
+   "brand": "antonio-grimaldi",
+   "path": "/fashion-shows/spring-2026-couture/antonio-grimaldi"
+  },
+  {
+   "name": "Armani Privé",
+   "brand": "armani-prive",
+   "path": "/fashion-shows/spring-2026-couture/armani-prive",
+   "cover": {
+    "id": "69792003718f4ae85a692054",
+    "file": "00001-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Ashi Studio",
+   "brand": "ashi-studio",
+   "path": "/fashion-shows/spring-2026-couture/ashi-studio"
+  },
+  {
+   "name": "Celia Kritharioti",
+   "brand": "celia-kritharioti",
+   "path": "/fashion-shows/spring-2026-couture/celia-kritharioti"
+  },
+  {
+   "name": "Chanel",
+   "brand": "chanel",
+   "path": "/fashion-shows/spring-2026-couture/chanel",
+   "cover": {
+    "id": "69789d76a91246ccec87d55e",
+    "file": "00001-chanel-spring-2026-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Chochengco",
+   "brand": "chocheng",
+   "path": "/fashion-shows/spring-2026-couture/chocheng"
+  },
+  {
+   "name": "Christian Dior",
+   "brand": "christian-dior",
+   "path": "/fashion-shows/spring-2026-couture/christian-dior",
+   "cover": {
+    "id": "69779a0ca205e0602e471132",
+    "file": "00001-christian-dior-spring-2026-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Didit Hediprasetyo",
+   "brand": "didit-hediprasetyo",
+   "path": "/fashion-shows/spring-2026-couture/didit-hediprasetyo"
+  },
+  {
+   "name": "Elie Saab",
+   "brand": "elie-saab",
+   "path": "/fashion-shows/spring-2026-couture/elie-saab"
+  },
+  {
+   "name": "Francesco Scognamiglio",
+   "brand": "francesco-scognamiglio",
+   "path": "/fashion-shows/spring-2026-couture/francesco-scognamiglio"
+  },
+  {
+   "name": "Gaurav Gupta",
+   "brand": "gaurav-gupta",
+   "path": "/fashion-shows/spring-2026-couture/gaurav-gupta"
+  },
+  {
+   "name": "Germanier",
+   "brand": "germanier",
+   "path": "/fashion-shows/spring-2026-couture/germanier"
+  },
+  {
+   "name": "Julie de Libran",
+   "brand": "julie-de-libran",
+   "path": "/fashion-shows/spring-2026-couture/julie-de-libran"
+  },
+  {
+   "name": "Miss Sohee",
+   "brand": "miss-sohee",
+   "path": "/fashion-shows/spring-2026-couture/miss-sohee"
+  },
+  {
+   "name": "Rahul Mishra",
+   "brand": "rahul-mishra",
+   "path": "/fashion-shows/spring-2026-couture/rahul-mishra"
+  },
+  {
+   "name": "Rami Al Ali",
+   "brand": "rami-al-ali",
+   "path": "/fashion-shows/spring-2026-couture/rami-al-ali"
+  },
+  {
+   "name": "Robert Wun",
+   "brand": "robert-wun",
+   "path": "/fashion-shows/spring-2026-couture/robert-wun"
+  },
+  {
+   "name": "Ronald van der Kemp",
+   "brand": "ronald-van-der-kemp",
+   "path": "/fashion-shows/spring-2026-couture/ronald-van-der-kemp"
+  },
+  {
+   "name": "RVNG Couture",
+   "brand": "rvng-couture",
+   "path": "/fashion-shows/spring-2026-couture/rvng-couture"
+  },
+  {
+   "name": "Schiaparelli",
+   "brand": "schiaparelli",
+   "path": "/fashion-shows/spring-2026-couture/schiaparelli",
+   "cover": {
+    "id": "697c7da283f57b22d25a158d",
+    "file": "00001-schiaparelli-spring-2026-couture-credit-brand.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Valentino",
+   "brand": "valentino",
+   "path": "/fashion-shows/spring-2026-couture/valentino",
+   "cover": {
+    "id": "697a25ff059e3fea05b3e649",
+    "file": "01.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Viktor & Rolf",
+   "brand": "viktor-rolf",
+   "path": "/fashion-shows/spring-2026-couture/viktor-rolf"
+  },
+  {
+   "name": "Zuhair Murad",
+   "brand": "zuhair-murad",
+   "path": "/fashion-shows/spring-2026-couture/zuhair-murad"
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:52:11"
+}

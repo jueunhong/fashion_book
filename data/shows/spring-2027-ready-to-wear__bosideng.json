@@ -1,0 +1,474 @@
+{
+ "key": "spring-2027-ready-to-wear__bosideng",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bosideng",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "bosideng",
+ "brandName": "Bosideng",
+ "designers": "",
+ "eventDate": "",
+ "pubDate": "",
+ "authors": [],
+ "reviewHtml": "",
+ "cover": {
+  "id": "6ac4eafc2ba13937819b1157",
+  "file": "00001-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ac4eafc2ba13937819b1157",
+     "file": "00001-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ac4eafcb48d4a2aa7fb098a",
+     "file": "00002-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ac4eafc635119edc5dd90ce",
+     "file": "00003-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ac4eafec3def38110ea918b",
+     "file": "00004-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ac4eafeb4f781883e84b6bb",
+     "file": "00005-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ac4eaff9dc3905ef71fb4c0",
+     "file": "00006-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ac4eb00e0a759bd230c8159",
+     "file": "00007-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ac4eb00c374326f2df66a76",
+     "file": "00008-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ac4eb0169ef528650c19295",
+     "file": "00009-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ac4eb029dc3905ef71fb4c7",
+     "file": "00010-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ac4eb02cfad4a180d09eb84",
+     "file": "00011-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ac4eb03250fe688845fbf2e",
+     "file": "00012-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ac4eb0434b2eb851a49586b",
+     "file": "00013-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ac4eb041eb7e7b6b4a8c5f4",
+     "file": "00014-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ac4eb05a6e8539892eece30",
+     "file": "00015-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ac4eb06527d0a6c8d09810b",
+     "file": "00016-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ac4eb078e1ea56f9d85bae5",
+     "file": "00017-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ac4eb0743c3a24f00002cac",
+     "file": "00018-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ac4eb08250fe688845fbf35",
+     "file": "00019-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ac4eb0963c1240d10cde96c",
+     "file": "00020-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ac4eb09cbe0a1a646515539",
+     "file": "00021-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ac4eb0a5dc2d8d0c727ce24",
+     "file": "00022-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ac4eb0b3555e21309b69806",
+     "file": "00023-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ac4eb0b250fe688845fbf3c",
+     "file": "00024-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ac4eb0ca5f6f59fd4c4de2c",
+     "file": "00025-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ac4eb0d26f099cf71ce5e95",
+     "file": "00026-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ac4eb0da5f6f59fd4c4de33",
+     "file": "00027-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ac4eb0e69ef528650c192a5",
+     "file": "00028-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ac4eb0f028fb464a99776cd",
+     "file": "00029-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ac4eb0ffdbd564e79ffe538",
+     "file": "00030-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ac4eb1026f099cf71ce5e9c",
+     "file": "00031-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ac4eb117511dc83038a6294",
+     "file": "00032-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ac4eb11b4f781883e84b6c2",
+     "file": "00033-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ac4eb1273e999c3fece6235",
+     "file": "00034-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ac4eb13038bdf3437dc5531",
+     "file": "00035-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ac4eb1326ee5a9195fdfa02",
+     "file": "00036-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ac4eb15619f7a8d2e6615b9",
+     "file": "00037-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ac4eb15615cb4d2dc430690",
+     "file": "00038-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ac4eb1554413dc952f8af75",
+     "file": "00039-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ac4eb17de38c4f72a310e9b",
+     "file": "00040-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ac4eb17e03f52b3068ed6ab",
+     "file": "00041-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ac4eb1769ef528650c192ac",
+     "file": "00042-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ac4eb19c374326f2df66a80",
+     "file": "00043-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ac4eb19368cdae4f04f6314",
+     "file": "00044-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ac4eb19054bb976ce76feff",
+     "file": "00045-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ac4eb1bfbf01b08c099b3d0",
+     "file": "00046-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ac4eb1b99af566adfdb1688",
+     "file": "00047-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ac4eb1b994abda0b6576e61",
+     "file": "00048-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ac4eb1da3c67f3ef1d7a653",
+     "file": "00049-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ac4eb1dfab599cef32d24e5",
+     "file": "00050-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ac4eb1d5dc2d8d0c727ce31",
+     "file": "00051-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ac4eb1f6d7c0ae79372e7a2",
+     "file": "00052-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ac4eb2098daf6efd6ec2a61",
+     "file": "00053-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ac4eb1ffbf01b08c099b3d7",
+     "file": "00054-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ac4eb22619f7a8d2e6615c3",
+     "file": "00055-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ac4eb21f407329037d38856",
+     "file": "00056-bosideng-spring-2027-ready-to-wear-credit-brand-sponsored.JPG",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:11:43"
+}

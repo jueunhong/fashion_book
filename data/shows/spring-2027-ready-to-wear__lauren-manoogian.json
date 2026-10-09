@@ -1,0 +1,404 @@
+{
+ "key": "spring-2027-ready-to-wear__lauren-manoogian",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lauren-manoogian",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "lauren-manoogian",
+ "brandName": "Lauren Manoogian",
+ "designers": "By Lauren Manoogian",
+ "eventDate": "",
+ "pubDate": "September 17, 2026",
+ "authors": [
+  "Laird Borrelli-Persson"
+ ],
+ "reviewHtml": "<div><p>This much-loved New York brand is so strongly associated with knits, neutrals, and serenity that even little changes create big ripples, so the sight of a look made of silver foiled fabric is news. It seems that Lauren Manoogian and Chris Fireoved turned into metalheads—of the textile sort—for their spring collection. Their goal, the latter said, was to create a “dynamic textile story.” And it’s true that knits were part of the mix rather than the main character; but the same techniques, such as knotting, were applied to wovens and knits. </p><p>Unstructured texture was the main message. Many of the loomed materials were wrinkled or had raw, unraveled edges; crinkling was made possible by Manoogian’s use of three different types of metal-woven fabric. (Fun fact: Fireoved did a magnet test and reported that the metal content wasn’t enough for a reaction.) A pewter-y Lurex tank was shown with what Manoogian called the brand’s “first real jeans.” They have a relaxed fit.  </p><p>Both a roomy vest with shoulder pads and the big pants shown with it featured shaggy edges. Those trousers with a fold-over detail looked like they had wrapped legs, but, Manoogian explained, it was “a huge inverted pleat” creating that effect. When a brimmed hat, made in collaboration with the Japanese milliner Kijima Takayuki, was paired with a short, bell-shaped khaki jacket, the result was a kind of fisherman vibe, which was distinct to that look. In fact, there was a certain dryness to the collection that was present, for example, in an airy vest hand-knit of strips of fabric that resembled raffia. Manoogian’s alternative to air-conditioning was a holey knit that had been carefully engineered: The designer explained that these polka-dot voids were not cut out but hand-loomed. </p><p>Also of note was the addition of more menswear. One of the benefits of having a store is that Manoogian and Fireoved can observe how customers interact with the garments. Fireoved shared this interesting observation: “We had this thought that for the men’s, we’d just make bigger sizes…but it’s actually turning into this thing where men are buying the smaller sizes and women are coming in and getting something more oversized. It’s working in a way we didn’t expect.” It’s often the case that an element of surprise keeps things interesting, and that’s what the metallic crinkles, on everything from trench coats to pretty collaged panel dresses, contributed for spring.</p></div>",
+ "cover": {
+  "id": "6aabfb52ae56c8fa30e48a3d",
+  "file": "00001-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aabfb52ae56c8fa30e48a3d",
+     "file": "00001-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aabfb5249655010772352ba",
+     "file": "00002-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aabfb52fa23e248ce6c0660",
+     "file": "00003-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aabfb576ffbb91686fe2571",
+     "file": "00004-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aabfb571669d35d19e2fd44",
+     "file": "00005-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aabfb57fa23e248ce6c0666",
+     "file": "00006-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aabfb5b9ae91a9053fa1f8f",
+     "file": "00007-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aabfb5b93d83eb3fd537b92",
+     "file": "00008-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aabfb5b635d68f8721e66e6",
+     "file": "00009-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aabfb60fa23e248ce6c066c",
+     "file": "00010-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aabfb6002c89abdd797a317",
+     "file": "00011-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aabfb60763416e3ef9c3b5f",
+     "file": "00012-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aabfb64a3f85a7183cbea39",
+     "file": "00013-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aabfb651669d35d19e2fd4a",
+     "file": "00014-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aabfb65d00115acd7b01d79",
+     "file": "00015-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aabfb699ae91a9053fa2076",
+     "file": "00016-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aabfb69c6f16ea5c6168ea8",
+     "file": "00017-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aabfb697f4be58c79773661",
+     "file": "00018-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aabfb6d02c89abdd797a31d",
+     "file": "00019-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aabfb6e1669d35d19e2fd50",
+     "file": "00020-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aabfb6dae56c8fa30e48a52",
+     "file": "00021-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aabfb7218511a438e66ecd0",
+     "file": "00022-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aabfb72f76a1778243e046d",
+     "file": "00023-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aabfb72ae56c8fa30e48a58",
+     "file": "00024-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aabfb76c6f16ea5c6168eb6",
+     "file": "00025-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aabfb77ae6a0317ef142c5b",
+     "file": "00026-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aabfb7649655010772352c0",
+     "file": "00027-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aabfb79f76a1778243e0473",
+     "file": "00028-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aabfb7a7f4be58c79773667",
+     "file": "00029-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aabfb7a18511a438e66ecd6",
+     "file": "00030-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aabfb7bd4c65b010eacfcdd",
+     "file": "00031-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aabfb7ea3f85a7183cbea3f",
+     "file": "00032-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aabfb7efa23e248ce6c067a",
+     "file": "00033-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aabfb7f7f4be58c7977366d",
+     "file": "00034-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aabfb8340fce0866578d382",
+     "file": "00035-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aabfb83fb14210cac870ad0",
+     "file": "00036-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aabfb83b6230e283835fc9a",
+     "file": "00037-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aabfb872ce283182850f3c9",
+     "file": "00038-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aabfb87b6230e283835fca6",
+     "file": "00039-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aabfb87c6f16ea5c6168ec6",
+     "file": "00040-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aabfb8a2ce283182850f3cf",
+     "file": "00041-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aabfb8b1142bf19291c8d57",
+     "file": "00042-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aabfb8bfb14210cac870ad6",
+     "file": "00043-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aabfb8d2ce283182850f3e1",
+     "file": "00044-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aabfc0d1142bf19291c8d64",
+     "file": "00045-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aabfb8f635d68f8721e66f5",
+     "file": "00046-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aabfb90d00115acd7b01d8a",
+     "file": "00047-lauren-manoogian-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:16:42"
+}

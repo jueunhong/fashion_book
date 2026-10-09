@@ -1,0 +1,2088 @@
+{
+ "key": "spring-2027-ready-to-wear__carolina-herrera",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/carolina-herrera",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "carolina-herrera",
+ "brandName": "Carolina Herrera",
+ "designers": "By Wes Gordon",
+ "eventDate": "2026-09-14T22:00:00.000Z",
+ "pubDate": "September 14, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>The number of yellow tulips installed in the David H. Koch Theater’s promenade for the Carolina Herrera brand’s 45th anniversary show? Precisely 28,798, creative director Wes Gordon announced. “Because Henry and Georgia,” his young children with his husband, Paul Arnhold, “each took one when they came to rehearsal.”</p><p>Gordon wasn’t even a twinkle in his parents’ eyes when Herrera launched her brand in 1981, but she handed him the keys eight years ago. Subsequently, the label has become one of American fashion’s few <a href=\"https://www.vogue.com/article/how-carolina-herrera-pulled-off-a-succession-success-story\" target=\"_blank\" rel=\"noopener\">succession</a> success stories, dressing mothers and daughters and sometimes granddaughters.</p><p>The collection was a joyous tribute to Herrera’s design signatures, from the black-and-white polka dots at the start to the diaphanous black gown with the ruffled neckline—“very Nan Kempner,” Gordon called it—at the end. Her classic crisp white shirt was tucked into a cummerbund over cigarette pants and paired with a sheer ball skirt. He also elongated it into shirtdresses that hugged the hips. Even the gold frog brooches were a nod in her direction: Her favorite restaurant was La Grenouille.</p><p>The popular culture of the brand’s ’80s beginnings captured Gordon’s interest too. Working with the Warhol Foundation, he designed a shift dress that reproduced Andy Warhol’s iconic silkscreen portrait of Mrs. Herrera, and via a partnership with <em>The New Yorker,</em> he created an organza T-shirt and dress beaded with the cover design from the week of Mrs. Herrera’s first show. Editor in chief David Remnick, a rare sight at fashion shows, looked pleased from the front row, with Martha Stewart on one side and Tory Burch on the other.</p><p>“She’s hailing a cab on Park Avenue,” Gordon said of the model in the silk twill headscarf, oversized shades, and collarless trench. Distinctions between uptown and downtown mostly don’t hold in 2026 New York. Still, with Oscar de la Renta having absented itself from the New York calendar, Carolina Herrera is the only brand that can truly lay claim to the rarefied territory. Gordon was feeling reflective backstage. “You know perfectly well how hard it is to make it in this industry. It was very much a male industry in 1981 when Mrs. Herrera started [her brand] as a mother of four. For it to have not only survived 45 years but to be a global fashion, fragrance, beauty, and accessories super brand—I hope she feels proud.”</p></div>",
+ "cover": {
+  "id": "6aa8982f947c2b3553658d3a",
+  "file": "00001-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa8982f947c2b3553658d3a",
+     "file": "00001-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa8982f2a30cd04b17e2558",
+     "file": "00002-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa8982f16b3f3103d23143f",
+     "file": "00003-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa89831a7b8779de31a8fc3",
+     "file": "00004-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa89831677112612d6ffa33",
+     "file": "00005-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa89831947c2b3553658d44",
+     "file": "00006-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa89833b93d5d68bf1ecd19",
+     "file": "00007-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa89834583a35aed88c401e",
+     "file": "00008-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa89834a2a2f46eaa3bd13b",
+     "file": "00009-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa89835d3ed9f255c994b09",
+     "file": "00010-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa8983625301ef4d5229d04",
+     "file": "00011-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa89836a565658f309e5f91",
+     "file": "00012-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa8983716b3f3103d23144c",
+     "file": "00013-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa898382dc8b924e37e5964",
+     "file": "00014-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa8983716b3f3103d231453",
+     "file": "00015-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa898391a6aa79202cbc974",
+     "file": "00016-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa8983a25301ef4d5229d0b",
+     "file": "00017-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa8983b2dc8b924e37e596b",
+     "file": "00018-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa8983cb15c3aa2dfc7a2ef",
+     "file": "00019-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa8983cf1b96b47bccfb3d5",
+     "file": "00020-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa8983ecc7bb7dfd5ca3af5",
+     "file": "00021-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa8983ec694b435cdedf0ac",
+     "file": "00022-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa8983f25301ef4d5229d15",
+     "file": "00023-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa89840cc7bb7dfd5ca3afc",
+     "file": "00024-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa898409e4ca6cf8b94439b",
+     "file": "00025-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa898416d92aadd4b1b3e10",
+     "file": "00026-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa898422dc8b924e37e5972",
+     "file": "00027-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa89842aad44d06f6c0238f",
+     "file": "00028-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa89844f1b96b47bccfb3dd",
+     "file": "00029-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa8984425301ef4d5229d1d",
+     "file": "00030-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa8984425301ef4d5229d22",
+     "file": "00031-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa898466d92aadd4b1b3e2f",
+     "file": "00032-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa89846a5f56b8a7053f4e9",
+     "file": "00033-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa898471a6aa79202cbc97e",
+     "file": "00034-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa8984816b3f3103d231469",
+     "file": "00035-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa89848b15c3aa2dfc7a2f6",
+     "file": "00036-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa898499e4ca6cf8b9443a2",
+     "file": "00037-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa8984a947c2b3553658d51",
+     "file": "00038-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa8984a2a30cd04b17e2562",
+     "file": "00039-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa8984c16b3f3103d231470",
+     "file": "00040-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa8984d36b01e862453cf73",
+     "file": "00041-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa8984ca5f56b8a7053f4f0",
+     "file": "00042-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa8984e65480a84190770f9",
+     "file": "00043-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa8984e2dc8b924e37e597f",
+     "file": "00044-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa8984e947c2b3553658d58",
+     "file": "00045-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa89850d3ed9f255c994b2b",
+     "file": "00046-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aa898516d92aadd4b1b3e37",
+     "file": "00047-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6aa898516d92aadd4b1b3e39",
+     "file": "00048-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6aa89852f367786d76da342c",
+     "file": "00049-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6aa898542a30cd04b17e256f",
+     "file": "00050-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6aa89853b93d5d68bf1ecd3e",
+     "file": "00051-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6aa89854aad44d06f6c023ad",
+     "file": "00052-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6aa89855947c2b3553658d5f",
+     "file": "00053-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6aa898562dc8b924e37e598f",
+     "file": "00054-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6aa898561ff44e0712c734e4",
+     "file": "00055-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6aa8985716b3f3103d23147a",
+     "file": "00056-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6aa89858f1b96b47bccfb3ea",
+     "file": "00057-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6aa89858c763d3e61c28006b",
+     "file": "00058-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6aa8985a14f9c5a1f3ddeaaa",
+     "file": "00059-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6aa8985a2a30cd04b17e2576",
+     "file": "00060-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6aa8985aa5f56b8a7053f4f7",
+     "file": "00061-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6aa8985c2a30cd04b17e2583",
+     "file": "00062-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6aa8985c36b01e862453cf7a",
+     "file": "00063-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6aa8985c1ff44e0712c734f1",
+     "file": "00064-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa937929e4ca6cf8b9454e4",
+     "file": "00001-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa93792330c9941b92fbe40",
+     "file": "00002-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa93793677112612d700912",
+     "file": "00003-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa93796677112612d700919",
+     "file": "00004-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa93796330c9941b92fbe47",
+     "file": "00005-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa937962a30cd04b17e338e",
+     "file": "00006-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa937998b6cfaaed73939f5",
+     "file": "00007-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa937996d92aadd4b1b4e84",
+     "file": "00008-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa93799947c2b3553659d4a",
+     "file": "00009-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa9379bfaa5ce0c6948a1f5",
+     "file": "00010-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa9379c16b3f3103d23244c",
+     "file": "00011-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa9379cf367786d76da46f5",
+     "file": "00012-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa9379ed3ed9f255c995b59",
+     "file": "00013-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa9379f25301ef4d522acbf",
+     "file": "00014-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa9379fa2a2f46eaa3be050",
+     "file": "00015-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa937a1d6fbb7479165fab5",
+     "file": "00016-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa937a22dc8b924e37e6706",
+     "file": "00017-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa937a22a30cd04b17e3395",
+     "file": "00018-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa937a44ebf513e3991c6fd",
+     "file": "00019-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa937a4f367786d76da4702",
+     "file": "00020-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa937a4a5f56b8a70540452",
+     "file": "00021-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa937a61a6aa79202cbd9ae",
+     "file": "00022-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa937a7a2a2f46eaa3be05d",
+     "file": "00023-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa937a7a7b8779de31a9fa1",
+     "file": "00024-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa937a81a6aa79202cbd9b5",
+     "file": "00025-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa937a9a2a2f46eaa3be064",
+     "file": "00026-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa937a9677112612d700926",
+     "file": "00027-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa937aa65480a841907825e",
+     "file": "00028-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa937abc6ce7cc6f94a4840",
+     "file": "00029-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa937ac947c2b3553659d51",
+     "file": "00030-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa937ad25301ef4d522acc6",
+     "file": "00031-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa937ae8b6cfaaed7393a02",
+     "file": "00032-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa937ae2b9868797b887a52",
+     "file": "00033-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa937afb7726e5fdfe6056a",
+     "file": "00034-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa937b11a6aa79202cbd9c8",
+     "file": "00035-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa937b1a7b8779de31a9fa8",
+     "file": "00036-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa937b18ed9cc92eb3ddcf1",
+     "file": "00037-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa937b4b15c3aa2dfc7b30c",
+     "file": "00038-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa937b4d6fbb7479165fac2",
+     "file": "00039-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa937b473e408aa3747d89f",
+     "file": "00040-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa937b68b6cfaaed7393a10",
+     "file": "00041-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa937b78b6cfaaed7393a15",
+     "file": "00042-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa937b7947c2b3553659d58",
+     "file": "00043-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa937b916b3f3103d232453",
+     "file": "00044-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa937b925301ef4d522acd3",
+     "file": "00045-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa937b9d6fbb7479165fac9",
+     "file": "00046-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa937bcaad44d06f6c03343",
+     "file": "00047-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa937bc2b9868797b887a59",
+     "file": "00048-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa937bc8ed9cc92eb3ddcf8",
+     "file": "00049-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa937bf330c9941b92fbe54",
+     "file": "00050-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa937bfb93d5d68bf1ede3c",
+     "file": "00051-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa937bfa7b8779de31a9faf",
+     "file": "00052-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa937c2b15c3aa2dfc7b313",
+     "file": "00053-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa937c22b9868797b887a60",
+     "file": "00054-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa937c2d3ed9f255c995b60",
+     "file": "00055-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa937c62b9868797b887a6d",
+     "file": "00056-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa937c6b7726e5fdfe60577",
+     "file": "00057-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa937c62a30cd04b17e339c",
+     "file": "00058-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa937c9b15c3aa2dfc7b31a",
+     "file": "00059-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa937c9d6fbb7479165fad6",
+     "file": "00060-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa937c9c6ce7cc6f94a4853",
+     "file": "00061-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa937cc9e4ca6cf8b9454f1",
+     "file": "00062-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa937cdc42ddc7f7984b08a",
+     "file": "00063-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa937cc677112612d700933",
+     "file": "00064-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa937cf16b3f3103d23245a",
+     "file": "00065-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa937cfa7b8779de31a9fb6",
+     "file": "00066-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa937cf6d92aadd4b1b4e91",
+     "file": "00067-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6aa937d2d3ed9f255c995b68",
+     "file": "00068-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6aa937d39e4ca6cf8b9454f8",
+     "file": "00069-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6aa937d2d3ed9f255c995b6d",
+     "file": "00070-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6aa937d6c42ddc7f7984b091",
+     "file": "00071-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6aa937d71a6aa79202cbd9d5",
+     "file": "00072-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6aa937d78ed9cc92eb3ddcff",
+     "file": "00073-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6aa937d84ebf513e3991c728",
+     "file": "00074-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6aa937da2dc8b924e37e671f",
+     "file": "00075-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6aa937daa5f56b8a70540465",
+     "file": "00076-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6aa937dbd6fbb7479165fae3",
+     "file": "00077-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6aa937dc677112612d700940",
+     "file": "00078-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6aa937ddc42ddc7f7984b098",
+     "file": "00079-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6aa937dd330c9941b92fbe61",
+     "file": "00080-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6aa937dec42ddc7f7984b09f",
+     "file": "00081-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6aa937df677112612d700947",
+     "file": "00082-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6aa937e0330c9941b92fbe68",
+     "file": "00083-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6aa937e1a2a2f46eaa3be077",
+     "file": "00084-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6aa937e1aad44d06f6c0335c",
+     "file": "00085-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6aa937e3c6ce7cc6f94a485a",
+     "file": "00086-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6aa937e3a2a2f46eaa3be07e",
+     "file": "00087-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6aa937e4aad44d06f6c03363",
+     "file": "00088-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6aa937e5330c9941b92fbe6f",
+     "file": "00089-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6aa937e66d92aadd4b1b4e98",
+     "file": "00090-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6aa937e6677112612d70094e",
+     "file": "00091-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6aa937e8c6ce7cc6f94a4861",
+     "file": "00092-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6aa937e9c6ce7cc6f94a4868",
+     "file": "00093-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6aa937e9a7b8779de31a9fc3",
+     "file": "00094-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6aa937eb2a30cd04b17e33a9",
+     "file": "00095-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6aa937ed16b3f3103d23246d",
+     "file": "00096-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6aa937eea2a2f46eaa3be085",
+     "file": "00097-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6aa937eeb15c3aa2dfc7b32d",
+     "file": "00098-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6aa937f02dc8b924e37e672c",
+     "file": "00099-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6aa937f19e4ca6cf8b945508",
+     "file": "00100-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6aa937f19e4ca6cf8b945506",
+     "file": "00101-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6aa937f316b3f3103d232474",
+     "file": "00102-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6aa937f48b6cfaaed7393a2f",
+     "file": "00103-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6aa937f4b93d5d68bf1ede55",
+     "file": "00104-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6aa937f61a6aa79202cbd9dc",
+     "file": "00105-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6aa937f78ed9cc92eb3ddd06",
+     "file": "00106-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6aa937f74ebf513e3991c735",
+     "file": "00107-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6aa937f9e45c3ba8a977ce93",
+     "file": "00108-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6aa937fb8b6cfaaed7393a36",
+     "file": "00109-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6aa937fb16b3f3103d23247b",
+     "file": "00110-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6aa937fb25301ef4d522ad0a",
+     "file": "00111-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6aa937fefaa5ce0c6948a226",
+     "file": "00112-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6aa937fea2a2f46eaa3be08c",
+     "file": "00113-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6aa937fe73e408aa3747d8b2",
+     "file": "00114-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6aa938012a30cd04b17e33b0",
+     "file": "00115-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6aa93801b93d5d68bf1ede5c",
+     "file": "00116-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6aa93802b7726e5fdfe60590",
+     "file": "00117-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6aa93805b15c3aa2dfc7b33a",
+     "file": "00118-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6aa938056d92aadd4b1b4ea5",
+     "file": "00119-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6aa938068ed9cc92eb3ddd0d",
+     "file": "00120-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6aa93808b15c3aa2dfc7b341",
+     "file": "00121-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6aa93808677112612d70096e",
+     "file": "00122-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6aa938088b6cfaaed7393a43",
+     "file": "00123-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6aa9380ae45c3ba8a977ce9f",
+     "file": "00124-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6aa9380b1a6aa79202cbd9e3",
+     "file": "00125-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6aa9380bd6fbb7479165faf0",
+     "file": "00126-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6aa9380d65480a8419078271",
+     "file": "00127-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6aa9380eb7726e5fdfe6059d",
+     "file": "00128-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6aa9380fc42ddc7f7984b0b2",
+     "file": "00129-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6aa938116d92aadd4b1b4eac",
+     "file": "00130-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6aa938112a30cd04b17e33b7",
+     "file": "00131-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6aa93812a7b8779de31a9fca",
+     "file": "00132-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6aa93815d3ed9f255c995b81",
+     "file": "00133-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6aa93815c6ce7cc6f94a4875",
+     "file": "00134-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6aa938156d92aadd4b1b4eb3",
+     "file": "00135-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6aa938184ebf513e3991c73c",
+     "file": "00136-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6aa93818e45c3ba8a977cead",
+     "file": "00137-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6aa93818677112612d70097a",
+     "file": "00138-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6aa9381aa5f56b8a7054046c",
+     "file": "00139-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6aa9381b8b6cfaaed7393a50",
+     "file": "00140-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6aa9381b947c2b3553659d83",
+     "file": "00141-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6aa938202dc8b924e37e6739",
+     "file": "00142-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6aa93822d3ed9f255c995b8e",
+     "file": "00143-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6aa93821b93d5d68bf1ede69",
+     "file": "00144-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6aa93822947c2b3553659d8a",
+     "file": "00145-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6aa938242a30cd04b17e33c4",
+     "file": "00146-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Detail Look 147",
+     "id": "6aa938241a6aa79202cbd9ea",
+     "file": "00147-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Detail Look 148",
+     "id": "6aa93825aad44d06f6c03370",
+     "file": "00148-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Detail Look 149",
+     "id": "6aa93826faa5ce0c6948a233",
+     "file": "00149-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Detail Look 150",
+     "id": "6aa93828b15c3aa2dfc7b34e",
+     "file": "00150-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Detail Look 151",
+     "id": "6aa9382865480a841907827e",
+     "file": "00151-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Detail Look 152",
+     "id": "6aa93828a5f56b8a70540473",
+     "file": "00152-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Detail Look 153",
+     "id": "6aa9382ae45c3ba8a977ceb4",
+     "file": "00153-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Detail Look 154",
+     "id": "6aa9382b330c9941b92fbe88",
+     "file": "00154-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Detail Look 155",
+     "id": "6aa9382bb15c3aa2dfc7b355",
+     "file": "00155-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Detail Look 156",
+     "id": "6aa9382d73e408aa3747d8bf",
+     "file": "00156-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Detail Look 157",
+     "id": "6aa9382e8ed9cc92eb3ddd1a",
+     "file": "00157-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 158,
+     "caption": "Detail Look 158",
+     "id": "6aa9382f1a6aa79202cbd9f1",
+     "file": "00158-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 159,
+     "caption": "Detail Look 159",
+     "id": "6aa93831e45c3ba8a977cebb",
+     "file": "00159-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 160,
+     "caption": "Detail Look 160",
+     "id": "6aa9383116b3f3103d232489",
+     "file": "00160-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 161,
+     "caption": "Detail Look 161",
+     "id": "6aa9383116b3f3103d23248e",
+     "file": "00161-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 162,
+     "caption": "Detail Look 162",
+     "id": "6aa938332b9868797b887a7a",
+     "file": "00162-carolina-herrera-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6aa89267f1b96b47bccfb28e",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6aa8926636b01e862453cee1",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6aa89267f1b96b47bccfb290",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6aa8926914f9c5a1f3dde9e2",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6aa8926ba5f56b8a7053f460",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6aa8926b36b01e862453cee8",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6aa8926c947c2b3553658cf3",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6aa8926f2dc8b924e37e58d3",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6aa8926faad44d06f6c022ee",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6aa89270aad44d06f6c022f4",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6aa892722dc8b924e37e58da",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6aa89273f367786d76da3393",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6aa89273a2a2f46eaa3bd0b3",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6aa8927525301ef4d5229c97",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6aa8927865480a84190770a7",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6aa892789e4ca6cf8b9442d5",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6aa89279f367786d76da33a0",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6aa8927c8b6cfaaed7392a3d",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6aa8927ca7b8779de31a8e99",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6aa8927d36b01e862453cef5",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6aa89280c763d3e61c27ffe6",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6aa89281e45c3ba8a977bef1",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6aa892816d92aadd4b1b3d8b",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6aa8928425301ef4d5229c9e",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "6aa89286a5f56b8a7053f46e",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_25.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "6aa89285a5f56b8a7053f467",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_26.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "6aa89286b93d5d68bf1ecc88",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_27.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "6aa89289f367786d76da33ad",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_28.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Backstage Look 29",
+     "id": "6aa8928aa7b8779de31a8ea0",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_29.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 30,
+     "caption": "Backstage Look 30",
+     "id": "6aa8928aa565658f309e5f03",
+     "file": "CarolinaHerrera_NYFW_SS27_backstage_acielle_30.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:06"
+}

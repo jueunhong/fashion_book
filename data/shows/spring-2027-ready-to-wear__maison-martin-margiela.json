@@ -1,0 +1,698 @@
+{
+ "key": "spring-2027-ready-to-wear__maison-martin-margiela",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maison-martin-margiela",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "maison-martin-margiela",
+ "brandName": "Maison Margiela",
+ "designers": "By Glenn Martens",
+ "eventDate": "2026-09-29T15:30:00.000Z",
+ "pubDate": "September 29, 2026",
+ "authors": [
+  "Sarah Mower"
+ ],
+ "reviewHtml": "<div><p>Like so many designers, Glenn Martens showed a clearly commercial proposition this season. Fair enough: He’s had three shows for Maison Margiela so far, two of them rivetingly and outrageously dramatic. Now that we fully know what he’s capable of, he’s putting forward a more basic analysis of what the house DNA boils down to. “Martin Margiela was about the anti when he began in the late 1980s, so we really worked with that,” he said. “The hard and the soft. This kind of contradiction in fabric.”</p><p>So here were Margiela house archetypes, but messed up only to a degree or two. “I’m trying to really figure out how can we bring a strong concept in, and be really consistent in the concept in every garment, but without being also scary,” said Martens. Part of the approachability included florals he identified as ’60s-era brocades, which lent themselves to column skirts tied with typical Margiela cotton tape ribbon. The classic tailoring of the house was treated to a kind of concertina effect in front: lapels folded inward on a knife-edge fold, with the possibility to be folded back out and worn in a normal manner.</p><p>Trenches, gray T-shirts, and draped jersey dresses had hard balcony-like inserts of interfacing in front. For many years Margiela was a secret resource for well-cut, quote-unquote normal clothes that only insiders really knew about. That kind of secret, subtly concise chic, was visible again in this show: a white overcoat with a stiff front, an open checked shirt, and stiffened, worn-over, high-waisted tailored ski pants.</p><p>In this day and age though, Martens says, “You have to speak to a much broader clientele than Martin used to have. We have to speak to the world, so it&#x27;s a bit difficult to go as hard on concepts.”</p><p>For another kind of customer who might have been hooked by the John Galliano years at Margiela, there was a continuation of his method of excavating garment linings and displacing them. Martens took his own angle on it by laminating a red lace slip with vinyl and inserting it within a pink satin coat to beautiful effect.</p><p>He couldn’t quite hold himself back from doing some elaborated evening dresses either. One had what looked like a whole family set of silver crushed into a kind of breastplate. The other was a sculptural, draped gown complete with swags and a flowing cape vaguely reminiscent of a baroque monument. At heart, Martens said with a laugh, he’s never going to be an old-school minimalist. When it comes to him, he said, “I’m the guy who’s in churches all day long. Opulence—that’s me.”</p></div>",
+ "cover": {
+  "id": "6abd36f527313536e8eb225b",
+  "file": "00001-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abd36f527313536e8eb225b",
+     "file": "00001-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abd36f5275aa055705379fd",
+     "file": "00002-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abd36f5c2e31ab44e4833ec",
+     "file": "00003-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abd36fe5ec81939e2ba6993",
+     "file": "00004-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abd36fee597f65a779773cd",
+     "file": "00005-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abd36fe220d415209513381",
+     "file": "00006-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abd3705e216206029f7fdbc",
+     "file": "00007-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abd370673a1f56b06a252d3",
+     "file": "00008-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abd3706fe1c8d1c8ffe3030",
+     "file": "00009-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abd370d471c189650aba608",
+     "file": "00010-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abd370ebb05aa2abfbcc5c1",
+     "file": "00011-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abd370e025499d520151903",
+     "file": "00012-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abd3713e7f2cb6feb1821d0",
+     "file": "00013-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abd37161c504b5592bbbb6a",
+     "file": "00014-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abd3716235e75f89f6a4b6a",
+     "file": "00015-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abd3719bf51697cc014fff0",
+     "file": "00016-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abd371ebc07b40aea320b23",
+     "file": "00017-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abd371e761dd063537820c9",
+     "file": "00018-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abd3720761dd063537820cf",
+     "file": "00019-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abd372673a1f56b06a252d9",
+     "file": "00020-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abd372745853066432069ee",
+     "file": "00021-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abd372736e760356e2d0fc4",
+     "file": "00022-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abd372e0f01d01a2f095632",
+     "file": "00023-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abd372f35eada8d4b79e2ef",
+     "file": "00024-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abd372e9404cb7496a23798",
+     "file": "00025-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abd37367ba08acfc6dcb3d6",
+     "file": "00026-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abd37371f7bf1fbb9aa4fe4",
+     "file": "00027-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abd37375a78a31598bd290a",
+     "file": "00028-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abd3739f9738e0539fa8464",
+     "file": "00029-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abd3739ca6e2fbf27ff6f34",
+     "file": "00030-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6abd373ab51ae59f7bc4bc28",
+     "file": "00031-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6abd373ce7f2cb6feb1821d6",
+     "file": "00032-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6abd373ced41b692f17a55dd",
+     "file": "00033-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6abd373cbf27cd23829a13a1",
+     "file": "00034-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6abd373fb3910b83a092d569",
+     "file": "00035-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6abd373eaaf1ad1738dfa0ca",
+     "file": "00036-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6abd373f44303d7da7005faf",
+     "file": "00037-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6abd3741fc16c9c04b77327d",
+     "file": "00038-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6abd3742fc36c88681ece47d",
+     "file": "00039-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6abd37426779d77ef3144f39",
+     "file": "00040-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6abd37449404cb7496a2379e",
+     "file": "00041-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6abd3744b3eb81c1508dc5da",
+     "file": "00042-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6abd3745504a21767dc56883",
+     "file": "00043-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6abd37477fd23c7c9c291ea5",
+     "file": "00044-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6abd3747aa6197bab56932af",
+     "file": "00045-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6abd3747a5bdfd5370ba3302",
+     "file": "00046-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6abd374a7fd23c7c9c291eab",
+     "file": "00047-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6abd374aca6e2fbf27ff6f3a",
+     "file": "00048-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6abd374afe1c8d1c8ffe3039",
+     "file": "00049-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6abd374cbb05aa2abfbcc5c7",
+     "file": "00050-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6abd374cd0af194eaa82f968",
+     "file": "00051-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6abd374dddeb6c69e0147e4a",
+     "file": "00052-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6abd374ffe9901c003f6c21c",
+     "file": "00053-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6abd374f36e760356e2d0fca",
+     "file": "00054-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6abd374fe597f65a779773d3",
+     "file": "00055-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6abd375236e760356e2d0fd0",
+     "file": "00056-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6abd3752a72df588bf4a5f71",
+     "file": "00057-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6abd37520a27174566d076f8",
+     "file": "00058-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6abd3754aeee0c2edcf0af26",
+     "file": "00059-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6abd375545853066432069f7",
+     "file": "00060-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6abd3755cf784b933dcecd50",
+     "file": "00061-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6abd3757a5bdfd5370ba3308",
+     "file": "00062-maison-margiela-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6abd4081e4de5cd9dcc77b1a",
+     "file": "00001a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6abd4081220d4152095133dc",
+     "file": "00005a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6abd40811f7bf1fbb9aa502a",
+     "file": "00006a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6abd40832ce7403e1d93cd12",
+     "file": "00014a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6abd40830d93ff49d80202e3",
+     "file": "00019a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6abd4083fc6fa8313d72f653",
+     "file": "00020a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6abd40852d48e8d3ff0814d0",
+     "file": "00022a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6abd4085fcc02c67e9afaec1",
+     "file": "00026a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6abd408573a1f56b06a25317",
+     "file": "00027a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6abd4087fcc02c67e9afaec7",
+     "file": "00028a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6abd40875ec81939e2ba69cb",
+     "file": "00029a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6abd4087ebfc4e46ee0b075f",
+     "file": "00030a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6abd408935eada8d4b79e35b",
+     "file": "00032a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6abd4089a72df588bf4a6161",
+     "file": "00044a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6abd4089d0af194eaa82fd40",
+     "file": "00047a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6abd408bfe9901c003f6c3ee",
+     "file": "00052a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6abd408b67be225e47064b5c",
+     "file": "00054a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6abd408bf9738e0539fa84ea",
+     "file": "00055a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6abd408c92c392e28241b037",
+     "file": "00056a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6abd408dfc6fa8313d72f659",
+     "file": "00057a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6abd408de7f2cb6feb182207",
+     "file": "00062a-maison-margiela-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:17:16"
+}

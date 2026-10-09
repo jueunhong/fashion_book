@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "echo skip",
+  "buildCommand": "python3 export.py",
+  "outputDirectory": "dist",
+  "headers": [
+    { "source": "/data/(.*)", "headers": [ { "key": "Cache-Control", "value": "no-cache" } ] }
+  ]
+}

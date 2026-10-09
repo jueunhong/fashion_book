@@ -1,0 +1,124 @@
+{
+ "key": "spring-2027-ready-to-wear__caroline-hu",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/caroline-hu",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "caroline-hu",
+ "brandName": "Caroline Hu",
+ "designers": "By Caroline Hu",
+ "eventDate": "",
+ "pubDate": "October 2, 2026",
+ "authors": [
+  "Tiziana Cardini"
+ ],
+ "reviewHtml": "<div><p>Caroline Hu made a fairy tale for a world that, as she put it, is becoming increasingly difficult to romanticize. In the faded rooms of an old hôtel particulier, models stood and moved through tableaux vivants, like characters who had wandered into the middle of a story and were waiting for someone to turn the page. There were bears, broken walls, insects, unfinished clothes, and love letters, but this was no exercise in gothic gloom. Hu’s intention was more hopeful: to take a damaged world and imagine what might be rebuilt from it.</p><p>The fairy tale was a familiar one in outline—a lonely girl leaves the safety of what she knows; passes through a hidden passage and a magical mirror; and finds herself in a strange world suspended between memory, desire, and imagination. Hu has always worked from an intensely inward place, and here the fantasy became a way of talking about reality without having to reproduce it. “There is so much ugliness and cruelty, but I try to build something romantic and beautiful around it,” she said. The sentiment could easily have tipped into greeting-card territory; instead, the clothes gave it substance.</p><p>Hu’s romance has a dark side, and that tension made the collection compelling. Childhood innocence appeared in lace, roses, and pale, fragile surfaces, but was repeatedly interrupted by evidence of time and damage. Love letters, some addressed to herself in words of encouragement, were embroidered in black and red. Patchworked fabrics looked as if they had been rescued from different lives and persuaded to coexist. A black coat assembled from multiple fabrics, an evening dress pieced from deconstructed lace and florals, and a rigid jacket marked with tiny beaded ants all suggested things that had been broken apart and put back together. The effect was less “perfect princess” than princess after a rather difficult childhood.</p><p>This is where Hu’s point of view came through most clearly. She is drawn to beauty, but apparently distrusts beauty when it arrives too easily. Her romanticism needs a little damage around the edges. The construction of the clothes—precise, intricate, and at times deliberately fractured—made the fantasy convincing because it gave it physical consequences. These were not costumes illustrating a fairy tale; they were clothes from a world in which the fairy tale had already gone slightly wrong.</p><p>And yet the collection never surrendered to melancholy. Hu’s achievement was to make fragility feel active rather than passive: Something can be torn, aged, unfinished, or broken and still become beautiful. “I’m trying to build a new world,” she said. “It’s positive. And hopeful.” In Hu’s case, hope apparently comes with lace, love letters, and a few ants crawling over the furniture. It was an appealingly eccentric way of insisting that romance is not an escape from reality, but a method of remaking it.</p></div>",
+ "cover": {
+  "id": "6ac01af2e9e3fde56d0def1e",
+  "file": "00001-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ac01af2e9e3fde56d0def1e",
+     "file": "00001-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ac01af14954cb36d4b9d519",
+     "file": "00002-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ac01af1daaf5bd02522d3c5",
+     "file": "00003-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ac01af3ca5ede010f12c226",
+     "file": "00004-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ac01af35654d81857a5a7d2",
+     "file": "00005-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ac01af4925266d327a958aa",
+     "file": "00006-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ac01af5110cd7cc5f6bf2ed",
+     "file": "00007-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ac01af5bc251d176852e2e9",
+     "file": "00008-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ac01af62c333f1903722880",
+     "file": "00009-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ac01af74281b5dd1bde104e",
+     "file": "00010-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ac01af72c333f1903722887",
+     "file": "00011-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ac01af8ee459cc3fa79b270",
+     "file": "00012-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:07"
+}

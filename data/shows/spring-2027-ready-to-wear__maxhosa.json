@@ -1,0 +1,428 @@
+{
+ "key": "spring-2027-ready-to-wear__maxhosa",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maxhosa",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "maxhosa",
+ "brandName": "Maxhosa",
+ "designers": "By Laduma Ngxokolo",
+ "eventDate": "2026-09-28T15:00:00.000Z",
+ "pubDate": "September 29, 2026",
+ "authors": [
+  "Tina Isaac-Goizé"
+ ],
+ "reviewHtml": "<div><p>Laduma Ngxokolo celebrated MaXhosa’s official entry on the PFW calendar with the brand’s most globally viable collection to date, and backstage before the show he was perfectly happy to explain why.</p><p>“We’re stretching beyond the community we’ve built over 16 years,” the designer said. The company, he added, is on solid ground: it already owns two factories and has grown organically. Now, Ngxokolo is in talks with a new financial partner and has set his sights on cities like Dubai, Paris, London and, especially, New York. “I want to develop a language that stretches from Canada to Brazil,” he said. A great advantage of working with knits, he added, is the freedom to rock out on multiple colorways, and then amp up the fun as capacity increases.</p><p>On the runway, he sent out colorful motifs: a saturated, ornately patterned caftan trimmed with ostrich feathers, dyed blue on one sleeve and orange on the other comes to mind. Yet amid the exuberance were a few comparatively restrained yet distinctive options. Those included a couple of pleated midi skirts, in a dove gray knit with turquoise jeweled embellishments, or in bold red fringed with feathers at the hip that will work whether you’re going the bralette route or not. One day in, tufted motifs already seem to be cropping up in Paris, and Ngxokolo obliged with a black bustier that made a statement without going too far over the top.</p><p>Held in the salons and garden of the official residence of the South African ambassador to France, the show featured a performance by the South African artist Sjava, whose music, the show notes explained, was chosen for “its spiritual quality and its roots in culture and history.” The set was meant to recall the show’s title, Izihlwele Zivumile, or “The Ancestors Have Approved.”</p><p>The ancestors weren’t the only ones on that score. But, perhaps unwittingly, the scene highlighted another point: MaXhosa’s logos and insignia are so present they almost seem to compete with the clothes, drawing the eye to branding over design. Ngxokolo has enough ideas and colors in his arsenal: he could go more subtle and still push things a little further without losing the plot.</p></div>",
+ "cover": {
+  "id": "6abaacb7700c78b6d347a5e3",
+  "file": "00001-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abaacb7700c78b6d347a5e3",
+     "file": "00001-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abaacb77b040a8c763ed3ee",
+     "file": "00002-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abaacb7b9079b5920b8bbb0",
+     "file": "00003-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abaacb9b1f31e6603ccc19d",
+     "file": "00004-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abaacb9b321c70cf692b4e9",
+     "file": "00005-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abaacb9b9079b5920b8bbba",
+     "file": "00006-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abaacbb924dc4d8cb478b4b",
+     "file": "00007-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abaacbb8e97dd916a6a71fd",
+     "file": "00008-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abaacbbdec967757505fcd4",
+     "file": "00009-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abaacbd2d5d41c0bb0bfe4c",
+     "file": "00010-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abaacbd56e4845150c9de92",
+     "file": "00011-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abaacbd2400048d8f91afdd",
+     "file": "00012-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abaacbfe6e0624b87841df7",
+     "file": "00013-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abaacc091a5281115a9cb00",
+     "file": "00014-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abaacc04231c4acb44add19",
+     "file": "00015-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abaacc1733202d9a18124b2",
+     "file": "00016-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abaacc27b040a8c763ed3f5",
+     "file": "00017-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abaacc271d267ee5949d3c6",
+     "file": "00018-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abaacc41f3f615519079bd0",
+     "file": "00019-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abaacc5811bbf79904cb8cb",
+     "file": "00020-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abaacc4294b20220ff2735f",
+     "file": "00021-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abaacc671d267ee5949d3cd",
+     "file": "00022-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abaacc7f30c25b8f4cab47a",
+     "file": "00023-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abaacc7f9c58579c688da7a",
+     "file": "00024-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abaacc9dd9834bf7b388fcf",
+     "file": "00025-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abaacc98397ac73585d0ef1",
+     "file": "00026-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abaacc9e6e0624b87841e09",
+     "file": "00027-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abaaccb811bbf79904cb8d2",
+     "file": "00028-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abaaccbb8aed7d01f9403e7",
+     "file": "00029-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abaaccbf065c6bd9446b9d0",
+     "file": "00030-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6abaaccd0adea3eb987d52d7",
+     "file": "00031-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6abaaccd920f649f55bd1efb",
+     "file": "00032-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6abaaccd0f01b94eb02b88dd",
+     "file": "00033-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6abaaccf8ed52f408d456403",
+     "file": "00034-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6abaaccf56e4845150c9de99",
+     "file": "00035-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6abaaccf59bd003bacff5166",
+     "file": "00036-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6abaacd143797329187762fe",
+     "file": "00037-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6abaacd14231c4acb44add26",
+     "file": "00038-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6abaacd1300c902695b302e3",
+     "file": "00039-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6abaacd28c99ee8b9772cdef",
+     "file": "00040-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6abaacd46fd1aec03d845bff",
+     "file": "00041-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6abaacd31747dd461091d4dd",
+     "file": "00042-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6abaacd443a203f579914ef3",
+     "file": "00043-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6abaacd5311cf888ff81d09f",
+     "file": "00044-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6abaacd6473fc9ad76b1e958",
+     "file": "00045-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6abaacd6498102ef54bd6457",
+     "file": "00046-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6abaacd791a5281115a9cb07",
+     "file": "00047-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6abaacd9c5b275f078cd875a",
+     "file": "00048-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6abaacd959bd003bacff5173",
+     "file": "00049-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6abaacd91f3f615519079bd7",
+     "file": "00050-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:17:50"
+}

@@ -1,0 +1,984 @@
+{
+ "key": "spring-2027-ready-to-wear__courreges",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/courreges",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "courreges",
+ "brandName": "Courrèges",
+ "designers": "By Drew Henry",
+ "eventDate": "2026-09-30T08:30:00.000Z",
+ "pubDate": "September 30, 2026",
+ "authors": [
+  "Sarah Mower"
+ ],
+ "reviewHtml": "<div><p>Drew Henry is the newest player in the great game of creative-director musical chairs that’s been running throughout brands and houses for the past couple of years. It’s the fashion for corporate searches for new blood to probe behind studio doors to locate team members with pedigrees of working for proven great creative bosses. Courrèges management now has itself a designer in this class: Henry has worked for Daniel Lee at Burberry, for Jonathan Anderson and for Phoebe Philo when her own brand was starting up, and before that when she was at Celine.</p><p>“I think there’s something with this brand that I find very warm. It’s not cold at all for me,”  Henry said in a preview. “There&#x27;s a little bit of me trying to find a bit more eclecticism in it, because it’s not just one thing.” South African by birth, Henry relocated from London to Paris in May after the recent departure of Nicolas Di Felice from Courrèges, who was himself hired as an unknown after working for Raf Simons and Nicolas Ghesquière.</p><p>So just a few weeks into the job Henry got to show the world who he is, or rather, give us an inkling of his own tastes, and what he’ll extract from the brand’s heritage. From his first outing today, it’s safe to say the designer hasn’t been hired as a ‘continuity’ appointment. He loves unravelling edges and undone belts, playful layerings of dresses that might be vintage, Courrèges split-hem pants, and the random surprises of colorful, eccentric hats and gridded garlands of 3D flowers. “I struggle with the neatness and the cleanness [of Courrèges],” he admitted. “I’m trying to get into what the softer side could be.”</p><p>There were chalky pastels, pops of lime and Kelly green, and a reprise of Courrèges’s famous Space Age bootees from his spring 1964 Moon Girl haute couture collection. Henry found a tomato-red futuristic cloche which had been crushed into a hat box for decades. When he looked it up, he realized it had only appeared in black and white fashion photography. He had more of them replicated for the runway. “The point that it’s so f-ed up is what I love,” he said, smiling.</p><p>Di Felice’s five years at the creative helm saw him modernizing the clean, ergonomic lines of Courrèges and purposing its wardrobe for ravers and party-goers while offering everything they needed to get to and from their events. Henry’s voice is completely different; that much we saw with this debut. It’s far too early to rush to judgement, though. Henry only had a matter of weeks to put this show together. It will be interesting to see what he intends to do with it next season.</p></div>",
+ "cover": {
+  "id": "6abf7702043d0eeb5ad4d0ab",
+  "file": "00001-courreges-spring-2027-ready-to-wear-credit-brand.JPG"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abf7702043d0eeb5ad4d0ab",
+     "file": "00001-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abf7701e063894da06e38c2",
+     "file": "00002-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abf7701defb8771431b2958",
+     "file": "00003-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abf770540c5243c03842e9a",
+     "file": "00004-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abf770510f3dcc411096f32",
+     "file": "00005-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abf7705043d0eeb5ad4d0b2",
+     "file": "00006-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abf77091995ccfb977da499",
+     "file": "00007-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abf7709ebbd62f2073b13b8",
+     "file": "00008-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abf77091b5af4cf224db11d",
+     "file": "00009-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abf770c4fc772951d0c742a",
+     "file": "00010-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abf770d72607c21ab058bcf",
+     "file": "00011-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abf770de4c2be2c4c20dd05",
+     "file": "00012-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abf770eb7fd5e578c356848",
+     "file": "00013-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abf770f4250410b2ea284b9",
+     "file": "00014-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abf77107d8f9610eee9f99a",
+     "file": "00015-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abf77117d8f9610eee9f9a1",
+     "file": "00016-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abf77125330c90c082cbb8f",
+     "file": "00017-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abf77130154f2020c5cae2a",
+     "file": "00018-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abf77131995ccfb977da4a0",
+     "file": "00019-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abf77141995ccfb977da4a7",
+     "file": "00020-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abf77167470eea9d4347fc7",
+     "file": "00021-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abf7716ca5ede010f12ba64",
+     "file": "00022-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abf7717110cd7cc5f6be8ff",
+     "file": "00023-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abf77188ee395d7d6c25c3d",
+     "file": "00024-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abf771957c551bb0c87b340",
+     "file": "00025-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abf771a759bc686f1a66934",
+     "file": "00026-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abf771b090fd8150d0e5b2c",
+     "file": "00027-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abf771cca5ede010f12ba6b",
+     "file": "00028-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abf771d884125edc6b341e0",
+     "file": "00029-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abf771d043d0eeb5ad4d0bc",
+     "file": "00030-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6abf771e90f283c50041a537",
+     "file": "00031-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6abf77207cb6738462fbc944",
+     "file": "00032-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6abf77204685a1dfd0f3efc4",
+     "file": "00033-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6abf7721d9ddf8263be8a2b3",
+     "file": "00034-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6abf77227147f71ff9bd9101",
+     "file": "00035-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6abf77234954cb36d4b9ca52",
+     "file": "00036-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6abf7724a63d40803b344672",
+     "file": "00037-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6abf772490f283c50041a53e",
+     "file": "00038-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6abf77261805401f71cb46b3",
+     "file": "00039-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6abf7727f8d06ee51a0d8136",
+     "file": "00040-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6abf77271995ccfb977da4b1",
+     "file": "00041-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6abf772825d0ccf4d5ee6e54",
+     "file": "00042-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6abf7729f8d06ee51a0d813d",
+     "file": "00043-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6abf772a8ab75efcb4d2682a",
+     "file": "00044-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6abf772b7cb6738462fbc951",
+     "file": "00045-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6abf772cbc251d176852dfdc",
+     "file": "00046-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6abf772de9e3fde56d0deb28",
+     "file": "00047-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6abf772e39afb34b58435f62",
+     "file": "00048-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6abf772e7edd852f65a59a10",
+     "file": "00049-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6abf773062ec73b1074f828a",
+     "file": "00050-courreges-spring-2027-ready-to-wear-credit-brand.JPG",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6abf8b9a0154f2020c5cae6f",
+     "file": "00001-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6abf8b9a00dff85528cdcb0e",
+     "file": "00002-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6abf8b9e8ae7e686ab85ec91",
+     "file": "00003-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6abf8b9e7cb6738462fbc995",
+     "file": "00004-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6abf8b9ec6a00ccd679bd8f1",
+     "file": "00005-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6abf8ba2fe4c5f58feb56e4a",
+     "file": "00006-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6abf8ba3bf97e72231d5cd15",
+     "file": "00007-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6abf8ba41995ccfb977da4eb",
+     "file": "00008-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6abf8ba47edd852f65a59a6d",
+     "file": "00009-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6abf8ba77d947070a0951542",
+     "file": "00010-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6abf8b9a5649234c0b146d79",
+     "file": "00011-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6abf8ba839afb34b58435f7e",
+     "file": "00012-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6abf8ba84559d85bbb4230f1",
+     "file": "00013-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6abf8ba9090fd8150d0e5b6b",
+     "file": "00014-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6abf8bac3bd6d6f7cde0a2f6",
+     "file": "00015-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6abf8bad759bc686f1a6696e",
+     "file": "00016-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6abf8badb4d8fdbcc14aa091",
+     "file": "00017-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6abf8bae57c551bb0c87b361",
+     "file": "00018-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6abf8bb1a235a59a8c4b0201",
+     "file": "00019-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6abf8bb220318f4ea39b354a",
+     "file": "00020-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6abf8bb31805401f71cb46e8",
+     "file": "00021-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6abf8bb5090fd8150d0e5b79",
+     "file": "00022-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6abf8bb74d254d28e930648a",
+     "file": "00023-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6abf8bb8ca5ede010f12bab5",
+     "file": "00024-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6abf8bb920318f4ea39b3551",
+     "file": "00025-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6abf8bba4954cb36d4b9cae5",
+     "file": "00026-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6abf8bbc759bc686f1a6697b",
+     "file": "00027-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6abf8c6cf8fce5767e6ce038",
+     "file": "00028-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6abf8c6cbc251d176852dffc",
+     "file": "00029-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6abf8c6ddefb8771431b298b",
+     "file": "00030-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6abf8c71fe4c5f58feb56e51",
+     "file": "00031-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6abf8c718ed46cc687350e93",
+     "file": "00032-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6abf8c724954cb36d4b9caec",
+     "file": "00033-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6abf8bc240c5243c03842edb",
+     "file": "00034-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6abf8bc2f8d06ee51a0d8167",
+     "file": "00035-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6abf8bc2ad3b31918381a8a4",
+     "file": "00036-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6abf8bc6e979be3eb4b8b714",
+     "file": "00037-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6abf8bc774b01926e81d78bd",
+     "file": "00038-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6abf8bc7bf97e72231d5cd28",
+     "file": "00039-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6abf8bc8e9e3fde56d0deb50",
+     "file": "00040-courreges-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6abd19840c1a095af5cabae1",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6abd1984ddeb6c69e0147cd8",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6abd1985338aa8b16cffbf71",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6abd1986312ea20e2a56efb9",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6abd19865ec81939e2ba6876",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6abd1987e7f2cb6feb1820ac",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6abd1988c2e31ab44e4831f4",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6abd19887f9a54667409247d",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6abd198867be225e470649fb",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6abd198a0c1a095af5cabae8",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6abd198abb05aa2abfbcc446",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6abd198a3e0c23a9571c1d33",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6abd198ccf784b933dcecc4b",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6abd198c5a78a31598bd2899",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6abd198ce597f65a779772cd",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6abd198d7fd23c7c9c291d07",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6abd198eca1a310dbb2ee56d",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6abd198e235e75f89f6a4aca",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6abd198faeee0c2edcf0ae6a",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6abd198f471c189650aba45f",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6abd199092c392e28241ae9a",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6abd1991312ea20e2a56efc0",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6abd19911e0e99793a926afb",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6abd1992bfbd494aa5a9cdac",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "6abd199364df9ff0ba77e7d2",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_25.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "6abd1993a5bdfd5370ba3222",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_26.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "6abd199436e760356e2d0e14",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_27.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "6abd19947f9a546674092484",
+     "file": "Courreges_ParisFashionweek_SS27_backstage_acielle_28.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:59"
+}

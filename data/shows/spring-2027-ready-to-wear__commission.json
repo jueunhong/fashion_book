@@ -1,0 +1,316 @@
+{
+ "key": "spring-2027-ready-to-wear__commission",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/commission",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "commission",
+ "brandName": "Commission",
+ "designers": "By Dylan Cao & Jin Kay",
+ "eventDate": "",
+ "pubDate": "September 18, 2026",
+ "authors": [
+  "Christian Allaire"
+ ],
+ "reviewHtml": "<div><p>What happens when some of fashion’s coolest disrupters, well, grow up? Look to Commission designers Jin Kay and Dylan Cao’s latest collection, and you’ll find that even more intriguing ideas can come alive. Since its inception in 2018, the New York label has always found interesting ways to twist and subvert American sportswear pieces, becoming a go-to label for edgy, thought-provoking work that challenges traditional notions of beauty. But for spring, the Commission boys wondered if they could also elevate and refine their offerings, with the aim of being thought-provoking and chic. “It was quite an introspective season,” said Cao. “We started the brand in our mid-20s, and now that we’re in our 30s, this felt like a second coming-of-age for the brand.”</p><p>That doesn’t mean the off-kilter Commission charm was lost in the process—in fact, quite the contrary. The new collection was still all about their signature unexpected combinations—using casual fabrics for something fanciful, or repurposing garments to make something entirely new. This season, Kay and Cao were interested in looking back to memories of their youth: Ideas of suburban 2000s malls or house parties crept in, but really, it was a young sense of scrappiness that inspired their new assortment—and then trying to translate that more rebellious attitude into something that makes sense for a grown-up wardrobe. “We started thinking about youth, without wanting it to feel like a constructed idea of youth,” said Cao. “We wanted it to feel authentic and personal to who we are now.”</p><p>This translated into their womenswear and menswear. The opening women’s look featured a sharp black blazer—a young professional must—that was anything but stuffy. It was made with a princess seam along the front and back, giving it a slight flare out, and complete with a buckled neckline. Their take on a classic black LBD was a satin boxy version, with faux epaulettes on each side of the back. They felt familiar, yet fresh. The most statement-worthy frock, though, was the plaid cotton dress featuring a western-style yoke, and long “shirt sleeves” that tie and wrap around the waist for definition. The full skirt was achieved by a horsehair underlay. “That flannel was our nod to the plaid shirts that little kids would wear in the suburbs—it’s not too precious,” said Cao.</p><p>Commission has always done slightly-off silhouettes well, and this season the offerings felt somehow more wearable—tattering the right lines of nonconventional without being full-on bizarro. A prime example was their white ruched halter top, made from deconstructed T-shirts, which felt surprisingly elegant with sleek black pants. “We’ve been doing more feminine moments, with ruffles or hand-draping,” said Kay. Among those was the statement top they made out of strategic strips of several up-cycled band tees, ranging from Elvis Presley to Led Zeppelin.</p><p>The menswear was just as delicious. The leather moto vest for him was cropped with “sleeve” piping along the front (Commission’s most well-known detail) and western fringing along the back. A Frankensteined tuxedo shirt comprised two styles spliced together into one: It featured two different sized stripes along the front and back, and the sleeves had different cuffs and lengths on each side of the arm. “We always want to play around with something that’s familiar, but when you actually take a look, it&#x27;s unexpected,” said Kay.</p><p>It wasn’t just these obvious playful touches that made the new collection one of their best. There was a clear attention to the finer details, too, like how they used C-shaped belt loops (for Commission) on some of the jeans. Or how their delicious leather pants—not too wide, not too skinny—came with dark brown contract back pockets. Everything was just right—a dash of weird, but a whole lot sleek. It was very much perfect dressing options for cool-teens-developing-a-frontal-lobe. “We&#x27;re trying to making sure it&#x27;s not just for photos or editorial, but something that you can live in,” said Kay.</p></div>",
+ "cover": {
+  "id": "6aac5578763416e3ef9c41e1",
+  "file": "00001-commission-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aac5578763416e3ef9c41e1",
+     "file": "00001-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aac55787f4be58c79773eaa",
+     "file": "00002-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aac5579a3f85a7183cbf003",
+     "file": "00003-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aac557afa23e248ce6c1657",
+     "file": "00004-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aac557a635d68f8721e6cc1",
+     "file": "00005-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aac557bae6a0317ef1437dd",
+     "file": "00006-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aac557c0db0e2bdb4a9c7cd",
+     "file": "00007-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aac557c9afa6adef6c17370",
+     "file": "00008-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aac557da3f85a7183cbf00a",
+     "file": "00009-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aac557e93d83eb3fd5383ae",
+     "file": "00010-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aac557eb6230e283836092f",
+     "file": "00011-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aac557fadf1db6e9fe75cab",
+     "file": "00012-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aac5580fa23e248ce6c1661",
+     "file": "00013-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aac5581fb14210cac871162",
+     "file": "00014-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aac5581a3f85a7183cbf011",
+     "file": "00015-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aac5582adf1db6e9fe75cb2",
+     "file": "00016-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aac5583007cc9bf2a8a2729",
+     "file": "00017-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aac55832222e5fc5afd31f4",
+     "file": "00018-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aac55846ffbb91686fe2f6f",
+     "file": "00019-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aac55841d7366c35936ee8d",
+     "file": "00020-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aac558591150ba2f9f0e72a",
+     "file": "00021-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aae3fa266a358f12f9b23c8",
+     "file": "00022-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aac5587ae56c8fa30e49842",
+     "file": "00023-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aac558851db05df16940d98",
+     "file": "00024-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aac5588434b4c759c54fe50",
+     "file": "00025-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aac5589007cc9bf2a8a2730",
+     "file": "00026-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aac5589a3f85a7183cbf01b",
+     "file": "00027-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aac558ac6f16ea5c616992d",
+     "file": "00028-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aac558bd00115acd7b02cf7",
+     "file": "00029-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aac558b93c167e9449f9dce",
+     "file": "00030-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aac558c007cc9bf2a8a273a",
+     "file": "00031-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aac558d9afa6adef6c1737d",
+     "file": "00032-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aac558d93d83eb3fd5383c4",
+     "file": "00033-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aac558e7f4be58c79773ebf",
+     "file": "00034-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aac558fd4c65b010ead0b61",
+     "file": "00035-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aac558fc6f16ea5c6169934",
+     "file": "00036-commission-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:54"
+}

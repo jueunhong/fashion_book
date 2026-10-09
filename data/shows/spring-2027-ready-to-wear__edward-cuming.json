@@ -1,0 +1,378 @@
+{
+ "key": "spring-2027-ready-to-wear__edward-cuming",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/edward-cuming",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "edward-cuming",
+ "brandName": "Edward Cuming",
+ "designers": "By Edward Cuming",
+ "eventDate": "",
+ "pubDate": "June 25, 2026",
+ "authors": [
+  "Max Berlinger"
+ ],
+ "reviewHtml": "<div><p>Since 2019, the Australian designer Edward Cuming has built his namesake brand on a decoupaged, raw-edged, improvisational quality, all bold colors and contrasting fabric, which yields a pleasing kind of chaos. This season, he wanted to rein things in and go, if not minimal, then at least a bit quieter than usual. “The brief was to be a bit toned-down,” he said at his Paris showroom. “But it didn’t really work out.” He paused. “Well, for me this is quite toned-down.” (To wit: He named the collection Calm Down.)</p><p>Cuming started from his usual place of intense fabric research; it wasn’t until halfway through the season that he visited the modernist Brazilian home of the Italian designer Lina Bo Bardi, which brought the season into sharper focus. There’s an emphasis on interior textiles like a creamy damask; a shimmering, almost aged jacquard; and linen with metallic threads of the kind often found in wall coverings or drapery. He also tried his hand at straightforward gray wool suiting for a more grounded proposition, and mixed it with cotton drill or shirts with a swirling tonal embroidery. But his wilder side persisted in shaggy zebra prints and an orange T-shirt with a tiger graphic on it, lifted from a feline sculpture he spotted in Bardi’s home.</p><p>The best parts of the collection were where the push-and-pull between exuberance and restraint played out, as in a simple Corvette red cupro slip dress layered with a filmy gray fabric that together produced a hazy shade of purple. “We wanted to take a really intense color and mute it. So that was really satisfying,” he said. His signature Circle Shirt, which features concentric rings on the front with their edges left undone, was this time fully finished for a more controlled, but still novel, outcome: “We wanted to try our hand at something precise and, I guess, serious.”</p><p>In the showroom, the collection was divided into neat sections—one in pale neutrals and those upholstery fabrics, another for the buttoned-up tailoring, and another for the wilder, looser pieces. In the look book they’re styled together. The message: Don’t let anyone box you in or tell you that you have to choose between fun and formality—with Edward Cuming, you can have both.</p></div>",
+ "cover": {
+  "id": "6a3d8a631a93911a5a88e2f7",
+  "file": "00001-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6a3d8a631a93911a5a88e2f7",
+     "file": "00001-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6a3d8a63ed80d4f49171a1e4",
+     "file": "00002-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6a3d8a63ed80d4f49171a1e2",
+     "file": "00003-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6a3d8a651e3a070a13527e20",
+     "file": "00004-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6a3d8a65e9675e56c177c430",
+     "file": "00005-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6a3d8a663426df27bdb4100d",
+     "file": "00006-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6a3d8a68e55aa569bef948a5",
+     "file": "00007-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6a3d8a683fa645671e4dd6bb",
+     "file": "00008-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6a3d8a69d4f75b1bdcba2756",
+     "file": "00009-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6a3d8a6b815d9fad91f1c0d1",
+     "file": "00010-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6a3d8a6b3fa645671e4dd6c1",
+     "file": "00011-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6a3d8a6c24787c7dfa0ac5be",
+     "file": "00012-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6a3d8a6d3da64c848487b22d",
+     "file": "00013-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6a3d8a6e1e3a070a13527e26",
+     "file": "00014-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6a3d8a6f377daf788c940a0e",
+     "file": "00015-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6a3d8a705435d76bc8052bc0",
+     "file": "00016-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6a3d8a701a93911a5a88e2fd",
+     "file": "00017-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6a3d8a71bfd6c303ed00347f",
+     "file": "00018-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6a3d8a73b40a45c312cae377",
+     "file": "00019-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6a3d8a73c9e57d20ee95120c",
+     "file": "00020-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6a3d8a74d4f75b1bdcba2761",
+     "file": "00021-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6a3d8a75cf1779c1e5d56746",
+     "file": "00022-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6a3d8a753a2bde2c88e6c8e7",
+     "file": "00023-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6a3d8a763fa645671e4dd6c7",
+     "file": "00024-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6a3d8a7808421d7a2e4fcf3b",
+     "file": "00025-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6a3d8a784786d6e0bbaad316",
+     "file": "00026-edward-cuming-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6a3d8a14db236ded1d5d5ea7",
+     "file": "00002a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6a3d8a133426df27bdb41007",
+     "file": "00003a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6a3d8a141e3a070a13527e14",
+     "file": "00004a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6a3d8a161e3a070a13527e1a",
+     "file": "00006a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6a3d8a1644c3ebaf6f33f3f7",
+     "file": "00007a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6a3d8a173fa645671e4dd6b5",
+     "file": "00007b-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6a3d8a19b40a45c312cae371",
+     "file": "00008a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6a3d8a194a680d32c1715384",
+     "file": "00010a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6a3d8a1ad69100dab637fe3a",
+     "file": "00011a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6a3d8a1c19a4321626bce7c8",
+     "file": "00013a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6a3d8a1c377daf788c9409fe",
+     "file": "00014a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6a3d8a1c24787c7dfa0ac5ae",
+     "file": "00016a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6a3d8a1e1a93911a5a88e2eb",
+     "file": "00018a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6a3d8a1fd69100dab637fe40",
+     "file": "00020a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6a3d8a1f5217055957f3a46d",
+     "file": "00025a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6a3d8a211a93911a5a88e2f1",
+     "file": "00026a-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6a3d8a21791bf98c84b1b162",
+     "file": "00026b-edward-cuming-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:41"
+}

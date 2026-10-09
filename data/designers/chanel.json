@@ -1,0 +1,1616 @@
+{
+ "slug": "chanel",
+ "name": "Chanel",
+ "bioHtml": "<div><p>In late 2025, Matthieu Blazy will show his first collection as Chanel’s creative director. He will be tasked with steering the maison into the 21st century, following Virginie Viard’s departure in 2024, which set off a much talked-about search for a successor. The house of Chanel has had many masters, but its signature has remained the same—bold, understated elegance. To borrow another Coco-ism: “Fashion passes; style remains.”</p><p>Gabrielle “Coco” Chanel founded the label in 1910. With a snip of her ribbon-looped scissors, she released women from their corsets and put them in fluid jersey suits and loose chemise dresses. “Nothing is more beautiful than freedom of the body,” she said. Chanel opened up a new world for her customers, in which they could dress and play as she did—like the boys.</p><p>In his 1954 book The Glass of Fashion, Cecil Beaton observed the key to Chanel’s success was “the genius who creates the need, though that need must reflect the unconscious wishes of the moment if that genius is to be accepted.” To the liberated legions shedding their mantles of feminine festoonery, Chanel offered wide-leg trousers, cardigan jackets, striped Breton tops, turbans, turtlenecks, pea coats, and, of course, the LBD.</p><p>Karl Lagerfeld was named creative director in 1983, 12 years after Chanel herself had died. At the time, the label was mostly known for its perfumes, but Lagerfeld would eventually turn it into one of the most important and influential fashion forces in the world. In his 36 years at the helm, Lagerfeld manipulated and modernized the classic Chanel suit and many, many more of the brand’s éléments éternels, from the quilted bag, pearls, gold chains, and buttons to the camellia motif, black bows, and two-tone shoes. Although he shared with his predecessor a love of looks both lean and luxe, boyish and feminine, Lagerfeld had from the start taken Coco’s sacred codes and subverted them—mocked them, even, as he borrowed from pop culture and injected a soupçon of biting wit.</p><p>Lagerfeld worked at Chanel until his death on February 19, 2019. The same day, the house named Viard as its new artistic director. She had worked alongside Lagerfeld for 30 years, and he famously described her as “my right arm… and my left arm.” During her five-year tenure, she created many unforgettable moments, including a collaboration with Sofia Coppola for a 2022 Metiers d’Art Collection (Coppola being a former Chanel intern herself), and staging a collection at the breathtaking Château de Chenonceau during the pandemic for an audience of one—Chanel muse Kristen Stewart, who stood up at the end of the show in a singular standing ovation.</p></div>",
+ "collections": [
+  {
+   "name": "Spring 2027 Ready-to-Wear",
+   "season": "spring-2027-ready-to-wear",
+   "path": "/fashion-shows/spring-2027-ready-to-wear/chanel",
+   "cover": {
+    "id": "6ac4131fe5e0812f4fbf7e5e",
+    "file": "00001-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2026 Couture",
+   "season": "fall-2026-couture",
+   "path": "/fashion-shows/fall-2026-couture/chanel",
+   "cover": {
+    "id": "6a4cdb3fd6d2481c35bf209f",
+    "file": "00001-chanel-fall-2026-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2027",
+   "season": "resort-2027",
+   "path": "/fashion-shows/resort-2027/chanel",
+   "cover": {
+    "id": "69f0b25097d07a6f74d14346",
+    "file": "00001-chanel-resort-2027-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2026 Ready-to-Wear",
+   "season": "fall-2026-ready-to-wear",
+   "path": "/fashion-shows/fall-2026-ready-to-wear/chanel",
+   "cover": {
+    "id": "69af3a0012ea888efe5c7ac7",
+    "file": "00001-chanel-fall-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2026 Couture",
+   "season": "spring-2026-couture",
+   "path": "/fashion-shows/spring-2026-couture/chanel",
+   "cover": {
+    "id": "69789d76a91246ccec87d55e",
+    "file": "00001-chanel-spring-2026-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2026",
+   "season": "pre-fall-2026",
+   "path": "/fashion-shows/pre-fall-2026/chanel",
+   "cover": {
+    "id": "692f9647593e94b80c59e2e4",
+    "file": "Chanel_001.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2026 Ready-to-Wear",
+   "season": "spring-2026-ready-to-wear",
+   "path": "/fashion-shows/spring-2026-ready-to-wear/chanel",
+   "cover": {
+    "id": "68e43a68df7a6ee79214869e",
+    "file": "00001-chanel-spring-2026-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2025 Couture",
+   "season": "fall-2025-couture",
+   "path": "/fashion-shows/fall-2025-couture/chanel",
+   "cover": {
+    "id": "686cedbf843612e37e9c3db2",
+    "file": "00001-chanel-fall-2025-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2026",
+   "season": "resort-2026",
+   "path": "/fashion-shows/resort-2026/chanel",
+   "cover": {
+    "id": "6810e98e3cf217b40624cb64",
+    "file": "00001-chanel-resort-2026-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2025 Ready-to-Wear",
+   "season": "fall-2025-ready-to-wear",
+   "path": "/fashion-shows/fall-2025-ready-to-wear/chanel",
+   "cover": {
+    "id": "67d024ee44008904b6216523",
+    "file": "00001-chanel-fall-2025-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2025 Couture",
+   "season": "spring-2025-couture",
+   "path": "/fashion-shows/spring-2025-couture/chanel",
+   "cover": {
+    "id": "6798bed6094864fed908a253",
+    "file": "00001-chanel-spring-2025-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2025",
+   "season": "pre-fall-2025",
+   "path": "/fashion-shows/pre-fall-2025/chanel",
+   "cover": {
+    "id": "674efa3ad954047558082179",
+    "file": "00001-chanel-pre-fall-2025-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2025 Ready-to-Wear",
+   "season": "spring-2025-ready-to-wear",
+   "path": "/fashion-shows/spring-2025-ready-to-wear/chanel",
+   "cover": {
+    "id": "66fbd8d73edd086cfe898790",
+    "file": "00001-chanel-spring-2025-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2024 Couture",
+   "season": "fall-2024-couture",
+   "path": "/fashion-shows/fall-2024-couture/chanel",
+   "cover": {
+    "id": "667a9f197e5fac7042e57651",
+    "file": "00001-chanel-fall-2024-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2025",
+   "season": "resort-2025",
+   "path": "/fashion-shows/resort-2025/chanel",
+   "cover": {
+    "id": "66338aa0c9f065b7b962fb00",
+    "file": "00001-chanel-resort-2025-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2024 Ready-to-Wear",
+   "season": "fall-2024-ready-to-wear",
+   "path": "/fashion-shows/fall-2024-ready-to-wear/chanel",
+   "cover": {
+    "id": "65e71c72b913f1048e12be2c",
+    "file": "00001-chanel-fall-2024-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2024 Couture",
+   "season": "spring-2024-couture",
+   "path": "/fashion-shows/spring-2024-couture/chanel",
+   "cover": {
+    "id": "65afb0db5881c7b2ffc23fd9",
+    "file": "00001-chanel-spring-2024-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2024",
+   "season": "pre-fall-2024",
+   "path": "/fashion-shows/pre-fall-2024/chanel",
+   "cover": {
+    "id": "65722ec3cbcd54ebe15f1f93",
+    "file": "00001-chanel-pre-fall-2024-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2024 Ready-to-Wear",
+   "season": "spring-2024-ready-to-wear",
+   "path": "/fashion-shows/spring-2024-ready-to-wear/chanel",
+   "cover": {
+    "id": "651bfcd904afaf38fd4feb0c",
+    "file": "00001-chanel-spring-2024-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2023 Couture",
+   "season": "fall-2023-couture",
+   "path": "/fashion-shows/fall-2023-couture/chanel",
+   "cover": {
+    "id": "64a3f1d2f89668452743b277",
+    "file": "00001-chanel-fall-2023-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2024",
+   "season": "resort-2024",
+   "path": "/fashion-shows/resort-2024/chanel",
+   "cover": {
+    "id": "645b3f91f2f341c7cb3f07c3",
+    "file": "00001-chanel-resort-2024-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2023 Ready-to-Wear",
+   "season": "fall-2023-ready-to-wear",
+   "path": "/fashion-shows/fall-2023-ready-to-wear/chanel",
+   "cover": {
+    "id": "6407358cf657c19072f98e99",
+    "file": "00001-chanel-fall-2023-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2023 Couture",
+   "season": "spring-2023-couture",
+   "path": "/fashion-shows/spring-2023-couture/chanel",
+   "cover": {
+    "id": "63cfce9742af777eeecacbf6",
+    "file": "00001-chanel-spring-2023-couture-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2023",
+   "season": "pre-fall-2023",
+   "path": "/fashion-shows/pre-fall-2023/chanel",
+   "cover": {
+    "id": "6391dd59eb2d9b2a4e8f7725",
+    "file": "00001-chanel-pre-fall-2023-credit-brand.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2023 Ready-to-Wear",
+   "season": "spring-2023-ready-to-wear",
+   "path": "/fashion-shows/spring-2023-ready-to-wear/chanel",
+   "cover": {
+    "id": "633c1c20acaa593a1e6c9b0d",
+    "file": "00001-chanel-spring-2023-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2022 Couture",
+   "season": "fall-2022-couture",
+   "path": "/fashion-shows/fall-2022-couture/chanel",
+   "cover": {
+    "id": "62c4184e24ce170175302f5f",
+    "file": "00001-chanel-fall-2022-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1535
+   }
+  },
+  {
+   "name": "Resort 2023",
+   "season": "resort-2023",
+   "path": "/fashion-shows/resort-2023/chanel",
+   "cover": {
+    "id": "6273a851d3ecfb61480b1619",
+    "file": "CSC_0027.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2022 Ready-to-Wear",
+   "season": "fall-2022-ready-to-wear",
+   "path": "/fashion-shows/fall-2022-ready-to-wear/chanel",
+   "cover": {
+    "id": "622727fd333cd004005c74d9",
+    "file": "_ALE0023.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2022 Couture",
+   "season": "spring-2022-couture",
+   "path": "/fashion-shows/spring-2022-couture/chanel",
+   "cover": {
+    "id": "61efcf348aa98afba69ec7c1",
+    "file": "_ALE0036.jpg",
+    "w": 1024,
+    "h": 1541
+   }
+  },
+  {
+   "name": "Pre-Fall 2022",
+   "season": "pre-fall-2022",
+   "path": "/fashion-shows/pre-fall-2022/chanel",
+   "cover": {
+    "id": "61af804c7dea90bce965567f",
+    "file": "00001-Chanel-Pre-Fall-22-Paris-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2022 Ready-to-Wear",
+   "season": "spring-2022-ready-to-wear",
+   "path": "/fashion-shows/spring-2022-ready-to-wear/chanel",
+   "cover": {
+    "id": "615c534730a1330360069243",
+    "file": "00001-Chanel-Spring-22-RTW-Paris-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2021 Couture",
+   "season": "fall-2021-couture",
+   "path": "/fashion-shows/fall-2021-couture/chanel",
+   "cover": {
+    "id": "60e4121945d4cb14fb3dca0c",
+    "file": "_ALE0017.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2022",
+   "season": "resort-2022",
+   "path": "/fashion-shows/resort-2022/chanel",
+   "cover": {
+    "id": "60e5ba3864f008216204a6ec",
+    "file": "00001-CHANEL-Resort-2022-credit-brand.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2021 Ready-to-Wear",
+   "season": "fall-2021-ready-to-wear",
+   "path": "/fashion-shows/fall-2021-ready-to-wear/chanel",
+   "cover": {
+    "id": "60473fc24c0172df0ee8b2b9",
+    "file": "00001-CHANEL-FALL-21-RTW.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2021 Couture",
+   "season": "spring-2021-couture",
+   "path": "/fashion-shows/spring-2021-couture/chanel",
+   "cover": {
+    "id": "6010129aa3441e0b78b4b2c1",
+    "file": "00001-Chanel-Couture-Spring-21.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2021",
+   "season": "pre-fall-2021",
+   "path": "/fashion-shows/pre-fall-2021/chanel",
+   "cover": {
+    "id": "5fca5d84dad9ba0c310e4bd6",
+    "file": "00001-CHANEL-PRE-FALL-21.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2021 Ready-to-Wear",
+   "season": "spring-2021-ready-to-wear",
+   "path": "/fashion-shows/spring-2021-ready-to-wear/chanel",
+   "cover": {
+    "id": "5f7c7126bdabfba28130bc46",
+    "file": "-0001-Chanel-RTW-SS21.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2020 Couture",
+   "season": "fall-2020-couture",
+   "path": "/fashion-shows/fall-2020-couture/chanel",
+   "cover": {
+    "id": "5f043eb9e9033a4e3ebd603f",
+    "file": "00001-CHANEL-COUTURE-FALL-20-Credit-Mikael-Jansson.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2021",
+   "season": "resort-2021",
+   "path": "/fashion-shows/resort-2021/chanel",
+   "cover": {
+    "id": "5ede0d4535beb564a7afc005",
+    "file": "00001-Chanel-Resort-2021.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2020 Ready-to-Wear",
+   "season": "fall-2020-ready-to-wear",
+   "path": "/fashion-shows/fall-2020-ready-to-wear/chanel",
+   "cover": {
+    "id": "681cd67c83ce7bf02efae1f5",
+    "file": "00001-chanel-fall-2020-ready-to-wear-credit-gorunway-model-rianne-van-rompaey.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2020 Couture",
+   "season": "spring-2020-couture",
+   "path": "/fashion-shows/spring-2020-couture/chanel",
+   "cover": {
+    "id": "680b86b9db861e97bdea412c",
+    "file": "00001-chanel-spring-2020-couture-credit-gorunway-model-vittoria-ceretti.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2020",
+   "season": "pre-fall-2020",
+   "path": "/fashion-shows/pre-fall-2020/chanel",
+   "cover": {
+    "id": "6825f05db7129613173bc2cd",
+    "file": "00001-chanel-pre-fall-2020-ready-to-wear-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2020 Ready-to-Wear",
+   "season": "spring-2020-ready-to-wear",
+   "path": "/fashion-shows/spring-2020-ready-to-wear/chanel",
+   "cover": {
+    "id": "6825eb1c20306ddb341e9f6c",
+    "file": "00001-chanel-spring-2020-ready-to-wear-credit-gorunway-model-maike-inga.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2019 Couture",
+   "season": "fall-2019-couture",
+   "path": "/fashion-shows/fall-2019-couture/chanel",
+   "cover": {
+    "id": "6807b3c65424409517e4fe0a",
+    "file": "00001-chanel-fall-2019-couture-credit-gorunway-model-kiki-willems.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2020",
+   "season": "resort-2020",
+   "path": "/fashion-shows/resort-2020/chanel",
+   "cover": {
+    "id": "682201f83842a14e978a590d",
+    "file": "00001-chanel-resort-2020-credit-gorunway-model-vittoria-ceretti.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2019 Ready-to-Wear",
+   "season": "fall-2019-ready-to-wear",
+   "path": "/fashion-shows/fall-2019-ready-to-wear/chanel",
+   "cover": {
+    "id": "682320bcdcd6a1f1bf96d359",
+    "file": "00001-chanel-fall-2019-ready-to-wear-credit-gorunway-model-cara-delevingne.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2019 Couture",
+   "season": "spring-2019-couture",
+   "path": "/fashion-shows/spring-2019-couture/chanel",
+   "cover": {
+    "id": "682372ea1267170ea4a59b5d",
+    "file": "00001-chanel-spring-2019-couture-credit-gorunway.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2019",
+   "season": "pre-fall-2019",
+   "path": "/fashion-shows/pre-fall-2019/chanel",
+   "cover": {
+    "id": "682472de8253144da931e745",
+    "file": "00001-chanel-pre-fall-2019-credit-gorunway-model-vittoria-ceretti.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2019 Ready-to-Wear",
+   "season": "spring-2019-ready-to-wear",
+   "path": "/fashion-shows/spring-2019-ready-to-wear/chanel",
+   "cover": {
+    "id": "5bb34d80aa0a712dc7350908",
+    "file": "KIM_2335.jpg",
+    "w": 1024,
+    "h": 1538
+   }
+  },
+  {
+   "name": "Fall 2018 Couture",
+   "season": "fall-2018-couture",
+   "path": "/fashion-shows/fall-2018-couture/chanel",
+   "cover": {
+    "id": "682745714ed66f196ef6fc5c",
+    "file": "00001-chanel-fall-2018-couture-credit-indigitaltv-model-vittoria-ceretti.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2019",
+   "season": "resort-2019",
+   "path": "/fashion-shows/resort-2019/chanel",
+   "cover": {
+    "id": "682607786d8257a1a876b80b",
+    "file": "00001-chanel-resort-2019-credit-indigitaltv-model-adut-akech.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2018 Ready-to-Wear",
+   "season": "fall-2018-ready-to-wear",
+   "path": "/fashion-shows/fall-2018-ready-to-wear/chanel",
+   "cover": {
+    "id": "682715e78acfb60be7c39377",
+    "file": "00001-chanel-fall-2018-ready-to-wear-credit-indigitaltv-model-grace-elizabeth.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2018 Couture",
+   "season": "spring-2018-couture",
+   "path": "/fashion-shows/spring-2018-couture/chanel",
+   "cover": {
+    "id": "69c5654e5f26e92e90b6c8fd",
+    "file": "00066-chanel-spring-2018-couture-credit-indigital-model-carolina-thaler.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2018",
+   "season": "pre-fall-2018",
+   "path": "/fashion-shows/pre-fall-2018/chanel",
+   "cover": {
+    "id": "5a2875a1505ec569396b9689",
+    "file": "chanel_metiers_d_art_04.JPG",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2018 Ready-to-Wear",
+   "season": "spring-2018-ready-to-wear",
+   "path": "/fashion-shows/spring-2018-ready-to-wear/chanel",
+   "cover": {
+    "id": "682b1ccca2c8ab5eff612a9a",
+    "file": "00001-chanel-spring-2018-ready-to-wear-credit-indigital-model-kaia-gerber.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2017 Couture",
+   "season": "fall-2017-couture",
+   "path": "/fashion-shows/fall-2017-couture/chanel",
+   "cover": {
+    "id": "69ce4306565164466715eb6d",
+    "file": "00001-chanel-fall-2017-couture-credit-indigital-model-faretta.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2018",
+   "season": "resort-2018",
+   "path": "/fashion-shows/resort-2018/chanel",
+   "cover": {
+    "id": "69c66e3480d8e555649d82fd",
+    "file": "00001-chanel-resort-2018-couture-credit-indigital-model-vittoria-ceretti.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2017 Ready-to-Wear",
+   "season": "fall-2017-ready-to-wear",
+   "path": "/fashion-shows/fall-2017-ready-to-wear/chanel",
+   "cover": {
+    "id": "69ca62dfd9b14384f29c58ff",
+    "file": "00001-chanel-fall-2017-ready-to-wear-credit-indigital-model-cara-taylor.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2017 Couture",
+   "season": "spring-2017-couture",
+   "path": "/fashion-shows/spring-2017-couture/chanel",
+   "cover": {
+    "id": "5887281d420a1fe9103a0ba0",
+    "file": "_CHA0807.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2017",
+   "season": "pre-fall-2017",
+   "path": "/fashion-shows/pre-fall-2017/chanel",
+   "cover": {
+    "id": "69cd4843b50b2560d051b5d5",
+    "file": "00001-chanel-pre-fall-2017-credit-indigital.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2017 Ready-to-Wear",
+   "season": "spring-2017-ready-to-wear",
+   "path": "/fashion-shows/spring-2017-ready-to-wear/chanel",
+   "cover": {
+    "id": "69ce8c4d8e5eddf492af9c5f",
+    "file": "00001-chanel-spring-2017-ready-to-wear-credit-indigital-model-amanda-sanchez.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2016 Couture",
+   "season": "fall-2016-couture",
+   "path": "/fashion-shows/fall-2016-couture/chanel",
+   "cover": {
+    "id": "577b7685684324e827f8dced",
+    "file": "_CHA1053.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Resort 2017",
+   "season": "resort-2017",
+   "path": "/fashion-shows/resort-2017/chanel",
+   "cover": {
+    "id": "69d517641458eef5d2fd5bf4",
+    "file": "00001-chanel-resort-2017-credit-indigital-model-stella-tennant.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2016 Ready-to-Wear",
+   "season": "fall-2016-ready-to-wear",
+   "path": "/fashion-shows/fall-2016-ready-to-wear/chanel",
+   "cover": {
+    "id": "69d77ec1ca2eb361780650e6",
+    "file": "00087-chanel-fall-2016-ready-to-wear-credit-indigital-model-bara-podzimkova.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2016 Couture",
+   "season": "spring-2016-couture",
+   "path": "/fashion-shows/spring-2016-couture/chanel",
+   "cover": {
+    "id": "69d6442ace9f7cecebb92ea1",
+    "file": "00001-chanel-spring-2016-couture-credit-indigital-model-mica-arganaraz.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Pre-Fall 2016",
+   "season": "pre-fall-2016",
+   "path": "/fashion-shows/pre-fall-2016/chanel",
+   "cover": {
+    "id": "69d66c8f2c164b63f755e52a",
+    "file": "00001-chanel-pre-fall-2016-credit-indigital.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2016 Ready-to-Wear",
+   "season": "spring-2016-ready-to-wear",
+   "path": "/fashion-shows/spring-2016-ready-to-wear/chanel",
+   "cover": {
+    "id": "69d7be76e19e9b7fad937c41",
+    "file": "00005-chanel-spring-2016-ready-to-wear-credit-indigital-model-edie-campbell.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2015 Couture",
+   "season": "fall-2015-couture",
+   "path": "/fashion-shows/fall-2015-couture/chanel",
+   "cover": {
+    "id": "55c650c008298d8be2158a86",
+    "file": "_001_CHA0163.jpg"
+   }
+  },
+  {
+   "name": "Resort 2016",
+   "season": "resort-2016",
+   "path": "/fashion-shows/resort-2016/chanel",
+   "cover": {
+    "id": "55c650b708298d8be214e9a3",
+    "file": "DSC001CHA_0020.jpg"
+   }
+  },
+  {
+   "name": "Fall 2015 Ready-to-Wear",
+   "season": "fall-2015-ready-to-wear",
+   "path": "/fashion-shows/fall-2015-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c650b408298d8be214b607",
+    "file": "0001-chanel.jpg"
+   }
+  },
+  {
+   "name": "Spring 2015 Couture",
+   "season": "spring-2015-couture",
+   "path": "/fashion-shows/spring-2015-couture/chanel",
+   "cover": {
+    "id": "55c651d408298d8be228d21d",
+    "file": "KIM_0795.jpg"
+   }
+  },
+  {
+   "name": "Pre-Fall 2015",
+   "season": "pre-fall-2015",
+   "path": "/fashion-shows/pre-fall-2015/chanel",
+   "cover": {
+    "id": "55c651ce08298d8be2286316",
+    "file": "_A2X1518.jpg"
+   }
+  },
+  {
+   "name": "Spring 2015 Ready-to-Wear",
+   "season": "spring-2015-ready-to-wear",
+   "path": "/fashion-shows/spring-2015-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c651c908298d8be227f756",
+    "file": "CHA_0113.jpg"
+   }
+  },
+  {
+   "name": "Fall 2014 Couture",
+   "season": "fall-2014-couture",
+   "path": "/fashion-shows/fall-2014-couture/chanel",
+   "cover": {
+    "id": "55c6514608298d8be21e92a6",
+    "file": "KIM_0033.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Resort 2015",
+   "season": "resort-2015",
+   "path": "/fashion-shows/resort-2015/chanel",
+   "cover": {
+    "id": "55c6513f08298d8be21e1c1c",
+    "file": "_L1R0039.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Fall 2014 Ready-to-Wear",
+   "season": "fall-2014-ready-to-wear",
+   "path": "/fashion-shows/fall-2014-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6513e08298d8be21e0341",
+    "file": "CHA_0055.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Spring 2014 Couture",
+   "season": "spring-2014-couture",
+   "path": "/fashion-shows/spring-2014-couture/chanel",
+   "cover": {
+    "id": "55c6513108298d8be21d3827",
+    "file": "CHA_0713.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Pre-Fall 2014",
+   "season": "pre-fall-2014",
+   "path": "/fashion-shows/pre-fall-2014/chanel",
+   "cover": {
+    "id": "55c6512d08298d8be21ce6e6",
+    "file": "Chanel_001_1366.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Spring 2014 Ready-to-Wear",
+   "season": "spring-2014-ready-to-wear",
+   "path": "/fashion-shows/spring-2014-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6512608298d8be21c703a",
+    "file": "CHA_0052.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Fall 2013 Couture",
+   "season": "fall-2013-couture",
+   "path": "/fashion-shows/fall-2013-couture/chanel",
+   "cover": {
+    "id": "55c6511b08298d8be21ba06b",
+    "file": "_CHA0043.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Resort 2014",
+   "season": "resort-2014",
+   "path": "/fashion-shows/resort-2014/chanel",
+   "cover": {
+    "id": "55c6511508298d8be21b3a54",
+    "file": "CHANEL_001_1366.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Fall 2013 Ready-to-Wear",
+   "season": "fall-2013-ready-to-wear",
+   "path": "/fashion-shows/fall-2013-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6511308298d8be21b10bd",
+    "file": "CHA_1722.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Spring 2013 Couture",
+   "season": "spring-2013-couture",
+   "path": "/fashion-shows/spring-2013-couture/chanel",
+   "cover": {
+    "id": "55c6510808298d8be21a4882",
+    "file": "_ARC0030.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Pre-Fall 2013",
+   "season": "pre-fall-2013",
+   "path": "/fashion-shows/pre-fall-2013/chanel",
+   "cover": {
+    "id": "55c650fe08298d8be219a17c",
+    "file": "chanel_001_1366.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Spring 2013 Ready-to-Wear",
+   "season": "spring-2013-ready-to-wear",
+   "path": "/fashion-shows/spring-2013-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c650fc08298d8be2197b73",
+    "file": "CHA_0024.1366x2048.JPG"
+   }
+  },
+  {
+   "name": "Fall 2012 Couture",
+   "season": "fall-2012-couture",
+   "path": "/fashion-shows/fall-2012-couture/chanel",
+   "cover": {
+    "id": "55c650f008298d8be218ac2a",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Resort 2013",
+   "season": "resort-2013",
+   "path": "/fashion-shows/resort-2013/chanel",
+   "cover": {
+    "id": "55c650eb08298d8be2185296",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2012 Ready-to-Wear",
+   "season": "fall-2012-ready-to-wear",
+   "path": "/fashion-shows/fall-2012-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c650e908298d8be2183b43",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2012 Couture",
+   "season": "spring-2012-couture",
+   "path": "/fashion-shows/spring-2012-couture/chanel",
+   "cover": {
+    "id": "55c650da08298d8be21748d2",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Pre-Fall 2012",
+   "season": "pre-fall-2012",
+   "path": "/fashion-shows/pre-fall-2012/chanel",
+   "cover": {
+    "id": "55c650d508298d8be216e529",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2012 Ready-to-Wear",
+   "season": "spring-2012-ready-to-wear",
+   "path": "/fashion-shows/spring-2012-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c650d208298d8be216be44",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2011 Couture",
+   "season": "fall-2011-couture",
+   "path": "/fashion-shows/fall-2011-couture/chanel",
+   "cover": {
+    "id": "55c650c608298d8be215e820",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Resort 2012",
+   "season": "resort-2012",
+   "path": "/fashion-shows/resort-2012/chanel",
+   "cover": {
+    "id": "55c650ba08298d8be2151d53",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2011 Ready-to-Wear",
+   "season": "fall-2011-ready-to-wear",
+   "path": "/fashion-shows/fall-2011-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c651cd08298d8be22850af",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2011 Couture",
+   "season": "spring-2011-couture",
+   "path": "/fashion-shows/spring-2011-couture/chanel",
+   "cover": {
+    "id": "55c6518f08298d8be223d2f0",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Pre-Fall 2011",
+   "season": "pre-fall-2011",
+   "path": "/fashion-shows/pre-fall-2011/chanel",
+   "cover": {
+    "id": "55c6516f08298d8be221873f",
+    "file": "01fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2011 Ready-to-Wear",
+   "season": "spring-2011-ready-to-wear",
+   "path": "/fashion-shows/spring-2011-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6515008298d8be21f548f",
+    "file": "00020fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2010 Couture",
+   "season": "fall-2010-couture",
+   "path": "/fashion-shows/fall-2010-couture/chanel",
+   "cover": {
+    "id": "55c650e108298d8be217b52f",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Resort 2011",
+   "season": "resort-2011",
+   "path": "/fashion-shows/resort-2011/chanel",
+   "cover": {
+    "id": "55c650aa08298d8be2141373",
+    "file": "01fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2010 Ready-to-Wear",
+   "season": "fall-2010-ready-to-wear",
+   "path": "/fashion-shows/fall-2010-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c650a908298d8be21409f9",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2010 Couture",
+   "season": "spring-2010-couture",
+   "path": "/fashion-shows/spring-2010-couture/chanel",
+   "cover": {
+    "id": "55c651b708298d8be226a2c5",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Pre-Fall 2010",
+   "season": "pre-fall-2010",
+   "path": "/fashion-shows/pre-fall-2010/chanel",
+   "cover": {
+    "id": "55c651b408298d8be226948f",
+    "file": "01fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2010 Ready-to-Wear",
+   "season": "spring-2010-ready-to-wear",
+   "path": "/fashion-shows/spring-2010-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c651ae08298d8be2262602",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2009 Couture",
+   "season": "fall-2009-couture",
+   "path": "/fashion-shows/fall-2009-couture/chanel",
+   "cover": {
+    "id": "6821bcd269eb9f8354a1f3d4",
+    "file": "00010h-chanel-fall-2009-couture-sasha-pivovarova.jpg",
+    "w": 1024,
+    "h": 1463
+   }
+  },
+  {
+   "name": "Resort 2010",
+   "season": "resort-2010",
+   "path": "/fashion-shows/resort-2010/chanel",
+   "cover": {
+    "id": "55c651a408298d8be2256c50",
+    "file": "01fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2009 Ready-to-Wear",
+   "season": "fall-2009-ready-to-wear",
+   "path": "/fashion-shows/fall-2009-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c651a408298d8be2255e27",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2009 Couture",
+   "season": "spring-2009-couture",
+   "path": "/fashion-shows/spring-2009-couture/chanel",
+   "cover": {
+    "id": "55c6519c08298d8be224d2c8",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Pre-Fall 2009",
+   "season": "pre-fall-2009",
+   "path": "/fashion-shows/pre-fall-2009/chanel",
+   "cover": {
+    "id": "55c6519c08298d8be224c659",
+    "file": "01fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Spring 2009 Ready-to-Wear",
+   "season": "spring-2009-ready-to-wear",
+   "path": "/fashion-shows/spring-2009-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6519b08298d8be224b83b",
+    "file": "00020fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Fall 2008 Couture",
+   "season": "fall-2008-couture",
+   "path": "/fashion-shows/fall-2008-couture/chanel",
+   "cover": {
+    "id": "55c6519408298d8be22433d1",
+    "file": "00010fullscreen.jpg"
+   }
+  },
+  {
+   "name": "Resort 2009",
+   "season": "resort-2009",
+   "path": "/fashion-shows/resort-2009/chanel",
+   "cover": {
+    "id": "55c6519208298d8be22407e2",
+    "file": "00010m.jpg"
+   }
+  },
+  {
+   "name": "Fall 2008 Ready-to-Wear",
+   "season": "fall-2008-ready-to-wear",
+   "path": "/fashion-shows/fall-2008-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6519208298d8be22404ec",
+    "file": "00010m.jpg"
+   }
+  },
+  {
+   "name": "Spring 2008 Couture",
+   "season": "spring-2008-couture",
+   "path": "/fashion-shows/spring-2008-couture/chanel",
+   "cover": {
+    "id": "6819e0c4fb67a842641e5b02",
+    "file": "00010h-chanel-spring-2008-couture-sasha-pivovarova.jpg",
+    "w": 1024,
+    "h": 1541
+   }
+  },
+  {
+   "name": "Pre-Fall 2008",
+   "season": "pre-fall-2008",
+   "path": "/fashion-shows/pre-fall-2008/chanel",
+   "cover": {
+    "id": "55c6518508298d8be2231b79",
+    "file": "01m.jpg"
+   }
+  },
+  {
+   "name": "Spring 2008 Ready-to-Wear",
+   "season": "spring-2008-ready-to-wear",
+   "path": "/fashion-shows/spring-2008-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6518408298d8be2230ddb",
+    "file": "01m.jpg"
+   }
+  },
+  {
+   "name": "Fall 2007 Couture",
+   "season": "fall-2007-couture",
+   "path": "/fashion-shows/fall-2007-couture/chanel",
+   "cover": {
+    "id": "55c6517e08298d8be222a1f7",
+    "file": "01m.jpg"
+   }
+  },
+  {
+   "name": "Resort 2008",
+   "season": "resort-2008",
+   "path": "/fashion-shows/resort-2008/chanel",
+   "cover": {
+    "id": "55c6517c08298d8be2227808",
+    "file": "01m.jpg"
+   }
+  },
+  {
+   "name": "Resort 2007",
+   "season": "resort-2007",
+   "path": "/fashion-shows/resort-2007/chanel",
+   "cover": {
+    "id": "55c6517c08298d8be22275fa",
+    "file": "0001m.jpg"
+   }
+  },
+  {
+   "name": "Fall 2007 Ready-to-Wear",
+   "season": "fall-2007-ready-to-wear",
+   "path": "/fashion-shows/fall-2007-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6517b08298d8be2226ad7",
+    "file": "00010m.jpg"
+   }
+  },
+  {
+   "name": "Spring 2007 Couture",
+   "season": "spring-2007-couture",
+   "path": "/fashion-shows/spring-2007-couture/chanel",
+   "cover": {
+    "id": "680f41dc75fea1ff12e57a98",
+    "file": "00010h-chanel-spring-2007-couture-raquel-zimmermann.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2007 Ready-to-Wear",
+   "season": "spring-2007-ready-to-wear",
+   "path": "/fashion-shows/spring-2007-ready-to-wear/chanel",
+   "cover": {
+    "id": "6a0d754e9250a3e54d829acc",
+    "file": "00010h-chanel-spring-2007-ready-to-wear-daria-werbowy.jpg",
+    "w": 1024,
+    "h": 1535
+   }
+  },
+  {
+   "name": "Fall 2006 Couture",
+   "season": "fall-2006-couture",
+   "path": "/fashion-shows/fall-2006-couture/chanel",
+   "cover": {
+    "id": "6808b78170263ca1305523e2",
+    "file": "00010h-chanel-fall-2006-couture-irina-lazareanu.jpg",
+    "w": 1024,
+    "h": 1542
+   }
+  },
+  {
+   "name": "Fall 2006 Ready-to-Wear",
+   "season": "fall-2006-ready-to-wear",
+   "path": "/fashion-shows/fall-2006-ready-to-wear/chanel",
+   "cover": {
+    "id": "690b41682f2de389ee163f8c",
+    "file": "00010h-chanel-fall-2006-ready-to-wear-angela-lindvall.jpg",
+    "w": 1024,
+    "h": 1535
+   }
+  },
+  {
+   "name": "Spring 2006 Couture",
+   "season": "spring-2006-couture",
+   "path": "/fashion-shows/spring-2006-couture/chanel",
+   "cover": {
+    "id": "55c6516408298d8be220c098",
+    "file": "00010m.jpg"
+   }
+  },
+  {
+   "name": "Spring 2006 Ready-to-Wear",
+   "season": "spring-2006-ready-to-wear",
+   "path": "/fashion-shows/spring-2006-ready-to-wear/chanel",
+   "cover": {
+    "id": "67e28f7d1b0c936abd717bc5",
+    "file": "00010h-chanel-spring-2006-ready-to-wear-milagros-schmoll.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2005 Couture",
+   "season": "fall-2005-couture",
+   "path": "/fashion-shows/fall-2005-couture/chanel",
+   "cover": {
+    "id": "5b3ee9b6516b2e7880ef3057",
+    "file": "chanel-fall-2005-couture-00490h-shalom-harlow.jpg",
+    "w": 1024,
+    "h": 1535
+   }
+  },
+  {
+   "name": "Fall 2005 Ready-to-Wear",
+   "season": "fall-2005-ready-to-wear",
+   "path": "/fashion-shows/fall-2005-ready-to-wear/chanel",
+   "cover": {
+    "id": "66969715b59c0c49791b86f0",
+    "file": "00010h-chanel-fall-2005-ready-to-wear-gemma-ward.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2005 Couture",
+   "season": "spring-2005-couture",
+   "path": "/fashion-shows/spring-2005-couture/chanel",
+   "cover": {
+    "id": "677fb3c9ffbf94218ad43d17",
+    "file": "00010h-chanel-spring-2005-couture-carmen-kass.jpg",
+    "w": 1024,
+    "h": 1546
+   }
+  },
+  {
+   "name": "Spring 2005 Ready-to-Wear",
+   "season": "spring-2005-ready-to-wear",
+   "path": "/fashion-shows/spring-2005-ready-to-wear/chanel",
+   "cover": {
+    "id": "6617b6cfdeb68a7e8e924d87",
+    "file": "00740h-chanel-spring-2005-ready-to-wear-nicole-kidman-karl-lagerfeld.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2004 Couture",
+   "season": "fall-2004-couture",
+   "path": "/fashion-shows/fall-2004-couture/chanel",
+   "cover": {
+    "id": "5b31436673868676444b5596",
+    "file": "chanel-fall-2004-couture-00010h-lily-donaldson.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2004 Ready-to-Wear",
+   "season": "fall-2004-ready-to-wear",
+   "path": "/fashion-shows/fall-2004-ready-to-wear/chanel",
+   "cover": {
+    "id": "653f7eceadd16c15f0e02ca0",
+    "file": "00010h-chanel-fall-2004-ready-to-wear-diana-dondoe.jpg",
+    "w": 1024,
+    "h": 1535
+   }
+  },
+  {
+   "name": "Spring 2004 Couture",
+   "season": "spring-2004-couture",
+   "path": "/fashion-shows/spring-2004-couture/chanel",
+   "cover": {
+    "id": "5b2f1c4e7357fe57e6f17618",
+    "file": "chanel-spring-2004-couture-00560h-nadja-auermann.jpg",
+    "w": 1024,
+    "h": 1561
+   }
+  },
+  {
+   "name": "Spring 2004 Ready-to-Wear",
+   "season": "spring-2004-ready-to-wear",
+   "path": "/fashion-shows/spring-2004-ready-to-wear/chanel",
+   "cover": {
+    "id": "64e7713edd87a55858772b71",
+    "file": "00430h-chanel-spring-2004-ready-to-wear-daria-werbowy.jpg",
+    "w": 1024,
+    "h": 1561
+   }
+  },
+  {
+   "name": "Fall 2003 Ready-to-Wear",
+   "season": "fall-2003-ready-to-wear",
+   "path": "/fashion-shows/fall-2003-ready-to-wear/chanel",
+   "cover": {
+    "id": "55c6511508298d8be21b2fb7",
+    "file": "100101919.jpg"
+   }
+  },
+  {
+   "name": "Spring 2003 Couture",
+   "season": "spring-2003-couture",
+   "path": "/fashion-shows/spring-2003-couture/chanel",
+   "cover": {
+    "id": "55c6515b08298d8be220138e",
+    "file": "100089253.jpg"
+   }
+  },
+  {
+   "name": "Fall 2002 Couture",
+   "season": "fall-2002-couture",
+   "path": "/fashion-shows/fall-2002-couture/chanel",
+   "cover": {
+    "id": "55c650c508298d8be215d858",
+    "file": "100071652.jpg"
+   }
+  },
+  {
+   "name": "Spring 2002 Couture",
+   "season": "spring-2002-couture",
+   "path": "/fashion-shows/spring-2002-couture/chanel",
+   "cover": {
+    "id": "5d013517adfd096c20246cc7",
+    "file": "043-chanel-spring-2002-couture-nadine-strittmatter-C9863D0BA75A41AFC82CDF1A75567535.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2002 Ready-to-Wear",
+   "season": "spring-2002-ready-to-wear",
+   "path": "/fashion-shows/spring-2002-ready-to-wear/chanel",
+   "cover": {
+    "id": "64515978f2f341c7cb3f0104",
+    "file": "00010-chanel-spring-2002-ready-to-wear-mariacarla-boscono.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 2001 Couture",
+   "season": "spring-2001-couture",
+   "path": "/fashion-shows/spring-2001-couture/chanel",
+   "cover": {
+    "id": "5c4155133a52ba488f7d07b1",
+    "file": "039-chanel-spring-2001-couture-details-CN10051476-carmen-kass.jpg",
+    "w": 1024,
+    "h": 1546
+   }
+  },
+  {
+   "name": "Fall 2000 Ready-to-Wear",
+   "season": "fall-2000-ready-to-wear",
+   "path": "/fashion-shows/fall-2000-ready-to-wear/chanel",
+   "cover": {
+    "id": "5a14ad829573937d086f6670",
+    "file": "CHANEL-FALL-2000-RTW-01-DEVON-AOKI-2C8M9063.JPG",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 2000 Couture",
+   "season": "fall-2000-couture",
+   "path": "/fashion-shows/fall-2000-couture/chanel",
+   "cover": {
+    "id": "5c3e53c463f8482d552fbf24",
+    "file": "030-chanel-fall-2000-couture-CN10051343-inge-geurts.jpg",
+    "w": 1024,
+    "h": 1542
+   }
+  },
+  {
+   "name": "Fall 1999 Ready-to-Wear",
+   "season": "fall-1999-ready-to-wear",
+   "path": "/fashion-shows/fall-1999-ready-to-wear/chanel",
+   "cover": {
+    "id": "66ac9bd8df3b473505496d4f",
+    "file": "001-chanel-fall-1999-ready-to-wear-CN10007175-kirsten-owen.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 1999 Couture",
+   "season": "spring-1999-couture",
+   "path": "/fashion-shows/spring-1999-couture/chanel",
+   "cover": {
+    "id": "5c3cfc2bbb4ebf2cf668a43c",
+    "file": "054-chanel-spring-1999-couture-Img007258-devon-aoki.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 1999 Couture",
+   "season": "fall-1999-couture",
+   "path": "/fashion-shows/fall-1999-couture/chanel",
+   "cover": {
+    "id": "5c3e0e41b1e3112d73b7a2b4",
+    "file": "057-chanel-fall-1999-couture-CN10051393-colette-pechekhonova.jpg",
+    "w": 1024,
+    "h": 1529
+   }
+  },
+  {
+   "name": "Fall 1997 Couture",
+   "season": "fall-1997-couture",
+   "path": "/fashion-shows/fall-1997-couture/chanel",
+   "cover": {
+    "id": "61b675e5a8962b040b477627",
+    "file": "057-chanel-fall-1997-couture-CN10008808-trish-goff.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 1997 Couture",
+   "season": "spring-1997-couture",
+   "path": "/fashion-shows/spring-1997-couture/chanel",
+   "cover": {
+    "id": "5c3cccbd8470062d5f415756",
+    "file": "082-chanel-spring-1997-couture-CN1000085-shalom-harlow.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 1996 Ready-to-Wear",
+   "season": "spring-1996-ready-to-wear",
+   "path": "/fashion-shows/spring-1996-ready-to-wear/chanel",
+   "cover": {
+    "id": "5df407f5273684000804d8b1",
+    "file": "001-chanel-spring-1996-ready-to-wear-details-CN10007503-claudia-schiffer.jpg",
+    "w": 1024,
+    "h": 1537
+   }
+  },
+  {
+   "name": "Fall 1996 Couture",
+   "season": "fall-1996-couture",
+   "path": "/fashion-shows/fall-1996-couture/chanel",
+   "cover": {
+    "id": "644aaa99c3f368575684fd49",
+    "file": "090-chanel-fall-1996-couture-detail-CN10059575-shalom-harlow.jpg",
+    "w": 1024,
+    "h": 1534
+   }
+  },
+  {
+   "name": "Spring 1995 Ready-to-Wear",
+   "season": "spring-1995-ready-to-wear",
+   "path": "/fashion-shows/spring-1995-ready-to-wear/chanel",
+   "cover": {
+    "id": "5df416e01b39030008c1bf7e",
+    "file": "171-chanel-spring-1995-ready-to-wear-Img011294-claudia-schiffer.jpg",
+    "w": 1024,
+    "h": 1501
+   }
+  },
+  {
+   "name": "Fall 1995 Couture",
+   "season": "fall-1995-couture",
+   "path": "/fashion-shows/fall-1995-couture/chanel",
+   "cover": {
+    "id": "6448957b346bc6316520f8e7",
+    "file": "018-chanel-fall-1995-couture-CN10059842.jpg",
+    "w": 1024,
+    "h": 1548
+   }
+  },
+  {
+   "name": "Fall 1994 Ready-to-Wear",
+   "season": "fall-1994-ready-to-wear",
+   "path": "/fashion-shows/fall-1994-ready-to-wear/chanel",
+   "cover": {
+    "id": "5df516dd52557b0009db3c7b",
+    "file": "002-chanel-fall-1994-ready-to-wear-CN10010138-christy-turlington.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 1994 Ready-to-Wear",
+   "season": "spring-1994-ready-to-wear",
+   "path": "/fashion-shows/spring-1994-ready-to-wear/chanel",
+   "cover": {
+    "id": "55da1357c2ab1c812a3471b0",
+    "file": "CHANEL-SPRING-1994-RTW-01-WALLIS-FRANCKEN.jpg",
+    "w": 1024,
+    "h": 1551
+   }
+  },
+  {
+   "name": "Spring 1993 Ready-to-Wear",
+   "season": "spring-1993-ready-to-wear",
+   "path": "/fashion-shows/spring-1993-ready-to-wear/chanel",
+   "cover": {
+    "id": "5df579837190000008f265b4",
+    "file": "001-chanel-spring-1993-ready-to-wear-CN10012637-claudia-schiffer.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Spring 1993 Couture",
+   "season": "spring-1993-couture",
+   "path": "/fashion-shows/spring-1993-couture/chanel",
+   "cover": {
+    "id": "6446eee88304d390d4d82461",
+    "file": "075-chanel-fall-1993-couture-detail-CN00119876-helena-christensen.jpg",
+    "w": 1024,
+    "h": 1549
+   }
+  },
+  {
+   "name": "Spring 1992 Ready-to-Wear",
+   "season": "spring-1992-ready-to-wear",
+   "path": "/fashion-shows/spring-1992-ready-to-wear/chanel",
+   "cover": {
+    "id": "5df3cc58da663b00098d938e",
+    "file": "001-chanel-spring-1992-ready-to-wear-CN10011870-linda-evangelista.jpg",
+    "w": 1024,
+    "h": 1536
+   }
+  },
+  {
+   "name": "Fall 1991 Ready-to-Wear",
+   "season": "fall-1991-ready-to-wear",
+   "path": "/fashion-shows/fall-1991-ready-to-wear/chanel",
+   "cover": {
+    "id": "5df1356a273684000804d71b",
+    "file": "009-chanel-fall-1991-ready-to-wear-CN10052939-helena-christensen.jpg",
+    "w": 1024,
+    "h": 1559
+   }
+  }
+ ],
+ "fetchedAt": "2026-10-09T12:48:01"
+}

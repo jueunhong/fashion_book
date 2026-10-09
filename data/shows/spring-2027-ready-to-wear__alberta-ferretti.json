@@ -1,0 +1,546 @@
+{
+ "key": "spring-2027-ready-to-wear__alberta-ferretti",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alberta-ferretti",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "alberta-ferretti",
+ "brandName": "Alberta Ferretti",
+ "designers": "By Lorenzo Serafini",
+ "eventDate": "2026-09-24T14:00:00.000Z",
+ "pubDate": "September 24, 2026",
+ "authors": [
+  "Tiziana Cardini"
+ ],
+ "reviewHtml": "<div><p>There was something unhurried about Alberta Ferretti this season, as if Lorenzo Serafini had decided that the best way to deal with reality was simply to slow it down. His spring collection moved in languid suspension: dresses drifting rather than walking, feathers trembling, metallic threads catching the light, the body slipping in and out of clothes with the ease of someone who has nowhere particularly urgent to be.</p><p>Serafini called it an escape, and there was certainly an exotic fantasy at work, but this was less a departure from reality than a decision to make reality more seductive. His references wandered through the 1920s, from Léon Bakst and the Ballets Russes to the decorative exquisiteness of Callot Soeurs, with Matisse hovering somewhere in the background. Lingerie, boudoir dressing, kimonos, breezy balloon pants and fluid layers suggested a world in which getting dressed and undressing had become almost interchangeable activities.</p><p>The most immediate departure was color. Serafini, who had never really approached it this way before, went for saturated blues, teals, rusts and mustard, with lilac, pistachio and powder pink appearing like softer afterthoughts. It gave the opening looks the intensity of a summer that, these days, seems increasingly unwilling to know when to leave.</p><p>Floral motifs dissolved across a mercurial Japanese fabric, its fine metallic thread producing an almost liquid sheen. The material had the duplicitous ability to look both archival and vaguely science-fictional. That contradiction became one of the collection’s pleasures: what looked like duchesse silk had a deliberately used, almost crumpled surface; what suggested feathers turned out to be tiny metallic tubes, engineered to catch the air and exaggerate the movement of the body. Serafini’s trick was to make new materials behave like memories. The clothes could have been excavated from some decadent wardrobe of the 1920s, except that nothing about their construction actually belonged to the past.</p><p>The references became more explicit in the kimono-like pieces, their sinuous shapes interrupted by abstract illustrations, while lingerie-inspired motifs appeared without ever tipping into literal boudoir costume. There was plenty of delicate dentelle and feathering, plenty of skin, but the effect was seductive rather than overtly sexy, a very Serafini distinction.</p><p>And movement was really the point. The fabrics were so light that Serafini spoke of building layers while keeping barely 20 grams on the body; everything floated, fluttered or trembled. The result was a kind of slow-motion extravagance, where even the more decadent elements seemed to have been relieved of their weight. The vocabulary of 1920s decadence—feathers, lingerie, exoticism, languor—was given a sort of technological nervous system: the fantasy was vintage, the mechanics were not. Perhaps that was the more interesting meaning of escape here. Not disappearing into some dream of the past, but making the present feel briefly less solid.</p></div>",
+ "cover": {
+  "id": "6ab568771fa17d01eb2c7d6f",
+  "file": "00001-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab568771fa17d01eb2c7d6f",
+     "file": "00001-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab568775bba8da22d80803c",
+     "file": "00002-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab568779b0c1ee9de1aa9a7",
+     "file": "00003-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab56879834c79e817fdaa34",
+     "file": "00004-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab56879f1d4a8b18e7b7033",
+     "file": "00005-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab568795ab61c03e1e81781",
+     "file": "00006-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab5687b4d44d052a6a76a53",
+     "file": "00007-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab5687b298d211513bdc31d",
+     "file": "00008-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab5687b77240a31bb3ced68",
+     "file": "00009-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab5687d8a326f4df3797977",
+     "file": "00010-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab5687d4d44d052a6a76a59",
+     "file": "00011-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab5687d4a1e0e4b6a3c32b6",
+     "file": "00012-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab5687fb66ba1d3c6f1459d",
+     "file": "00013-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab5687fbb458945b5d06698",
+     "file": "00014-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab5687f9b0c1ee9de1aa9ad",
+     "file": "00015-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab56880ce32775c54c9783b",
+     "file": "00016-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab568818701e4ac4e6fe871",
+     "file": "00017-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab5688165db88057ecafd26",
+     "file": "00018-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab56882d5a11deed144f666",
+     "file": "00019-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab568834d44d052a6a76a60",
+     "file": "00020-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab568834d44d052a6a76a62",
+     "file": "00021-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab56884e2af6992568cb19b",
+     "file": "00022-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab568855ac10a45bed20358",
+     "file": "00023-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab568856905671906927c39",
+     "file": "00024-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab568878623499d724ee9de",
+     "file": "00025-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab56887da8ff5a62a341bcb",
+     "file": "00026-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab56887444958df2a7f5792",
+     "file": "00027-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab568895bba8da22d808042",
+     "file": "00028-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab5688977240a31bb3ced79",
+     "file": "00029-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab56889e70928d204bb822f",
+     "file": "00030-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab5688ad992ab7f0f227ebc",
+     "file": "00031-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab5688bd0020d617473f3ed",
+     "file": "00032-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab5688b202d4a1414b58e82",
+     "file": "00033-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab5688dea17a870b74c8530",
+     "file": "00034-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab5688d02a433e13f3b6fc2",
+     "file": "00035-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab5688dce32775c54c97846",
+     "file": "00036-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab5688e1a75d77275fe1027",
+     "file": "00037-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab5688fb1609c31f9cb37b5",
+     "file": "00038-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab5688f2f82655828c2891b",
+     "file": "00039-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab56890534470aac4383859",
+     "file": "00040-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab56891ed28e05ed5a002f0",
+     "file": "00041-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab568914d44d052a6a76a6b",
+     "file": "00042-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab56892f1d4a8b18e7b7039",
+     "file": "00043-alberta-ferretti-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6ab5645ca1df956fd9611db9",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6ab5645d158dd36171870648",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6ab5645dda8ff5a62a341bbb",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6ab56460d0020d617473f3a2",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6ab56460e9158f3b75d06d1b",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6ab5646037270f01060494bf",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6ab5646302a433e13f3b6f9e",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6ab5646375798d6d49649208",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6ab5646337270f01060494c6",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6ab56466e37ba4d871321580",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6ab564672815705f29731b39",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6ab564679c006cc96f027fe7",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6ab56469baa4ac93e4bc2e07",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6ab5646a3e7d2167222a849d",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6ab5646a298d211513bdc2f9",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6ab5646c90c017bcf55da5e3",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6ab5646d8a326f4df3797941",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6ab5646dd0020d617473f3a9",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6ab5646f4e38b16974262baf",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6ab564714ca9db33ed4fba16",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6ab564714ca9db33ed4fba18",
+     "file": "AlbertaFerretti_MilanFashionweek_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:10:06"
+}

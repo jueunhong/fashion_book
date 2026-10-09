@@ -1,0 +1,1402 @@
+{
+ "key": "spring-2027-ready-to-wear__junya-watanabe",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/junya-watanabe",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "junya-watanabe",
+ "brandName": "Junya Watanabe",
+ "designers": "By Junya Watanabe",
+ "eventDate": "2026-10-03T08:30:00.000Z",
+ "pubDate": "October 3, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>This was a pinch-me show: one of the finest goodies of fashion month. Ciara’s runway cameo for Junya Watanabe drew whoops and cries of “Yessss!” from the audience each time she passed, wearing, respectively, a head-suspended chandelier harness-dress; a spiralized, deconstructed biker jacket; and a trench cloak. She provided the headline as Watanabe presented a collection titled Funky that used catsuits as canvases upon which to draw new expressions from familiar forms. It felt fresh.</p><p>The show had two phases, each delineated by music: Chaka Khan’s “Like Sugar” and Michael Jackson’s “I Just Can’t Stop Loving You.” The collection felt like an intersectional evolution of Watanabe’s most recent womenswear and menswear shows, The Art of Assemblage Couture and Bling. In fact, Ciara’s Kota Okuda–customized Red Sox cap looked lifted straight from that June menswear runway.</p><p>Watanabe applied his pragmatically anarchic lens not only to garments but also to the medium of the fashion show. Through the movement direction of Pat Boguslawski, he sampled and quasi-satirically remixed two genres of runway performance from the past. During the first Khan section, the models worked the exaggerated attitude, moues, pouts, head touching, and winks of the high-glamour runway era associated with Pat Cleveland. Jackson’s power ballad shifted the delivery to a chin-up, semi-Stepford elegance that recalled the haute couture presentations of the 1950s and ’60s.</p><p>The clothes were subjected to similar sampling and reconstruction. Watanabe began with recognizable objects and garments, then manifested innovation through interrogating what new shape each could become. A metallic breastplate exploded outward in a starburst of spikes. Another look wrapped the torso in what appeared to be a red bicycle-like frame. Circuit boards, wiring, chains, and mesh were assembled into a dress. Familiar punk stud hardware was blown up, pulled apart, or redistributed across the body. There were many riffs on the classic codes Watanabe has long enjoyed pushing against. Cropped, Chanel-ish tweed jackets were lavishly strewn with crazily proportioned pearls. More pearls migrated onto biker jackets whose zippers and panels had been liberated from their original functional placements.</p><p>The first, faster section was bouncy and extroverted. Then “I Just Can’t Stop Loving You” tempered the tempo against a backdrop of dry ice. Trench coats became dresses and capes, tailored jackets were disassembled and refitted. There was a shiny black version of section one’s monumental matte metallic exploding breastplate. Long, stately dresses were shown as if X-rayed, the boning of their corsetry visible. Crochet knits played down the torso like a rib cage. This section was a retrospective investigation of long-gone couture tropes presented with huge verve and wit, ably supported by the brilliant hair and makeup of Eugene Souleiman and Isamaya Ffrench.</p><p>At a moment when many apex brands in the luxury fashion world are playing cover versions of the same old standards—even as it becomes clear that audience appetite has fundamentally altered—Watanabe’s thrillingly punkish creative destruction of those classics pointed to a way ahead.</p></div>",
+ "cover": {
+  "id": "6ac0e7c7012a68e51bac6bb1",
+  "file": "00001-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ac0e7c7012a68e51bac6bb1",
+     "file": "00001-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ac0e7c7ca5ede010f12c960",
+     "file": "00002-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ac0e7c9ce375c64b20344f2",
+     "file": "00003-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ac0e7cadccb542c38ec7b7a",
+     "file": "00004-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ac0e7cae96d8a4b3c42e1bb",
+     "file": "00005-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ac0e7cc559c0c69ac22865c",
+     "file": "00006-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ac0e7cd4281b5dd1bde1b9c",
+     "file": "00007-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ac0e7cd4c52c0de8642a0c1",
+     "file": "00008-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ac0e7c82023fd2098107eb6",
+     "file": "00009-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ac0e7ce150563bd5082a348",
+     "file": "00010-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ac0e7d0cebfac3465f87d4c",
+     "file": "00011-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ac0e7d057c551bb0c87bb56",
+     "file": "00012-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ac0e7d1c6a00ccd679be31a",
+     "file": "00013-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ac0e7d2cebfac3465f87d53",
+     "file": "00014-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ac0e7d33d7cb8d7df6cd3f7",
+     "file": "00015-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ac0e7d4754af37d9dc38ded",
+     "file": "00016-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ac0e7d5a3913baec7e04af5",
+     "file": "00017-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ac0e7d6f8fce5767e6cf0b9",
+     "file": "00018-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ac0e7d73232cb8c69e8b6c6",
+     "file": "00019-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ac0e7d8a2fa1a04d7a92a27",
+     "file": "00020-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ac0e7da3d7cb8d7df6cd3fe",
+     "file": "00021-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ac0e7db03caf3ff1e637549",
+     "file": "00022-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ac0e7db902b27db4efcf2aa",
+     "file": "00023-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ac0e7df41daa3a737ced672",
+     "file": "00024-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ac0e7e02e02214eebac4a13",
+     "file": "00025-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ac0e7e07c368cae901384c9",
+     "file": "00026-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ac0e7e44c53c4a6701517b8",
+     "file": "00027-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ac0e7e6c23ae62f45a42bed",
+     "file": "00028-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ac0e7e6f623c259f81a3d19",
+     "file": "00029-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ac0e7ea64a1bb6d452b3950",
+     "file": "00030-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ac0e7ec57c551bb0c87bb5d",
+     "file": "00031-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ac0e7ec8ae7e686ab85fab7",
+     "file": "00032-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ac0e7efe979be3eb4b8c6a3",
+     "file": "00033-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ac0e7f22023fd2098107ec0",
+     "file": "00034-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ac0e7f2cebfac3465f87d5a",
+     "file": "00035-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ac0e7f4ce375c64b2034505",
+     "file": "00036-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ac0e7f8ae79d57f05fff100",
+     "file": "00037-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ac0e7f93bd6d6f7cde0ac2a",
+     "file": "00038-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ac0e7fbb8f1d8d045279c48",
+     "file": "00039-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ac0e7ff62ec73b1074f9119",
+     "file": "00040-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ac0e801b8f1d8d045279c4f",
+     "file": "00041-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ac0e8013232cb8c69e8b6d6",
+     "file": "00042-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ac0e806daf84fb52107c43a",
+     "file": "00043-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ac0e8099df5fcde414fd7b9",
+     "file": "00044-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ac0e809bafc4fd8ce6dac83",
+     "file": "00045-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ac0e80cad3b31918381b566",
+     "file": "00046-junya-watanabe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ac0fe5a276cafe18f7b1fee",
+     "file": "00001-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ac0fe5abc251d176852e76e",
+     "file": "00002-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ac0fe59193a83109b2b3103",
+     "file": "00003-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ac0fe5d3d7cb8d7df6cd446",
+     "file": "00004-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ac0fe5d34156006375cff66",
+     "file": "00005-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ac0fe5d746a1f8889ec85cb",
+     "file": "00006-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ac0fe60c78f8fbfbb1c4264",
+     "file": "00007-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ac0fe60069a75b94a1eb0f4",
+     "file": "00008-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ac0fe61c4da3082e3d89572",
+     "file": "00009-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ac0fe638ed46cc687351945",
+     "file": "00010-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ac0fe631995ccfb977db31d",
+     "file": "00011-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ac0fe64fdec02cd78845ab2",
+     "file": "00012-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ac0fe650a2b0e578eaebc9a",
+     "file": "00013-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ac0fe66a806c63c2dc27e5d",
+     "file": "00014-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ac0fe673f89a8a947fa2acb",
+     "file": "00015-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ac0fe672023fd2098107f49",
+     "file": "00016-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ac0fe69559c0c69ac2286e6",
+     "file": "00017-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ac0fe6acebfac3465f87daf",
+     "file": "00018-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ac0fe6ac50141a8bfb2a85a",
+     "file": "00019-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ac0fe6baff92533fd300233",
+     "file": "00020-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ac0fe6d62ec73b1074f9199",
+     "file": "00021-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ac0fe6dcc3fa7edff416151",
+     "file": "00022-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ac0fe6e8c1bd493c8bef1ab",
+     "file": "00023-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ac0fe6f7cb6738462fbd07e",
+     "file": "00024-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ac0fe71bc251d176852e775",
+     "file": "00025-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ac0fe71012a68e51bac6c08",
+     "file": "00026-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ac0fe717af546515529c661",
+     "file": "00027-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ac0fe73ca5ede010f12c9d3",
+     "file": "00028-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ac0fe744d254d28e930715b",
+     "file": "00029-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ac0fe7434156006375cff6d",
+     "file": "00030-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ac0fe76a2fa1a04d7a92a88",
+     "file": "00031-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ac0fe77177abff9e0186f28",
+     "file": "00032-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ac0fe77652d8e99615c6ded",
+     "file": "00033-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ac0fe78177abff9e0186f2f",
+     "file": "00034-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ac0fe7b925266d327a95f05",
+     "file": "00035-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ac0fe7bb452e7649827375e",
+     "file": "00036-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ac0fe7baff92533fd30023a",
+     "file": "00037-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ac0fe7d4fc686a4550dd02e",
+     "file": "00038-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ac0fe7ec23ae62f45a42c2b",
+     "file": "00039-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ac0fe7ecebfac3465f87dbc",
+     "file": "00040-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ac0fe7f62ec73b1074f91a0",
+     "file": "00041-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ac0fe81193a83109b2b3110",
+     "file": "00042-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ac0fe82ca5ede010f12c9da",
+     "file": "00043-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ac0fe8225d0ccf4d5ee7e9c",
+     "file": "00044-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ac0fe847cb6738462fbd085",
+     "file": "00045-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ac0fe85cc3fa7edff416158",
+     "file": "00046-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ac0fe853d7cb8d7df6cd44d",
+     "file": "00047-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ac0fe8764a1bb6d452b3985",
+     "file": "00048-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ac0fe883232cb8c69e8b6fe",
+     "file": "00049-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ac0fe89ec0d05a3812ec7ec",
+     "file": "00050-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ac0fe89149ad464111cac3e",
+     "file": "00051-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ac0fe8b25d0ccf4d5ee7ea3",
+     "file": "00052-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ac0fe8b3f645faaa658db4f",
+     "file": "00053-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ac0fe8c177abff9e0186f36",
+     "file": "00054-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ac0fe8e85b2e9a9cbecb95d",
+     "file": "00055-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ac0fe8f3bd6d6f7cde0ac87",
+     "file": "00056-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ac0fe8f41daa3a737ced6eb",
+     "file": "00057-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ac0fe90cc3fa7edff416165",
+     "file": "00058-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ac0fe92a2fa1a04d7a92a8f",
+     "file": "00059-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ac0fe929df5fcde414fd7e5",
+     "file": "00060-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ac0fe93dccb542c38ec7bc7",
+     "file": "00061-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ac0fe9539b91c662fc1744a",
+     "file": "00062-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ac0fe963d7cb8d7df6cd454",
+     "file": "00063-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ac0fe96c23ae62f45a42c32",
+     "file": "00064-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ac0fe970a55a75a04ee9e7a",
+     "file": "00065-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ac0fe9903caf3ff1e6375b1",
+     "file": "00066-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ac0fe994c52c0de8642a121",
+     "file": "00067-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ac0fe9a8ee395d7d6c26cb4",
+     "file": "00068-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ac0fe9ddaf84fb52107c476",
+     "file": "00069-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ac0fe9d754af37d9dc38e2b",
+     "file": "00070-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ac0fe9db0104b9c1a1aa174",
+     "file": "00071-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ac0fea0149ad464111cac45",
+     "file": "00072-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ac0fea04d254d28e9307162",
+     "file": "00073-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ac0fea03f645faaa658db56",
+     "file": "00074-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ac0fea30a2b0e578eaebca1",
+     "file": "00075-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ac0fea49df5fcde414fd7ec",
+     "file": "00076-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ac0fea444d7e0e414e3feef",
+     "file": "00077-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ac0fea54c53c4a670151813",
+     "file": "00078-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ac0fea6c23ae62f45a42c39",
+     "file": "00079-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ac0fea762ec73b1074f91a7",
+     "file": "00080-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6ac0fea73232cb8c69e8b705",
+     "file": "00081-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6ac0fea93d7cb8d7df6cd45b",
+     "file": "00082-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6ac0feaa150563bd5082a398",
+     "file": "00083-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6ac0feaaa806c63c2dc27e64",
+     "file": "00084-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6ac0feab3232cb8c69e8b70c",
+     "file": "00085-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6ac0fead4c52c0de8642a128",
+     "file": "00086-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6ac0fead39b91c662fc17451",
+     "file": "00087-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6ac0feae58b4304da3e88b4f",
+     "file": "00088-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6ac0feb14c53c4a67015181a",
+     "file": "00089-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6ac0feb2754af37d9dc38e32",
+     "file": "00090-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6ac0feb1276cafe18f7b1ffb",
+     "file": "00091-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6ac0feb41805401f71cb52cc",
+     "file": "00092-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6ac0feb57af546515529c67a",
+     "file": "00093-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6ac0feb58c1bd493c8bef1b2",
+     "file": "00094-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6ac0feb6ca5ede010f12c9e1",
+     "file": "00095-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6ac0feb8ad3b31918381b598",
+     "file": "00096-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6ac0feb83d7cb8d7df6cd462",
+     "file": "00097-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6ac0febbcc3fa7edff41616c",
+     "file": "00098-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6ac0febdc78f8fbfbb1c426b",
+     "file": "00099-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6ac0febd4c52c0de8642a12f",
+     "file": "00100-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6ac0febdae79d57f05fff19c",
+     "file": "00101-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6ac0fec0cc3fa7edff416173",
+     "file": "00102-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6ac0fec0cebfac3465f87dcf",
+     "file": "00103-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6ac0fec1c6a00ccd679be36e",
+     "file": "00104-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6ac0fec3fdec02cd78845ac5",
+     "file": "00105-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6ac0fec30a55a75a04ee9e99",
+     "file": "00106-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6ac0fec441daa3a737ced6f8",
+     "file": "00107-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6ac0fec63f89a8a947fa2ad2",
+     "file": "00108-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6ac0fec79a1bf4f176e9f6e6",
+     "file": "00109-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6ac0fec7ca5ede010f12c9e8",
+     "file": "00110-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6ac0fec9a3913baec7e04b41",
+     "file": "00111-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6ac0feca9df5fcde414fd7f3",
+     "file": "00112-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6ac0feca754af37d9dc38e3f",
+     "file": "00113-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6ac0fecce979be3eb4b8c701",
+     "file": "00114-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6ac0fece41daa3a737ced6ff",
+     "file": "00115-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6ac0fecd3f89a8a947fa2ad9",
+     "file": "00116-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6ac0fecf77f32d7588ae7ada",
+     "file": "00117-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6ac0fed02e02214eebac4a7c",
+     "file": "00118-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6ac0fed0c4da3082e3d89579",
+     "file": "00119-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6ac0fed14603b83417be33da",
+     "file": "00120-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6ac0fed3c23ae62f45a42c40",
+     "file": "00121-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6ac0fed3ca5ede010f12c9ef",
+     "file": "00122-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6ac0fed441daa3a737ced706",
+     "file": "00123-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6ac0fed58ae7e686ab85faf5",
+     "file": "00124-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6ac0fed664a1bb6d452b399e",
+     "file": "00125-junya-watanabe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:16:02"
+}

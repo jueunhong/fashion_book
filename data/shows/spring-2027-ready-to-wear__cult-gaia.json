@@ -1,0 +1,532 @@
+{
+ "key": "spring-2027-ready-to-wear__cult-gaia",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cult-gaia",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "cult-gaia",
+ "brandName": "Cult Gaia",
+ "designers": "By Jasmin Larian Hekmat",
+ "eventDate": "2026-09-09T17:00:00.000Z",
+ "pubDate": "September 9, 2026",
+ "authors": [
+  "Christian Allaire"
+ ],
+ "reviewHtml": "<div><p>Grief could seem like a bleak driving force for a new collection, but this season Cult Gaia designer Jasmin Larian Hekmat wanted to explore how beauty can reveal itself in the aftermath of a dark mourning period. The designer lost her grandmother, Mommy Aghdas, earlier this year. “It’s bizarre how transformative grief can be,” said Hekmat. “You can experience grief, but also a simultaneous sense of celebration.” As she grappled with these feelings, Hekmat wondered if her lineup of spring clothes could convey a similar storyline of duality. </p><p>As a result, the collection—titled “Behesht,” the Persian word for heaven—saw an evolution from darker, moodier pieces to looks that felt a little more light and upbeat. It was a cinematic approach to crafting a line—wanting looks that convey both melancholy and joy—but for Hekmat, who marked only her second time showing during New York Fashion Week today, this theatrical approach felt right. </p><p>If her opening looks were meant to be more somber or austere, they succeeded, without being too serious. Her opener was a deep-olive green suit, given a puffed shoulder and capri pant. It was followed by another dress in the same hue, made in a plissé fabric that was woven and given a swishy hemline. These offerings felt more stark and edgy compared to her usual assortment of easy-breezy vacation wear, if not sightly out of character. Perhaps that was the point.</p><p>Her foray into menswear, which is rapidly growing for her—“it’s nice to have a new muse,” she said—included a black linen-taille suit, perfectly boxy and slouchy in all the right areas. When the collection lightened up and veered more towards levity, that’s when things got even more intriguing. Hekmat excels when leaning into fun and lightheartedness, and her vision for menswear felt fresh in that department: She designed a cool pair of tweed board shorts with fringed hems, and a plum plissé button-up with built-in necktie. Both felt like necessary additions to the still-too-safe men’s space.</p><p>The more perky women’s looks, meanwhile, also shined the brightest. Hekmat made a golden chainmail skirt that clinked and clanked down the runway, like a soothing fashion ASMR. Her sheer, chiffony two-piece floral set is the easy kind of thing that anyone could wear on a tropical trip—though her golden gladiator sandals to go with it were a much more polarizing proposition. Hekmat concluded the show with a bang, with a series of hand-painted silk gowns that were dip-dyed to look like they were made of feathers. They were shown as real pink flower petals fell from the ceiling—boinking jaded fashion editors on the heads and getting even them to crack a smile. Her intention to find cheer, in even the most staid of settings, was clearly a success.</p></div>",
+ "cover": {
+  "id": "6aa1d37dae66dd4d38b3d8c4",
+  "file": "00001-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa1d37dae66dd4d38b3d8c4",
+     "file": "00001-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa1d37d8849042b1d5a122b",
+     "file": "00002-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa1d37db710a9cf6b62192b",
+     "file": "00003-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa1d381c4989626b9ce6095",
+     "file": "00004-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa1d3810d9024367c89f617",
+     "file": "00005-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa1d381d400b5d427064a6e",
+     "file": "00006-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa1d384ba261da29a2ab0c9",
+     "file": "00007-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa1d384c4989626b9ce609c",
+     "file": "00008-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa1d3842b9168b4153c9f83",
+     "file": "00009-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa1d386aece9c0cb3fc00f0",
+     "file": "00010-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa1d3870a2be2549d851248",
+     "file": "00011-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa1d38790307c30e8448e30",
+     "file": "00012-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa1d389ba261da29a2ab0d6",
+     "file": "00013-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa1d389b710a9cf6b621932",
+     "file": "00014-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa1d38907b669198d51a403",
+     "file": "00015-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa1d38cda3a1c3c285561dc",
+     "file": "00016-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa1d38cae66dd4d38b3d8cb",
+     "file": "00017-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa1d38c175cc0202011d070",
+     "file": "00018-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa1d38f397dc387b11d817a",
+     "file": "00019-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa1d38fb710a9cf6b62193f",
+     "file": "00020-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa1d38fba261da29a2ab0dd",
+     "file": "00021-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa1d391aece9c0cb3fc0100",
+     "file": "00022-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa1d3922b9168b4153c9f8a",
+     "file": "00023-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa1d392afe9493e7d68cde7",
+     "file": "00024-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa1d394e19fc9b52cafb25c",
+     "file": "00025-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa1d3957bc0b579a0a5f16a",
+     "file": "00026-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa1d3950ecdc80a97adf36f",
+     "file": "00027-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa1d39658d4949ffdbd3dd7",
+     "file": "00028-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa1d3982b9168b4153c9f91",
+     "file": "00029-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa1d397c4989626b9ce60a9",
+     "file": "00030-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa1d399e19fc9b52cafb263",
+     "file": "00031-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa1d39aafe9493e7d68cdf4",
+     "file": "00032-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa1d39ada3a1c3c285561e3",
+     "file": "00033-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa1d39c0d9024367c89f624",
+     "file": "00034-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa1d39d58d4949ffdbd3dde",
+     "file": "00035-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa1d39d397dc387b11d8187",
+     "file": "00036-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa1d39f5e24480bd0bcc49b",
+     "file": "00037-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa1d3a007b669198d51a40a",
+     "file": "00038-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa1d3a0ae66dd4d38b3d8d8",
+     "file": "00039-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa1d3a28d6d24b5a27eb8f0",
+     "file": "00040-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa1d3a2d400b5d427064a7f",
+     "file": "00041-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa1d3a2afe9493e7d68cdfe",
+     "file": "00042-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa1d3a5397dc387b11d818e",
+     "file": "00043-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa1d3a53ff5b8b373552d00",
+     "file": "00044-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa1d3a5d6712a9f7989a25c",
+     "file": "00045-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa1d3a707b669198d51a41a",
+     "file": "00046-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aa1d3a88b449b7093b8eb06",
+     "file": "00047-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6aa1d3a88849042b1d5a1238",
+     "file": "00048-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6aa1d3aac4989626b9ce60b6",
+     "file": "00049-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6aa1d3aa8d6d24b5a27eb900",
+     "file": "00050-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6aa1d3aae19fc9b52cafb276",
+     "file": "00051-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6aa1d3ac90307c30e8448e4f",
+     "file": "00052-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6aa1d3ad175cc0202011d086",
+     "file": "00053-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6aa1d3add6712a9f7989a263",
+     "file": "00054-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6aa1d3ae58d4949ffdbd3deb",
+     "file": "00055-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6aa1d3b08b449b7093b8eb0d",
+     "file": "00056-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6aa1d3b00a2be2549d851264",
+     "file": "00057-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6aa1d3b13ff5b8b373552d0d",
+     "file": "00058-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6aa1d3b3c4989626b9ce60bd",
+     "file": "00059-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6aa1d3b23ff5b8b373552d14",
+     "file": "00060-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6aa1d3b37bc0b579a0a5f186",
+     "file": "00061-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6aa1d3b42b9168b4153c9fa4",
+     "file": "00062-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6aa1d3b58b449b7093b8eb14",
+     "file": "00063-cult-gaia-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:03"
+}

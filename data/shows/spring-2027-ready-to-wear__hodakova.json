@@ -1,0 +1,1690 @@
+{
+ "key": "spring-2027-ready-to-wear__hodakova",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hodakova",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "hodakova",
+ "brandName": "Hodakova",
+ "designers": "By Ellen Hodakova Larsson",
+ "eventDate": "2026-09-28T16:00:00.000Z",
+ "pubDate": "September 28, 2026",
+ "authors": [
+  "Laird Borrelli-Persson"
+ ],
+ "reviewHtml": "<div><p>Who knew that Ellen Hodakova Larsson, a known “horse girl,” had the facility to move as easily in the surf as on turf? It turns out the designer grew up sailing. This summer, on the second day of two weeks at sea, her phone died. “I was in a very Zen moment with the ocean,” she said on a call. It was an experience that seems to have deepened Hodakova’s already close connection to nature. “I wanted to highlight the aquatic world because the oceans are essential for us to be able to live,” she said.</p><p>Material and moral awareness is what Hodakova’s brand is built on. As it happens, marine tackle is wonderfully varied and gave the designer plenty to work with in addition to recurring staples such as leather and bed linens. The theme extended beyond the clothes: models walked on a runway covered with sea salt; the soundtrack referenced Luc Besson’s 1988 film, <em>Le Grand Bleu</em>.</p><p>The opening looks, which taken together formed a wardrobe of archetypes from shift to trench, were made from a sturdy waxed cloth; its durability read as papery fragility. A suite of sailor-collared designs was followed by some of the deconstructed tailoring the brand is known for; note the dress and jacket made from trousers. From here the designer really started to get her feet wet, showing pieces made from sails. Hawser rope was worked into chunky (and potentially scratchy) knits. Its heft contrasted with the delicacy of fishing nets—both industrial and hand made—the designer made use of. The “hems” of the mesh on the dresses where it hung loose looked like they had lettuce (or in this case seaweed) edges.</p><p>Transparency is a (see) through line of the season and Hodakova achieved that by wetting some of the garments. Normally, you’d want to be clear of the water if there was a chance of encountering strong-jawed reptiles who swim, in contrast you’d want to get really close to the black coat (look 31) because Hodakova and her team painstakingly used leftover scraps of leather to mimic the texture and pattern of crocodile skin.</p><p>This was an accomplished collection defined by clarity, a sense of brittle delicacy (at the start), and a faint air of melancholy like the salty taste of dried tears. That wistful sadness has some of its roots in Hodakova’s sensitivity to the treatment of animals. The models caught in fishing nets can be read as a metaphor for how we treat other species. “They’re trapped into what we are pushing them into and they have no choice,” the designer said. Fashion, on the other hand, is almost entirely discretionary. Because of the mindful way that Hodakova has built her practice, customers have the option to engage with a brand that stands for something beyond profit.</p></div>",
+ "cover": {
+  "id": "6abccc79fcc02c67e9afacb7",
+  "file": "00001-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abccc79fcc02c67e9afacb7",
+     "file": "00001-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abccc79519e9125b428fd1d",
+     "file": "00002-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abccc79aeee0c2edcf0ae29",
+     "file": "00003-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abccc7c471c189650aba3de",
+     "file": "00004-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abccc7c0c1a095af5caba86",
+     "file": "00005-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abccc7c1c504b5592bbb9ac",
+     "file": "00006-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abccc7e36e760356e2d0d7a",
+     "file": "00007-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abccc7e36e75c709cc9fd97",
+     "file": "00008-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abccc7e67be225e4706499b",
+     "file": "00009-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abccc8017a97ab0a62f2e04",
+     "file": "00010-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abccc81338aa8b16cffbe9f",
+     "file": "00011-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abccc8051b8297208635b29",
+     "file": "00012-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abccc830c1a095af5caba8d",
+     "file": "00013-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abccc83cf784b933dcecbd5",
+     "file": "00014-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abccc83fc36c88681ece22a",
+     "file": "00015-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abccc84b51ae59f7bc4bae6",
+     "file": "00016-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abccc850f01d01a2f0954fe",
+     "file": "00017-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abccc8564df9ff0ba77e752",
+     "file": "00018-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abccc863e0c23a9571c1ca8",
+     "file": "00019-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abccc870c1a095af5caba94",
+     "file": "00020-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abccc87b6588cd04b0650f3",
+     "file": "00021-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abccc888508582463897b39",
+     "file": "00022-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abccc89941fb4dc3138e5ef",
+     "file": "00023-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abccc890f01d01a2f095505",
+     "file": "00024-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abccc8bd0af194eaa82f6f1",
+     "file": "00025-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abccc8bdd1392a12b54b018",
+     "file": "00026-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abccc8cd372b074d9b39a09",
+     "file": "00027-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abccef45a78a31598bd27f6",
+     "file": "00027a-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abccc8cb6588cd04b0650fa",
+     "file": "00028-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abccc8e519e9125b428fd2a",
+     "file": "00029-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6abccc8e1ff9670a48eba7e7",
+     "file": "00030-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6abccc8e580577bf94b535f6",
+     "file": "00031-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6abccc90ca1a310dbb2ee4a2",
+     "file": "00032-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6abccc90bfbd494aa5a9c3c3",
+     "file": "00033-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6abccc936779d77ef3144dd5",
+     "file": "00035-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6abccfc4ca6e2fbf27ff6d07",
+     "file": "00035b-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6abccc933e0c23a9571c1caf",
+     "file": "00036-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6abccc920f01d01a2f095512",
+     "file": "00037-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6abccc95aaf1ad1738df9f14",
+     "file": "00038-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6abccc959c47811aaf60e936",
+     "file": "00040-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6abccc97dd1392a12b54b025",
+     "file": "00041-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6abccc9801d71e06f507dc67",
+     "file": "00042-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6abccc98941fb4dc3138e5f9",
+     "file": "00043-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6abccc99301b12a5b1fe4215",
+     "file": "00044-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6abccc9a35eada8d4b79d874",
+     "file": "00045-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6abccc9a35eada8d4b79d87b",
+     "file": "00046-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6abccc9c338aa8b16cffbea6",
+     "file": "00047-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6abccc9c941fb4dc3138e600",
+     "file": "00048-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6abccc9c8bff276c6f2b3ce2",
+     "file": "00049-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6abccc9e01d71e06f507dc6e",
+     "file": "00050-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6abac1cbdf3c6680f8de645e",
+     "file": "00001-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6abac1ccc5b275f078cd88f0",
+     "file": "00002-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6abac1cce6e0624b87841fd5",
+     "file": "00003-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6abac1d1da58fd6845591c83",
+     "file": "00004-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6abac1d1bd8c6f77f9b5db31",
+     "file": "00005-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6abac1d16fd1aec03d845e7d",
+     "file": "00006-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6abac1d6300c902695b30436",
+     "file": "00007-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6abac1d744d2288960cb8a8f",
+     "file": "00008-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6abac1d71b3ec48c243828f9",
+     "file": "00009-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6abac1d91747dd461091d74a",
+     "file": "00010-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6abac1dadd9834bf7b3891cd",
+     "file": "00011-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6abac1da498102ef54bd68ae",
+     "file": "00012-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6abac1db6fd1aec03d845e84",
+     "file": "00013-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6abac1dcfac72209c3763b84",
+     "file": "00014-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6abac1dc1bbd9ff573d4fa64",
+     "file": "00015-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6abac1ddf7f3427c8552b907",
+     "file": "00016-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6abac1de4379732918776477",
+     "file": "00017-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6abac1de6d982d371a51523a",
+     "file": "00018-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6abac1df498102ef54bd68b5",
+     "file": "00019-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6abac1df408e9735acbca312",
+     "file": "00020-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6abac1e11bbd9ff573d4fa6b",
+     "file": "00021-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6abac1e1eba6ea75acdb10c2",
+     "file": "00022-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6abac1e2bd8c6f77f9b5db49",
+     "file": "00023-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6abac1e3294b20220ff27517",
+     "file": "00024-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6abac1e3311cf888ff81d2f4",
+     "file": "00025-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6abac1e5d19c6adc28e6fa4a",
+     "file": "00026-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6abac1e5300c902695b3043d",
+     "file": "00027-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6abac1e570130617acfb7f48",
+     "file": "00028-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6abac1e744d2288960cb8a96",
+     "file": "00029-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6abac1e7924dc4d8cb478d47",
+     "file": "00030-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6abac1e771d267ee5949d621",
+     "file": "00031-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6abac1eab50debf0417e4618",
+     "file": "00032-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6abac1e9733202d9a1812671",
+     "file": "00033-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6abac1ead8e1dc1f01797ebb",
+     "file": "00034-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6abac1ebd7714272b8054ffb",
+     "file": "00035-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6abac1ec408e9735acbca319",
+     "file": "00036-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6abac1ec5e68f85ca482f67e",
+     "file": "00037-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6abac1ed91a5281115a9ce90",
+     "file": "00038-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6abac1ee59204bca93b3b644",
+     "file": "00039-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6abac1eee6e0624b878420b8",
+     "file": "00040-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6abac1ef8c99ee8b9772d3fe",
+     "file": "00041-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6abac1f0f01ee79952c19525",
+     "file": "00042-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6abac1f1733202d9a1812678",
+     "file": "00043-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6abac1f15e68f85ca482f685",
+     "file": "00044-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6abac1f3e7a6eccf9fa073d1",
+     "file": "00045-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6abac1f3733202d9a181267f",
+     "file": "00046-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6abac1f4da58fd6845591c96",
+     "file": "00047-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6abac1f51bbd9ff573d4fa7d",
+     "file": "00048-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6abac1f58397ac73585d1087",
+     "file": "00049-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6abac1f6da58fd6845591c9d",
+     "file": "00050-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6abac1f78397ac73585d108e",
+     "file": "00051-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6abac1f7920f649f55bd2090",
+     "file": "00052-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6abac1f8d1813a5ad3cb9dd4",
+     "file": "00053-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6abac1f9e6e0624b878420bf",
+     "file": "00054-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6abac1f97d4c1a9871f77d2a",
+     "file": "00055-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6abac1faf7f3427c8552b90e",
+     "file": "00056-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6abac1fbfac72209c3763b91",
+     "file": "00057-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6abac1fb437973291877647e",
+     "file": "00058-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6abac1fdf7244220f9f3eb80",
+     "file": "00059-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6abac1fd1747dd461091d751",
+     "file": "00060-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6abac1feb9079b5920b8c17f",
+     "file": "00061-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6abac1fe1b3ec48c24382900",
+     "file": "00062-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6abac1ff2d5d41c0bb0c01dc",
+     "file": "00063-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6abac200c5b275f078cd88f7",
+     "file": "00064-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6abac201498102ef54bd68c2",
+     "file": "00065-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6abac2014d783d623fda3d5b",
+     "file": "00066-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6abac202fc76682ea329a712",
+     "file": "00067-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6abac2031747dd461091d758",
+     "file": "00068-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6abac203da58fd6845591ca4",
+     "file": "00069-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6abac204314a7d1790beaeab",
+     "file": "00070-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6abac2051747dd461091d75f",
+     "file": "00071-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6abac2055e68f85ca482f68c",
+     "file": "00072-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6abac2066642956c17ac707d",
+     "file": "00073-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6abac2079533fd4c1ad5541d",
+     "file": "00074-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6abac2072d5d41c0bb0c01e3",
+     "file": "00075-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6abac208311cf888ff81d2fb",
+     "file": "00076-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6abac209c9a732b508d7b809",
+     "file": "00077-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6abac209da58fd6845591cab",
+     "file": "00078-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6abac20ad1813a5ad3cb9de1",
+     "file": "00079-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6abac20b1747dd461091d76c",
+     "file": "00080-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6abac20bc9a732b508d7b810",
+     "file": "00081-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6abac20ce6e0624b878420c6",
+     "file": "00082-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6abac20de3e703e3db54dd96",
+     "file": "00083-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6abac20effc059b1b59ad26f",
+     "file": "00084-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6abac20e275475226e92fdae",
+     "file": "00085-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6abac20fe3e703e3db54dd9d",
+     "file": "00086-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6abac2107d4c1a9871f77d36",
+     "file": "00087-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6abac211e22d832a654434b9",
+     "file": "00088-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6abac21ec92f6d5d9c78ccac",
+     "file": "00107-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6abac21ffac72209c3763b98",
+     "file": "00108-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6abac21fe7a6eccf9fa073e5",
+     "file": "00109-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6abac2207b79a7333709695b",
+     "file": "00110-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6abac212f30c25b8f4cab6bf",
+     "file": "00089-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6abac2130f01b94eb02b8b34",
+     "file": "00090-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6abac2137b040a8c763ed5de",
+     "file": "00091-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6abac21459bd003bacff53b5",
+     "file": "00092-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6abac215498102ef54bd68e5",
+     "file": "00093-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6abac2158c99ee8b9772d405",
+     "file": "00094-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6abac216ffc059b1b59ad276",
+     "file": "00095-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6abac21776508a060a79e458",
+     "file": "00096-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6abac2175e68f85ca482f693",
+     "file": "00097-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6abac218733202d9a181268c",
+     "file": "00098-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6abac2190f3be7ed89346241",
+     "file": "00099-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6abac21ada58fd6845591cb2",
+     "file": "00100-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6abac21ad8e1dc1f01797f9e",
+     "file": "00101-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6abac21cd8e1dc1f01797fa5",
+     "file": "00102-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6abac21cb50debf0417e4625",
+     "file": "00103-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6abac21c0f3be7ed89346248",
+     "file": "00104-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6abac21edec967757505ff8f",
+     "file": "00105-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6abac21e4d783d623fda3d62",
+     "file": "00106-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6abac221fac72209c3763b9f",
+     "file": "00111-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6abac222fc76682ea329a71f",
+     "file": "00112-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6abac222b50debf0417e462c",
+     "file": "00113-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6abac2248c99ee8b9772d412",
+     "file": "00114-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6abac22ae224387885520c52",
+     "file": "00123-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6abac22b498102ef54bd68ec",
+     "file": "00124-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6abac22c38bb2257e2ea70d3",
+     "file": "00125-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6abac22c2e8ce652355407d1",
+     "file": "00126-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6abac22ed8e1dc1f01797fac",
+     "file": "00127-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6abac224f9c58579c688dce3",
+     "file": "00115-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6abac22544d2288960cb8aae",
+     "file": "00116-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6abac2268448954049c8e2ee",
+     "file": "00117-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6abac226b321c70cf692b63d",
+     "file": "00118-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6abac228bd8c6f77f9b5db56",
+     "file": "00119-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6abac2284379732918776485",
+     "file": "00120-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6abac229f01ee79952c1952c",
+     "file": "00121-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6abac22a2e8ce652355407ca",
+     "file": "00122-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6abac22efacacceeea49bcc2",
+     "file": "00128-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6abac22ed1813a5ad3cb9de8",
+     "file": "00129-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6abac230920f649f55bd20a8",
+     "file": "00130-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6abac230437973291877648c",
+     "file": "00131-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6abac230b321c70cf692b644",
+     "file": "00132-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6abac232e224387885520c59",
+     "file": "00133-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6abac2321b3ec48c24382918",
+     "file": "00134-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6abac23271d267ee5949d634",
+     "file": "00135-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6abac234facacceeea49bcc9",
+     "file": "00136-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6abac234b321c70cf692b64b",
+     "file": "00137-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6abac235b8aed7d01f9405e6",
+     "file": "00138-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6abac2367b040a8c763ed5e5",
+     "file": "00139-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6abac236facacceeea49bcd0",
+     "file": "00140-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6abac238811bbf79904cbac4",
+     "file": "00141-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6abac238f7244220f9f3eb93",
+     "file": "00142-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6abac238999710ad6ea9c650",
+     "file": "00143-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6abac23ae3e703e3db54ddb1",
+     "file": "00144-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6abac23a59bd003bacff53c2",
+     "file": "00145-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6abac23afac72209c3763bbe",
+     "file": "00146-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Detail Look 147",
+     "id": "6abac23c59bd003bacff53c9",
+     "file": "00147-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Detail Look 148",
+     "id": "6abac23c91a5281115a9ce9d",
+     "file": "00148-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Detail Look 149",
+     "id": "6abac23ce3e703e3db54ddb8",
+     "file": "00149-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Detail Look 150",
+     "id": "6abac23f498102ef54bd68f9",
+     "file": "00150-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Detail Look 151",
+     "id": "6abac23f811bbf79904cbad1",
+     "file": "00151-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Detail Look 152",
+     "id": "6abac23fffc059b1b59ad27d",
+     "file": "00152-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Detail Look 153",
+     "id": "6abac2412d5d41c0bb0c0207",
+     "file": "00153-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Detail Look 154",
+     "id": "6abac243d1813a5ad3cb9df5",
+     "file": "00157-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Detail Look 155",
+     "id": "6abac2412400048d8f91b46c",
+     "file": "00154-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Detail Look 156",
+     "id": "6abac241e6e0624b878420cd",
+     "file": "00155-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Detail Look 157",
+     "id": "6abac243df3c6680f8de647c",
+     "file": "00156-hodakova-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:15:14"
+}

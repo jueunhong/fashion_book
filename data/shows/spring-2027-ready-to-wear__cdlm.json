@@ -1,0 +1,306 @@
+{
+ "key": "spring-2027-ready-to-wear__cdlm",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cdlm",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "cdlm",
+ "brandName": "CDLM",
+ "designers": "By Chris Peters",
+ "eventDate": "",
+ "pubDate": "September 15, 2026",
+ "authors": [
+  "Max Berlinger"
+ ],
+ "reviewHtml": "<div><p>In some ways Chris Peters’s brand, CDLM, feels like a response to a fashion industry that is ever more in the midst of an upheaval. While he once worked very much inside the system at his former label Creatures of the Wind, designed alongside his partner Shane Gabier, his new venture feels slightly lawless, unruly, hard-to-define. Collections, for example, are numbered, not labeled by season, and feature clothes appropriate for any time of year. He drops them when he feels they are ready, the same for deliveries. He works with a mix of deadstock and found fabrics and new ones. In other words, he’s doing it on his own terms.</p><p>Over the summer, on a visit to a photo shoot for this latest collection, Peters listed some guiding principles for the brand: a love of uniforms, items that can be worn in multiple ways, and the idea of sartorial gestures, or reframing certain items in new ways, like a pair of shrunken woolen tights that can be worn traditionally, as a base garment, or as pants. There were military coats, elongated shirts, roomily-cut pants, T-shirt dresses in gently askew silhouettes, and coats made from upcycled and pieced-together deadstock fur scraps. It’s all designed with a certain offness and subtle nostalgia that feels gently reminiscent of the cerebral anti-glamour of Margiela.</p><p>The collection is presented in a nonconventional way as well, as a “non-show show” with models shot in glass-encased store windows in front of a non-audience; the panes reflecting a camera flash or the outline of the photographer. In some ways they are the opposite of a traditional lookbook image, which should be sharp and highlight the clothes. Read in a certain light, it could be interpreted as an outsider’s mischievous commentary on the endless stream of fashion shows and social media images, not to mention the fracturing retail landscape. Like the collection itself, the photos are oddly alluring and buck convention.</p></div>",
+ "cover": {
+  "id": "6aa43ecdd4a0661153cfccc2",
+  "file": "00001-cdlm-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa43ecdd4a0661153cfccc2",
+     "file": "00001-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa43ecdf7c57b5f8f83f44f",
+     "file": "00002-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa43ecd4c6acbb5b954f907",
+     "file": "00003-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa43ed1e8b2e8d417606b99",
+     "file": "00004-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa43ed086e33d8f0eddd691",
+     "file": "00005-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa43ed1fc20567998dc1b0c",
+     "file": "00006-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa43ed57fcf6749770dbd04",
+     "file": "00007-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aaaa28d832f20e9b8fe7514",
+     "file": "00008-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa43ed55ae80cd1c546d14f",
+     "file": "00009-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa43eda4e9f8369a809cabf",
+     "file": "00010-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa43eda4e9f8369a809cab9",
+     "file": "00011-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa43ed90597a1723a88474a",
+     "file": "00012-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa6d336403b4a115dfbae80",
+     "file": "00013-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa43eddf54ec4b21064ada1",
+     "file": "00014-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa43edd9c7fdcf335a5d5db",
+     "file": "00015-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa43ee17fcf6749770dbd10",
+     "file": "00016-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa43ee018bd62a0efad172a",
+     "file": "00017-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa43ee1afb954e57fc0d850",
+     "file": "00018-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa43ee4c3b02680d15f8d16",
+     "file": "00019-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa43ee54e9f8369a809caca",
+     "file": "00020-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa6d3362ccb01af79d58dfc",
+     "file": "00021-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa43ee8fc20567998dc1b17",
+     "file": "00022-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa43ee9f54ec4b21064adac",
+     "file": "00023-cdlm-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa43e19d4a0661153cfccbc",
+     "file": "00001a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa43e1967fe11be1afa8bcc",
+     "file": "00004a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa43e19fc20567998dc1b01",
+     "file": "00006a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa43e1d365ed169eaddb606",
+     "file": "00007a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aaaa1ef3984e12dc3ac4ff4",
+     "file": "00008a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa43e1d251b042262c62835",
+     "file": "00012a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa6d2fcf55ec3201971a73b",
+     "file": "00013a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa43e2167fe11be1afa8bd2",
+     "file": "00014a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa43e2153a8a9db8c96c6b9",
+     "file": "00020a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa6d2fcf31222139a992a30",
+     "file": "00021a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa43e24e8b2e8d417606b93",
+     "file": "00022a-cdlm-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:12"
+}

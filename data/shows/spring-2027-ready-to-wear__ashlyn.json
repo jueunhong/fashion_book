@@ -1,0 +1,1298 @@
+{
+ "key": "spring-2027-ready-to-wear__ashlyn",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ashlyn",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "ashlyn",
+ "brandName": "Ashlyn",
+ "designers": "By Ashlynn Park",
+ "eventDate": "2026-09-12T20:00:00.000Z",
+ "pubDate": "September 13, 2026",
+ "authors": [
+  "Laird Borrelli-Persson"
+ ],
+ "reviewHtml": "<div><p>The Korean translation of garment making is “clothes building,” noted one of Ashlynn Park’s colleagues. It was an apt observation given that with her spring collection, the designer—who studied architecture prior to taking up fashion—is steadily constructing a way of working and building a business that no huffing or puffing could disarrange. This is thanks to Park’s strong foundation: patternmaking. To emphasize that this skill is the defining aspect of the brand, pattern pieces were printed on the floor of the Cristina Grajales Gallery and on the scarves left on each seat.</p><p>Spring’s basic building block was the square. Park’s creativity is sparked by limitations, in this case four-edged pieces of cloth, which she made sing in several distinct ways. When gravity has its way with a square, it falls in beautiful drapes, which a model demonstrated at one point by lifting up the edges of her skirt’s handkerchief peplum to reveal its flat geometry.</p><p>Park further developed her puzzle construction method, employing it to build a puff-sleeve cropped jacket that had an upside-down U shape at the center back, and also to create ruffly rococo-style volume on other garments. The designer reprised fall’s unraveled fringe, but a bolder texture was created by sewing innumerable squares—12 yards’ worth—in rows across a backing fabric. These were astonishing but a bit bulky and actually heavy; a lighter variation on the method was used on a red short-sleeve A-line shirt that peeked out from under a black fringed vest, creating a Rothko-esque kind of visual bleed effect.</p><p>“If you want to find newness, then you need to twist first, reposition, replace,” noted Park. Some of the collection’s asymmetric pieces in the collection demonstrated this very clearly, like the white cotton polo shirt that had a partly open back. A button-down had a skewed collar, and skort hybrids were also in the mix.</p><p>As the team worked on the collection, Park said, “I felt we were building something that without the wearer, without the body, didn’t stand.” She is a designer who generally does center a woman’s body. This was done most sensuously when edges of squares were pulled so tightly together that the fabric ruched. She should consider developing the idea further. The visible tension in the piece had an energy that benefited this inventive, orderly, and, as always, beautifully executed collection.</p></div>",
+ "cover": {
+  "id": "6aa5d0422bbd593cadd330ff",
+  "file": "00001-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa5d0422bbd593cadd330ff",
+     "file": "00001-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa5d0422e929cd40d935b4f",
+     "file": "00002-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa5d0424d6fce885ab47708",
+     "file": "00003-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa5d0445f6162147e97692f",
+     "file": "00004-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa5d0448c91e1e1e24ca50a",
+     "file": "00005-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa5d0448cc832c7525651cd",
+     "file": "00006-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa5d0461cc5e31996bbbc19",
+     "file": "00007-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa5d046fd58de7d2d38f3eb",
+     "file": "00008-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa5d04602b9c16156ad4388",
+     "file": "00009-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa5d048b9760a091e752154",
+     "file": "00010-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa5d0498cc832c7525651d4",
+     "file": "00011-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa5d048ed11fcdcdecbd15e",
+     "file": "00012-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa5d04a22449ee1e5b9d5ed",
+     "file": "00013-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa5d04aea2b89b7ae2155e8",
+     "file": "00014-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa5d04b3022803b3ad6e9e7",
+     "file": "00015-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa5d04c91f360d97fdeb19b",
+     "file": "00016-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa5d04dad599dfb70904af5",
+     "file": "00017-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa5d04d1a9daa88990b8224",
+     "file": "00018-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa5d04e65f1c02545855ea1",
+     "file": "00019-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa5d04e22449ee1e5b9d5f7",
+     "file": "00020-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa5d04f8c91e1e1e24ca517",
+     "file": "00021-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa5d05002b9c16156ad4398",
+     "file": "00022-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa5d0505f6162147e976939",
+     "file": "00023-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa5d050c1c1a4bd44331630",
+     "file": "00024-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa5d052fd58de7d2d38f3f8",
+     "file": "00025-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa5d0526631dbf6ddf7ba27",
+     "file": "00026-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa5d0528cc832c7525651de",
+     "file": "00027-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa5d054ad457e0f73e863c8",
+     "file": "00028-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa5d0545f6162147e976940",
+     "file": "00029-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa5d0542ccdbefb0b1026c5",
+     "file": "00030-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa5d05591f360d97fdeb1a2",
+     "file": "00031-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa5d0562fd5fff7bc644639",
+     "file": "00032-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa5d0562e929cd40d935b59",
+     "file": "00033-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa5d057fd58de7d2d38f402",
+     "file": "00034-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa5d0581c3fccfa45a62269",
+     "file": "00035-ashlyn-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa5dc61403b4a115dfba0bc",
+     "file": "00001-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa5dc61fd58de7d2d38f506",
+     "file": "00002-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa5dc611cc5e31996bbbd12",
+     "file": "00003-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa5dc646631dbf6ddf7bb29",
+     "file": "00004-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa5dc642bbd593cadd33241",
+     "file": "00005-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa5dc64ed11fcdcdecbd26c",
+     "file": "00006-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa5dc68ad457e0f73e864ef",
+     "file": "00007-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa5dc674d6fce885ab477f2",
+     "file": "00008-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa5dc68b9760a091e75222c",
+     "file": "00009-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa5dc6965f1c02545855f9d",
+     "file": "00010-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa5dc6a418f190ed715d736",
+     "file": "00011-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa5dc6a3022803b3ad6ebd2",
+     "file": "00012-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa5dc6c65f1c02545855fa4",
+     "file": "00013-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa5dc6d80f05e50b6c1bfb3",
+     "file": "00014-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa5dc6d80f05e50b6c1bfad",
+     "file": "00015-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa5dc6e8c91e1e1e24ca5e4",
+     "file": "00016-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa5dc6fb9760a091e752234",
+     "file": "00017-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa5dc7065f1c02545855fab",
+     "file": "00018-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa5dc702fd5fff7bc644766",
+     "file": "00019-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa5dc7202b9c16156ad4492",
+     "file": "00020-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa5dc722e929cd40d935c3a",
+     "file": "00021-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa5dc732e929cd40d935c3f",
+     "file": "00022-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa5dc7302b9c16156ad4499",
+     "file": "00023-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa5dc75ea2b89b7ae21568b",
+     "file": "00024-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa5dc766631dbf6ddf7bb36",
+     "file": "00025-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa5dc76fd58de7d2d38f513",
+     "file": "00026-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa5dc778cc832c7525652b6",
+     "file": "00027-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa5dc78fd58de7d2d38f520",
+     "file": "00028-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa5dc7802b9c16156ad44a0",
+     "file": "00029-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa5dc795f1be77119f57d04",
+     "file": "00030-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa5dc7ab9760a091e75223b",
+     "file": "00031-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa5dc7a3022803b3ad6ebd9",
+     "file": "00032-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa5dc7b2ccdbefb0b102793",
+     "file": "00033-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa5dc7c2bbd593cadd3324d",
+     "file": "00034-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa5dc7c1cc5e31996bbbd19",
+     "file": "00035-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa5dc7ded11fcdcdecbd273",
+     "file": "00036-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa5dc7e02b9c16156ad44a7",
+     "file": "00037-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa5dc7ffd58de7d2d38f527",
+     "file": "00038-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa5dc7f65f1c02545855fb8",
+     "file": "00039-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa5dc802e929cd40d935c47",
+     "file": "00040-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa5dc82403b4a115dfba0e2",
+     "file": "00041-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa5dc823022803b3ad6ebe0",
+     "file": "00042-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa5dc82418f190ed715d749",
+     "file": "00043-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa5dc83418f190ed715d750",
+     "file": "00044-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa5dc85418f190ed715d757",
+     "file": "00045-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa5dc85ad599dfb70904c57",
+     "file": "00046-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa5dc855f1be77119f57d11",
+     "file": "00047-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa5dc875f6162147e976a05",
+     "file": "00048-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa5dc87fd58de7d2d38f52e",
+     "file": "00049-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa5dc88ed11fcdcdecbd286",
+     "file": "00050-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa5dc8965f1c02545855fbf",
+     "file": "00051-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa5dc89418f190ed715d75e",
+     "file": "00052-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa5dc894d6fce885ab477ff",
+     "file": "00053-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa5dc8b2fd5fff7bc64476d",
+     "file": "00054-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa5dc8ced11fcdcdecbd28d",
+     "file": "00055-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa5dc8cad457e0f73e864f6",
+     "file": "00056-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa5dc8db9760a091e752242",
+     "file": "00057-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa5dc8e1c3fccfa45a62391",
+     "file": "00058-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa5dc8e403b4a115dfba0e9",
+     "file": "00059-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa5dc8ffd58de7d2d38f535",
+     "file": "00060-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa5dc916631dbf6ddf7bb3d",
+     "file": "00061-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa5dc912ccdbefb0b1027a0",
+     "file": "00062-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa5dc922e929cd40d935c54",
+     "file": "00063-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa5dc93403b4a115dfba0f0",
+     "file": "00064-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa5dc93ea2b89b7ae215698",
+     "file": "00065-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa5dc94c1c1a4bd4433172b",
+     "file": "00066-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa5dc962e929cd40d935c5b",
+     "file": "00067-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6aa5dc966631dbf6ddf7bb44",
+     "file": "00068-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6aa5dc961cc5e31996bbbd2c",
+     "file": "00069-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6aa5dc981c3fccfa45a62398",
+     "file": "00070-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6aa5dc982ccdbefb0b1027a7",
+     "file": "00071-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6aa5dc98f65a1de3071edb1a",
+     "file": "00072-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6aa5dc9a22449ee1e5b9d704",
+     "file": "00073-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6aa5dc9a2e929cd40d935c67",
+     "file": "00074-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6aa5dc9b22449ee1e5b9d70b",
+     "file": "00075-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6aa5dc9c2ccdbefb0b1027ae",
+     "file": "00076-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6aa5dc9c418f190ed715d76b",
+     "file": "00077-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6aa5dc9d80f05e50b6c1bfcd",
+     "file": "00078-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6aa5dc9fad599dfb70904c64",
+     "file": "00079-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6aa5dc9e1c3fccfa45a623ab",
+     "file": "00080-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6aa5dc9f80f05e50b6c1bfd4",
+     "file": "00081-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6aa5dca1ad599dfb70904c6b",
+     "file": "00082-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6aa5dca22fd5fff7bc64477a",
+     "file": "00083-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6aa5dca12e929cd40d935c6f",
+     "file": "00084-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6aa5dca35f6162147e976a0c",
+     "file": "00085-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6aa5dca46631dbf6ddf7bb51",
+     "file": "00086-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6aa5dca4ea2b89b7ae2156ab",
+     "file": "00087-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6aa5dca54d6fce885ab4780f",
+     "file": "00088-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6aa5dca68cc832c7525652c3",
+     "file": "00089-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6aa5dca691f360d97fdeb31d",
+     "file": "00090-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6aa5dca7fd58de7d2d38f54d",
+     "file": "00091-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6aa5dca82fd5fff7bc644787",
+     "file": "00092-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6aa5dca9418f190ed715d772",
+     "file": "00093-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6aa5dcaab9760a091e752249",
+     "file": "00094-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6aa5dcaaad599dfb70904c78",
+     "file": "00095-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6aa5dcacb9760a091e752250",
+     "file": "00096-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6aa5dcaced11fcdcdecbd2a0",
+     "file": "00097-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6aa5dcad418f190ed715d779",
+     "file": "00098-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6aa5dcae91f360d97fdeb324",
+     "file": "00099-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6aa5dcb05f6162147e976a13",
+     "file": "00100-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6aa5dcb05f1be77119f57d2a",
+     "file": "00101-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6aa5dcb14d6fce885ab47816",
+     "file": "00102-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6aa5dcb21c3fccfa45a623b2",
+     "file": "00103-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6aa5dcb3fd58de7d2d38f554",
+     "file": "00104-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6aa5dcb48c91e1e1e24ca5fd",
+     "file": "00105-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6aa5dcb42fd5fff7bc64478e",
+     "file": "00106-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6aa5dcb502b9c16156ad44ba",
+     "file": "00107-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6aa5dcb6f65a1de3071edb21",
+     "file": "00108-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6aa5dcb765f1c02545855fd2",
+     "file": "00109-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6aa5dcb72ccdbefb0b1027b5",
+     "file": "00110-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6aa5dcb81cc5e31996bbbd45",
+     "file": "00111-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6aa5dcb88c91e1e1e24ca604",
+     "file": "00112-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6aa5dcb991f360d97fdeb32b",
+     "file": "00113-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6aa5dcbb80f05e50b6c1bfe7",
+     "file": "00114-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6aa5dcbb2bbd593cadd33267",
+     "file": "00115-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6aa5dcbcc5240ea50945075d",
+     "file": "00116-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6aa5dcbec1c1a4bd44331744",
+     "file": "00117-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6aa5dcbe4d6fce885ab4781d",
+     "file": "00118-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6aa5dcbe2fd5fff7bc644795",
+     "file": "00119-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6aa5dcbf2ccdbefb0b1027bc",
+     "file": "00120-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6aa5dcc0b9760a091e75225d",
+     "file": "00121-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6aa5dcc03022803b3ad6ec12",
+     "file": "00122-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6aa5dcc12ccdbefb0b1027c4",
+     "file": "00123-ashlyn-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:10:58"
+}

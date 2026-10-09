@@ -1,0 +1,380 @@
+{
+ "key": "spring-2027-ready-to-wear__genny",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/genny",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "genny",
+ "brandName": "Genny",
+ "designers": "By Sara Cavazza Facchini",
+ "eventDate": "2026-09-24T08:30:00.000Z",
+ "pubDate": "September 24, 2026",
+ "authors": [
+  "Giulia Di Giamberardino"
+ ],
+ "reviewHtml": "<div><p>“The Queen of the Desert is a collection born out of a need to escape,” Sara Cavazza Facchini explained backstage at the Genny show. “After a particularly intense day at work, I found myself transported somewhere else in my mind, thanks to a photography book I happened to pick up from the bookshelf at home.” In what she described as “a dreamlike vision,” she imagined the Genny woman moving through an oasis where nature became a metaphor for the many facets of femininity.</p><p>The spring 2027 collection took a more everyday approach than Genny’s usual aesthetic. At its core was deconstruction, with a sense of reduction that brought a lighter feel even to the more elaborate pieces designed for evening. Tailored jackets were reworked as shirts; blouses opened into plunging cagoule necklines; lingerie was deliberately left on show; trousers had bloomer-inspired shapes; and skirts fell in generous, billowing volumes. The silhouettes and fluid lines of the dresses evoked the movement of wind and sand across the body, expressed through asymmetrical cuts, cutouts, and fluid draping. Prints created a dialogue between the botanical and animal worlds, ranging from agave-inspired motifs to animal prints, with zebra stripes layered over the brand’s now signature orchids. Rhinestone-embellished embroidery on gauze-effect cotton further evoked the flora of the oasis.</p><p>The collection also marked Genny’s first foray into denim. Printed chiffon was layered over the fabric and then almost torn away to create a distressed finish. Other treatments saw denim laser-cut, textured, and hand-embroidered with three-dimensional floral appliqués. The result reflected the collection’s search for a balance between wearability and sophistication.</p><p>Tulle, poplin, silk muslin, jersey, and crêpe underscored the collection’s emphasis on fluidity, while French Chantilly lace lent a romantic, sensual touch. The color palette moved through warm shades of off-white, sand, and rust, punctuated by flashes of cobalt blue and acid green against pastel tones of blue, pink, and yellow. Body jewelry and the jeweled chains adorning the bags evoked the mineral world, while also recalling Suzanne Belperron’s vision and her distinctive use of hard stones. They added a touch of glamour to the collection’s unwavering pursuit of lightness.</p></div>",
+ "cover": {
+  "id": "6ab52c987294db287b7c84c0",
+  "file": "00001-genny-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab52c987294db287b7c84c0",
+     "file": "00001-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab52c98907dfdfaaebe9ad3",
+     "file": "00002-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab52c983cf28d306d7936ce",
+     "file": "00003-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab52c9cbfaeeae8af256a0b",
+     "file": "00004-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab52c9ccb55dc083d4b05bc",
+     "file": "00005-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab52c9c2baadf60c10bb5c0",
+     "file": "00006-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab52ca0b6e2c67246a17d31",
+     "file": "00007-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab52c9f62afe80493d255a1",
+     "file": "00008-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab52ca09d62fd1b43f15bce",
+     "file": "00009-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab52ca3357e81e94772dc6a",
+     "file": "00010-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab52ca3d992ab7f0f227cf8",
+     "file": "00011-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab52ca39c006cc96f027e33",
+     "file": "00012-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab52ca6a1df956fd9611b13",
+     "file": "00013-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab52ca6c3da9e61c480e8b0",
+     "file": "00014-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab52ca79850b0d1a087277e",
+     "file": "00015-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab52ca99cd9e167938563a2",
+     "file": "00016-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab52caadbce94314f955dd4",
+     "file": "00017-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab52caa14ccbd52b9828bb8",
+     "file": "00018-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab52cad77240a31bb3ceb1c",
+     "file": "00019-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab52cadb66ba1d3c6f1442b",
+     "file": "00020-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab52caeae5a9336d9975687",
+     "file": "00021-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab52cb0dbce94314f955ddb",
+     "file": "00022-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab52cb0cb55dc083d4b05c6",
+     "file": "00023-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab52cb159772e5a6f55c27b",
+     "file": "00024-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab52cb365db88057ecafb46",
+     "file": "00025-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab52cb377240a31bb3ceb23",
+     "file": "00026-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab52cb4ea17a870b74c83d1",
+     "file": "00027-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab52cb7ea17a870b74c83d8",
+     "file": "00028-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab52cb75ab61c03e1e815b0",
+     "file": "00029-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab52cb7298d211513bdc181",
+     "file": "00030-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab52cba62afe80493d255a8",
+     "file": "00031-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab52cba357e81e94772dc77",
+     "file": "00032-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab52cbabfaeeae8af256a1b",
+     "file": "00033-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab52cbd02a433e13f3b6de3",
+     "file": "00034-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab52cbe41fd3559bc61b2c6",
+     "file": "00035-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab52cbe4e38b16974262ab1",
+     "file": "00036-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab52cbf77240a31bb3ceb2d",
+     "file": "00037-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab52cc1183dc0e0079588b2",
+     "file": "00038-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab52cc168afeb135b176bc2",
+     "file": "00039-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab52cc1183dc0e0079588b9",
+     "file": "00040-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab52cc325294d7c4c11a947",
+     "file": "00041-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab52cc49b0c1ee9de1aa83b",
+     "file": "00042-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab52cc5357e81e94772dc7e",
+     "file": "00043-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab52cc5e37ba4d871321417",
+     "file": "00044-genny-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:46"
+}

@@ -1,0 +1,2426 @@
+{
+ "key": "spring-2027-ready-to-wear__loewe",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/loewe",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "loewe",
+ "brandName": "Loewe",
+ "designers": "By Jack McCollough & Lazaro Hernandez",
+ "eventDate": "2026-10-02T09:30:00.000Z",
+ "pubDate": "October 2, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>Inside the Château de Vincennes, the Loewe set was built in the round, and the mazelike runway meant the models were an arm’s reach away. At a preview, Jack McCollough said, “We’re really looking at how to translate all these ideas we’ve been having into a bit more reality and a way of dressing.” Lazaro Hernandez finished the thought: It’s about “creating a style. We’ve been brand building for the last two seasons, creating a new universe that’s resonating… Now how do you bring clothes into that conversation?”</p><p>Designers up and down the market have been finding ways to romance the relatability of their offers this season; the Loewe designers have plenty of company in this regard. As former New Yorkers, their tactic was to highlight a certain can-do, almost casual Americanness. It meant they mixed normcore-ish pieces like a checked sport coat and a zip-front ribbed knit with a crumpled cloth napkin of a miniskirt that was modeled after Francisco de Zurbarán and Diego Velázquez paintings they saw at the Prado in Madrid and held in place with bungee cord twisted around the waist. Or polo-neck sweaters paired with micro beaded knit skirts made by an artisan they came across at the Loewe Craft Prize. Or, for the boys, crisp striped shirts and sporty anoraks stuffed into toreador-ish pants that buttoned up past the navel. A lot of the more sportswear-y pieces and accessories (backward caps, barefoot running shoes, and the like) were accented with the double-L logo they recently developed or the more familiar block-letters version. They depended on them a little too much; true luxury shouldn’t announce itself.</p><p>On the flip side, they showed a pair of understated suede jackets modeled on the first piece of clothing that Loewe, fashion’s second-oldest house after Hermès, ever made. These guys can do the classics too. But the charge in this moment of change for McCollough and Hernandez—for them and for us—is the license to experiment and explore that it’s granted them.</p><p>Other normcore-y pieces weren’t really normal at all, though they retained their laid-back spirit. McCollough and Hernandez took up the humble marled gray sweatshirt and made it into a trophy piece in allover seed-bead embroidery. What looked like striped cotton Harrington jackets were actually made from scythed leather. The French may have coined the term <em>dégagé</em>, but as Michael Kors, a long-ago mentor to Hernandez (who interned at his New York brand), once said, “It’s what we invented… Everywhere you go in the world, people want a sense of ease.” It’s what these two Americans are bringing to Loewe—ease and fun.</p></div>",
+ "cover": {
+  "id": "6abfaf54043d0eeb5ad4d19a",
+  "file": "00001-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abfaf54043d0eeb5ad4d19a",
+     "file": "00001-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abfaf5462ec73b1074f8363",
+     "file": "00002-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abfaf5688a71e2f5206ae03",
+     "file": "00003-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abfaf56110cd7cc5f6be9b9",
+     "file": "00004-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abfaf56c836e17df10b779c",
+     "file": "00005-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abfaf58110cd7cc5f6be9c0",
+     "file": "00006-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abfaf59bafc4fd8ce6da3ce",
+     "file": "00007-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abfaf59e9e3fde56d0debac",
+     "file": "00008-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abfaf5add31b9828e5a824b",
+     "file": "00009-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abfaf5bc4da3082e3d87c62",
+     "file": "00010-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abfaf548ed46cc687350f78",
+     "file": "00011-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abfaf5cb8f1d8d04527902d",
+     "file": "00012-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abfaf5cebbd62f2073b1454",
+     "file": "00013-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abfaf5e012a68e51bac6167",
+     "file": "00014-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abfaf5e00dff85528cdcbcd",
+     "file": "00015-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abfaf5f1995ccfb977da557",
+     "file": "00016-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abfaf61c6a00ccd679bd964",
+     "file": "00017-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abfaf610a2b0e578eaeb030",
+     "file": "00018-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abfaf611805401f71cb475d",
+     "file": "00019-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abfaf631b5af4cf224db1ed",
+     "file": "00020-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abfaf63884125edc6b34292",
+     "file": "00021-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abfaf63e4c2be2c4c20ddae",
+     "file": "00022-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abfaf64c4da3082e3d87c6f",
+     "file": "00023-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abfaf665330c90c082cbc41",
+     "file": "00024-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abfaf6688a71e2f5206ae0a",
+     "file": "00025-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abfaf66c4dc846ba16b27db",
+     "file": "00026-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abfaf692c333f19037223a0",
+     "file": "00027-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abfaf694954cb36d4b9cbbb",
+     "file": "00028-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abfaf69110cd7cc5f6be9c7",
+     "file": "00029-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abfaf6b7147f71ff9bd91a3",
+     "file": "00030-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6abfaf6b57c551bb0c87b40a",
+     "file": "00031-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6abfaf6b1805401f71cb4767",
+     "file": "00032-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6abfaf6d8ee395d7d6c25ccc",
+     "file": "00033-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6abfaf6f3fc068873bc6b188",
+     "file": "00034-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6abfaf6f00dff85528cdcbd4",
+     "file": "00035-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6abfaf707af546515529be11",
+     "file": "00036-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6abfaf727d947070a0951592",
+     "file": "00037-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6abfaf721995ccfb977da55e",
+     "file": "00038-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6abfaf7203caf3ff1e636573",
+     "file": "00039-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6abfaf74d9ddf8263be8a363",
+     "file": "00040-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6abfaf74ca5ede010f12bae8",
+     "file": "00041-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6abfaf75aff92533fd2ff7fb",
+     "file": "00042-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6abfaf77defb8771431b2a64",
+     "file": "00043-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6abfaf78bf7f6962493b0eff",
+     "file": "00044-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6abfaf78f623c259f81a36f9",
+     "file": "00045-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6abfaf79090fd8150d0e5bc2",
+     "file": "00046-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6abfaf7a25d0ccf4d5ee6f0a",
+     "file": "00047-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6abfaf7aa6353072874b34f7",
+     "file": "00048-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6abfaf7b012a68e51bac616e",
+     "file": "00049-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6abfaf7eb4d8fdbcc14aa122",
+     "file": "00050-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6abfaf7e1995ccfb977da565",
+     "file": "00051-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6abfaf7e90f283c50041a609",
+     "file": "00052-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6abfaf8000dff85528cdcbdb",
+     "file": "00053-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6abfaf80e979be3eb4b8b7cb",
+     "file": "00054-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6abfaf814d254d28e9306599",
+     "file": "00055-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6abfaf82c4da3082e3d87c7f",
+     "file": "00056-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6abfaf8303caf3ff1e63657a",
+     "file": "00057-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6abfaf83c4da3082e3d87c86",
+     "file": "00058-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6abfaf8574b01926e81d7919",
+     "file": "00059-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6abfaf858ae7e686ab85ecfb",
+     "file": "00060-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6abfaf8572607c21ab058c5a",
+     "file": "00061-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6abfaf875649234c0b146de1",
+     "file": "00062-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6abfaf88bc251d176852e061",
+     "file": "00063-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6abfaf88bc251d176852e063",
+     "file": "00064-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Look 65",
+     "id": "6abfaf8a7d8f9610eee9fa4b",
+     "file": "00065-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Look 66",
+     "id": "6abfaf8a0a2b0e578eaeb03a",
+     "file": "00066-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Look 67",
+     "id": "6abfaf8aaff92533fd2ff802",
+     "file": "00067-loewe-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6abfd2c0b8f1d8d045279181",
+     "file": "00001-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6abfd2c0daf84fb52107bc7a",
+     "file": "00002-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6abfd2c08ee395d7d6c25e2b",
+     "file": "00003-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6abfd2c3b7fd5e578c356c89",
+     "file": "00004-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6abfd2c3043d0eeb5ad4d482",
+     "file": "00005-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6abfd2c3e063894da06e3a28",
+     "file": "00006-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6abfd2c5110cd7cc5f6bef99",
+     "file": "00007-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6abfd2c5f8fce5767e6ce29b",
+     "file": "00008-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6abfd2c57d947070a0951674",
+     "file": "00009-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6abfd2c8c6a00ccd679bdac5",
+     "file": "00010-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6abfd2c7e063894da06e3a2f",
+     "file": "00011-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6abfd2c757c551bb0c87b58b",
+     "file": "00012-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6abfd2caee459cc3fa79b00e",
+     "file": "00013-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6abfd2ca8ae7e686ab85f1c0",
+     "file": "00014-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6abfd2cae8fbc7f8edaf6e6b",
+     "file": "00015-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6abfd2cc0a2b0e578eaeb114",
+     "file": "00016-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6abfd2cc21440467debb3121",
+     "file": "00017-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6abfd2cc7d9829bb6e5b2c70",
+     "file": "00018-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6abfd2ce4685a1dfd0f3f0f6",
+     "file": "00019-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6abfd2cebf97e72231d5cdd9",
+     "file": "00020-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6abfd2ce10f3dcc4110970cd",
+     "file": "00021-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6abfd2d04954cb36d4b9cd8e",
+     "file": "00022-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6abfd2d0012a68e51bac62cf",
+     "file": "00023-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6abfd2d040c5243c038433da",
+     "file": "00024-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6abfd2d28ee395d7d6c25e32",
+     "file": "00025-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6abfd2d357c551bb0c87b592",
+     "file": "00026-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6abfd2d38ae7e686ab85f1c7",
+     "file": "00027-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6abfd2d4652d8e99615c6680",
+     "file": "00028-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6abfd2d5ebbd62f2073b16c1",
+     "file": "00029-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6abfd2d588a71e2f5206aebd",
+     "file": "00030-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6abfd2d690f283c50041a770",
+     "file": "00031-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6abfd2d74250410b2ea2868c",
+     "file": "00032-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6abfd2d7043d0eeb5ad4d489",
+     "file": "00033-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6abfd2d8fe4c5f58feb573ee",
+     "file": "00034-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6abfd2d9090fd8150d0e5cb4",
+     "file": "00035-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6abfd2d9f5f28b09808dacf6",
+     "file": "00036-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6abfd2da4d254d28e930699d",
+     "file": "00037-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6abfd2db57c551bb0c87b599",
+     "file": "00038-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6abfd2dbc6a00ccd679bdad2",
+     "file": "00039-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6abfd2dc0e7d7744701dadc8",
+     "file": "00040-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6abfd2dde8fbc7f8edaf6e72",
+     "file": "00041-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6abfd2dd652d8e99615c6687",
+     "file": "00042-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6abfd2defe4c5f58feb573f5",
+     "file": "00043-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6abfd2df90f283c50041a777",
+     "file": "00044-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6abfd2dfa63d40803b3448c3",
+     "file": "00045-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6abfd2e1aff92533fd2ff9f3",
+     "file": "00046-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6abfd2e1f8fce5767e6ce2ae",
+     "file": "00047-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6abfd2e13bd6d6f7cde0a3f8",
+     "file": "00048-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6abfd2e3fdec02cd788450d3",
+     "file": "00049-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6abfd2e3d9ddf8263be8a425",
+     "file": "00050-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6abfd2e3bf7f6962493b0fe9",
+     "file": "00051-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6abfd2e5ca5ede010f12bc28",
+     "file": "00052-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6abfd2e5f623c259f81a3780",
+     "file": "00053-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6abfd2e54d254d28e93069a4",
+     "file": "00054-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6abfd2e81b5af4cf224db6e7",
+     "file": "00055-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6abfd2e7043d0eeb5ad4d490",
+     "file": "00056-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6abfd2e8110cd7cc5f6befa6",
+     "file": "00057-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6abfd2ea925266d327a95197",
+     "file": "00058-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6abfd2ea884125edc6b344bf",
+     "file": "00059-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6abfd2eab7fd5e578c356c90",
+     "file": "00060-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6abfd2ecc836e17df10b787a",
+     "file": "00061-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6abfd2ec884125edc6b344c6",
+     "file": "00062-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6abfd2ec149ad464111ca31f",
+     "file": "00063-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6abfd2eedaf84fb52107bc87",
+     "file": "00064-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6abfd2efc6a00ccd679bdad9",
+     "file": "00065-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6abfd2ee925266d327a9519e",
+     "file": "00066-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6abfd2f07cb6738462fbcb65",
+     "file": "00067-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6abfd2f0b4b9d8db80b30b5d",
+     "file": "00068-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6abfd2f14250410b2ea28699",
+     "file": "00069-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6abfd2f2ebbd62f2073b16d4",
+     "file": "00070-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6abfd2f3f96090b2c67b3097",
+     "file": "00071-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6abfd2f325d0ccf4d5ee710a",
+     "file": "00072-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6abfd2f4f96090b2c67b309e",
+     "file": "00073-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6abfd2f58ab75efcb4d26a3b",
+     "file": "00074-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6abfd2f590f283c50041a77e",
+     "file": "00075-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6abfd2f6b452e76498272ed6",
+     "file": "00076-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6abfd2f7e4c2be2c4c20dfbf",
+     "file": "00077-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6abfd2f7daaf5bd02522d18e",
+     "file": "00078-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6abfd2f8a2fa1a04d7a92339",
+     "file": "00079-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6abfd2f90154f2020c5cafa0",
+     "file": "00080-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6abfd2f97d9829bb6e5b2c7d",
+     "file": "00081-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6abfd2fa8ddfb494dc368678",
+     "file": "00082-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6abfd2fb0154f2020c5cafa7",
+     "file": "00083-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6abfd2fc8ee395d7d6c25e39",
+     "file": "00084-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6abfd2fc149ad464111ca326",
+     "file": "00085-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6abfd2fd3bd6d6f7cde0a3ff",
+     "file": "00086-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6abfd2fe5654d81857a5a15c",
+     "file": "00087-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6abfd2fe25d0ccf4d5ee7111",
+     "file": "00088-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6abfd300ee459cc3fa79b01b",
+     "file": "00089-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6abfd300043d0eeb5ad4d497",
+     "file": "00090-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6abfd30041daa3a737ceca90",
+     "file": "00091-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6abfd302fdec02cd788450e0",
+     "file": "00092-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6abfd3028ab75efcb4d26a48",
+     "file": "00093-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6abfd302a63d40803b3448d0",
+     "file": "00094-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6abfd3031b5af4cf224db6f4",
+     "file": "00095-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6abfd304a2fa1a04d7a92340",
+     "file": "00096-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6abfd3041cde1601e6f88ad1",
+     "file": "00097-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6abfd30557c551bb0c87b5a0",
+     "file": "00098-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6abfd3073fc068873bc6b315",
+     "file": "00099-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6abfd3071995ccfb977da63e",
+     "file": "00100-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6abfd3081805401f71cb4870",
+     "file": "00101-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6abfd3090e7d7744701daddb",
+     "file": "00102-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6abfd309e9e3fde56d0ded88",
+     "file": "00103-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6abfd30aca5ede010f12bc35",
+     "file": "00104-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6abfd30b39afb34b5843615b",
+     "file": "00105-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6abfd30bf8fce5767e6ce2bb",
+     "file": "00106-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6abfd30c4559d85bbb42323b",
+     "file": "00107-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6abfd30df8fce5767e6ce2c2",
+     "file": "00108-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6abfd30dd9ddf8263be8a432",
+     "file": "00109-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6abfd30ec4da3082e3d87d36",
+     "file": "00110-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6abfd310f8fce5767e6ce2c9",
+     "file": "00111-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6abfd31157c551bb0c87b5a7",
+     "file": "00112-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6abfd310a63d40803b3448d7",
+     "file": "00113-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6abfd312e063894da06e3a36",
+     "file": "00114-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6abfd312bf97e72231d5cde0",
+     "file": "00115-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6abfd31439afb34b58436162",
+     "file": "00116-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6abfd314defb8771431b2b01",
+     "file": "00117-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6abfd314fdec02cd788450ed",
+     "file": "00118-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6abfd316f623c259f81a3793",
+     "file": "00119-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6abfd31641daa3a737ceca97",
+     "file": "00120-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6abfd31790f283c50041a785",
+     "file": "00121-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6abfd318bc251d176852e162",
+     "file": "00122-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6abfd319b7fd5e578c356c9d",
+     "file": "00123-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6abfd3187af546515529bed5",
+     "file": "00124-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6abfd31a652d8e99615c66a0",
+     "file": "00125-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6abfd31bc4da3082e3d87d3d",
+     "file": "00126-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6abfd31b90f283c50041a78c",
+     "file": "00127-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6abfd31c884125edc6b344d2",
+     "file": "00128-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6abfd31ddefb8771431b2b08",
+     "file": "00129-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6abfd31da2fa1a04d7a92347",
+     "file": "00130-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6abfd31e149ad464111ca333",
+     "file": "00131-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6abfd31fee459cc3fa79b028",
+     "file": "00132-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6abfd31f5649234c0b146eda",
+     "file": "00133-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6abfd3204559d85bbb423242",
+     "file": "00134-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6abfd321090fd8150d0e5cc1",
+     "file": "00135-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6abfd321a2fa1a04d7a9234e",
+     "file": "00136-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6abfd32225d0ccf4d5ee7118",
+     "file": "00137-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6abfd32468443385db46f951",
+     "file": "00138-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6abfd3245330c90c082cbd33",
+     "file": "00139-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6abfd32441daa3a737ceca9e",
+     "file": "00140-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6abfd32639afb34b58436169",
+     "file": "00141-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6abfd3264603b83417be2995",
+     "file": "00142-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6abfd3267470eea9d4348141",
+     "file": "00143-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6abfd328759bc686f1a66ca9",
+     "file": "00144-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6abfd329a6353072874b36b3",
+     "file": "00145-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6abfd329c4dc846ba16b2905",
+     "file": "00146-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Detail Look 147",
+     "id": "6abfd32b884125edc6b344e0",
+     "file": "00147-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Detail Look 148",
+     "id": "6abfd32b41daa3a737cecaa5",
+     "file": "00148-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Detail Look 149",
+     "id": "6abfd32be979be3eb4b8b9b8",
+     "file": "00149-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Detail Look 150",
+     "id": "6abfd32d0154f2020c5cafae",
+     "file": "00150-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Detail Look 151",
+     "id": "6abfd32d40c5243c038433e1",
+     "file": "00151-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Detail Look 152",
+     "id": "6abfd32d7cb6738462fbcb6c",
+     "file": "00152-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Detail Look 153",
+     "id": "6abfd32fbf97e72231d5cde7",
+     "file": "00153-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Detail Look 154",
+     "id": "6abfd32f0e7d7744701dade2",
+     "file": "00154-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Detail Look 155",
+     "id": "6abfd330c4da3082e3d87d44",
+     "file": "00155-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Detail Look 156",
+     "id": "6abfd332c4dc846ba16b290d",
+     "file": "00156-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Detail Look 157",
+     "id": "6abfd332c4dc846ba16b290f",
+     "file": "00157-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 158,
+     "caption": "Detail Look 158",
+     "id": "6abfd332d348857ed480d2a6",
+     "file": "00158-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 159,
+     "caption": "Detail Look 159",
+     "id": "6abfd33425d0ccf4d5ee711f",
+     "file": "00159-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 160,
+     "caption": "Detail Look 160",
+     "id": "6abfd3348ed46cc687351179",
+     "file": "00160-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 161,
+     "caption": "Detail Look 161",
+     "id": "6abfd3341805401f71cb487d",
+     "file": "00161-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 162,
+     "caption": "Detail Look 162",
+     "id": "6abfd33603caf3ff1e636631",
+     "file": "00162-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 163,
+     "caption": "Detail Look 163",
+     "id": "6abfd336ebbd62f2073b16e1",
+     "file": "00163-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 164,
+     "caption": "Detail Look 164",
+     "id": "6abfd336a6353072874b36ba",
+     "file": "00164-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 165,
+     "caption": "Detail Look 165",
+     "id": "6abfd3381805401f71cb4884",
+     "file": "00165-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 166,
+     "caption": "Detail Look 166",
+     "id": "6abfd3382c333f1903722499",
+     "file": "00166-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 167,
+     "caption": "Detail Look 167",
+     "id": "6abfd3384c53c4a670150ee1",
+     "file": "00167-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 168,
+     "caption": "Detail Look 168",
+     "id": "6abfd33a652d8e99615c66a7",
+     "file": "00168-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 169,
+     "caption": "Detail Look 169",
+     "id": "6abfd33a88a71e2f5206aed0",
+     "file": "00169-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 170,
+     "caption": "Detail Look 170",
+     "id": "6abfd33a41daa3a737cecaac",
+     "file": "00170-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 171,
+     "caption": "Detail Look 171",
+     "id": "6abfd33c62ec73b1074f84bb",
+     "file": "00171-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 172,
+     "caption": "Detail Look 172",
+     "id": "6abfd33dd348857ed480d2ad",
+     "file": "00172-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 173,
+     "caption": "Detail Look 173",
+     "id": "6abfd33d7af546515529bedc",
+     "file": "00173-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 174,
+     "caption": "Detail Look 174",
+     "id": "6abfd33f68443385db46f958",
+     "file": "00174-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 175,
+     "caption": "Detail Look 175",
+     "id": "6abfd33f8ae7e686ab85f1d4",
+     "file": "00175-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 176,
+     "caption": "Detail Look 176",
+     "id": "6abfd33f652d8e99615c66ae",
+     "file": "00176-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 177,
+     "caption": "Detail Look 177",
+     "id": "6abfd342f623c259f81a379a",
+     "file": "00177-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 178,
+     "caption": "Detail Look 178",
+     "id": "6abfd3424250410b2ea286a0",
+     "file": "00178-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 179,
+     "caption": "Detail Look 179",
+     "id": "6abfd342c4da3082e3d87d4b",
+     "file": "00179-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 180,
+     "caption": "Detail Look 180",
+     "id": "6abfd344884125edc6b344e7",
+     "file": "00180-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 181,
+     "caption": "Detail Look 181",
+     "id": "6abfd344e4c2be2c4c20dfe4",
+     "file": "00181-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 182,
+     "caption": "Detail Look 182",
+     "id": "6abfd344daaf5bd02522d195",
+     "file": "00182-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 183,
+     "caption": "Detail Look 183",
+     "id": "6abfd346b452e76498272eef",
+     "file": "00183-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 184,
+     "caption": "Detail Look 184",
+     "id": "6abfd346e9e3fde56d0ded8f",
+     "file": "00184-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 185,
+     "caption": "Detail Look 185",
+     "id": "6abfd3467d8f9610eee9fcd3",
+     "file": "00185-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 186,
+     "caption": "Detail Look 186",
+     "id": "6abfd348fdec02cd78845100",
+     "file": "00186-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 187,
+     "caption": "Detail Look 187",
+     "id": "6abfd34857c551bb0c87b5b4",
+     "file": "00187-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 188,
+     "caption": "Detail Look 188",
+     "id": "6abfd349d9ddf8263be8a43f",
+     "file": "00188-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 189,
+     "caption": "Detail Look 189",
+     "id": "6abfd34a7af546515529bee3",
+     "file": "00189-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 190,
+     "caption": "Detail Look 190",
+     "id": "6abfd34a149ad464111ca33f",
+     "file": "00190-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 191,
+     "caption": "Detail Look 191",
+     "id": "6abfd34af8d06ee51a0d8808",
+     "file": "00191-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 192,
+     "caption": "Detail Look 192",
+     "id": "6abfd34c4d254d28e93069b7",
+     "file": "00192-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 193,
+     "caption": "Detail Look 193",
+     "id": "6abfd34cf623c259f81a37a1",
+     "file": "00193-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 194,
+     "caption": "Detail Look 194",
+     "id": "6abfd34c149ad464111ca346",
+     "file": "00194-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 195,
+     "caption": "Detail Look 195",
+     "id": "6abfd34ff96090b2c67b30b1",
+     "file": "00195-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 196,
+     "caption": "Detail Look 196",
+     "id": "6abfd34e4c53c4a670150ee8",
+     "file": "00196-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 197,
+     "caption": "Detail Look 197",
+     "id": "6abfd34e7cb6738462fbcb79",
+     "file": "00197-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 198,
+     "caption": "Detail Look 198",
+     "id": "6abfd35021440467debb312e",
+     "file": "00198-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 199,
+     "caption": "Detail Look 199",
+     "id": "6abfd3515649234c0b146ee1",
+     "file": "00199-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 200,
+     "caption": "Detail Look 200",
+     "id": "6abfd351c836e17df10b7882",
+     "file": "00200-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 201,
+     "caption": "Detail Look 201",
+     "id": "6abfd3527d8f9610eee9fcda",
+     "file": "00201-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 202,
+     "caption": "Detail Look 202",
+     "id": "6abfd353ca5ede010f12bc48",
+     "file": "00202-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 203,
+     "caption": "Detail Look 203",
+     "id": "6abfd354e4c2be2c4c20dff1",
+     "file": "00203-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 204,
+     "caption": "Detail Look 204",
+     "id": "6abfd354f5f28b09808dad03",
+     "file": "00204-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 205,
+     "caption": "Detail Look 205",
+     "id": "6abfd355d348857ed480d2ba",
+     "file": "00205-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 206,
+     "caption": "Detail Look 206",
+     "id": "6ac1032e7d9829bb6e5b3a71",
+     "file": "00206-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 207,
+     "caption": "Detail Look 207",
+     "id": "6abfd3568ab75efcb4d26a5b",
+     "file": "00207-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 208,
+     "caption": "Detail Look 208",
+     "id": "6abfd3578ddfb494dc368697",
+     "file": "00208-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 209,
+     "caption": "Detail Look 209",
+     "id": "6abfd357f5f28b09808dad0b",
+     "file": "00209-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 210,
+     "caption": "Detail Look 210",
+     "id": "6abfd3588ddfb494dc36869e",
+     "file": "00210-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 211,
+     "caption": "Detail Look 211",
+     "id": "6abfd359daf84fb52107bc94",
+     "file": "00211-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 212,
+     "caption": "Detail Look 212",
+     "id": "6abfd35a1cde1601e6f88ae4",
+     "file": "00212-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 213,
+     "caption": "Detail Look 213",
+     "id": "6abfd35bee459cc3fa79b035",
+     "file": "00213-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 214,
+     "caption": "Detail Look 214",
+     "id": "6abfd35b3bd6d6f7cde0a40c",
+     "file": "00214-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 215,
+     "caption": "Detail Look 215",
+     "id": "6abfd35b7af546515529beea",
+     "file": "00215-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 216,
+     "caption": "Detail Look 216",
+     "id": "6abfd35dc4dc846ba16b2927",
+     "file": "00216-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 217,
+     "caption": "Detail Look 217",
+     "id": "6abfd35dc4dc846ba16b2929",
+     "file": "00217-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 218,
+     "caption": "Detail Look 218",
+     "id": "6abfd35e090fd8150d0e5cc8",
+     "file": "00218-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 219,
+     "caption": "Detail Look 219",
+     "id": "6abfd35fbf97e72231d5cdee",
+     "file": "00219-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 220,
+     "caption": "Detail Look 220",
+     "id": "6abfd35f7cb6738462fbcb85",
+     "file": "00220-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 221,
+     "caption": "Detail Look 221",
+     "id": "6abfd3607470eea9d4348154",
+     "file": "00221-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 222,
+     "caption": "Detail Look 222",
+     "id": "6abfd361a6353072874b36c1",
+     "file": "00222-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 223,
+     "caption": "Detail Look 223",
+     "id": "6abfd3613fc068873bc6b32e",
+     "file": "00223-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 224,
+     "caption": "Detail Look 224",
+     "id": "6abfd362884125edc6b344f4",
+     "file": "00224-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 225,
+     "caption": "Detail Look 225",
+     "id": "6abfd363f623c259f81a37a8",
+     "file": "00225-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 226,
+     "caption": "Detail Look 226",
+     "id": "6abfd3634281b5dd1bde0d95",
+     "file": "00226-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 227,
+     "caption": "Detail Look 227",
+     "id": "6abfd364e8fbc7f8edaf6e85",
+     "file": "00227-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 228,
+     "caption": "Detail Look 228",
+     "id": "6abfd366e063894da06e3a49",
+     "file": "00228-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 229,
+     "caption": "Detail Look 229",
+     "id": "6abfd3662c333f19037224a6",
+     "file": "00229-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 230,
+     "caption": "Detail Look 230",
+     "id": "6abfd36668443385db46f96b",
+     "file": "00230-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 231,
+     "caption": "Detail Look 231",
+     "id": "6abfd368e4fff725a76a95d4",
+     "file": "00231-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 232,
+     "caption": "Detail Look 232",
+     "id": "6abfd3688ddfb494dc3686a5",
+     "file": "00232-loewe-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:16:55"
+}

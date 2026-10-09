@@ -1,0 +1,6 @@
+data/images
+dist
+cookies.txt
+.env.local
+__pycache__
+supabase/.temp

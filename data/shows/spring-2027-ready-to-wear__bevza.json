@@ -1,0 +1,530 @@
+{
+ "key": "spring-2027-ready-to-wear__bevza",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bevza",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "bevza",
+ "brandName": "Bevza",
+ "designers": "By Svitlana Bevza",
+ "eventDate": "",
+ "pubDate": "September 9, 2026",
+ "authors": [
+  "Irene Kim"
+ ],
+ "reviewHtml": "<div><p>Svitlana Bevza’s namesake label turns 20 this year. To celebrate the milestone, she decided to do a rerun of her greatest hits from throughout the years. The stacked lineup included not only hit pieces worn by paparazzi favorites like Gigi Hadid, but also some of the brand’s bestselling clothes from the last two decades. “We took some of the best performing pieces throughout the years that are still in demand. Customers have been asking me for years if these garments could be reproduced,” said the designer. But with this anniversary collection she not only wanted to give her fans exactly what they wanted but also to re-emphasize her brand’s ethos: designing pieces meant to last. “The main thing to point out is that we don’t always need new Bevza garments. What I wanted to show was that good investments become collectible pieces, and that’s what we tend to do at the brand rather than produce more.” </p><p>Some of those timeless styles included her signature dresses, such as one very popular mini version named “The Emily,” from her fall 2016 collection after Ratajkowski made a brown iteration of the dress go viral with a single paparazzi shot. It was the sexiest piece in Bevza’s typically buttoned-up lineup, but the designer’s touch for sophistication means that even the glaring slit at the midriff looked tasteful thanks to the slightly looser fit and not too-short hemline. </p><p>While the Bevza customer’s needs range from evening wear to elevated basics, one of the more underrated parts of the brand is its tailoring. The designer, who often looks to her own closet to see what’s missing, knows that finding a well-fitted, tailored jacket that maintains a boyishly cool look without completely losing its femininity is not easy. Her inverted jacket from fall 2018 and spring 2020 does just that. It features dimension at the shoulders for a powerful touch, while the collarless deep V-neck gives it a dash of femininity. Although the entire lookbook was photographed in a very neutral white and nude color palette, the designer promised that everything will be available made-to-order in a variety of colors from lilac to red. </p><p>Acquiring all of these archival pieces was an adventure for Bevza and her team. They reached out to some of their most loyal customers worldwide, from Los Angeles to Milan, and found that everyone was actually very happy to loan out their personal collection for the shoot in Ukraine. “The community of Bevza clients have become friends,” said the designer. “This was a special project. People really cherish these things and still wear them, and it gives me hope that Bevza’s approach to fashion is thoughtful.” </p></div>",
+ "cover": {
+  "id": "6a9ad1ec0fb79fd6bdab56cd",
+  "file": "00001-bevza-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6a9ad1ec0fb79fd6bdab56cd",
+     "file": "00001-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6a9ad1ece353daa1ce608c69",
+     "file": "00002-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1539
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6a9ad1ec996f5e747ad09f98",
+     "file": "00003-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6a9ad1ee0fdb8cc6e3dbe540",
+     "file": "00004-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6a9ad1eef26769dd9160df92",
+     "file": "00005-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6a9ad1ee996f5e747ad09f9e",
+     "file": "00006-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6a9ad1f04fff8d47b487db23",
+     "file": "00007-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6a9ad1f0ff4676d8f02c16a1",
+     "file": "00008-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6a9ad1f179778f77cdbb55fc",
+     "file": "00009-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6a9ad1f2ff4676d8f02c16a7",
+     "file": "00010-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6a9ad1f26425c19179135944",
+     "file": "00011-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6a9ad1f3fa16e397c9f91bbb",
+     "file": "00012-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6a9ad1f4577da67ca3bbeb2c",
+     "file": "00013-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6a9ad1f4e8d169b4131edbe2",
+     "file": "00014-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6a9ad1f6996f5e747ad09fac",
+     "file": "00015-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6a9ad1f6465403c9ac838c34",
+     "file": "00016-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6a9ad1f50fdb8cc6e3dbe54b",
+     "file": "00017-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6a9ad1f779778f77cdbb560a",
+     "file": "00018-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6a9ad1f70fdb8cc6e3dbe551",
+     "file": "00019-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6a9ad1f8bd959c91ebfd9287",
+     "file": "00020-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6a9ad1f916cb02863ff67181",
+     "file": "00021-bevza-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6a9ad1ad577da67ca3bbeb0a",
+     "file": "00001-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6a9ad1adfa16e397c9f91baf",
+     "file": "00002a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6a9ad1ad465403c9ac838c1e",
+     "file": "00002b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6a9ad1af79778f77cdbb55e6",
+     "file": "00002c-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6a9ad1af8d204c502f1c4cd3",
+     "file": "00002d-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6a9ad1af0fb79fd6bdab56ac",
+     "file": "00003a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6a9ad1b1f8eca8731a57f635",
+     "file": "00003b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6a9ad1b18d204c502f1c4cd9",
+     "file": "00003c-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6a9ad1b1577da67ca3bbeb10",
+     "file": "00004-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6a9ad1b28d204c502f1c4cdf",
+     "file": "00005a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6a9ad1b3f26769dd9160df86",
+     "file": "00005b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6a9ad1b379778f77cdbb55ec",
+     "file": "00005c-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1515
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6a9ad1b405b71ec6537b91a1",
+     "file": "00006-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6a9ad1b56425c1917913591d",
+     "file": "00007a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6a9ad1b5996f5e747ad09f80",
+     "file": "00007b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6a9ad1b6f15d6f2bac6be8ce",
+     "file": "00007c-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6a9ad1b6e353daa1ce608c41",
+     "file": "00007d-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6a9ad1b7139b07a7c2856692",
+     "file": "00008-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6a9ad1b8e353daa1ce608c47",
+     "file": "00009a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6a9ad1b8173ff286a61fd0e2",
+     "file": "00009b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6a9ad1b86425c19179135923",
+     "file": "00010-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6a9ad1ba6425c1917913592e",
+     "file": "00011-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6a9ad1ba996f5e747ad09f86",
+     "file": "00012a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6a9ad1ba12882ac82e1ec367",
+     "file": "00012b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6a9ad1bbbd959c91ebfd926e",
+     "file": "00012c-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6a9ad1bc05b71ec6537b91a7",
+     "file": "00013a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6a9ad1bdff4676d8f02c1683",
+     "file": "00013b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6a9ad1bd6425c1917913593e",
+     "file": "00013c-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6a9ad1bebd959c91ebfd9274",
+     "file": "00014-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6a9ad1befa16e397c9f91bb5",
+     "file": "00015a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6a9ad1bfe96d7d1b007ee1af",
+     "file": "00015b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6a9ad1c0f2f72e76a1831939",
+     "file": "00016-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6a9ad1c0675b8e3a6940407e",
+     "file": "00017a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6a9ad1c1aa743506e7efba0e",
+     "file": "00017b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6a9ad1c1f2f72e76a183193f",
+     "file": "00018-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6a9ad1c2e353daa1ce608c57",
+     "file": "00019a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6a9ad1c3173ff286a61fd0e8",
+     "file": "00019b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6a9ad1c3ff4676d8f02c1689",
+     "file": "00020-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6a9ad1c30fdb8cc6e3dbe535",
+     "file": "00021a-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6a9ad1c4e96d7d1b007ee1ba",
+     "file": "00021b-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6a9ad1c5577da67ca3bbeb20",
+     "file": "00021c-bevza-spring-2027-ready-to-wear-detail-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:11:18"
+}

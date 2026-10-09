@@ -1,0 +1,1442 @@
+{
+ "key": "spring-2027-ready-to-wear__conner-ives",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/conner-ives",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "conner-ives",
+ "brandName": "Conner Ives",
+ "designers": "By Conner Ives",
+ "eventDate": "2026-09-12T16:00:00.000Z",
+ "pubDate": "September 12, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>Though he’s just turned 30, the American in London Conner Ives has made quite a name for himself, becoming a viral sensation for his “Protect the Dolls” T-shirt last year and placing his cocktail dresses on a much-photographed swath of <em>Vanity Fair</em> Oscar Party guests back in March.</p><p>A big crowd of people turned up at The Grill on Saturday afternoon to see what all the buzz is about. Ives has shown at Claridge’s and the Savoy in London, so he isn’t afraid of a big room, but this was a debut and a homecoming rolled into one—he hails from Westchester County originally—and he confessed to nerves.</p><p>Not that you could tell from the clothes. “Passion and flamboyance are my most inherently American traits,” he declared in his show notes. Swapping continents was no reason to adjust his delivery. Ives’s high-low mix for spring ran from those photogenic embroidered satin frocks and repurposed vintage fur-trimmed robes and bed jackets on one side to color-blocked rugbies, slogan tees, and embellished jeans on the other.</p><p>The T-shirt Hari Nef modeled declared “Bring Back Shame.” Jacob Elordi advocated for the concept in a <em>Wall Street Journal</em> interview that stirred much debate. Does the designer intend it ironically? He must. The Conner Ives world contains multitudes, though not all of it is as persuasive as his slogan tees. The gilded matador looks leaned costumey, and the horsey motifs and bandana prints were too on the nose. But the watercolor prints of fish scales—“the final frontier of exotics” per the show notes—displayed a new level of ambition, and the same goes for a pair of men’s suits made in collaboration with the Savile Row tailor Gieves &amp; Hawkes. No doubt a good many of these pieces will make their off-runway debut at Ives’s after-party tonight.</p></div>",
+ "cover": {
+  "id": "6aa593d9f51d770fd9440699",
+  "file": "00001-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa593d9f51d770fd9440699",
+     "file": "00001-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa593da8cc832c752564d4a",
+     "file": "00002-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa593d975b3267701e83e99",
+     "file": "00003-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa593db7bfdb86b334d102f",
+     "file": "00004-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa593dc22449ee1e5b9d172",
+     "file": "00005-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa593dc076f22746d97121b",
+     "file": "00006-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa593dd2e4581f6984bed8a",
+     "file": "00007-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa593dea6e7bf5d8b741373",
+     "file": "00008-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa593de6631dbf6ddf7b615",
+     "file": "00009-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa593e02e4581f6984bed91",
+     "file": "00010-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa593e09b0a728312eeef83",
+     "file": "00011-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa593e172e9829129344fee",
+     "file": "00012-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa593e21cc5e31996bbb76c",
+     "file": "00013-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa593e2ad599dfb709047ac",
+     "file": "00014-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa593e24d6fce885ab4732f",
+     "file": "00015-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa593e4c07485ee2a00f51d",
+     "file": "00016-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa593e4a6e7bf5d8b74137a",
+     "file": "00017-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa593e4c07485ee2a00f524",
+     "file": "00018-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa593e639653c76a6dbe5fe",
+     "file": "00019-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa593e67bfdb86b334d1039",
+     "file": "00020-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa593e7c07485ee2a00f531",
+     "file": "00021-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa593e8e4e766690f77fd90",
+     "file": "00022-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa593e822449ee1e5b9d185",
+     "file": "00023-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa593e93022803b3ad6e567",
+     "file": "00024-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa593eaa7cedc9e22293ea6",
+     "file": "00025-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa593eaad599dfb709047b3",
+     "file": "00026-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa593eb8c91e1e1e24ca10f",
+     "file": "00027-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa593ebad457e0f73e85fdc",
+     "file": "00028-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa593eca6e7bf5d8b74138a",
+     "file": "00029-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa593ed1cc5e31996bbb773",
+     "file": "00030-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa593eee4e766690f77fd9a",
+     "file": "00031-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa593ee8cc832c752564d54",
+     "file": "00032-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa593f0076f22746d97122b",
+     "file": "00033-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa593f080f05e50b6c1ba2e",
+     "file": "00034-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa593f039653c76a6dbe60e",
+     "file": "00035-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa593f272e9829129344ffe",
+     "file": "00036-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa593f21c3fccfa45a61fbf",
+     "file": "00037-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa593f22e929cd40d935791",
+     "file": "00038-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa593f4f51d770fd94406ac",
+     "file": "00039-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa593f46631dbf6ddf7b628",
+     "file": "00040-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa593f4ad599dfb709047ba",
+     "file": "00041-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa593f62e4581f6984bed9b",
+     "file": "00042-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa593f68c91e1e1e24ca125",
+     "file": "00043-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa593f69b0a728312eeef96",
+     "file": "00044-conner-ives-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa5a6ee8cc832c752564e40",
+     "file": "00001-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa5a6ee3022803b3ad6e61c",
+     "file": "00002-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa5a6ee22449ee1e5b9d25c",
+     "file": "00003-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa5a6f239653c76a6dbe760",
+     "file": "00004-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa5a6f23022803b3ad6e623",
+     "file": "00005-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa5a6f2a6e7bf5d8b741432",
+     "file": "00006-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa5a6f522449ee1e5b9d263",
+     "file": "00007-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa5a6f51cc5e31996bbb99b",
+     "file": "00008-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa5a6f6e4e766690f77fec9",
+     "file": "00009-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa5a6f7a7cedc9e22293f3f",
+     "file": "00010-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa5a6f8f51d770fd9440789",
+     "file": "00011-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa5a6f91c3fccfa45a62077",
+     "file": "00012-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa5a6f91553ea21ca3be7e1",
+     "file": "00013-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa5a6fa22449ee1e5b9d26a",
+     "file": "00014-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa5a6fba7cedc9e22293f46",
+     "file": "00015-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa5a6fcad457e0f73e860fe",
+     "file": "00016-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa5a6fd6631dbf6ddf7b69e",
+     "file": "00017-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa5a6fe8cc832c752564e47",
+     "file": "00018-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa5a6fe6631dbf6ddf7b6a5",
+     "file": "00019-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa5a6ff1c3fccfa45a6207f",
+     "file": "00020-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa5a7011cc5e31996bbb9a8",
+     "file": "00021-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa5a70102b9c16156ad400e",
+     "file": "00022-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa5a70275b3267701e83fe8",
+     "file": "00023-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa5a7038cc832c752564e4e",
+     "file": "00024-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa5a70422449ee1e5b9d277",
+     "file": "00025-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa5a704f51d770fd9440790",
+     "file": "00026-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa5a7066631dbf6ddf7b6ac",
+     "file": "00027-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa5a706f51d770fd9440797",
+     "file": "00028-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa5a707ed11fcdcdecbce78",
+     "file": "00029-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa5a708e4e766690f77fedc",
+     "file": "00030-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa5a7097bfdb86b334d1113",
+     "file": "00031-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa5a7098cc832c752564e55",
+     "file": "00032-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa5a70b39653c76a6dbe767",
+     "file": "00033-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa5a70c02b9c16156ad4027",
+     "file": "00034-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa5a70c39653c76a6dbe76e",
+     "file": "00035-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa5a70d02b9c16156ad402e",
+     "file": "00036-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa5a70e7bfdb86b334d111a",
+     "file": "00037-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa5a70ff51d770fd944079e",
+     "file": "00038-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa5a70f3022803b3ad6e630",
+     "file": "00039-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa5a71139653c76a6dbe775",
+     "file": "00040-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa5a711fd58de7d2d38f114",
+     "file": "00041-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa5a712f51d770fd94407a5",
+     "file": "00042-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa5a7151c3fccfa45a62092",
+     "file": "00043-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa5a7141c3fccfa45a6208d",
+     "file": "00044-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa5a71565f1c02545855abd",
+     "file": "00045-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa5a717ad457e0f73e8610b",
+     "file": "00046-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa5a7187bfdb86b334d112d",
+     "file": "00047-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa5a7181cc5e31996bbb9af",
+     "file": "00048-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa5a71bad457e0f73e86112",
+     "file": "00049-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa5a71b8c91e1e1e24ca200",
+     "file": "00050-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa5a71b39653c76a6dbe782",
+     "file": "00051-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa5a71e94d2267b967c1de9",
+     "file": "00052-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa5a71f75b3267701e83ff5",
+     "file": "00053-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa5a71f8c91e1e1e24ca207",
+     "file": "00054-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa5a720e4e766690f77fee3",
+     "file": "00055-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa5a72102b9c16156ad403b",
+     "file": "00056-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa5a722fd58de7d2d38f11b",
+     "file": "00057-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa5a723ad599dfb7090488a",
+     "file": "00058-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa5a7231c3fccfa45a6209a",
+     "file": "00059-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa5a7241cc5e31996bbb9bc",
+     "file": "00060-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa5a7261553ea21ca3be7f4",
+     "file": "00061-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa5a726fd58de7d2d38f122",
+     "file": "00062-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa5a72722449ee1e5b9d27e",
+     "file": "00063-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa5a72980f05e50b6c1bb44",
+     "file": "00064-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa5a7293022803b3ad6e643",
+     "file": "00065-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa5a72a65f1c02545855ac4",
+     "file": "00066-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa5a72b39653c76a6dbe78f",
+     "file": "00067-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6aa5a72c72e9829129345156",
+     "file": "00068-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6aa5a72ce4e766690f77fef0",
+     "file": "00069-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6aa5a72e6631dbf6ddf7b6bf",
+     "file": "00070-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6aa5a72e1c3fccfa45a620a2",
+     "file": "00071-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6aa5a72fc07485ee2a00f636",
+     "file": "00072-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6aa5a730a6e7bf5d8b741439",
+     "file": "00073-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6aa5a7313022803b3ad6e64a",
+     "file": "00074-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6aa5a7311c3fccfa45a620b0",
+     "file": "00075-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6aa5a7332e929cd40d93583f",
+     "file": "00076-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6aa5a734b9760a091e751cdb",
+     "file": "00077-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6aa5a7342e929cd40d935846",
+     "file": "00078-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6aa5a7362e929cd40d93584d",
+     "file": "00079-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6aa5a7371c3fccfa45a620b7",
+     "file": "00080-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6aa5a7362e929cd40d935854",
+     "file": "00081-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6aa5a73872e9829129345163",
+     "file": "00082-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6aa5a739ad599dfb70904897",
+     "file": "00083-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6aa5a7393022803b3ad6e651",
+     "file": "00084-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6aa5a73a65f1c02545855ad4",
+     "file": "00085-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6aa5a73be4e766690f77fefd",
+     "file": "00086-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6aa5a73cad599dfb7090489e",
+     "file": "00087-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6aa5a73d2e929cd40d93585b",
+     "file": "00088-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6aa5a73efd58de7d2d38f130",
+     "file": "00089-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6aa5a73e4d6fce885ab47434",
+     "file": "00090-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6aa5a7402e929cd40d935862",
+     "file": "00091-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6aa5a7413022803b3ad6e658",
+     "file": "00092-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6aa5a741ad599dfb709048a5",
+     "file": "00093-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6aa5a742fd58de7d2d38f138",
+     "file": "00094-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6aa5a744a7cedc9e22293f5f",
+     "file": "00095-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6aa5a7441553ea21ca3be807",
+     "file": "00096-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6aa5a74475b3267701e84002",
+     "file": "00097-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6aa5a747ed11fcdcdecbce85",
+     "file": "00098-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6aa5a74772e982912934516a",
+     "file": "00099-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6aa5a747b9760a091e751ce2",
+     "file": "00100-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6aa5a7493022803b3ad6e65f",
+     "file": "00101-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6aa5a74f7bfdb86b334d1146",
+     "file": "00109-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6aa5a74a65f1c02545855adb",
+     "file": "00102-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6aa5a74a94d2267b967c1df6",
+     "file": "00103-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6aa5a74ca7cedc9e22293f66",
+     "file": "00104-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6aa5a74d94d2267b967c1dfd",
+     "file": "00105-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6aa5a74db9760a091e751d66",
+     "file": "00106-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6aa5a74e80f05e50b6c1bb56",
+     "file": "00107-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6aa5a74f94d2267b967c1e04",
+     "file": "00108-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6aa5a7507bfdb86b334d114d",
+     "file": "00110-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6aa5a751b9760a091e751d6d",
+     "file": "00111-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6aa5a75280f05e50b6c1bb5d",
+     "file": "00112-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6aa5a7521cc5e31996bbba4f",
+     "file": "00113-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6aa5a753ad599dfb709048ac",
+     "file": "00114-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6aa5a7558cc832c752564e6e",
+     "file": "00115-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6aa5a75594d2267b967c1e11",
+     "file": "00116-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6aa5a7567bfdb86b334d115a",
+     "file": "00117-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6aa5a757f51d770fd94407c3",
+     "file": "00118-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6aa5a758fd58de7d2d38f150",
+     "file": "00119-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6aa5a7588c91e1e1e24ca22c",
+     "file": "00120-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6aa5a75aad457e0f73e8611f",
+     "file": "00121-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6aa5a75a02b9c16156ad4054",
+     "file": "00122-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6aa5a75b6631dbf6ddf7b6d2",
+     "file": "00123-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6aa5a75dc07485ee2a00f643",
+     "file": "00124-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6aa5a75e8cc832c752564e75",
+     "file": "00125-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6aa5a75eb9760a091e751d74",
+     "file": "00126-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6aa5a760ed11fcdcdecbce98",
+     "file": "00127-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6aa5a76080f05e50b6c1bb64",
+     "file": "00128-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6aa5a761b9760a091e751d7b",
+     "file": "00129-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6aa5a762ad599dfb709048b3",
+     "file": "00130-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6aa5a76280f05e50b6c1bb6b",
+     "file": "00131-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6aa5a7636631dbf6ddf7b6d9",
+     "file": "00132-conner-ives-spring-2027-ready-to-wear-details-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:57"
+}

@@ -1,0 +1,354 @@
+{
+ "key": "spring-2027-ready-to-wear__eudon-choi",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/eudon-choi",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "eudon-choi",
+ "brandName": "Eudon Choi",
+ "designers": "By Eudon Choi",
+ "eventDate": "",
+ "pubDate": "September 28, 2026",
+ "authors": [
+  "Anna Cafolla"
+ ],
+ "reviewHtml": "<div><p>For spring 2027, Eudon Choi found himself thinking about what survives. A recent trip to Athens and Milos had left him mesmerized by Greece’s weathered forms, sculptures, and buildings recast by the elements and carrying several eras at once. “I became interested in the things that weren’t perfect,” he said. “There was something very beautiful about seeing how time had changed them.”</p><p>That idea of beauty altered by time gave Choi a way into classical dress without tipping into costume. “I didn’t want to do typical ‘Greek goddess’ drapes,” he explained at a preview. “I wanted to make it quite sharp and modernized.” The opening white dress established this perspective with asymmetric fall and gathered fabric, as if carved from marble. Draping was achieved through drawstrings, shifted button placements, ruching, and adjustable constructions. These were practical interventions that let fabric contour and caress the body.</p><p>Madame Grès was another touchstone. Choi referenced one of her tiered dresses in a series of layered, elongated silhouettes, but his own versions felt deliberately less reverential. A striped shirt twisted into a draped midi skirt, and long dresses were broken into tiers of black, white, blue, and tobacco. A sleeveless striped dress skimmed the body before giving way to a dark satin hem. Clothes have an archaeological echo, but these were very much intended for Choi’s modern woman and her functional wardrobe.</p><p>The collection was strongest when that interweaving of sculpture and utility came into focus. Choi’s tailoring was softened this season: jackets were stripped of much of their internal structure, with no chest canvas and, in places, unlined sleeves, so that they sat lightly on the body. Cropped trousers, cargo shapes, bombers, trench coats, and pinstripes kept the proposition grounded. A pale trench with clever caping and layered lapel details and a navy pinstripe suit with sleek and almost sporty culottes, for example, provided a clean urban counterpoint to the more romantic silhouettes.</p><p>Color did much of the atmospheric work with marbles and scorched earth recalled in ivory and espresso shades. Lemon yellow and sea blue cut through with something fresher and more obviously summery. Choi spoke repeatedly about “easy dressing,” and that was the collection’s real achievement.</p></div>",
+ "cover": {
+  "id": "6abb9f7f2ce7403e1d93c185",
+  "file": "00001-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6abb9f7f2ce7403e1d93c185",
+     "file": "00001-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6abb9f7f17a97ab0a62f2573",
+     "file": "00002-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6abb9f83bbf7c9bb0bcab5e7",
+     "file": "00003-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6abb9f84f0ee8cba94357dd9",
+     "file": "00004-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6abb9f7f294b20220ff27a2e",
+     "file": "00005-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6abb9f84294b20220ff27a35",
+     "file": "00006-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6abb9f85f9c58579c688e2a1",
+     "file": "00007-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6abb9f887b040a8c763edc89",
+     "file": "00008-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6abb9f888b3ee60af69b134d",
+     "file": "00009-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6abb9f88300c902695b30d4a",
+     "file": "00010-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6abb9f8bbb05aa2abfbcbce8",
+     "file": "00011-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6abb9f8b5a796d96a4c30d26",
+     "file": "00012-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6abb9f8bd2dd08bf9303e352",
+     "file": "00013-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6abb9f8ebd8c6f77f9b5e0f4",
+     "file": "00014-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6abb9f8f0f01b94eb02b8ffd",
+     "file": "00015-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6abb9f8fc92f6d5d9c78d237",
+     "file": "00016-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6abb9f92bf51697cc014e32d",
+     "file": "00017-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6abb9f92d8e1dc1f017984af",
+     "file": "00018-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6abb9f92f01ee79952c19ac7",
+     "file": "00019-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6abb9f95c9a732b508d7c1e2",
+     "file": "00020-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6abb9f968bc56bc8fa08f704",
+     "file": "00021-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6abb9f96e6e0624b8784261e",
+     "file": "00022-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6abb9f9876508a060a79e9f4",
+     "file": "00023-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6abb9f98c377d6f3135f2059",
+     "file": "00024-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6abb9f98294b20220ff27a42",
+     "file": "00025-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6abb9f9b2ce7403e1d93c18c",
+     "file": "00026-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6abb9f9c2f47af2f95ea76ac",
+     "file": "00027-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6abb9f9c0e8d7d04c1d5325c",
+     "file": "00028-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6abb9f9e38bb2257e2ea75ad",
+     "file": "00029-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6abb9f9eddeb6c69e0147577",
+     "file": "00030-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6abba081c9a732b508d7c1e9",
+     "file": "00001-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6abba081498102ef54bd6e12",
+     "file": "00002-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6abba081300c902695b30d57",
+     "file": "00003-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6abba085580577bf94b52ace",
+     "file": "00004-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6abba085b51ae59f7bc4b268",
+     "file": "00005-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6abba085d2dd08bf9303e35f",
+     "file": "00006-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6abba089294b20220ff27a5b",
+     "file": "00007-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6abba089c92f6d5d9c78d23e",
+     "file": "00008-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6abba0895a796d96a4c30d2d",
+     "file": "00009-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6abba08b4379732918776908",
+     "file": "00010-eudon-choi-spring-2027-ready-to-wear-details-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:13"
+}

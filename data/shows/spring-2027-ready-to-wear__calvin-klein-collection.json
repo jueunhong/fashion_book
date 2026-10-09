@@ -1,0 +1,1320 @@
+{
+ "key": "spring-2027-ready-to-wear__calvin-klein-collection",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/calvin-klein-collection",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "calvin-klein-collection",
+ "brandName": "Calvin Klein Collection",
+ "designers": "By Veronica Leoni",
+ "eventDate": "2026-09-11T19:00:00.000Z",
+ "pubDate": "September 11, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>I’ve heard it said that the industry clamors to put women in leadership positions but often hastens to pull them down. If that’s a generalization, there’s also a grain of truth to the observation. Calvin Klein’s Veronica Leoni could attest to it if she were less discreet. Instead, she proved the critics wrong today with a collection that got to the essence of what Klein stood for. “The idea of being modern is the absence of decoration,” said Klein on <em>Vogue</em>’s <em>Run-Through</em> <a href=\"https://podcasts.apple.com/hr/podcast/mr-calvin-klein/id1526206712?i=1000726192330\" target=\"_blank\" rel=\"noopener\">podcast</a> last year. “If the design is good and the shape is good and the silhouette, it doesn’t need a lot of extra stuff to make a person feel better. So I’ve just always believed in stripping it.”</p><p>Strip it Leoni did. The heavy layers of fall were gone, as were the heavy-handed embellishments of last spring. In their place, she focused on what she called Klein’s foundational pieces: slip dresses, slim skirts and trousers, a perfect tee, and the right jacket to wear on top. It takes a lot of confidence to send out something so reduced.</p><p>For a backdrop, there were four Walter De Maria sculptures arrayed throughout the Terminal Building’s expansive rooms. De Maria was just as disciplined as Klein in his minimalism, but those sculptures weren’t essential, not based on the equation that Solange, seated front row next to Teyana Taylor, set up in the monologue on the show’s soundtrack: “The truest practice of minimalism is determining what is 100% necessary.”</p><p>So what is necessary, according to Leoni? A simple, straightforward blazer not in wool but in cotton; high-waisted, straight-leg jeans in the palest of washes with subtle creases down the front; a trench in gray-tone plaid. Leoni was looking at the wardrobe of Georgia O’Keeffe, who developed a uniform over the years of boiled-down but well-made basics. “I really tried to own that sort of modularity in the wardrobe and tried to practice the idea of repetition that is so important in minimalism,” Leoni noted, which is why the knit silk-jersey tees were repeated in day and evening looks, and bandeau tops were worn over high-neck button-downs and on their own with matching skirts.</p><p>Truth be told, the collection wasn’t flourish-free, but Mr. Clean himself would surely approve of an effortlessly elegant white bias-cut slip dress that utilized both the matte and shiny sides of its silk.</p></div>",
+ "cover": {
+  "id": "6aa49cb9b2783ffdb29535de",
+  "file": "00001-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa49cb9b2783ffdb29535de",
+     "file": "00001-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa49cb92e4581f6984be2a5",
+     "file": "00002-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa49cb95ae80cd1c546d963",
+     "file": "00003-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa49cbbb6bdd74488d32096",
+     "file": "00004-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa49cbbf7c57b5f8f83fde0",
+     "file": "00005-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa49cbb1b3177d09a638846",
+     "file": "00006-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa49cbd0597a1723a8850ac",
+     "file": "00007-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa49cbdbe989299f899b839",
+     "file": "00008-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa49cbd67fe11be1afa9779",
+     "file": "00009-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa49cbf139ff545046e5e7f",
+     "file": "00010-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa49cbf67fe11be1afa9780",
+     "file": "00011-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa49cbf373ec98caa977ef8",
+     "file": "00012-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa49cc1e8b2e8d417607490",
+     "file": "00013-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa49cc114cb858763488a80",
+     "file": "00014-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa49cc1be989299f899b840",
+     "file": "00015-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa49cc31a7e8ad41083b2d4",
+     "file": "00016-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa49cc3a66aa4c2df08c7f2",
+     "file": "00017-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa49cc3f7c57b5f8f83fde7",
+     "file": "00018-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa49cc41e552c9c6109be65",
+     "file": "00019-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa49cc41b3177d09a638853",
+     "file": "00020-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa49cc5c3b02680d15f9345",
+     "file": "00021-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa49cc667fe11be1afa978a",
+     "file": "00022-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa49cc6be989299f899b847",
+     "file": "00023-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa49cc7b6bdd74488d3209d",
+     "file": "00024-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa49cc98bdc0ffc49ec746e",
+     "file": "00025-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa49cc8139ff545046e5e86",
+     "file": "00026-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa49cc9f54ec4b21064b417",
+     "file": "00027-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa49cca1b3177d09a63885a",
+     "file": "00028-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa49ccb4c6acbb5b9550239",
+     "file": "00029-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa49ccbd4a0661153cfd2ee",
+     "file": "00030-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa49ccc0597a1723a8850ce",
+     "file": "00031-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa49ccdf7c57b5f8f83fdee",
+     "file": "00032-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aa49ccd2e4581f6984be2af",
+     "file": "00033-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aa49cce53a8a9db8c96ce83",
+     "file": "00034-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6aa49ccf67fe11be1afa9791",
+     "file": "00035-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aa49ccf058ab3c4259339c6",
+     "file": "00036-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aa49cd014cb858763488a87",
+     "file": "00037-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aa49cd01a7e8ad41083b2de",
+     "file": "00038-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6aa49cd1139ff545046e5e93",
+     "file": "00039-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6aa49cd2be989299f899b854",
+     "file": "00040-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aa49cd21b3177d09a638864",
+     "file": "00041-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aa49cd3a66aa4c2df08c7f9",
+     "file": "00042-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aa49cd4f54ec4b21064b41e",
+     "file": "00043-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6aa49cd43c9c6773157dab6d",
+     "file": "00044-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aa49cd5f54ec4b21064b425",
+     "file": "00045-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6aa49cd6c3b02680d15f935c",
+     "file": "00046-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6aa49cd6c3b02680d15f9361",
+     "file": "00047-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6aa49cd7e0820bb324a9040e",
+     "file": "00048-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6aa49cd81b3177d09a63886b",
+     "file": "00049-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6aa49cd83c9c6773157dab7d",
+     "file": "00050-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6aa49cd9058ab3c4259339d3",
+     "file": "00051-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6aa49cd9251b042262c62f9d",
+     "file": "00052-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6aa49cd9a66aa4c2df08c800",
+     "file": "00053-calvin-klein-collection-spring-2027-ready-to-wear-credit-gorunway.JPG",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa50b40a7cedc9e22293aab",
+     "file": "00001-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa50b3f1553ea21ca3be426",
+     "file": "00002-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa50b3f373ec98caa9786c0",
+     "file": "00003-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa50b419b0a728312eeeca2",
+     "file": "00004-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa50b41076f22746d970c6e",
+     "file": "00005-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa50b41a66aa4c2df08cf4b",
+     "file": "00006-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa50b43076f22746d970c75",
+     "file": "00007-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa50b429b0a728312eeeca9",
+     "file": "00008-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa50b4372e9829129344d29",
+     "file": "00009-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa50b448c91e1e1e24c9ea6",
+     "file": "00010-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa50b451cc5e31996bbb4ce",
+     "file": "00011-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa50b459b0a728312eeecb0",
+     "file": "00012-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa50b4772e9829129344d30",
+     "file": "00013-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa50b4794d2267b967c1b4b",
+     "file": "00014-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa50b471553ea21ca3be42d",
+     "file": "00015-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa50b49d4a0661153cfd944",
+     "file": "00016-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa50b49e0820bb324a90a6d",
+     "file": "00017-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa50b4a1553ea21ca3be434",
+     "file": "00018-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa50b4b9c7fdcf335a5e30d",
+     "file": "00019-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa50b4ba66aa4c2df08cf58",
+     "file": "00020-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa50b4b7bfdb86b334d0ad5",
+     "file": "00021-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa50b4d7bfdb86b334d0adc",
+     "file": "00022-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa50b4d9c7fdcf335a5e31b",
+     "file": "00023-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa50b4d9c7fdcf335a5e314",
+     "file": "00024-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa50b4f76576ed0552e10a3",
+     "file": "00025-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa50b4f9b0a728312eeecb7",
+     "file": "00026-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa50b4ff51d770fd94403df",
+     "file": "00027-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa50b50af993cbfb7f1fcf8",
+     "file": "00028-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa50b505ae80cd1c546dfb4",
+     "file": "00029-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa50b518bdc0ffc49ec7bfc",
+     "file": "00030-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa50b528c91e1e1e24c9ead",
+     "file": "00031-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa50b522e4581f6984be9af",
+     "file": "00032-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa50b53e0820bb324a90a7a",
+     "file": "00033-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa50b54f51d770fd94403e6",
+     "file": "00034-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa50b5439653c76a6dbe35e",
+     "file": "00035-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1537
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa50b54c3d42955bbcc39ce",
+     "file": "00036-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa50b552e4581f6984be9bc",
+     "file": "00037-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa50b568bdc0ffc49ec7c03",
+     "file": "00038-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa50b56f51d770fd94403ed",
+     "file": "00039-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa50b574c6acbb5b9550aa2",
+     "file": "00040-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa50b5867fe11be1afa9e36",
+     "file": "00041-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa50b58076f22746d970c82",
+     "file": "00042-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa50b59c07485ee2a00f254",
+     "file": "00043-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa50b59373ec98caa9786cd",
+     "file": "00044-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1537
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa50b5a9c7fdcf335a5e322",
+     "file": "00045-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa50b5b5ae80cd1c546dfbb",
+     "file": "00046-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa50b5b9b0a728312eeecc4",
+     "file": "00047-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa50b5bd4a0661153cfd957",
+     "file": "00048-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa50b5c1553ea21ca3be43b",
+     "file": "00049-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa50b5d8bdc0ffc49ec7c0a",
+     "file": "00050-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa50b5d1a7e8ad41083b9b7",
+     "file": "00051-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa50b5ec07485ee2a00f25b",
+     "file": "00052-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa50b5e4c6acbb5b9550aaf",
+     "file": "00053-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa50b5f39653c76a6dbe370",
+     "file": "00054-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa50b608bdc0ffc49ec7c17",
+     "file": "00055-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa50b611cc5e31996bbb4e7",
+     "file": "00056-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa50b61a7cedc9e22293aca",
+     "file": "00057-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa50b615ae80cd1c546dfc8",
+     "file": "00058-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa50b62a66aa4c2df08cf5f",
+     "file": "00059-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa50b6267fe11be1afa9e3d",
+     "file": "00060-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa50b64058ab3c425934144",
+     "file": "00061-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1535
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa50b648c91e1e1e24c9ec0",
+     "file": "00062-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1537
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa50b64a66aa4c2df08cf66",
+     "file": "00063-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa50b659b0a728312eeecd1",
+     "file": "00064-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa50b662e4581f6984be9c9",
+     "file": "00065-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa50b661cc5e31996bbb4ee",
+     "file": "00066-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1537
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa50b6876576ed0552e10aa",
+     "file": "00067-calvin-klein-collection-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6aa4813e1a7e8ad41083b1d6",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6aa4813ec3b02680d15f9265",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6aa4813f3c9c6773157daa3a",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6aa48142058ab3c4259338ad",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6aa48143d2a76a053008a3c6",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6aa4814367fe11be1afa94da",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6aa48145e0820bb324a90273",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6aa48148c3d42955bbcc3183",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6aa48148d2a76a053008a3cd",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6aa48148251b042262c62e63",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6aa4814b3c9c6773157daa41",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6aa4814c4c6acbb5b9550079",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6aa4814c0597a1723a884fd7",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6aa481503c9c6773157daa48",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6aa48150251b042262c62e70",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6aa48151373ec98caa977d7f",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6aa48154373ec98caa977d86",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6aa48155365ed169eaddbdba",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6aa48155139ff545046e5d85",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6aa48157058ab3c4259338ba",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6aa4815a0597a1723a884fe4",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6aa4815a1a7e8ad41083b1e9",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6aa4815a0597a1723a884feb",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6aa4815da66aa4c2df08c6ce",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "6aa4815e1a7e8ad41083b1f0",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_25.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "6aa4815f9c7fdcf335a5da05",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_26.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "6aa48160c3b02680d15f9272",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_27.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "6aa48163e8b2e8d4176073c0",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_28.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 29,
+     "caption": "Backstage Look 29",
+     "id": "6aa481630597a1723a884ff2",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_29.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Backstage Look 30",
+     "id": "6aa48163373ec98caa977d8d",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_30.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Backstage Look 31",
+     "id": "6aa48167e8b2e8d4176073c7",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_31.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Backstage Look 32",
+     "id": "6aa48167365ed169eaddbdc1",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_32.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Backstage Look 33",
+     "id": "6aa481683c9c6773157daa5b",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_33.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Backstage Look 34",
+     "id": "6aa4816bd4a0661153cfd1a6",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_34.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Backstage Look 35",
+     "id": "6aa4816c67fe11be1afa94e1",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_35.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Backstage Look 36",
+     "id": "6aa4816c4c6acbb5b955008c",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_36.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Backstage Look 37",
+     "id": "6aa48170d2a76a053008a3ec",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_37.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Backstage Look 38",
+     "id": "6aa481704c6acbb5b9550093",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_38.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Backstage Look 39",
+     "id": "6aa48170f54ec4b21064b2a0",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_39.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Backstage Look 40",
+     "id": "6aa48172be989299f899b776",
+     "file": "CalvinKlein_NYFW_SS27_backstage_acielle_40.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:00"
+}

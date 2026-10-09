@@ -1,0 +1,1368 @@
+{
+ "key": "spring-2027-ready-to-wear__erdem",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/erdem",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "erdem",
+ "brandName": "Erdem",
+ "designers": "By Erdem Moralioglu",
+ "eventDate": "2026-09-20T11:00:00.000Z",
+ "pubDate": "September 21, 2026",
+ "authors": [
+  "Sarah Mower"
+ ],
+ "reviewHtml": "<div><p>Suspended between femininity and masculinity, breathtaking wonder and elevated reality, Erdem’s spring collection was a love-letter to Barbette, a star trapeze performer who dazzled audiences in the 1920s and ’30s. Before we get into his story—which the designer related in a mini-lecture backstage—let us take a moment, please, to appreciate the full scope and technical accomplishment of the wardrobe Erdem Moralioglu is putting forth these days.</p><p>While he’s nailed evening dresses in every variety from tiny and short to lingerie-light to ball-gown fantasy, he’s also become equally great at cutting multiple-choice evening tailoring and tweed coats. Not forgetting his decorative-yet-cool casual denim and rose-print day jackets. Or the two outstandingly fabulous silk brocade-inserted, couture-volumed Barbour collaboration jackets that made their way around his runway for spring.</p><p>It’s a fully-realized Erdem world, this—everything from crisp shirts, easy pajama suits to bags—and the news is that all this will be available in the store he’s opening in New York at the end of next May.</p><p>Which makes it even more relevant, somehow, that Erdem’s story this season was based on an American. “Barbette was an aerialist, a kind of performance artist, who was actually born Vander Clyde in Texas. He really discovered the idea of gender fluidity when he was performing with two sisters,” said the designer. “One died, and he had to replace her, and hence he dressed up as a woman for the first time.”</p><p>The sparkle-embroidered leotards, bras, and underwear, and the ostrich feather furbelows on the runway were directly inspired by Moralioglu’s study of Man Ray’s photographs of Barbette in his costumes for his performances at the Moulin Rouge and the Casino de Paris. His popularity, only enhanced when he took off his wig to reveal he was not a woman at the end of his act, meant he also attracted surrealists like Jean Cocteau. “It was always about a duality. It was almost like he wasn’t trying to be a woman or a man. You can see that quite clearly in the images that Man Ray took,” said Moralioglu. “It was truly about this kind of androgyny, and so [this season] was about exploring the most feminine of feminine underwear, bras, pants, and other things that just like felt so feminine, and then layering it with something that felt very, very masculine.”</p><p>It made for a collection that was possibly the best yet in Moralioglu’s career. “It felt like a joyful moment,” he said, and then added a final thought. “I also felt like it was very interesting to explore this kind of subject in America as well. That idea of gender in this time that we live in, I found it urgently relevant.”</p></div>",
+ "cover": {
+  "id": "6aafef6848697c2520ab027b",
+  "file": "00001-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aafef6848697c2520ab027b",
+     "file": "00001-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aafef6898f2dabf220d1ec5",
+     "file": "00002-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab011712146fa27c841e03e",
+     "file": "00003-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aafef6a2093ef06529b9b4c",
+     "file": "00004-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab01171c0fcd3f807094396",
+     "file": "00005-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aafef6a775f1585813db654",
+     "file": "00006-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aafef6c9705b01c9168aae0",
+     "file": "00007-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aafef6d48697c2520ab0283",
+     "file": "00008-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aafef6d48697c2520ab0288",
+     "file": "00009-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aafef6ea14e44b3abf282c2",
+     "file": "00010-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aafef6fa26fee20936a97a3",
+     "file": "00011-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aafef6fd33febe985aa7fce",
+     "file": "00012-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aafef70589fd7bfd37c93dc",
+     "file": "00013-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab011719ef682a681d57fb0",
+     "file": "00014-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aafef7103f935ec00989fe3",
+     "file": "00015-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aafef72df385a417280aa27",
+     "file": "00016-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab01173d71a0f2fa8efbc3f",
+     "file": "00017-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aafef73be1d8528004e5768",
+     "file": "00018-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aafef74af1e42242b3cc92f",
+     "file": "00019-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aafef7471bdb0c454ddbf2b",
+     "file": "00020-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab01173d71a0f2fa8efbc41",
+     "file": "00021-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aafef76f37714697e2e7d09",
+     "file": "00022-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aafef762954cbe0a0ba22fe",
+     "file": "00023-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aafef77d33febe985aa7fd5",
+     "file": "00024-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aafef785cd0e3956d23c360",
+     "file": "00025-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aafef790fe2d4e8f3a14abb",
+     "file": "00026-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab0117303ef480c76ef35be",
+     "file": "00027-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aafef7abe1d8528004e5772",
+     "file": "00028-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aafef7bcd554fcf6fc3a2a0",
+     "file": "00029-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aafef7bbe1d8528004e5779",
+     "file": "00030-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aafef7e71bdb0c454ddbf32",
+     "file": "00034-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab01174c448c4fdd1c71d41",
+     "file": "00032-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6aafef80af1e42242b3cc936",
+     "file": "00038-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6aafef7c49ed0cff3a1fb18a",
+     "file": "00031-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab01175b134952526dabc1b",
+     "file": "00035-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6aafef7d0e26ac7ec54ca659",
+     "file": "00033-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6aafef7f26169730a278ac71",
+     "file": "00036-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6aafef80775f1585813db661",
+     "file": "00037-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab01175477c0e41b709ef08",
+     "file": "00039-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab0117603f935ec0098a067",
+     "file": "00041-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6aafef83394d6cc4fe12147b",
+     "file": "00040-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6aafef83d2cb3c78570ac64b",
+     "file": "00042-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6aafef855cd0e3956d23c367",
+     "file": "00043-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab01176af1e42242b3cc9bc",
+     "file": "00044-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6aafef85dd0395772cc081c8",
+     "file": "00045-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ab002ff394d6cc4fe1214ba",
+     "file": "00001-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ab002ff732bef9fc6906a47",
+     "file": "00002-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ab002ffdf385a417280aa75",
+     "file": "00003-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ab00301cd0a54e4b235456a",
+     "file": "00004-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ab00302125cad89b953083c",
+     "file": "00005-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ab003027052a08f02d1b73e",
+     "file": "00006-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ab00303a0bd64002059ba1f",
+     "file": "00007-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ab00303c0fcd3f807094362",
+     "file": "00008-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ab00304589fd7bfd37c93f2",
+     "file": "00009-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ab00306b86a3e470d845c57",
+     "file": "00010-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ab003078e5a2a0a3d098fc2",
+     "file": "00011-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ab003070fe2d4e8f3a14aff",
+     "file": "00012-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ab003099ef682a681d57f2f",
+     "file": "00013-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ab003091eb29bd6b9026594",
+     "file": "00014-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ab003096c099ab211e8266b",
+     "file": "00015-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ab0030cd71a0f2fa8efbc1e",
+     "file": "00016-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ab0030b2093ef06529b9b80",
+     "file": "00017-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ab0030b864482fcae05c6d4",
+     "file": "00018-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ab0030e9705b01c9168ab12",
+     "file": "00019-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ab0030da6601adc53c2c822",
+     "file": "00020-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ab0030ebe1d8528004e579b",
+     "file": "00021-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ab003119705b01c9168ab24",
+     "file": "00022-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ab0031151bf7fd4cf6395e8",
+     "file": "00023-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ab003119ef682a681d57f36",
+     "file": "00024-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ab00313519ebb9e08edb4ac",
+     "file": "00025-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ab00314e7828488b85a63f1",
+     "file": "00026-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ab00314f3cfc53daa0bf531",
+     "file": "00027-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ab003162146fa27c841df95",
+     "file": "00028-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ab0031673d57c1b3a4b4cbe",
+     "file": "00029-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ab003162cf33a965f5eda8e",
+     "file": "00030-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ab003182146fa27c841df9c",
+     "file": "00031-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ab00318a81e1ea899b20335",
+     "file": "00032-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ab003180fe2d4e8f3a14b0c",
+     "file": "00033-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ab0031b2093ef06529b9b87",
+     "file": "00034-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ab0031c7aede1c68921b64e",
+     "file": "00035-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ab0031cf1b25154bc67e420",
+     "file": "00036-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ab0031dd329c6a2062c73fe",
+     "file": "00037-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ab0031e0fe2d4e8f3a14b13",
+     "file": "00038-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ab0031ebe1d8528004e57a2",
+     "file": "00039-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ab0031f864482fcae05c6db",
+     "file": "00040-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ab00320e7828488b85a63f8",
+     "file": "00041-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ab0032103f935ec0098a035",
+     "file": "00042-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ab0032151bf7fd4cf6395f5",
+     "file": "00043-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ab00322fde072da4334dfbd",
+     "file": "00044-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ab00323a14e44b3abf2830a",
+     "file": "00045-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ab00323be1d8528004e57a9",
+     "file": "00046-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ab00324abaa5f99d29ba714",
+     "file": "00047-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ab003263cc4e418099d5c67",
+     "file": "00048-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ab003269169accca6524f87",
+     "file": "00049-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ab00326b134952526dabba6",
+     "file": "00050-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ab003289e57de7e3ea09693",
+     "file": "00051-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ab003283cc4e418099d5c6e",
+     "file": "00052-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ab0032873d57c1b3a4b4cc5",
+     "file": "00053-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ab0032a1fddb8009de8c8f7",
+     "file": "00054-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ab0032a98f2dabf220d1f10",
+     "file": "00055-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ab0032ab3ec3bf9972d2f7a",
+     "file": "00056-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ab0032bbcce6d5ec8e4d558",
+     "file": "00057-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ab0032cfde072da4334dfc4",
+     "file": "00058-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ab0032c3cc4e418099d5c7b",
+     "file": "00059-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ab0032db134952526dabbad",
+     "file": "00060-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ab0032ee506d44f9ab0ad7a",
+     "file": "00061-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ab0032e1eb29bd6b902659b",
+     "file": "00062-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ab003312093ef06529b9b8e",
+     "file": "00063-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ab00332a81e1ea899b2033c",
+     "file": "00064-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ab00332156036049815b99e",
+     "file": "00065-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ab0033303f935ec0098a03c",
+     "file": "00066-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ab003349df75302f99bce68",
+     "file": "00067-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ab003349169accca6524f8e",
+     "file": "00068-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ab00335fda447dcaf169077",
+     "file": "00069-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ab00336f37714697e2e7d6e",
+     "file": "00070-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ab00336d8b721dc9dcb68c8",
+     "file": "00071-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ab003375ea6e7011a75b35e",
+     "file": "00072-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ab0033898f2dabf220d1f17",
+     "file": "00073-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ab0033824208572c94be7d5",
+     "file": "00074-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ab00339589fd7bfd37c9407",
+     "file": "00075-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ab0033b519ebb9e08edb4b3",
+     "file": "00076-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ab0033c51bf7fd4cf6395fc",
+     "file": "00077-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ab0033cd71a0f2fa8efbc25",
+     "file": "00078-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ab0033e732bef9fc6906a4e",
+     "file": "00079-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ab0033ea6601adc53c2c829",
+     "file": "00080-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6ab0033e7aede1c68921b661",
+     "file": "00081-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6ab00341a6601adc53c2c830",
+     "file": "00082-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6ab00340519ebb9e08edb4ba",
+     "file": "00083-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6ab003412585d4a0243da6f3",
+     "file": "00084-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6ab003443cc4e418099d5c82",
+     "file": "00085-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6ab003441fddb8009de8c8fe",
+     "file": "00086-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6ab00344a6601adc53c2c837",
+     "file": "00087-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6ab00346bcce6d5ec8e4d55f",
+     "file": "00088-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6ab003465ea6e7011a75b365",
+     "file": "00089-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6ab00346434e56fcafc8f9cf",
+     "file": "00090-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6ab003495ea6e7011a75b36c",
+     "file": "00091-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6ab00349732bef9fc6906a55",
+     "file": "00092-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6ab003498ce4f97abb97d115",
+     "file": "00093-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6ab0034c9f3c697e34b80eeb",
+     "file": "00094-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6ab0034c394d6cc4fe1214ca",
+     "file": "00095-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6ab0034c73d57c1b3a4b4ccc",
+     "file": "00096-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6ab0034e589fd7bfd37c940e",
+     "file": "00097-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6ab0034eaf1e42242b3cc97d",
+     "file": "00098-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6ab0034e1eb29bd6b90265a2",
+     "file": "00099-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6ab00350a0bd64002059ba26",
+     "file": "00100-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6ab003509e57de7e3ea0969a",
+     "file": "00101-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6ab00351d935136ae6382789",
+     "file": "00102-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6ab00353aa9893a8ec628d15",
+     "file": "00103-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6ab003531eb29bd6b90265a9",
+     "file": "00104-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6ab00353a81e1ea899b20343",
+     "file": "00105-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6ab00355cccdb9c54f18a887",
+     "file": "00106-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6ab00356caa4a98dd52d47d3",
+     "file": "00107-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6ab00356d33febe985aa8023",
+     "file": "00108-erdem-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6aaffa738c0fc636298e1856",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6aaffa73b425a464a05ab3de",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6aaffa7399616452da31e40c",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_01.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6aaffa7551bf7fd4cf6395ce",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_04.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6aaffa76775f1585813db6a2",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6aaffa76cd0a54e4b235454b",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6aaffa77f37714697e2e7d43",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6aaffa7851bf7fd4cf6395db",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6aaffa78a14e44b3abf282e5",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_08.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6aaffa7903ef480c76ef3589",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6aaffa7a864482fcae05c6ca",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6aaffa7bd33febe985aa7ff2",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_12.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6aaffa7b125cad89b9530832",
+     "file": "Erdem_LondonFashionWeek_SS27_BACKSTAGE_Acielle_13.jpg",
+     "w": 1024,
+     "h": 683
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:59"
+}

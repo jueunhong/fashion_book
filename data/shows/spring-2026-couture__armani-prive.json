@@ -1,0 +1,922 @@
+{
+ "key": "spring-2026-couture__armani-prive",
+ "url": "https://www.vogue.com/fashion-shows/spring-2026-couture/armani-prive",
+ "season": "spring-2026-couture",
+ "seasonName": "Spring 2026 Couture",
+ "brand": "armani-prive",
+ "brandName": "Armani Privé",
+ "designers": "By Silvana Armani",
+ "eventDate": "",
+ "pubDate": "January 27, 2026",
+ "authors": [
+  "Tiziana Cardini"
+ ],
+ "reviewHtml": "<div><p>Silvana Armani, Giorgio Armani’s niece, has spent more than four decades working alongside her uncle. “I began as a model, then, rather oddly, I turned into a receptionist, though I wasn’t quite good enough,” she quipped at a preview. She officially joined the company soon after, working mainly on Emporio Armani. When, 20 years ago, the maestro launched Armani Privé, he entrusted her with a role as his right hand. Now, following his passing in September, she has stepped into the spotlight, unveiling her own vision as creative director. In a couture week crowded with high-profile debuts by male designers, she stands as the only woman currently at the helm of a couture maison.</p><p>Her first outing, developed with the design team, revealed an elegant, feminine flair: lighter in spirit, fluid in line, polished, and quietly confident. Accessories were reduced to a whisper; hats were notably absent, despite Giorgio Armani’s well-known penchant for them: “I don’t like hats, I don’t find them particularly modern,” she said. Masculine tailoring was softened rather than challenged. The opening looks featured languid suits with relaxed blazers, sheer organza shirts and ties, and pin-tucked wide-leg trousers in layered organza or cady. The overall effect was cleaner, calmer, and more edited, with decoration confined to embroidery alone.</p><p>Couture for Silvana Armani leans towards the everyday, not as spectacle, but as something to be lived in: “From a woman, for women,” she remarked. There were fewer dresses, more daywear, and a welcoming ease that invited intimacy rather than awe. The color palette was pale and nuanced: jade tones, chosen for their symbolism of harmony and good fortune, appeared in celadon green and the softest blush pinks. If a hint of masculinity surfaced, it did so deliberately, in counterpoint to Giorgio Armani himself, whose work had become increasingly feminine in recent years. The edit was decisive: 60 looks instead of the customary hundred, with clarity prevailing over profusion.</p><p>Glamour, when it appeared, was handled with restraint, and with the empathy a woman designer brings to the table. Mille-feuille gowns shimmered with layers of micro-crystals, creating a luminous, almost weightless transparency. Elsewhere, structured bodices floated over long skirts constructed from elliptical panels, while sequined jumpers were worn with studied nonchalance over palazzo trousers. One entrance-making standout came in the form of a body-skimming column dress, entirely encrusted with translucent crystals, layered beneath a black satin opera coat lined in matching celadon. It was glamour of the most assured kind: pared back, yet fabulous.</p><p>The homage to the late maestro arrived in the closing look—a bridal gown designed by Giorgio Armani himself. A long-sleeved white dress with a fitted bodice opening into a fluted skirt; it was embroidered with circles of sequins. Created for his final Privé show but never revealed, it felt remarkably timed this season, as bridal looks have returned to couture runways: Silvana believed the moment was right for its unveiling.</p><p>Reverence for Armani’s legacy was palpable but not obsequious; his vision was honored, yet filtered through Silvana’s own lens, like a loving relative who knows when to hold her ground. It will be interesting to see where she takes the house next. “I believe he would have approved,” she said with a smile. “Though instead of editing things out, he probably would have added a little something—everywhere.”</p></div>",
+ "cover": {
+  "id": "69791f552788d784149a5257",
+  "file": "00001-armani-prive-spring-2026-couture-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "69791f552788d784149a5257",
+     "file": "00001-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "69791f566f3ce2835d64725b",
+     "file": "00002-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "69791f5674abed7c0f445830",
+     "file": "00003-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "69791f590070474b19f6aa66",
+     "file": "00004-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "69791f59c5e8076bb8b7fc29",
+     "file": "00005-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "69791f5aa842044256643b07",
+     "file": "00006-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "69791f5c5ce15893896b5e78",
+     "file": "00007-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "69791f5c3f0eefba8e86769b",
+     "file": "00008-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "69791f5dd5d76b333abadb0b",
+     "file": "00009-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "69791f60c5be84aacb1b07f3",
+     "file": "00010-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "69791f60dd36f2c90b340d0c",
+     "file": "00011-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "69791f60dfc2af138afe7da2",
+     "file": "00012-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "69791f63dd36f2c90b340d0e",
+     "file": "00013-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "69791f636b620172a1cfaf90",
+     "file": "00014-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "69791f643f0eefba8e86769e",
+     "file": "00015-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "69791f66c5be84aacb1b07f5",
+     "file": "00016-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "69791f670070474b19f6aa68",
+     "file": "00017-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "69791f67a4cf943bc3d2dc9b",
+     "file": "00018-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "69791f6a38fc4413d7d7ba98",
+     "file": "00019-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "69791f6a6b620172a1cfaf92",
+     "file": "00020-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "69791f6aa842044256643b09",
+     "file": "00021-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "69791f6edd36f2c90b340d10",
+     "file": "00022-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "69791f6e595762391bcfc102",
+     "file": "00023-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "69791f6ec43296f4ece222d1",
+     "file": "00024-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "69791f72046219acae13c739",
+     "file": "00025-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "69791f72595762391bcfc104",
+     "file": "00026-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "69791f722b9a980bfc4650c8",
+     "file": "00027-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "69791f76718f4ae85a69204e",
+     "file": "00028-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "69791f76a842044256643b0d",
+     "file": "00029-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "69791f76d5d76b333abadb0e",
+     "file": "00030-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "69791f792788d784149a525a",
+     "file": "00031-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "69791f7b046219acae13c73c",
+     "file": "00032-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "69791f7ad0d94fae533fd286",
+     "file": "00033-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "69791f7c3f0eefba8e8676a1",
+     "file": "00034-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "69791f7d4645e0dea3c2ab88",
+     "file": "00035-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "69791f7e2fc987dcad612c83",
+     "file": "00036-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "69791f804b1e508cfa463d3e",
+     "file": "00037-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "69791f81dd36f2c90b340d12",
+     "file": "00038-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "69791f81718f4ae85a692050",
+     "file": "00039-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "69791f83595762391bcfc107",
+     "file": "00040-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "69791f84cf58fa8f09f60913",
+     "file": "00041-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "69791f84dd36f2c90b340d14",
+     "file": "00042-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "69791f854b1e508cfa463d40",
+     "file": "00043-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "69791f873f0eefba8e8676a5",
+     "file": "00044-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "69791f887b3b33445f0a5258",
+     "file": "00045-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "69791f8838fc4413d7d7ba9d",
+     "file": "00046-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "69791f8b5ce15893896b5e7a",
+     "file": "00047-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "69791f8c7b3b33445f0a525a",
+     "file": "00048-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "69791f8c718f4ae85a692052",
+     "file": "00049-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "69791f8e38fc4413d7d7ba9f",
+     "file": "00050-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "69791f8f6f3ce2835d647264",
+     "file": "00051-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "69791f8f6f3ce2835d647265",
+     "file": "00052-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "69791f91cd117c4683844cd4",
+     "file": "00053-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "69791f930070474b19f6aa6c",
+     "file": "00054-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "69791f937b3b33445f0a525c",
+     "file": "00055-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "69791f94d0d94fae533fd289",
+     "file": "00056-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "69791f96bd02fd5cd2a3d171",
+     "file": "00057-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "69791f9677d2a09a9ccb8d0d",
+     "file": "00058-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "69791f984645e0dea3c2ab8b",
+     "file": "00059-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "69791f9a09db3c8f6403b663",
+     "file": "00060-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "69791f990070474b19f6aa6e",
+     "file": "00061-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "69791f9b2b9a980bfc4650cd",
+     "file": "00062-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "69791f9c2fc987dcad612c85",
+     "file": "00063-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "69791f9dc43296f4ece222d5",
+     "file": "00064-armani-prive-spring-2026-couture-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "697918d2c5e8076bb8b7f91a",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "697918d252e39ed71f16ab06",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "697918d2c5be84aacb1b07e5",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "697918d3c5be84aacb1b07e8",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "697918d4c5be84aacb1b07e9",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "697918d4bd02fd5cd2a3d167",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "697918d52788d784149a524b",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "697918d609db3c8f6403b657",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "697918d6a4cf943bc3d2dc8c",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "697918d73f0eefba8e867694",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "697918d7dd36f2c90b340cf7",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "697918d774abed7c0f44582c",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "697918d877d2a09a9ccb8cef",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "697918d92b9a980bfc4650bf",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "697918d977d2a09a9ccb8cf1",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "697918d9dd36f2c90b340cf9",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "697918da4b1e508cfa463d3a",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "697918db0070474b19f6a757",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "697918dc2b9a980bfc4650c1",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "697918dc2788d784149a524d",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "697918dcc5be84aacb1b07eb",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "697918dda4cf943bc3d2dc8e",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "697918ddd0d94fae533fd27c",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "697918de77d2a09a9ccb8cf3",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "697918dfc43296f4ece222c6",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_25.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "697918df4ecbcaf7b3d91932",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_26.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "697918df4645e0dea3c2ab78",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_27.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "697918e0d0d94fae533fd27e",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_28.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Backstage Look 29",
+     "id": "697918e143c2bba324e20087",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_29.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Backstage Look 30",
+     "id": "697918e1cf58fa8f09f608fe",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_30.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Backstage Look 31",
+     "id": "697918e1718f4ae85a692044",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_31.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 32,
+     "caption": "Backstage Look 32",
+     "id": "697918e3cd117c4683844b46",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_32.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Backstage Look 33",
+     "id": "697918e34645e0dea3c2ab7a",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_33.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Backstage Look 34",
+     "id": "697918e3718f4ae85a692046",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_34.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Backstage Look 35",
+     "id": "697918e4cf58fa8f09f60900",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_35.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Backstage Look 36",
+     "id": "697918e42b9a980bfc4650c3",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_36.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Backstage Look 37",
+     "id": "697918e477d2a09a9ccb8cf9",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_37.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Backstage Look 38",
+     "id": "697918e6595762391bcfc0f9",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_38.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Backstage Look 39",
+     "id": "697918e6046219acae13c3fd",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_39.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Backstage Look 40",
+     "id": "697918e62fc987dcad612c79",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_40.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Backstage Look 41",
+     "id": "697918e7c5be84aacb1b07ed",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_41.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Backstage Look 42",
+     "id": "697918e7c43296f4ece222c8",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_42.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Backstage Look 43",
+     "id": "697918e8718f4ae85a692048",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_43.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Backstage Look 44",
+     "id": "697918e84645e0dea3c2ab7c",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_44.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 45,
+     "caption": "Backstage Look 45",
+     "id": "697918e9dd36f2c90b340cfb",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_45.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Backstage Look 46",
+     "id": "697918ea5ce15893896b5e6f",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_46.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Backstage Look 47",
+     "id": "697918eac5e8076bb8b7f91c",
+     "file": "GiorgioArmaniPrive_ParisCouturess26_backstage_acielle_47.jpg",
+     "w": 1024,
+     "h": 683
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T15:52:21"
+}

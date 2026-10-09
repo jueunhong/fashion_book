@@ -1,0 +1,2786 @@
+{
+ "key": "spring-2027-ready-to-wear__chanel",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chanel",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "chanel",
+ "brandName": "Chanel",
+ "designers": "By Matthieu Blazy",
+ "eventDate": "2026-10-05T18:00:00.000Z",
+ "pubDate": "October 5, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>Matthieu Blazy’s Chanel debut was a mere year ago. It’s impossible not to marvel at how thoroughly he’s captured the hearts of fashion loving women in that short span of time. The frenzy outside the house’s stores may have cooled this season, but the evidence of the collective affection for Blazy is everywhere you look, from the front rows to the streets. I saw a young woman riding a bike around the Place de la Concorde last night in cap-toed Chanel heels. It was nearly dark, but there was no mistaking them.</p><p>For a designer, Chanel is the greatest prize in fashion, an independent, privately owned company with a rich history going back more than a century. There’s privilege in Blazy’s position, and no doubt pressure too, but all you see is the pleasure. “Not to go too philosophical,” he said, “but I think there is a space for poetry, beauty, joy, and it’s a good remedy to the dark time. I think fashion should give this to women.” Let other designers coast on aloofness and cool. It sounds almost hokey to say it, but Blazy’s bringing the soul back in fashion.</p><p>Coco was at the center of his storytelling again this season. He said he came across a conversation she had with Louise de Vilmorin (who went on to work on the designer’s memoir) in which Chanel said, “The child I once was is with me today… No one is closer to me than she is. She owes me everything, and I owe her what I was able to contribute to my era.” Chanel’s comment gave Blazy the idea to address the different parts of her life: a youth spent suffering the confines of Edwardian formality, her experiments wearing men’s clothes and the fun she had with costumes, and her fashion-shifting innovations around the easy-wearing suit after the second world war.</p><p>“It’s not a historical show,” he said, “it’s a show about the histories of Chanel.” But it proceeded chronologically according to her personal trajectory, beginning with ornament (bitty flower embroidery, a corsage decorating a bustline); moving briefly into masculine propositions, some of them deconstructed with raw edges, and new iterations of the runaway hit Charvet shirt; and ending with many examples of Coco’s iconic rounded shoulder jacket worn sans shirt and with a knee-length skirt slung low on the hips or a fringy mini. The same model, newcomer Dyanira Hurbuscher, opened and closed the show carrying Chanel’s own 2.55 bag borrowed from the Patrimoine archives, full circle.</p><p>The point of Blazy’s explorations was to make legible his commitment to making Chanel a place for many women across generations, not just a singular, narrow vision of them. He is also dedicated to modernization, the way Coco herself was. A group of pieces near the end were the result of a year’s worth of efforts to develop a new tweed, something stretchy in re-embroidered organza and silk that could be “the answer to what sportif means at Chanel.” With different teams, he also developed new yarns and recalibrated machines that make textiles so that embroideries can be integrated directly into the process of knitting. The zesty yellow two-piece top and skirt set was a showcase for this freshly developed know-how.</p><p>All that’s a lot of technical hoo-ha, though, when really the brilliance of Blazy’s Chanel comes down to its heart aflutter got-to-have-it-ness. On that subject, prepare yourselves, ladies: there were 83 looks in the show and each and every one of them was accessorized by a different pair of heels.</p></div>",
+ "cover": {
+  "id": "6ac41209a3c01f09f30786d8",
+  "file": "00001-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ac41209a3c01f09f30786d8",
+     "file": "00001-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ac41209689c467320abd337",
+     "file": "00002-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ac41209028b4305277cd4cc",
+     "file": "00003-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ac4120b87b234aa87eae3b4",
+     "file": "00004-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ac4120bd1fa15021733f850",
+     "file": "00005-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ac4120b689c467320abd33d",
+     "file": "00006-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ac4120d166386be130f5c1a",
+     "file": "00007-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ac4120e6287efd25859137c",
+     "file": "00008-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ac4120e6287efd258591380",
+     "file": "00009-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ac412c6e7821f7eb5f55c4e",
+     "file": "00010-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ac41210a18fe4f12c735332",
+     "file": "00011-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ac41210ea4e0378f20742ca",
+     "file": "00012-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ac412126fc6681404714a04",
+     "file": "00013-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ac41212ec366f175e8e5dc9",
+     "file": "00014-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ac4121387b234aa87eae3ba",
+     "file": "00015-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ac412133b535baa0c5beb9d",
+     "file": "00016-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ac41214ecd03209c0a8d609",
+     "file": "00017-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ac412155bb7d9026501fcd0",
+     "file": "00018-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ac41216166386be130f5c20",
+     "file": "00019-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ac41216ca6da9a0e660031d",
+     "file": "00020-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ac4121710711522ca884f05",
+     "file": "00021-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ac41218ea9f170cba0cd9cc",
+     "file": "00022-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ac412185cad33ae8425a9ed",
+     "file": "00023-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ac412193b535baa0c5beba3",
+     "file": "00024-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ac4121a6649d75da432f897",
+     "file": "00025-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ac4121afff5547983324db3",
+     "file": "00026-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ac4121b5728f38f7cbf01cb",
+     "file": "00027-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ac4121cfab599cef32d1f1a",
+     "file": "00028-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ac4121c24b087c440022d58",
+     "file": "00029-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ac4121d22196f84d2f690a4",
+     "file": "00030-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ac4121ef8046983f88fca82",
+     "file": "00031-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ac4121eab6b364430353fcf",
+     "file": "00032-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ac4121f7595b43fcbc76ba5",
+     "file": "00033-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ac412206287efd25859139c",
+     "file": "00034-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ac41220fff5547983324db9",
+     "file": "00035-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ac41221fcb65c40c487a93b",
+     "file": "00036-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ac412225bb7d9026501fcdb",
+     "file": "00037-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ac4122326f099cf71ce4674",
+     "file": "00038-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ac412235e38d0aa262ecded",
+     "file": "00039-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ac41225ecd03209c0a8d612",
+     "file": "00040-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ac412255dbae9237a323f05",
+     "file": "00041-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ac41225fcb65c40c487a941",
+     "file": "00042-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ac412282448eae63af33d75",
+     "file": "00043-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ac41228ec366f175e8e5dcf",
+     "file": "00044-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ac41228c374326f2df666d1",
+     "file": "00045-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ac4122bbff8998e9b1d4754",
+     "file": "00046-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ac4122b26f099cf71ce467a",
+     "file": "00047-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ac4122bc5637a68cb8edeed",
+     "file": "00048-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ac4122d69f164688e335bb5",
+     "file": "00049-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ac4122dfcb65c40c487a94c",
+     "file": "00050-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ac4122d99af566adfdb14c0",
+     "file": "00051-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ac4123062f31dde15549fad",
+     "file": "00052-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ac41230f8046983f88fca88",
+     "file": "00053-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ac4123045a6d05bdfd7c5e7",
+     "file": "00054-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ac412326d7384ba23a89bf0",
+     "file": "00055-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ac41232d290825715210a80",
+     "file": "00056-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ac41232c716cd7da4ef73c2",
+     "file": "00057-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ac412345aba13178737e4af",
+     "file": "00058-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ac41234a18fe4f12c735347",
+     "file": "00059-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ac412345728f38f7cbf01d1",
+     "file": "00060-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ac412370a64c4f41e0a5576",
+     "file": "00061-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ac41237bb42cdf064eff090",
+     "file": "00062-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6ac4123724b94aacfb3c8018",
+     "file": "00063-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6ac41239689c467320abd343",
+     "file": "00064-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Look 65",
+     "id": "6ac4123969f164688e335bbe",
+     "file": "00065-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Look 66",
+     "id": "6ac412396898e7c93501302e",
+     "file": "00066-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Look 67",
+     "id": "6ac4123cbff8998e9b1d475a",
+     "file": "00067-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Look 68",
+     "id": "6ac4123c3d382c87ad978f76",
+     "file": "00068-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Look 69",
+     "id": "6ac4123c368cdae4f04f5bb7",
+     "file": "00069-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Look 70",
+     "id": "6ac4123e99af566adfdb14c9",
+     "file": "00070-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Look 71",
+     "id": "6ac4123fd1fa15021733f856",
+     "file": "00071-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Look 72",
+     "id": "6ac4123e9f95390afdaba49d",
+     "file": "00072-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Look 73",
+     "id": "6ac412405728f38f7cbf01d7",
+     "file": "00073-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Look 74",
+     "id": "6ac412419f95390afdaba4a3",
+     "file": "00074-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Look 75",
+     "id": "6ac41242fab599cef32d1f25",
+     "file": "00075-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Look 76",
+     "id": "6ac41242d12b5152791a20c0",
+     "file": "00076-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Look 77",
+     "id": "6ac412435728f38f7cbf01dd",
+     "file": "00077-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Look 78",
+     "id": "6ac4124487b234aa87eae3c0",
+     "file": "00078-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Look 79",
+     "id": "6ac41245ea4e0378f20742d3",
+     "file": "00079-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Look 80",
+     "id": "6ac4124569f164688e335bca",
+     "file": "00080-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Look 81",
+     "id": "6ac41246ab6b364430353fd5",
+     "file": "00081-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Look 82",
+     "id": "6ac4124763c1240d10cde617",
+     "file": "00082-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Look 83",
+     "id": "6ac41247b01afec5e58ed3eb",
+     "file": "00083-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Look 84",
+     "id": "6ac49c20fbf01b08c099b292",
+     "file": "00084-chanel-spring-2027-ready-to-wear-credit-brand.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ac4344d038bdf3437dc50c3",
+     "file": "00001-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ac4344de7821f7eb5f55c77",
+     "file": "00002-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ac4344d166386be130f5d4c",
+     "file": "00003-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ac4344e7595b43fcbc76ced",
+     "file": "00004-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ac4344fea4e0378f2074337",
+     "file": "00005-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ac4344f6287efd2585913ca",
+     "file": "00006-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ac4345066e2906047cf6d64",
+     "file": "00007-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ac43450fcb65c40c487aac9",
+     "file": "00008-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ac43450bbc91b326592d0b2",
+     "file": "00009-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ac43452fcb65c40c487aad0",
+     "file": "00010-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ac4345231c6fc800701f3c9",
+     "file": "00011-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ac434525dc2d8d0c727cbfd",
+     "file": "00012-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ac43455d1fa15021733f896",
+     "file": "00013-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ac434543b73a8d8d6127545",
+     "file": "00014-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ac4345563c1240d10cde63b",
+     "file": "00015-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ac4345622196f84d2f690f3",
+     "file": "00016-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ac4345769f164688e335d5d",
+     "file": "00017-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ac43457d290825715210aca",
+     "file": "00018-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ac4345887b234aa87eae480",
+     "file": "00019-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ac434593beb35f7d9b120b9",
+     "file": "00020-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ac434583b73a8d8d6127552",
+     "file": "00021-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ac4345abff8998e9b1d48ae",
+     "file": "00022-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ac4345a689c467320abd377",
+     "file": "00023-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ac4345be5e0812f4fbf7e86",
+     "file": "00024-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ac4345c368cdae4f04f5f30",
+     "file": "00025-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ac4345cd1fa15021733f89d",
+     "file": "00026-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ac4345cf407329037d3872d",
+     "file": "00027-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ac4345d038bdf3437dc50ca",
+     "file": "00028-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ac4345d1b8b5304dc663e27",
+     "file": "00029-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ac4345f5dc2d8d0c727cc04",
+     "file": "00030-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ac4345f26f099cf71ce51db",
+     "file": "00031-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ac4345f21e5db3ca3bac06b",
+     "file": "00032-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ac4346099fc879e3766fce4",
+     "file": "00033-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ac43461db3219a5509dbfbc",
+     "file": "00034-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ac43462e7821f7eb5f55c84",
+     "file": "00035-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ac43462b69199318f5dabc3",
+     "file": "00036-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ac434638bde36fda29dde02",
+     "file": "00037-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ac434635dbae9237a323fa0",
+     "file": "00038-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ac43464a14d65ddf0b3839b",
+     "file": "00039-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ac43465f8046983f88fca9a",
+     "file": "00040-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ac43465dcd6ace64356b4f0",
+     "file": "00041-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ac43466f8046983f88fcaa1",
+     "file": "00042-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ac434667595b43fcbc76cf4",
+     "file": "00043-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ac43467c3def38110ea8edf",
+     "file": "00044-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ac43468d290825715210ad1",
+     "file": "00045-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ac434681eb7e7b6b4a8c33d",
+     "file": "00046-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ac4346931c6fc800701f3d0",
+     "file": "00047-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ac4346a3beb35f7d9b120c1",
+     "file": "00048-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ac4346a8bde36fda29dde09",
+     "file": "00049-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ac4346bd91131d186fe4a5e",
+     "file": "00050-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ac4346c9f95390afdaba4cf",
+     "file": "00051-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ac4346c5dbae9237a323fa7",
+     "file": "00052-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ac4346dc5637a68cb8edf1d",
+     "file": "00053-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ac4346d1eb7e7b6b4a8c344",
+     "file": "00054-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ac4346d5e980a2035497df6",
+     "file": "00055-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ac4346fc374326f2df6691f",
+     "file": "00056-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ac4346f10711522ca884f22",
+     "file": "00057-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ac4346fb69199318f5dabca",
+     "file": "00058-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ac43471a14d65ddf0b383a2",
+     "file": "00059-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ac43471689c467320abd37e",
+     "file": "00060-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ac434716fc6681404714a72",
+     "file": "00061-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ac43473ca6da9a0e660046a",
+     "file": "00062-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ac43474d1fa15021733f8a4",
+     "file": "00063-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ac4347345a6d05bdfd7c653",
+     "file": "00064-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ac43475f17f2711daf95016",
+     "file": "00065-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ac4347566e2906047cf6d6b",
+     "file": "00066-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ac4347581b901d7d8619cdc",
+     "file": "00067-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ac43477007b720c838f7c76",
+     "file": "00068-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ac434776649d75da432f94e",
+     "file": "00069-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ac43477a33a06b8b9a0711e",
+     "file": "00070-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ac4347931c6fc800701f3d7",
+     "file": "00071-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ac43479007b720c838f7c7d",
+     "file": "00072-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ac4347966e2906047cf6d72",
+     "file": "00073-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ac4347bf4cdfea39ec6eeb8",
+     "file": "00074-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ac4347b6898e7c9350131d8",
+     "file": "00075-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ac4347b2448eae63af33dcf",
+     "file": "00076-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ac4347d3b73a8d8d612755f",
+     "file": "00077-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ac4347df407329037d38734",
+     "file": "00078-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ac4347e3beb35f7d9b120ce",
+     "file": "00079-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ac4347f1eb7e7b6b4a8c351",
+     "file": "00080-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6ac4347ffdbd564e79ffe367",
+     "file": "00081-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6ac4347fff3c2d0e69a834ae",
+     "file": "00082-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6ac43481fdbd564e79ffe36e",
+     "file": "00083-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6ac43481a1d1c96cdbd7b0e0",
+     "file": "00084-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6ac43481c5637a68cb8edf24",
+     "file": "00085-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6ac434825cad33ae8425aa58",
+     "file": "00086-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6ac43482d1fa15021733f8ab",
+     "file": "00087-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6ac43483cbe0a1a6465153f1",
+     "file": "00088-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6ac4348421e5db3ca3bac072",
+     "file": "00089-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6ac43485cbe0a1a6465153f8",
+     "file": "00090-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6ac434855bb7d9026501fd37",
+     "file": "00091-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6ac43486cbe0a1a6465153ff",
+     "file": "00092-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6ac43486689c467320abd385",
+     "file": "00093-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6ac43487d91131d186fe4a6b",
+     "file": "00094-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6ac434885cad33ae8425aa5f",
+     "file": "00095-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6ac43489028b4305277cd59d",
+     "file": "00096-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6ac434893d382c87ad979116",
+     "file": "00097-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6ac4348b66e2906047cf6d79",
+     "file": "00098-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6ac4348b8bde36fda29dde10",
+     "file": "00099-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6ac4348bab6b364430354799",
+     "file": "00100-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6ac4348d81b901d7d8619ce3",
+     "file": "00101-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6ac4348d87b234aa87eae48d",
+     "file": "00102-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6ac4348d62f31dde15549ff7",
+     "file": "00103-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6ac4348eecd03209c0a8d853",
+     "file": "00104-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6ac4348f3beb35f7d9b120d5",
+     "file": "00105-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6ac43490f4cdfea39ec6eec5",
+     "file": "00106-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6ac434909dc3905ef71fb2de",
+     "file": "00107-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6ac434919dc3905ef71fb2e5",
+     "file": "00108-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6ac43491ca6da9a0e6600471",
+     "file": "00109-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6ac43492db3219a5509dbfc3",
+     "file": "00110-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6ac434920a64c4f41e0a55ed",
+     "file": "00111-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6ac43493007b720c838f7c84",
+     "file": "00112-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6ac4349326f099cf71ce51ee",
+     "file": "00113-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6ac4349469f164688e335d6a",
+     "file": "00114-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6ac434959fe8a3636090c1a9",
+     "file": "00115-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6ac43495368cdae4f04f5f3d",
+     "file": "00116-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6ac4349634b2eb851a49571b",
+     "file": "00117-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6ac434970a64c4f41e0a55f4",
+     "file": "00118-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6ac434979f95390afdaba4d6",
+     "file": "00119-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6ac43498368cdae4f04f5f44",
+     "file": "00120-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6ac434995cad33ae8425aa66",
+     "file": "00121-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6ac434996287efd2585913d7",
+     "file": "00122-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6ac4349aa1d1c96cdbd7b0e7",
+     "file": "00123-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6ac4349ba14d65ddf0b383a9",
+     "file": "00124-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6ac4349ba0dac7bc426b6f0c",
+     "file": "00125-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6ac4349c3beb35f7d9b120dc",
+     "file": "00126-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6ac4349d62f31dde15549ffe",
+     "file": "00127-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6ac4349da1d1c96cdbd7b0ee",
+     "file": "00128-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6ac4349e689c467320abd38c",
+     "file": "00129-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6ac4349ef17f2711daf95023",
+     "file": "00130-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6ac434a0a18fe4f12c735704",
+     "file": "00131-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6ac434a0ea4e0378f2074344",
+     "file": "00132-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6ac434a0bff8998e9b1d48c1",
+     "file": "00133-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6ac434a25bb7d9026501fd3e",
+     "file": "00134-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6ac434a2bff8998e9b1d48c8",
+     "file": "00135-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6ac434a23d382c87ad97911d",
+     "file": "00136-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6ac434a3a3c01f09f307870d",
+     "file": "00137-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6ac434a4007b720c838f7ca9",
+     "file": "00138-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6ac434a4f4cdfea39ec6eecc",
+     "file": "00139-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6ac434a5f17f2711daf9502a",
+     "file": "00140-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6ac434a58bde36fda29dde17",
+     "file": "00141-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6ac434a55bb7d9026501fd45",
+     "file": "00142-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6ac434a799fc879e3766fcec",
+     "file": "00143-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6ac434a724b087c440022dae",
+     "file": "00144-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6ac434a85dc2d8d0c727cc11",
+     "file": "00145-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6ac434a99fe8a3636090c1b0",
+     "file": "00146-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Detail Look 147",
+     "id": "6ac434a9933a5f5a19072ff1",
+     "file": "00147-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Detail Look 148",
+     "id": "6ac434aa34b2eb851a495722",
+     "file": "00148-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Detail Look 149",
+     "id": "6ac434aba0dac7bc426b6f13",
+     "file": "00149-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Detail Look 150",
+     "id": "6ac434acff3c2d0e69a834b5",
+     "file": "00150-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Detail Look 151",
+     "id": "6ac434acc3def38110ea8ee6",
+     "file": "00151-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Detail Look 152",
+     "id": "6ac434ad5dc2d8d0c727cc18",
+     "file": "00152-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Detail Look 153",
+     "id": "6ac434ae706b7b0b65f8b07d",
+     "file": "00153-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Detail Look 154",
+     "id": "6ac434ae797af7dc249670dd",
+     "file": "00154-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Detail Look 155",
+     "id": "6ac434ae007b720c838f7cb0",
+     "file": "00155-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Detail Look 156",
+     "id": "6ac434b08bde36fda29dde1e",
+     "file": "00156-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Detail Look 157",
+     "id": "6ac434af9fe8a3636090c1b7",
+     "file": "00157-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 158,
+     "caption": "Detail Look 158",
+     "id": "6ac434b0d91131d186fe4a7e",
+     "file": "00158-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 159,
+     "caption": "Detail Look 159",
+     "id": "6ac434b1a14d65ddf0b383b6",
+     "file": "00159-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 160,
+     "caption": "Detail Look 160",
+     "id": "6ac434b2b01afec5e58ed483",
+     "file": "00160-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 161,
+     "caption": "Detail Look 161",
+     "id": "6ac434b366e2906047cf6d86",
+     "file": "00161-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 162,
+     "caption": "Detail Look 162",
+     "id": "6ac434b3d290825715210ad8",
+     "file": "00162-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 163,
+     "caption": "Detail Look 163",
+     "id": "6ac434b463c1240d10cde64e",
+     "file": "00163-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 164,
+     "caption": "Detail Look 164",
+     "id": "6ac434b5797af7dc24967102",
+     "file": "00164-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 165,
+     "caption": "Detail Look 165",
+     "id": "6ac434b599af566adfdb1531",
+     "file": "00165-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 166,
+     "caption": "Detail Look 166",
+     "id": "6ac434b6dcd6ace64356b4f7",
+     "file": "00166-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 167,
+     "caption": "Detail Look 167",
+     "id": "6ac434b781b901d7d8619cf0",
+     "file": "00167-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 168,
+     "caption": "Detail Look 168",
+     "id": "6ac434b722196f84d2f69100",
+     "file": "00168-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 169,
+     "caption": "Detail Look 169",
+     "id": "6ac434b8cbe0a1a64651540c",
+     "file": "00169-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 170,
+     "caption": "Detail Look 170",
+     "id": "6ac434b87595b43fcbc76cfb",
+     "file": "00170-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 171,
+     "caption": "Detail Look 171",
+     "id": "6ac434b9d1fa15021733f8be",
+     "file": "00171-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 172,
+     "caption": "Detail Look 172",
+     "id": "6ac434bacbe0a1a646515413",
+     "file": "00172-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 173,
+     "caption": "Detail Look 173",
+     "id": "6ac434bbd290825715210adf",
+     "file": "00173-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 174,
+     "caption": "Detail Look 174",
+     "id": "6ac434bb5dc2d8d0c727cc1f",
+     "file": "00174-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 175,
+     "caption": "Detail Look 175",
+     "id": "6ac434bcfab599cef32d227d",
+     "file": "00175-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 176,
+     "caption": "Detail Look 176",
+     "id": "6ac434bdaa651987d136274b",
+     "file": "00176-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 177,
+     "caption": "Detail Look 177",
+     "id": "6ac434bdb69199318f5dabdd",
+     "file": "00177-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 178,
+     "caption": "Detail Look 178",
+     "id": "6ac434be166386be130f5d5f",
+     "file": "00178-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 179,
+     "caption": "Detail Look 179",
+     "id": "6ac434bfa0dac7bc426b6f20",
+     "file": "00179-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 180,
+     "caption": "Detail Look 180",
+     "id": "6ac434bfb37c2d98f2883261",
+     "file": "00180-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 181,
+     "caption": "Detail Look 181",
+     "id": "6ac434c0b4f781883e84b5b5",
+     "file": "00181-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 182,
+     "caption": "Detail Look 182",
+     "id": "6ac434c0f17f2711daf95031",
+     "file": "00182-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 183,
+     "caption": "Detail Look 183",
+     "id": "6ac434c16287efd2585913de",
+     "file": "00183-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 184,
+     "caption": "Detail Look 184",
+     "id": "6ac434c2b37c2d98f2883268",
+     "file": "00184-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 185,
+     "caption": "Detail Look 185",
+     "id": "6ac434c262f31dde1554a00b",
+     "file": "00185-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 186,
+     "caption": "Detail Look 186",
+     "id": "6ac434c3cbe0a1a646515420",
+     "file": "00186-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 187,
+     "caption": "Detail Look 187",
+     "id": "6ac434c4706b7b0b65f8b084",
+     "file": "00187-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 188,
+     "caption": "Detail Look 188",
+     "id": "6ac434c4933a5f5a19072ff8",
+     "file": "00188-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 189,
+     "caption": "Detail Look 189",
+     "id": "6ac434c4f407329037d38741",
+     "file": "00189-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 190,
+     "caption": "Detail Look 190",
+     "id": "6ac434c5fab599cef32d2284",
+     "file": "00190-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 191,
+     "caption": "Detail Look 191",
+     "id": "6ac434c621e5db3ca3bac085",
+     "file": "00191-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 192,
+     "caption": "Detail Look 192",
+     "id": "6ac434c66898e7c9350131e5",
+     "file": "00192-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 193,
+     "caption": "Detail Look 193",
+     "id": "6ac434c7f407329037d38748",
+     "file": "00193-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 194,
+     "caption": "Detail Look 194",
+     "id": "6ac434c8ea9f170cba0cda12",
+     "file": "00194-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 195,
+     "caption": "Detail Look 195",
+     "id": "6ac434c93beb35f7d9b120ef",
+     "file": "00195-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 196,
+     "caption": "Detail Look 196",
+     "id": "6ac434c9038bdf3437dc50d7",
+     "file": "00196-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 197,
+     "caption": "Detail Look 197",
+     "id": "6ac434ca8e69e2f109d63334",
+     "file": "00197-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 198,
+     "caption": "Detail Look 198",
+     "id": "6ac434cbca6da9a0e660047e",
+     "file": "00198-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 199,
+     "caption": "Detail Look 199",
+     "id": "6ac434ccff3c2d0e69a834bc",
+     "file": "00199-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 200,
+     "caption": "Detail Look 200",
+     "id": "6ac434cc9bb0f43dd8770c98",
+     "file": "00200-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 201,
+     "caption": "Detail Look 201",
+     "id": "6ac434cd5cad33ae8425aa6d",
+     "file": "00201-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 202,
+     "caption": "Detail Look 202",
+     "id": "6ac434cd3b73a8d8d6127566",
+     "file": "00202-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 203,
+     "caption": "Detail Look 203",
+     "id": "6ac434ceb69199318f5dabe4",
+     "file": "00203-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 204,
+     "caption": "Detail Look 204",
+     "id": "6ac434cf2448eae63af33dd6",
+     "file": "00204-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 205,
+     "caption": "Detail Look 205",
+     "id": "6ac434cfcbe0a1a64651542d",
+     "file": "00205-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 206,
+     "caption": "Detail Look 206",
+     "id": "6ac434d05cad33ae8425aa74",
+     "file": "00206-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 207,
+     "caption": "Detail Look 207",
+     "id": "6ac434d0933a5f5a19072fff",
+     "file": "00207-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 208,
+     "caption": "Detail Look 208",
+     "id": "6ac434d1a3c01f09f3078714",
+     "file": "00208-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 209,
+     "caption": "Detail Look 209",
+     "id": "6ac434d29c71052ff6db92ed",
+     "file": "00209-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 210,
+     "caption": "Detail Look 210",
+     "id": "6ac434d3fab599cef32d228b",
+     "file": "00210-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 211,
+     "caption": "Detail Look 211",
+     "id": "6ac434d3bb42cdf064eff0f0",
+     "file": "00211-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 212,
+     "caption": "Detail Look 212",
+     "id": "6ac434d41eb7e7b6b4a8c35e",
+     "file": "00212-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 213,
+     "caption": "Detail Look 213",
+     "id": "6ac434d53beb35f7d9b120f6",
+     "file": "00213-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 214,
+     "caption": "Detail Look 214",
+     "id": "6ac434d53beb35f7d9b120fd",
+     "file": "00214-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 215,
+     "caption": "Detail Look 215",
+     "id": "6ac434d69f95390afdaba4e3",
+     "file": "00215-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 216,
+     "caption": "Detail Look 216",
+     "id": "6ac434d6b01afec5e58ed490",
+     "file": "00216-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 217,
+     "caption": "Detail Look 217",
+     "id": "6ac434d7b37c2d98f288326f",
+     "file": "00217-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 218,
+     "caption": "Detail Look 218",
+     "id": "6ac434d8933a5f5a19073006",
+     "file": "00218-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 219,
+     "caption": "Detail Look 219",
+     "id": "6ac434d899af566adfdb153e",
+     "file": "00219-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 220,
+     "caption": "Detail Look 220",
+     "id": "6ac434d8fcb65c40c487aaef",
+     "file": "00220-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 221,
+     "caption": "Detail Look 221",
+     "id": "6ac434da1ddc0fcf29eff2ae",
+     "file": "00221-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 222,
+     "caption": "Detail Look 222",
+     "id": "6ac434dba0dac7bc426b6f2d",
+     "file": "00222-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 223,
+     "caption": "Detail Look 223",
+     "id": "6ac434da028b4305277cd5b0",
+     "file": "00223-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 224,
+     "caption": "Detail Look 224",
+     "id": "6ac434dcc5637a68cb8edf31",
+     "file": "00224-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 225,
+     "caption": "Detail Look 225",
+     "id": "6ac434dd22196f84d2f69107",
+     "file": "00225-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 226,
+     "caption": "Detail Look 226",
+     "id": "6ac434dd66e2906047cf6d8d",
+     "file": "00226-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 227,
+     "caption": "Detail Look 227",
+     "id": "6ac434deab6b3644303547b2",
+     "file": "00227-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 228,
+     "caption": "Detail Look 228",
+     "id": "6ac434de3d382c87ad979136",
+     "file": "00228-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 229,
+     "caption": "Detail Look 229",
+     "id": "6ac434dfd290825715210aec",
+     "file": "00229-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 230,
+     "caption": "Detail Look 230",
+     "id": "6ac434e06287efd2585913e5",
+     "file": "00230-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 231,
+     "caption": "Detail Look 231",
+     "id": "6ac434e05bb7d9026501fd58",
+     "file": "00231-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 232,
+     "caption": "Detail Look 232",
+     "id": "6ac434e031c6fc800701f3e4",
+     "file": "00232-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 233,
+     "caption": "Detail Look 233",
+     "id": "6ac434e30a64c4f41e0a5607",
+     "file": "00233-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 234,
+     "caption": "Detail Look 234",
+     "id": "6ac434e2e5e0812f4fbf7e8d",
+     "file": "00234-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 235,
+     "caption": "Detail Look 235",
+     "id": "6ac434e22448eae63af33ddd",
+     "file": "00235-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 236,
+     "caption": "Detail Look 236",
+     "id": "6ac434e4f4cdfea39ec6eed3",
+     "file": "00236-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 237,
+     "caption": "Detail Look 237",
+     "id": "6ac434e5166386be130f5d66",
+     "file": "00237-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 238,
+     "caption": "Detail Look 238",
+     "id": "6ac434e5bbc91b326592d0d7",
+     "file": "00238-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 239,
+     "caption": "Detail Look 239",
+     "id": "6ac434e69bb0f43dd8770ca5",
+     "file": "00239-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 240,
+     "caption": "Detail Look 240",
+     "id": "6ac434e7dcd6ace64356b504",
+     "file": "00240-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 241,
+     "caption": "Detail Look 241",
+     "id": "6ac434e7a18fe4f12c735711",
+     "file": "00241-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 242,
+     "caption": "Detail Look 242",
+     "id": "6ac434e86fc6681404714a85",
+     "file": "00242-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 243,
+     "caption": "Detail Look 243",
+     "id": "6ac434e95dbae9237a323fae",
+     "file": "00243-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 244,
+     "caption": "Detail Look 244",
+     "id": "6ac434e966e2906047cf6d94",
+     "file": "00244-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 245,
+     "caption": "Detail Look 245",
+     "id": "6ac434ea797af7dc2496711b",
+     "file": "00245-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 246,
+     "caption": "Detail Look 246",
+     "id": "6ac434eba1d1c96cdbd7b101",
+     "file": "00246-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 247,
+     "caption": "Detail Look 247",
+     "id": "6ac434ebea9f170cba0cda19",
+     "file": "00247-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 248,
+     "caption": "Detail Look 248",
+     "id": "6ac434eb6fc6681404714a8c",
+     "file": "00248-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 249,
+     "caption": "Detail Look 249",
+     "id": "6ac434ec26f099cf71ce5201",
+     "file": "00249-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 250,
+     "caption": "Detail Look 250",
+     "id": "6ac434ed9dc3905ef71fb2ec",
+     "file": "00250-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 251,
+     "caption": "Detail Look 251",
+     "id": "6ac434ee63c1240d10cde655",
+     "file": "00251-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 252,
+     "caption": "Detail Look 252",
+     "id": "6ac434eea14d65ddf0b383c9",
+     "file": "00252-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 253,
+     "caption": "Detail Look 253",
+     "id": "6ac434efd07313c3cfe601be",
+     "file": "00253-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 254,
+     "caption": "Detail Look 254",
+     "id": "6ac434ef9dc3905ef71fb2f3",
+     "file": "00254-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 255,
+     "caption": "Detail Look 255",
+     "id": "6ac434f0368cdae4f04f5f4b",
+     "file": "00255-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 256,
+     "caption": "Detail Look 256",
+     "id": "6ac434f19dc3905ef71fb2fa",
+     "file": "00256-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 257,
+     "caption": "Detail Look 257",
+     "id": "6ac434f1038bdf3437dc50de",
+     "file": "00257-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 258,
+     "caption": "Detail Look 258",
+     "id": "6ac434f2b01afec5e58ed497",
+     "file": "00258-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 259,
+     "caption": "Detail Look 259",
+     "id": "6ac434f3a3c01f09f3078721",
+     "file": "00259-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 260,
+     "caption": "Detail Look 260",
+     "id": "6ac434f321e5db3ca3bac09e",
+     "file": "00260-chanel-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:12:19"
+}

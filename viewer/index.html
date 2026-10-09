@@ -1,0 +1,830 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Runway Book</title>
+<script id="rbconfig">window.RB_CLOUD = null; /* export.py 가 Supabase 설정을 주입 */</script>
+<style>
+  :root{
+    --bg:#0e0e10; --bg2:#17171a; --bg3:#202024; --line:#2a2a30;
+    --fg:#ededf0; --fg2:#a4a4ad; --fg3:#6c6c76; --accent:#e6c79c; --danger:#ff6b6b;
+    --radius:10px; --cols:5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Apple SD Gothic Neo","Noto Sans KR",sans-serif}
+  a{color:inherit;text-decoration:none}
+  button,input,select{font:inherit;color:inherit}
+  button{cursor:pointer;background:var(--bg3);border:1px solid var(--line);border-radius:8px;padding:6px 12px;color:var(--fg)}
+  button:hover{border-color:var(--fg3)}
+  button.primary{background:var(--accent);color:#1a1408;border-color:var(--accent);font-weight:600}
+  button.ghost{background:transparent}
+  button.small{padding:3px 9px;font-size:13px}
+  button:disabled{opacity:.45;cursor:default}
+  input,select{background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:7px 10px;outline:none}
+  input:focus,select:focus{border-color:var(--fg3)}
+  .serif{font-family:"Playfair Display",Georgia,"Times New Roman",serif}
+
+  header{position:sticky;top:0;z-index:20;background:rgba(14,14,16,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+  .bar{display:flex;align-items:center;gap:14px;padding:10px 20px;flex-wrap:wrap}
+  .logo{font-family:Georgia,serif;font-size:20px;letter-spacing:.14em;text-transform:uppercase;cursor:pointer;white-space:nowrap}
+  .logo span{color:var(--accent)}
+  nav{display:flex;gap:4px}
+  nav button{background:transparent;border-color:transparent;color:var(--fg2)}
+  nav button.active{color:var(--fg);background:var(--bg3)}
+  .spacer{flex:1}
+  .addbox{display:flex;gap:6px;min-width:280px;flex:1;max-width:560px}
+  .addbox input{flex:1}
+  #jobs{font-size:13px;color:var(--fg2);display:flex;align-items:center;gap:8px;cursor:pointer}
+  .dot{width:8px;height:8px;border-radius:50%;background:var(--fg3)}
+  .dot.busy{background:var(--accent);animation:pulse 1s infinite}
+  @keyframes pulse{50%{opacity:.3}}
+
+  main{padding:20px;max-width:1800px;margin:0 auto}
+  h1{font-family:Georgia,serif;font-weight:400;font-size:28px;margin:6px 0 2px}
+  h2{font-family:Georgia,serif;font-weight:400;font-size:20px;margin:28px 0 12px;color:var(--fg);letter-spacing:.02em}
+  .muted{color:var(--fg2)} .dim{color:var(--fg3)} .small{font-size:13px}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .empty{padding:60px 20px;text-align:center;color:var(--fg2)}
+  .empty code{background:var(--bg3);padding:2px 6px;border-radius:4px}
+
+  /* 쇼 카드 */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px}
+  .card{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;cursor:pointer;transition:transform .15s,border-color .15s}
+  .card:hover{transform:translateY(-2px);border-color:var(--fg3)}
+  .card .thumb{aspect-ratio:2/3;background:var(--bg3);overflow:hidden}
+  .card img{width:100%;height:100%;object-fit:cover;display:block}
+  .card .meta{padding:10px 12px}
+  .card .title{font-weight:600}
+  .card .sub{font-size:13px;color:var(--fg2)}
+  .card .badge{font-size:11px;color:var(--fg3);margin-top:4px}
+
+  /* 룩 그리드 */
+  .grid{display:grid;grid-template-columns:repeat(var(--cols),1fr);gap:10px}
+  .kbd-hint{display:inline}
+  .look{position:relative;background:var(--bg2);border-radius:8px;overflow:hidden;cursor:zoom-in;aspect-ratio:2/3}
+  .look img{width:100%;height:100%;object-fit:cover;display:block;opacity:0;transition:opacity .3s}
+  .look img.loaded{opacity:1}
+  .look .cap{position:absolute;left:0;right:0;bottom:0;padding:18px 8px 6px;font-size:12px;background:linear-gradient(transparent,rgba(0,0,0,.7));opacity:0;transition:opacity .2s}
+  .look:hover .cap{opacity:1}
+  .look .fav{position:absolute;top:6px;right:6px;background:rgba(0,0,0,.45);border:none;border-radius:50%;width:30px;height:30px;padding:0;font-size:15px;color:#fff;opacity:0;transition:opacity .2s}
+  .look:hover .fav,.look .fav.on{opacity:1}
+  .look .fav.on{color:#ff5c7a}
+
+  /* 쇼 헤더 */
+  .showhead{display:flex;gap:20px;align-items:flex-end;flex-wrap:wrap;margin-bottom:16px}
+  .tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:14px 0}
+  .tabs button{background:transparent;border:none;border-bottom:2px solid transparent;border-radius:0;padding:8px 14px;color:var(--fg2)}
+  .tabs button.active{color:var(--fg);border-bottom-color:var(--accent)}
+  .toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+  .toolbar label{font-size:13px;color:var(--fg2);display:flex;align-items:center;gap:6px}
+  .review{max-width:760px;font-family:Georgia,serif;font-size:17px;line-height:1.75;color:#d8d8dc;margin:10px 0 24px;display:none}
+  .review.open{display:block}
+  .review a{text-decoration:underline;color:var(--accent)}
+
+  /* 목록 (시즌/브랜드) */
+  .list{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px}
+  .item{display:flex;gap:10px;align-items:center;padding:8px 10px;background:var(--bg2);border:1px solid var(--line);border-radius:8px}
+  .item .thumb{width:40px;height:56px;border-radius:4px;background:var(--bg3);overflow:hidden;flex:none}
+  .item .thumb img{width:100%;height:100%;object-fit:cover}
+  .item .name{flex:1;min-width:0;font-size:14px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .item.fetched .name{color:var(--fg)} .item:not(.fetched) .name{color:var(--fg2)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{background:var(--bg3);border:1px solid var(--line);border-radius:20px;padding:3px 10px;font-size:13px;cursor:pointer}
+  .chip:hover{border-color:var(--fg3)}
+
+  /* 라이트박스 */
+  #lb{position:fixed;inset:0;background:rgba(0,0,0,.96);z-index:50;display:none;flex-direction:column}
+  #lb.open{display:flex}
+  #lb .top{display:flex;align-items:center;gap:14px;padding:10px 18px;color:var(--fg2);font-size:14px}
+  #lb .stage{flex:1;display:flex;align-items:center;justify-content:center;position:relative;min-height:0}
+  #lb .stage img{max-width:100%;max-height:100%;object-fit:contain;user-select:none}
+  #lb .nav{position:absolute;top:0;bottom:0;width:30%;cursor:pointer}
+  #lb .nav.prev{left:0} #lb .nav.next{right:0}
+  #lb .strip{display:flex;gap:4px;padding:8px 18px;overflow-x:auto;scrollbar-width:thin}
+  #lb .strip img{height:64px;width:43px;object-fit:cover;opacity:.45;cursor:pointer;border-radius:3px;flex:none}
+  #lb .strip img.cur{opacity:1;outline:2px solid var(--accent)}
+
+  /* 작업 패널 */
+  #jobpanel{position:fixed;right:16px;bottom:16px;width:380px;max-height:50vh;overflow:auto;background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:12px;display:none;z-index:30;font-size:13px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+  #jobpanel.open{display:block}
+  .job{padding:6px 0;border-bottom:1px solid var(--line)}
+  .job:last-child{border-bottom:none}
+  .job .st{font-size:11px;padding:1px 6px;border-radius:4px;background:var(--bg3);margin-right:6px}
+  .job .st.running{background:#3b3320;color:var(--accent)} .job .st.done{background:#1f3a2a;color:#8fe3a8} .job .st.error{background:#3d1f1f;color:var(--danger)}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--bg3);border:1px solid var(--line);padding:10px 16px;border-radius:8px;z-index:60;font-size:14px}
+
+  body.static .needs-server, body.static .needs-local, body.cloud .needs-local{display:none !important}
+  body:not(.cloud) .cloud-only{display:none !important}
+  body.noauth nav, body.noauth .addbox, body.noauth #userbox, body.noauth #jobs{display:none !important}
+  .login{max-width:360px;margin:12vh auto 0;background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:28px}
+  .login h1{margin:0 0 4px}
+  .login input{width:100%;margin-top:10px}
+  .login button{width:100%;margin-top:14px}
+  .login .err{color:var(--danger);font-size:13px;margin-top:10px;min-height:18px}
+  .login .alt{margin-top:14px;font-size:13px;color:var(--fg2);text-align:center}
+  .login .alt a{color:var(--accent);cursor:pointer;text-decoration:underline}
+  #userbox{font-size:13px;color:var(--fg2);display:flex;gap:6px;align-items:center}
+  .ro{font-size:12px;color:var(--fg3);border:1px solid var(--line);border-radius:20px;padding:3px 10px;white-space:nowrap}
+  /* ---- 모바일 ---- */
+  @media (max-width:800px){
+    main{padding:12px}
+    h1{font-size:22px} h2{font-size:18px;margin:20px 0 10px}
+    .bar{padding:8px 12px;gap:8px 10px}
+    .logo{font-size:16px;letter-spacing:.12em}
+    .spacer{display:none}
+    #jobs,#userbox{margin-left:auto;order:1}
+    #useremail{display:none}
+    #userbox button{padding:3px 8px;font-size:12px}
+    nav{order:2;width:100%;overflow-x:auto;scrollbar-width:none;gap:2px;margin:0 -4px}
+    nav button{padding:5px 10px;white-space:nowrap}
+    .addbox{order:3;width:100%;min-width:0;max-width:none}
+    .addbox input{min-width:0}
+    .ro{order:1;margin-left:auto;font-size:11px;white-space:normal;text-align:right}
+    .cards{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+    .card .meta{padding:8px 10px} .card .sub{font-size:12px}
+    .grid{grid-template-columns:repeat(var(--cols-m,3),1fr);gap:6px}
+    .look{border-radius:5px}
+    .showhead{gap:10px;margin-bottom:10px}
+    .showhead h1{font-size:24px} .showhead h1 span{font-size:15px !important}
+    .toolbar{gap:8px;margin-bottom:10px}
+    .toolbar input[type=range]{width:110px}
+    .kbd-hint{display:none}
+    .tabs button{padding:8px 10px}
+    .review{font-size:16px}
+    .list{grid-template-columns:1fr}
+    #lb .top{padding:8px 10px;gap:8px;font-size:13px}
+    #lb .top #lbtitle{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    #lb .top .spacer{display:none}
+    #lb .top button{white-space:nowrap;padding:4px 8px}
+    #lb .top .lbl{display:none}
+    #lb .strip img{height:52px;width:35px}
+    #jobpanel{left:12px;right:12px;width:auto;bottom:12px}
+    .login{margin-top:8vh;padding:22px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="logo" onclick="go('home')">Runway <span>Book</span></div>
+    <nav>
+      <button data-view="home" onclick="go('home')">보관함</button>
+      <button data-view="season" onclick="go('season')">시즌</button>
+      <button data-view="brand" onclick="go('brand')" id="brandtab" style="display:none">브랜드</button>
+      <button data-view="fav" onclick="go('fav')">즐겨찾기</button>
+    </nav>
+    <div class="spacer"></div>
+    <span class="ro" id="robadge" style="display:none">읽기 전용 배포본 · 가져오기는 내 컴퓨터에서</span>
+    <div id="userbox" class="cloud-only"><span id="useremail"></span><button class="small ghost" onclick="changePassword()">비밀번호 변경</button><button class="small ghost" onclick="logout()">로그아웃</button></div>
+    <form class="addbox needs-server" onsubmit="return addByUrl(event)">
+      <input id="urlin" placeholder="보그 쇼 URL 붙여넣기 (vogue.com/fashion-shows/…)">
+      <button class="primary" type="submit">가져오기</button>
+    </form>
+    <div id="jobs" class="needs-server" onclick="toggleJobs()"><span class="dot" id="jobdot"></span><span id="jobtext">대기</span></div>
+  </div>
+</header>
+<main id="main"></main>
+
+<div id="lb">
+  <div class="top">
+    <span id="lbtitle"></span><span class="spacer"></span>
+    <button class="small ghost" id="lbfav" onclick="toggleFavCurrent()">♡<span class="lbl"> 즐겨찾기</span></button>
+    <a class="small" id="lbopen" target="_blank" rel="noopener"><button class="small ghost"><span class="lbl">원본 열기 </span>↗</button></a>
+    <button class="small ghost" onclick="closeLb()"><span class="lbl">닫기 </span>✕</button>
+  </div>
+  <div class="stage">
+    <div class="nav prev" onclick="lbMove(-1)"></div>
+    <img id="lbimg" alt="">
+    <div class="nav next" onclick="lbMove(1)"></div>
+  </div>
+  <div class="strip" id="lbstrip"></div>
+</div>
+
+<div id="jobpanel"></div>
+
+<script>
+'use strict';
+// ------------------------------------------------------------ 상태
+const S = {
+  view: 'home', index: null, show: null, gallery: 0, season: null, designer: null,
+  favs: loadLS('favs', {}), cols: loadLS('cols', 5), localFirst: loadLS('localFirst', true),
+  lb: { items: [], i: 0, show: null }, q: '',
+};
+function loadLS(k, d){ try{ const v = localStorage.getItem('rb.'+k); return v==null? d : JSON.parse(v);}catch(e){ return d; } }
+function saveLS(k, v){ try{ localStorage.setItem('rb.'+k, JSON.stringify(v)); }catch(e){} }
+document.documentElement.style.setProperty('--cols', S.cols);
+document.documentElement.style.setProperty('--cols-m', Math.max(1, Math.min(3, Math.round(S.cols * 0.6))));
+
+const VOGUE = 'https://www.vogue.com';
+function imgUrl(it, w){
+  if (S.localFirst && it.local && !STATIC) return '/data/' + it.local;
+  if (!it.id) return it.url || '';
+  const size = w ? `w_${w},c_limit` : 'pass';
+  return `https://assets.vogue.com/photos/${it.id}/master/${size}/${it.file}`;
+}
+function esc(s){ return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+let STATIC = null;   // true: 로컬 서버 없이 data/*.json 만 읽는 배포본
+let CLOUD = false;   // true: Supabase 를 저장소/수집기로 쓰는 배포본
+let _detect = null;
+function detectMode(){ return _detect ||= (async () => {
+  let local = false;
+  try {
+    const r = await fetch('api/jobs', {cache:'no-store'});
+    local = r.ok && (r.headers.get('content-type')||'').includes('json');
+  } catch(e) {}
+  if (local) { STATIC = false; return; }
+  if (window.RB_CLOUD && RB_CLOUD.url && RB_CLOUD.anon) {
+    CLOUD = true; STATIC = false; document.body.classList.add('cloud');
+    await ensureSession();
+    if (session()) { try { await cloudLoadFavs(); } catch(e) { console.warn('favorites load failed', e); } }
+    return;
+  }
+  STATIC = true; document.body.classList.add('static'); document.getElementById('robadge').style.display = '';
+})(); }
+// ------------------------------------------------------------ 클라우드 모드 (Supabase)
+const REST = (path) => `${RB_CLOUD.url}/rest/v1/${path}`;
+const AUTH = (path) => `${RB_CLOUD.url}/auth/v1/${path}`;
+function session(){ return loadLS('session', null); }
+function setSession(s){ saveLS('session', s); document.getElementById('useremail').textContent = s?.user?.email || ''; }
+async function ensureSession(){
+  const s = session(); if (!s) return null;
+  if (s.expires_at && s.expires_at - Date.now()/1000 > 60) { setSession(s); return s; }
+  try {
+    const r = await fetch(AUTH('token?grant_type=refresh_token'), {method:'POST', headers:{apikey: RB_CLOUD.anon, 'Content-Type':'application/json'}, body: JSON.stringify({refresh_token: s.refresh_token})});
+    if (!r.ok) throw new Error('refresh failed');
+    const j = await r.json(); j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600);
+    setSession(j); return j;
+  } catch(e) { setSession(null); return null; }
+}
+async function login(email, password){
+  const r = await fetch(AUTH('token?grant_type=password'), {method:'POST', headers:{apikey: RB_CLOUD.anon, 'Content-Type':'application/json'}, body: JSON.stringify({email, password})});
+  const j = await r.json().catch(()=>({}));
+  if (!r.ok) throw new Error(j.error_description || j.msg || j.error || '로그인 실패');
+  j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600);
+  setSession(j);
+  try { await cloudLoadFavs(); } catch(e) {}
+}
+async function logout(){
+  const s = session();
+  if (s) { try { await fetch(AUTH('logout'), {method:'POST', headers: restHeaders()}); } catch(e) {} }
+  setSession(null); S.favs = {}; saveLS('favs', {}); S.index = null; route();
+}
+async function changePassword(){
+  const pw = prompt('새 비밀번호 (8자 이상)'); if (!pw) return;
+  if (pw.length < 8) return toast('8자 이상이어야 합니다', 3000);
+  await ensureSession();
+  const r = await fetch(AUTH('user'), {method:'PUT', headers:{...restHeaders(), 'Content-Type':'application/json'}, body: JSON.stringify({password: pw})});
+  if (r.ok) toast('비밀번호를 바꿨습니다'); else toast('변경 실패: ' + ((await r.json().catch(()=>({}))).msg || r.status), 4000);
+}
+function renderLogin(signup){
+  const main = document.getElementById('main');
+  main.innerHTML = signup ? `<form class="login" onsubmit="return doSignup(event)">
+    <h1>회원가입</h1><div class="muted small">이메일과 비밀번호(8자 이상)로 계정을 만듭니다</div>
+    <input id="l_email" type="email" placeholder="이메일" autocomplete="username" required>
+    <input id="l_pw" type="password" placeholder="비밀번호 (8자 이상)" autocomplete="new-password" minlength="8" required>
+    <input id="l_pw2" type="password" placeholder="비밀번호 확인" autocomplete="new-password" minlength="8" required>
+    <button class="primary" type="submit">가입하고 시작하기</button><div class="err" id="l_err"></div>
+    <div class="alt">이미 계정이 있나요? <a onclick="renderLogin(false)">로그인</a></div></form>`
+  : `<form class="login" onsubmit="return doLogin(event)">
+    <h1>Runway Book</h1><div class="muted small">로그인이 필요합니다</div>
+    <input id="l_email" type="email" placeholder="이메일" autocomplete="username" required>
+    <input id="l_pw" type="password" placeholder="비밀번호" autocomplete="current-password" required>
+    <button class="primary" type="submit">로그인</button><div class="err" id="l_err"></div>
+    <div class="alt">계정이 없나요? <a onclick="renderLogin(true)">회원가입</a></div></form>`;
+  document.getElementById('l_email').focus();
+}
+async function doSignup(e){
+  e.preventDefault();
+  const err = document.getElementById('l_err'), btn = e.target.querySelector('button');
+  const email = l_email.value.trim(), pw = l_pw.value;
+  if (pw !== l_pw2.value) { err.textContent = '비밀번호가 서로 다릅니다'; return false; }
+  btn.disabled = true; err.textContent = '';
+  try {
+    const r = await fetch(AUTH('signup'), {method:'POST', headers:{apikey: RB_CLOUD.anon, 'Content-Type':'application/json'}, body: JSON.stringify({email, password: pw})});
+    const j = await r.json().catch(()=>({}));
+    if (!r.ok) throw new Error(j.msg || j.error_description || j.error || '가입 실패');
+    if (j.access_token) { j.expires_at = Math.floor(Date.now()/1000) + (j.expires_in || 3600); setSession(j); try { await cloudLoadFavs(); } catch(x) {} toast('가입 완료'); route(); }
+    else if (j.id && !j.email_confirmed_at && (j.identities||[]).length === 0) throw new Error('이미 가입된 이메일입니다. 로그인해 주세요.');
+    else { err.style.color = 'var(--fg2)'; err.textContent = '확인 메일을 보냈습니다. 메일의 링크를 누른 뒤 로그인하세요.'; }
+  } catch(x) {
+    err.textContent = /already|registered/i.test(x.message) ? '이미 가입된 이메일입니다. 로그인해 주세요.'
+      : /password/i.test(x.message) && /least|short|weak/i.test(x.message) ? '비밀번호는 8자 이상이어야 합니다'
+      : /signup.*disabled|not allowed/i.test(x.message) ? '현재 회원가입이 닫혀 있습니다' : x.message;
+  }
+  btn.disabled = false;
+  return false;
+}
+async function doLogin(e){
+  e.preventDefault();
+  const btn = e.target.querySelector('button'); btn.disabled = true;
+  try { await login(l_email.value.trim(), l_pw.value); route(); }
+  catch(err) { document.getElementById('l_err').textContent = /invalid/i.test(err.message) ? '이메일 또는 비밀번호가 틀렸습니다' : err.message; btn.disabled = false; }
+  return false;
+}
+const restHeaders = () => ({ apikey: RB_CLOUD.anon, Authorization: `Bearer ${session()?.access_token || RB_CLOUD.anon}` });
+async function restGet(path){
+  // PostgREST 는 한 번에 최대 1000행이므로 Range 로 나눠 받는다
+  const out = [];
+  await ensureSession();
+  for (let from = 0;; from += 1000) {
+    const r = await fetch(REST(path), {headers: {...restHeaders(), Range: `${from}-${from+999}`, 'Range-Unit': 'items'}, cache: 'no-store'});
+    if (r.status === 401) { setSession(null); route(); throw new Error('로그인이 만료되었습니다'); }
+    if (!r.ok && r.status !== 206) throw new Error(`DB 오류 ${r.status}: ${await r.text()}`);
+    const rows = await r.json();
+    out.push(...rows);
+    if (rows.length < 1000) return out;
+  }
+}
+async function cloudCall(body){
+  await ensureSession();
+  if (!session()) { route(); throw new Error('로그인이 필요합니다'); }
+  const r = await fetch(`${RB_CLOUD.url}/functions/v1/vogue`, {method: 'POST', headers: {...restHeaders(), 'Content-Type': 'application/json'}, body: JSON.stringify(body)});
+  const j = await r.json().catch(() => ({error: `응답 오류 ${r.status}`}));
+  if (r.status === 401) { setSession(null); route(); throw new Error('로그인이 만료되었습니다. 다시 로그인해 주세요.'); }
+  if (!r.ok || j.error) throw new Error(j.error || `오류 ${r.status}`);
+  return j;
+}
+const rowToShow = (r) => ({ key: r.key, url: r.url, season: r.season, seasonName: r.season_name, brand: r.brand, brandName: r.brand_name,
+  designers: r.designers || '', eventDate: r.event_date || '', pubDate: r.pub_date || '', authors: r.authors || [], reviewHtml: r.review_html || '',
+  cover: r.cover, galleries: r.galleries || [], looks: r.looks, counts: r.counts || {}, local: false, fetchedAt: r.fetched_at });
+async function cloudIndex(){
+  const [shows, seasons, designers] = await Promise.all([
+    restGet('shows?select=key,season,season_name,brand,brand_name,designers,event_date,cover,looks,counts,fetched_at&order=season.desc,brand.asc'),
+    restGet('seasons?select=slug,name,shows'), restGet('designers?select=slug,name,collections')]);
+  return S.index = { shows: shows.map(rowToShow), seasons: seasons.map(s => ({slug: s.slug, name: s.name, count: (s.shows||[]).length})),
+    designers: designers.map(d => ({slug: d.slug, name: d.name, count: (d.collections||[]).length})) };
+}
+async function cloudListing(kind, slug, refresh){
+  const table = kind + 's';
+  let rows = refresh ? [] : await restGet(`${table}?slug=eq.${encodeURIComponent(slug)}&select=*`);
+  let data = rows[0];
+  if (!data) data = await cloudCall({action: kind, slug});
+  if (kind === 'designer') data = {slug: data.slug, name: data.name, bioHtml: data.bio_html ?? data.bioHtml ?? '', collections: data.collections};
+  const have = new Set((await restGet('shows?select=key')).map(r => r.key));
+  for (const it of (data.shows || data.collections)) { const [, sea, br] = it.path.split('/').slice(1); it.key = `${sea}__${br}`; it.fetched = have.has(it.key); }
+  return data;
+}
+// 브라우저가 직접 돌리는 작업 큐 (Edge Function 을 쇼 하나씩 호출)
+const CJ = { jobs: [], seq: 0, running: false };
+function cjAdd(kind, label, items){
+  const job = { id: ++CJ.seq, kind, label, status: 'queued', progress: null, message: `대기 중 (${items.length}개)`, log: [], items, createdAt: Date.now()/1000 };
+  CJ.jobs.push(job); if (CJ.jobs.length > 50) CJ.jobs.shift();
+  cjRun(); return job;
+}
+async function cjRun(){
+  if (CJ.running) return; CJ.running = true;
+  try {
+    for (;;) {
+      const job = CJ.jobs.find(j => j.status === 'queued'); if (!job) break;
+      job.status = 'running'; let fails = 0;
+      for (let i = 0; i < job.items.length; i++) {
+        const it = job.items[i];
+        job.progress = job.items.length > 1 ? {i: i+1, n: job.items.length, name: it.name || it.ref} : null;
+        job.message = `가져오는 중: ${it.name || it.ref}`;
+        try { const r = await cloudCall({action: 'show', ref: it.ref, force: !!it.force}); job.log.push(`${r.existed ? '이미 있음' : '저장'}: ${r.key} (${r.looks}장)`); }
+        catch(e) { fails++; job.log.push(`실패 ${it.ref}: ${e.message}`); if (/비밀키/.test(e.message)) { job.status = 'error'; job.message = e.message; break; } }
+      }
+      if (job.status !== 'error') { job.status = fails && fails === job.items.length ? 'error' : 'done'; job.message = fails ? `완료 (실패 ${fails}개)` : '완료'; }
+      job.finishedAt = Date.now()/1000;
+    }
+  } finally { CJ.running = false; }
+}
+async function cloudApi(path, body){
+  const clean = path.replace(/\?.*$/, ''), refresh = /refresh/.test(path);
+  if (body) {
+    if (clean === '/api/fetch') { const ref = body.ref.replace(/^.*vogue\.com/, ''); return {job: cjAdd('show', ref.replace(/^\/?fashion-shows\//, ''), [{ref, force: !!body.force}])}; }
+    if (clean === '/api/fetch-season' || clean === '/api/fetch-designer') {
+      const kind = clean.endsWith('season') ? 'season' : 'designer';
+      const data = await cloudListing(kind, body.slug, false);
+      let items = (data.shows || data.collections).filter(it => !it.fetched || body.force).map(it => ({ref: it.path, name: it.name, force: !!body.force}));
+      if (body.limit) items = items.slice(0, body.limit);
+      if (!items.length) throw new Error('가져올 쇼가 없습니다 (이미 모두 있음)');
+      return {job: cjAdd(kind, body.slug, items)};
+    }
+    if (clean === '/api/delete') { await cloudCall({action: 'delete', key: body.key}); return {ok: true}; }
+    if (clean === '/api/download') throw new Error('배포본에서는 이미지 저장을 지원하지 않습니다 (사진은 보그 CDN 에서 바로 봅니다).');
+    throw new Error('지원하지 않는 요청: ' + path);
+  }
+  if (clean === '/api/index') return cloudIndex();
+  if (clean === '/api/jobs') return {jobs: CJ.jobs.slice(-30), busy: CJ.jobs.some(j => j.status === 'queued' || j.status === 'running')};
+  const m = clean.match(/^\/api\/(show|season|designer)\/(.+)$/);
+  if (!m) throw new Error('지원하지 않는 요청: ' + path);
+  const [, kind, id] = m;
+  if (kind === 'show') { const rows = await restGet(`shows?key=eq.${encodeURIComponent(id)}&select=*`); if (!rows[0]) throw new Error('보관함에 없는 쇼입니다'); return rowToShow(rows[0]); }
+  return cloudListing(kind, id, refresh);
+}
+async function cloudLoadFavs(){
+  const rows = await restGet('favorites?select=*');
+  const favs = {};
+  for (const r of rows) favs[favKey(r.show_key, r.gid, r.n)] = { showKey: r.show_key, gid: r.gid, n: r.n, it: r.item, brand: r.brand, season: r.season, at: Date.parse(r.created_at) || 0 };
+  S.favs = favs; saveLS('favs', favs);
+}
+function cloudSyncFav(id, fav){
+  if (!CLOUD) return;
+  cloudCall(fav ? {action: 'fav', op: 'add', fav: {id, ...fav}} : {action: 'fav', op: 'remove', fav: {id}}).catch(e => toast('즐겨찾기 저장 실패: ' + e.message, 4000));
+}
+
+async function staticApi(path, body){
+  if (body) throw new Error('배포본에서는 보그에서 가져올 수 없습니다. 내 컴퓨터에서 python3 server.py 로 가져온 뒤 python3 export.py 와 vercel 배포를 다시 실행하세요.');
+  const clean = path.replace(/\?.*$/, '');
+  const getJson = async (file, missing) => {
+    const r = await fetch(file, {cache:'no-store'});
+    if (!r.ok) throw new Error(missing || `파일을 찾을 수 없습니다: ${file}`);
+    return r.json();
+  };
+  if (clean === '/api/index') return S.index = await getJson('data/index.json', '배포본에 data/index.json 이 없습니다. python3 export.py 를 실행했는지 확인하세요.');
+  if (clean === '/api/jobs') return {jobs: [], busy: false};
+  const m = clean.match(/^\/api\/(show|season|designer)\/(.+)$/);
+  if (!m) throw new Error('지원하지 않는 요청: ' + path);
+  const [, kind, id] = m;
+  if (kind === 'show') return getJson(`data/shows/${id}.json`, '이 쇼는 배포본에 없습니다.');
+  const data = await getJson(`data/${kind}s/${id}.json`, `이 ${kind==='season'?'시즌':'브랜드'} 목록은 배포본에 없습니다. 내 컴퓨터에서 불러온 뒤 다시 배포하세요.`);
+  const idx = S.index || await staticApi('/api/index');
+  const have = new Set(idx.shows.map(s => s.key));
+  for (const it of (data.shows || data.collections)) { const [, sea, br] = it.path.split('/').slice(1); it.key = `${sea}__${br}`; it.fetched = have.has(it.key); }
+  return data;
+}
+async function api(path, body){
+  await detectMode();
+  if (CLOUD) return cloudApi(path, body);
+  if (STATIC) return staticApi(path, body);
+  let r;
+  try { r = await fetch(path, body ? {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body)} : {}); }
+  catch(e) {
+    const hint = location.protocol === 'file:'
+      ? '이 파일을 직접 열면 동작하지 않습니다. 터미널에서 python3 server.py 를 실행한 뒤 http://localhost:8765 로 접속하세요.'
+      : '로컬 서버에 연결할 수 없습니다. 터미널에서 python3 server.py 가 실행 중인지 확인하세요.';
+    throw new Error(hint);
+  }
+  const j = await r.json().catch(()=>({error:'응답 파싱 실패'}));
+  if (!r.ok || j.error) throw new Error(j.error || r.statusText);
+  return j;
+}
+function toast(msg, ms=2500){ const t = document.createElement('div'); t.className='toast'; t.textContent = msg; document.body.appendChild(t); setTimeout(()=>t.remove(), ms); }
+function fmtDate(iso){ if(!iso) return ''; const d = new Date(iso); return isNaN(d) ? iso : d.toLocaleDateString('ko-KR', {year:'numeric', month:'long', day:'numeric'}); }
+
+// ------------------------------------------------------------ 라우팅
+function go(view, arg){
+  S.view = view; S.q = '';
+  if (view === 'show') location.hash = '#/show/' + arg;
+  else if (view === 'season' && arg) location.hash = '#/season/' + arg;
+  else if (view === 'brand' && arg) location.hash = '#/brand/' + arg;
+  else location.hash = '#/' + view;
+}
+const BRAND_TAB = false;   // 브랜드 탭 사용 여부 (true 로 바꾸면 다시 나타남)
+window.addEventListener('hashchange', route);
+async function route(){
+  const m = location.hash.match(/^#\/(\w+)(?:\/(.+))?$/);
+  const view = m ? m[1] : 'home', arg = m ? decodeURIComponent(m[2]||'') : '';
+  S.view = view;
+  document.querySelectorAll('nav button').forEach(b => b.classList.toggle('active', b.dataset.view === view || (view==='show' && b.dataset.view==='home')));
+  await detectMode();
+  document.body.classList.toggle('noauth', CLOUD && !session());
+  if (CLOUD && !session()) { renderLogin(); return; }
+  try {
+    if (view === 'home') await renderHome();
+    else if (view === 'show') await renderShow(arg);
+    else if (view === 'season') await renderSeason(arg);
+    else if (view === 'brand' && BRAND_TAB) await renderBrand(arg);
+    else if (view === 'fav') await renderFav();
+    else await renderHome();
+  } catch(e) { document.getElementById('main').innerHTML = `<div class="empty">오류: ${esc(e.message)}</div>`; }
+  if (!(view === 'show' && S._lastShowKey === arg.split('/')[0])) window.scrollTo(0,0);
+  S._lastShowKey = view === 'show' ? arg.split('/')[0] : null;
+}
+async function loadIndex(){ S.index = await api('/api/index'); return S.index; }
+
+// ------------------------------------------------------------ 보관함
+async function renderHome(){
+  const idx = await loadIndex();
+  const main = document.getElementById('main');
+  if (!idx.shows.length){
+    main.innerHTML = `<div class="empty"><h1 class="serif">아직 가져온 쇼가 없습니다</h1>
+      ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p>위 입력창에 보그 런웨이 쇼 URL을 붙여넣고 <b>가져오기</b>를 누르거나,<br><b>시즌</b> 탭에서 시즌 전체를, <b>브랜드</b> 탭에서 브랜드 아카이브를 불러오세요.</p>
+      <p class="small dim">터미널: <code>python3 vogue.py show spring-2026-ready-to-wear/chanel</code></p>`}</div>`;
+    return;
+  }
+  const seasons = {};
+  for (const s of idx.shows) (seasons[s.season] ||= {name: s.seasonName, shows: []}).shows.push(s);
+  const order = Object.keys(seasons).sort((a,b) => seasonRank(b) - seasonRank(a));
+  main.innerHTML = `
+    <div class="row" style="justify-content:space-between">
+      <div><h1>보관함</h1><div class="muted small">쇼 ${idx.shows.length}개 · 사진 ${idx.shows.reduce((a,s)=>a+s.looks,0).toLocaleString()}장</div></div>
+      <input id="q" placeholder="브랜드 / 시즌 검색" style="width:260px" oninput="filterHome(this.value)">
+    </div>
+    ${order.map(k => `<section data-season="${k}"><h2>${esc(seasons[k].name)} <span class="dim small">${seasons[k].shows.length}</span></h2>
+      <div class="cards">${seasons[k].shows.sort((a,b)=>a.brandName.localeCompare(b.brandName)).map(cardHtml).join('')}</div></section>`).join('')}`;
+}
+function cardHtml(s){
+  const cover = s.cover ? imgUrl(s.cover, 480) : '';
+  return `<div class="card" data-text="${esc((s.brandName+' '+s.seasonName+' '+s.designers).toLowerCase())}" onclick="go('show','${s.key}')">
+    <div class="thumb">${cover ? `<img loading="lazy" src="${cover}" alt="">` : ''}</div>
+    <div class="meta"><div class="title">${esc(s.brandName)}</div><div class="sub">${esc(s.seasonName)}</div>
+    <div class="badge">${Object.entries(s.counts).sort((a,b)=>(a[0]==='Collection'?-1:b[0]==='Collection'?1:0)).map(([k,v])=>`${k} ${v}`).join(' · ')}${s.local ? ' · 오프라인' : ''}</div></div></div>`;
+}
+function filterHome(q){
+  q = q.trim().toLowerCase();
+  document.querySelectorAll('#main .card').forEach(c => c.style.display = (!q || c.dataset.text.includes(q)) ? '' : 'none');
+  document.querySelectorAll('#main section').forEach(s => s.style.display = [...s.querySelectorAll('.card')].some(c => c.style.display !== 'none') ? '' : 'none');
+}
+function seasonRank(slug){ // 최신 시즌이 먼저 오도록 정렬 점수
+  const y = parseInt((slug.match(/(\d{4})/)||[])[1] || 0);
+  const t = slug.startsWith('resort') ? 0 : slug.startsWith('pre-fall') ? 1 : slug.startsWith('spring') && slug.includes('couture') ? 2 : slug.startsWith('spring') ? 1.5 : slug.startsWith('fall') && slug.includes('couture') ? 3 : 2.5;
+  return y*10 + t;
+}
+
+// ------------------------------------------------------------ 쇼 보기
+async function renderShow(arg){
+  const [key, gid, n] = arg.split('/');
+  const show = (S.show && S.show.key === key) ? S.show : await api('/api/show/' + key);
+  S.show = show;
+  if (gid) { const gi = show.galleries.findIndex(g => g.id === gid); if (gi >= 0) S.gallery = gi; }
+  S.gallery = Math.min(S.gallery, show.galleries.length-1);
+  const main = document.getElementById('main');
+  const idx = S.index || await loadIndex();
+  const entry = idx.shows.find(s => s.key === key) || {};
+  main.innerHTML = `
+    <div class="showhead">
+      <div>
+        <div class="muted small">${esc(show.brandName)} · <a href="#/season/${esc(show.season)}">${esc(show.seasonName)}</a></div>
+        <h1>${esc(show.brandName)} <span class="muted" style="font-size:20px">${esc(show.seasonName)}</span></h1>
+        <div class="muted small">${esc(show.designers)}${show.designers && show.eventDate ? ' · ' : ''}${fmtDate(show.eventDate)}${show.authors?.length ? ' · 리뷰 ' + esc(show.authors.join(', ')) : ''}</div>
+      </div>
+      <div class="spacer"></div>
+      <div class="row">
+        ${show.reviewHtml ? `<button class="small" onclick="document.getElementById('review').classList.toggle('open')">리뷰 보기</button>` : ''}
+        <a href="${esc(show.url)}" target="_blank" rel="noopener"><button class="small">Vogue에서 열기 ↗</button></a>
+        <button class="small needs-local" onclick="downloadShow('${key}')" ${entry.local ? 'disabled title="이미 저장됨"' : ''}>${entry.local ? '오프라인 저장됨' : '이미지 저장(오프라인)'}</button>
+        <button class="small needs-server" onclick="refetchShow('${key}')">다시 가져오기</button>
+        <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">삭제</button>
+      </div>
+    </div>
+    <div class="review" id="review">${show.reviewHtml || ''}</div>
+    <div class="tabs">${show.galleries.map((g,i)=>`<button class="${i===S.gallery?'active':''}" onclick="setGallery(${i})">${esc(g.title)} <span class="dim">${g.items.length}</span></button>`).join('')}</div>
+    <div class="toolbar">
+      <label>크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label>
+      <label class="needs-local"><input type="checkbox" ${S.localFirst?'checked':''} onchange="S.localFirst=this.checked;saveLS('localFirst',S.localFirst);renderGrid()"> 저장본 우선</label>
+      <span class="dim small kbd-hint">클릭하면 크게 보기 · ← → 로 이동 · F 즐겨찾기 · Esc 닫기</span>
+    </div>
+    <div class="grid" id="grid"></div>`;
+  renderGrid();
+  if (gid && n) { const i = show.galleries[S.gallery].items.findIndex(it => it.n === +n); if (i >= 0) openLb(i); }
+}
+function setGallery(i){ S.gallery = i; document.querySelectorAll('.tabs button').forEach((b,j)=>b.classList.toggle('active', j===i)); renderGrid(); quietHash(`#/show/${S.show.key}/${S.show.galleries[i].id}`); }
+function quietHash(h){ if (location.hash !== h) history.replaceState(null, '', h); }
+function setCols(v){ S.cols = +v; saveLS('cols', S.cols); document.documentElement.style.setProperty('--cols', S.cols); document.documentElement.style.setProperty('--cols-m', Math.max(1, Math.min(3, Math.round(S.cols * 0.6)))); }
+function renderGrid(){
+  const g = S.show.galleries[S.gallery];
+  const grid = document.getElementById('grid');
+  grid.innerHTML = g.items.map((it,i) => lookHtml(it, i, S.show.key, g.id)).join('');
+  observeImgs(grid);
+}
+function favKey(showKey, gid, n){ return `${showKey}|${gid}|${n}`; }
+function lookHtml(it, i, showKey, gid){
+  const fk = favKey(showKey, gid, it.n);
+  return `<div class="look" onclick="openLb(${i})">
+    <img data-src="${imgUrl(it, 640)}" alt="${esc(it.caption)}">
+    <button class="fav ${S.favs[fk]?'on':''}" onclick="event.stopPropagation();toggleFav('${showKey}','${gid}',${it.n},this)" title="즐겨찾기">♥</button>
+    <div class="cap">${esc(it.caption)}</div></div>`;
+}
+const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting){ const im = e.target; im.src = im.dataset.src; im.onload = () => im.classList.add('loaded'); io.unobserve(im);} }), {rootMargin:'600px'});
+function observeImgs(root){ root.querySelectorAll('img[data-src]').forEach(im => io.observe(im)); }
+
+function toggleFav(showKey, gid, n, btn){
+  const fk = favKey(showKey, gid, n);
+  if (S.favs[fk]) delete S.favs[fk];
+  else {
+    const show = S.show && S.show.key === showKey ? S.show : null;
+    const g = show && show.galleries.find(x => x.id === gid);
+    const it = g && g.items.find(x => x.n === n);
+    S.favs[fk] = { showKey, gid, n, it, brand: show?.brandName, season: show?.seasonName, at: Date.now() };
+  }
+  saveLS('favs', S.favs);
+  cloudSyncFav(fk, S.favs[fk] || null);
+  if (btn) btn.classList.toggle('on', !!S.favs[fk]);
+  setLbFav(!!S.favs[fk]);
+}
+
+// ------------------------------------------------------------ 라이트박스
+function openLb(i, items, meta){
+  const g = S.show ? S.show.galleries[S.gallery] : null;
+  S.lb.items = items || g.items;
+  S.lb.meta = meta || { showKey: S.show.key, gid: g.id, title: `${S.show.brandName} · ${S.show.seasonName} · ${g.title}` };
+  S.lb.i = i;
+  document.getElementById('lb').classList.add('open');
+  document.getElementById('lbstrip').innerHTML = S.lb.items.map((it,j)=>`<img src="${imgUrl(it,120)}" onclick="lbTo(${j})" alt="">`).join('');
+  lbTo(i);
+}
+function lbTo(i){
+  const items = S.lb.items; S.lb.i = (i + items.length) % items.length;
+  const it = items[S.lb.i];
+  const img = document.getElementById('lbimg');
+  img.src = imgUrl(it, 2000);
+  document.getElementById('lbtitle').textContent = `${S.lb.meta.title} — ${it.caption} (${S.lb.i+1}/${items.length})`;
+  document.getElementById('lbopen').href = it.id ? imgUrl({id:it.id,file:it.file}, null) : (it.url||'#');
+  const fk = favKey(S.lb.meta.showKey, S.lb.meta.gid, it.n);
+  setLbFav(!!S.favs[fk]);
+  if (S.view === 'show' && S.show) quietHash(`#/show/${S.show.key}/${S.lb.meta.gid}/${it.n}`);
+  document.querySelectorAll('#lbstrip img').forEach((im,j)=>{ im.classList.toggle('cur', j===S.lb.i); if (j===S.lb.i) im.scrollIntoView({inline:'center', block:'nearest', behavior:'smooth'}); });
+  // 앞뒤 이미지 미리 받기
+  [1,-1].forEach(d => { const n = items[(S.lb.i+d+items.length)%items.length]; if (n) new Image().src = imgUrl(n, 2000); });
+}
+function lbMove(d){ lbTo(S.lb.i + d); }
+function setLbFav(on){ document.getElementById('lbfav').innerHTML = (on ? '♥' : '♡') + '<span class="lbl"> 즐겨찾기</span>'; }
+function closeLb(){ document.getElementById('lb').classList.remove('open'); if (S.view === 'show' && S.show) quietHash(`#/show/${S.show.key}/${S.show.galleries[S.gallery].id}`); }
+function toggleFavCurrent(){
+  const it = S.lb.items[S.lb.i];
+  const fk = favKey(S.lb.meta.showKey, S.lb.meta.gid, it.n);
+  const btn = document.querySelector(`#grid .look:nth-child(${S.lb.i+1}) .fav`);
+  if (!S.favs[fk] && !(S.show && S.show.key === S.lb.meta.showKey)) {
+    S.favs[fk] = { showKey: S.lb.meta.showKey, gid: S.lb.meta.gid, n: it.n, it, brand: S.lb.meta.brand, season: S.lb.meta.season, at: Date.now() };
+    saveLS('favs', S.favs); cloudSyncFav(fk, S.favs[fk]);
+    setLbFav(true);
+    return;
+  }
+  toggleFav(S.lb.meta.showKey, S.lb.meta.gid, it.n, btn);
+}
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('lb').classList.contains('open')) return;
+  if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); lbMove(1); }
+  else if (e.key === 'ArrowLeft') { e.preventDefault(); lbMove(-1); }
+  else if (e.key === 'Escape') closeLb();
+  else if (e.key.toLowerCase() === 'f') toggleFavCurrent();
+});
+let touchX = null;
+document.getElementById('lb').addEventListener('touchstart', e => touchX = e.touches[0].clientX, {passive:true});
+document.getElementById('lb').addEventListener('touchend', e => { if (touchX==null) return; const dx = e.changedTouches[0].clientX - touchX; if (Math.abs(dx) > 50) lbMove(dx < 0 ? 1 : -1); touchX = null; });
+
+// ------------------------------------------------------------ 즐겨찾기
+async function renderFav(){
+  const favs = Object.values(S.favs).sort((a,b)=>b.at-a.at);
+  const main = document.getElementById('main');
+  if (!favs.length){ main.innerHTML = `<div class="empty"><h1 class="serif">즐겨찾기가 비어 있습니다</h1><p>룩 위의 ♥ 를 누르거나 크게 보기에서 F 키를 누르세요.</p></div>`; return; }
+  main.innerHTML = `<div class="row" style="justify-content:space-between"><div><h1>즐겨찾기</h1><div class="muted small">${favs.length}개 · ${CLOUD ? '클라우드에 저장되어 모든 기기에서 같습니다' : '이 브라우저에만 저장됩니다'}</div></div>
+    <div class="row"><label class="small muted">크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label><button class="small" onclick="exportFavs()">JSON 내보내기</button></div></div>
+    <div class="grid" id="grid">${favs.map((f,i)=>`<div class="look" onclick="openFavLb(${i})">
+      <img data-src="${imgUrl(f.it, 640)}" alt=""><button class="fav on" onclick="event.stopPropagation();delete S.favs['${favKey(f.showKey,f.gid,f.n)}'];saveLS('favs',S.favs);cloudSyncFav('${favKey(f.showKey,f.gid,f.n)}',null);renderFav()">♥</button>
+      <div class="cap" style="opacity:1">${esc(f.brand||'')} · ${esc(f.season||'')} · ${esc(f.it.caption)}</div></div>`).join('')}</div>`;
+  observeImgs(main);
+  S._favs = favs;
+}
+function openFavLb(i){
+  const favs = S._favs; const f = favs[i];
+  openLb(i, favs.map(x=>({...x.it, caption: `${x.brand} · ${x.season} · ${x.it.caption}`})), {showKey: f.showKey, gid: f.gid, title: '즐겨찾기', brand: f.brand, season: f.season});
+}
+function exportFavs(){
+  const blob = new Blob([JSON.stringify(S.favs, null, 1)], {type:'application/json'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'runway-book-favorites.json'; a.click();
+}
+
+// ------------------------------------------------------------ 시즌
+const SEASON_TYPES = [['ready-to-wear','Ready-to-Wear (여성 기성복)'],['couture','Couture (오트 쿠튀르)'],['menswear','Menswear (남성복)'],['resort','Resort'],['pre-fall','Pre-Fall']];
+function seasonSlug(type, half, year){
+  if (type === 'resort') return `resort-${year}`;
+  if (type === 'pre-fall') return `pre-fall-${year}`;
+  return `${half}-${year}-${type}`;
+}
+async function renderSeason(slug){
+  const idx = S.index || await loadIndex();
+  const main = document.getElementById('main');
+  const year = new Date().getFullYear() + 1;
+  const years = []; for (let y = year; y >= 1988; y--) years.push(y);
+  main.innerHTML = `<h1>시즌</h1>
+    <div class="row" style="margin:10px 0 18px">
+      <select id="s_half"><option value="spring">Spring</option><option value="fall">Fall</option></select>
+      <select id="s_year">${years.map(y=>`<option>${y}</option>`).join('')}</select>
+      <select id="s_type">${SEASON_TYPES.map(([v,l])=>`<option value="${v}">${l}</option>`).join('')}</select>
+      <button class="primary" onclick="go('season', seasonSlug(s_type.value, s_half.value, s_year.value))">${STATIC ? '저장된 목록 열기' : '목록 불러오기'}</button>
+      <span class="dim small">또는 슬러그 직접 입력:</span>
+      <input id="s_slug" placeholder="spring-2026-ready-to-wear" style="width:240px" onkeydown="if(event.key==='Enter')go('season',this.value.trim())">
+    </div>
+    ${idx.seasons.length ? `<div class="chips">${idx.seasons.sort((a,b)=>seasonRank(b.slug)-seasonRank(a.slug)).map(s=>`<span class="chip" onclick="go('season','${s.slug}')">${esc(s.name)} <span class="dim">${s.count}</span></span>`).join('')}</div>` : ''}
+    <div id="listing"></div>`;
+  if (!slug) return;
+  const box = document.getElementById('listing');
+  box.innerHTML = `<p class="muted">불러오는 중…</p>`;
+  let data; try { data = await api('/api/season/' + slug); } catch(e) { box.innerHTML = `<div class="empty">${esc(e.message)}</div>`; return; }
+  const fetched = data.shows.filter(s=>s.fetched).length;
+  box.innerHTML = `<div class="row" style="justify-content:space-between;margin-top:24px">
+      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small">쇼 ${data.shows.length}개 · 가져옴 ${fetched}개</div></div>
+      <div class="row">
+        <input id="s_filter" placeholder="브랜드 필터" style="width:180px" oninput="filterItems(this.value)">
+        <button class="small needs-server" onclick="api('/api/season/${slug}?refresh=1').then(()=>go('season','${slug}'))">목록 새로고침</button>
+        <label class="small muted needs-local"><input type="checkbox" id="s_dl"> 이미지도 저장</label>
+        <button class="primary small needs-server" onclick="fetchAll('season','${slug}',${data.shows.length})">전체 가져오기 (${data.shows.length - fetched}개)</button>
+      </div></div>
+    <div class="list" style="margin-top:12px">${data.shows.map(itemHtml).join('')}</div>`;
+}
+function itemHtml(s){
+  const name = s.name, sub = s.season ? seasonTitle(s.season) : '';
+  return `<div class="item ${s.fetched?'fetched':''}" data-text="${esc((name+' '+sub).toLowerCase())}">
+    <div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover,120)}" alt="">` : ''}</div>
+    <div class="name" title="${esc(name)}">${esc(name)}${sub ? `<div class="dim small">${esc(sub)}</div>` : ''}</div>
+    ${s.fetched ? `<button class="small" onclick="go('show','${s.key}')">보기</button>` : STATIC ? `<a href="${VOGUE}${esc(s.path)}" target="_blank" rel="noopener"><button class="small ghost">Vogue ↗</button></a>` : `<button class="small" onclick="fetchOne('${esc(s.path)}', this)">가져오기</button>`}</div>`;
+}
+function seasonTitle(slug){ return slug.replace('ready-to-wear','Ready-to-Wear').replace('pre-fall','Pre-Fall').split('-').map(w => /^[A-Z]/.test(w) ? w : w.charAt(0).toUpperCase()+w.slice(1)).join(' ').replace('Ready to Wear','Ready-to-Wear').replace('Pre Fall','Pre-Fall'); }
+function filterItems(q){ q = q.trim().toLowerCase(); document.querySelectorAll('#main .item').forEach(c => c.style.display = (!q || c.dataset.text.includes(q)) ? '' : 'none'); }
+
+// ------------------------------------------------------------ 브랜드
+async function renderBrand(slug){
+  const idx = S.index || await loadIndex();
+  const main = document.getElementById('main');
+  main.innerHTML = `<h1>브랜드</h1>
+    <div class="row" style="margin:10px 0 18px">
+      <input id="b_slug" placeholder="브랜드 슬러그 (예: chanel, louis-vuitton, miu-miu)" style="width:320px" value="${esc(slug||'')}" onkeydown="if(event.key==='Enter')go('brand',brandSlug(this.value))">
+      <button class="primary" onclick="go('brand', brandSlug(b_slug.value))">아카이브 불러오기</button>
+      <span class="dim small">보그 URL의 /fashion-shows/designer/<b>슬러그</b> 부분. 브랜드명을 그대로 넣어도 됩니다.</span>
+    </div>
+    ${idx.designers.length ? `<div class="chips">${idx.designers.map(d=>`<span class="chip" onclick="go('brand','${d.slug}')">${esc(d.name)} <span class="dim">${d.count}</span></span>`).join('')}</div>` : ''}
+    <div id="listing"></div>`;
+  if (!slug) return;
+  const box = document.getElementById('listing');
+  box.innerHTML = `<p class="muted">불러오는 중…</p>`;
+  let data; try { data = await api('/api/designer/' + slug); } catch(e) { box.innerHTML = `<div class="empty">${esc(e.message)}</div>`; return; }
+  const fetched = data.collections.filter(s=>s.fetched).length;
+  box.innerHTML = `<div class="row" style="justify-content:space-between;margin-top:24px">
+      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small">컬렉션 ${data.collections.length}개 · 가져옴 ${fetched}개</div></div>
+      <div class="row">
+        <input id="s_filter" placeholder="시즌 필터" style="width:180px" oninput="filterItems(this.value)">
+        <button class="small needs-server" onclick="api('/api/designer/${slug}?refresh=1').then(()=>go('brand','${slug}'))">목록 새로고침</button>
+        <label class="small muted needs-server">최근 <input id="b_limit" type="number" min="1" value="10" style="width:64px"> 개</label>
+        <label class="small muted needs-local"><input type="checkbox" id="s_dl"> 이미지도 저장</label>
+        <button class="primary small needs-server" onclick="fetchAll('designer','${slug}',${data.collections.length}, +document.getElementById('b_limit').value)">최근 N개 가져오기</button>
+      </div></div>
+    ${data.bioHtml ? `<details style="margin:12px 0;max-width:760px"><summary class="muted small">브랜드 소개</summary><div class="review open" style="font-size:15px">${data.bioHtml}</div></details>` : ''}
+    <div class="list" style="margin-top:12px">${data.collections.map(c => itemHtml({...c, name: c.name, season: null})).join('')}</div>`;
+}
+function brandSlug(v){ v = v.trim(); if (v.includes('vogue.com')) { const m = v.match(/designer\/([^/?#]+)/); if (m) return m[1]; } return v.toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''); }
+
+// ------------------------------------------------------------ 가져오기 작업
+async function addByUrl(e){
+  e.preventDefault();
+  const v = document.getElementById('urlin').value.trim();
+  if (!v) return false;
+  try {
+    if (/\/fashion-shows\/designer\//.test(v)) { if (BRAND_TAB) go('brand', brandSlug(v)); else toast('브랜드 아카이브 탭은 현재 꺼져 있습니다. 쇼 URL이나 시즌 URL을 넣어 주세요.', 4000); }
+    else if (/\/fashion-shows\/[^/]+\/?$/.test(v) || /^[a-z-]+-\d{4}(-[a-z-]+)?$/.test(v)) { go('season', v.replace(/\/$/,'').split('/').pop()); }
+    else { await api('/api/fetch', {ref: v}); toast('가져오기 시작: ' + v.split('/').slice(-2).join('/')); }
+    document.getElementById('urlin').value = '';
+  } catch(err) { toast('오류: ' + err.message, 4000); }
+  pollJobs(true);
+  return false;
+}
+async function fetchOne(path, btn){
+  try { await api('/api/fetch', {ref: path}); if (btn){ btn.disabled = true; btn.textContent = '대기열'; } toast('가져오기 시작'); pollJobs(true); }
+  catch(err){ toast('오류: ' + err.message, 4000); }
+}
+async function fetchAll(kind, slug, total, limit){
+  const n = limit ? Math.min(limit, total) : total;
+  if (!confirm(`${kind==='season'?'시즌':'브랜드'} "${slug}" 에서 쇼 ${n}개를 가져옵니다. 쇼당 약 ${CLOUD ? 2 : 1}초 걸리고${CLOUD ? ' 이 탭을 열어 두어야 합니다' : ' 사진은 원격 링크로 저장됩니다'}. 계속할까요?`)) return;
+  const download = !!document.getElementById('s_dl')?.checked;
+  try { await api(kind==='season' ? '/api/fetch-season' : '/api/fetch-designer', {slug, limit, download}); toast(`${n}개 가져오기 시작`); pollJobs(true); }
+  catch(err){ toast('오류: ' + err.message, 4000); }
+}
+async function downloadShow(key){ try { await api('/api/download', {key}); toast('이미지 저장 시작'); pollJobs(true);} catch(err){ toast('오류: '+err.message, 4000);} }
+async function refetchShow(key){ try { await api('/api/fetch', {ref: key.replace('__','/'), force: true}); toast('다시 가져오기 시작'); pollJobs(true);} catch(err){ toast('오류: '+err.message, 4000);} }
+async function deleteShow(key){ if (!confirm('이 쇼를 보관함에서 삭제할까요? (저장한 이미지도 지워집니다)')) return; await api('/api/delete', {key}); go('home'); }
+
+let pollTimer = null, seenJobs = null;
+async function pollJobs(fast){
+  clearTimeout(pollTimer);
+  await detectMode();
+  if (STATIC) return;
+  if (CLOUD && !session()) { pollTimer = setTimeout(pollJobs, 6000); return; }
+  let busy = false;
+  try {
+    const {jobs, busy: b} = await api('/api/jobs'); busy = b;
+    const running = jobs.filter(j => j.status === 'running' || j.status === 'queued');
+    document.getElementById('jobdot').classList.toggle('busy', busy);
+    const cur = jobs.find(j => j.status === 'running');
+    document.getElementById('jobtext').textContent = cur ? `${cur.label}${cur.progress ? ` ${cur.progress.i}/${cur.progress.n} ${cur.progress.name}` : ''}${running.length>1 ? ` (+${running.length-1})` : ''}` : (jobs.length ? `완료 ${jobs.filter(j=>j.status==='done').length}` : '대기');
+    renderJobPanel(jobs);
+    const finished = jobs.filter(j => j.status === 'done' || j.status === 'error');
+    if (seenJobs === null) seenJobs = new Set(finished.map(j => j.id));   // 첫 폴링: 과거 작업은 알리지 않음
+    for (const j of finished) if (!seenJobs.has(j.id)) {
+      seenJobs.add(j.id);
+      if (j.status === 'done') {
+        toast(`완료: ${j.label}`);
+        if (['home','season','brand'].includes(S.view) || (S.view === 'show' && j.kind === 'download')) route();
+      } else toast(`실패: ${j.label} — ${j.message}`, 6000);
+    }
+  } catch(e) {}
+  pollTimer = setTimeout(pollJobs, busy ? 1500 : 6000);
+}
+function renderJobPanel(jobs){
+  const p = document.getElementById('jobpanel');
+  if (!jobs.length){ p.innerHTML = '<div class="muted">작업 없음</div>'; return; }
+  p.innerHTML = [...jobs].reverse().map(j => `<div class="job"><span class="st ${j.status}">${j.status}</span><b>${esc(j.kind)}</b> ${esc(j.label)}
+    <div class="dim">${esc(j.progress ? `${j.progress.i}/${j.progress.n} ${j.progress.name}` : j.message)}</div>
+    ${j.status==='error' ? `<details><summary class="dim">로그</summary><pre style="white-space:pre-wrap;font-size:11px">${esc(j.log.slice(-15).join('\n'))}</pre></details>` : ''}</div>`).join('');
+}
+function toggleJobs(){ document.getElementById('jobpanel').classList.toggle('open'); }
+
+// 시작
+if (BRAND_TAB) document.getElementById('brandtab').style.display = '';
+if (session()) document.getElementById('useremail').textContent = session().user?.email || '';
+route(); pollJobs();
+</script>
+</body>
+</html>

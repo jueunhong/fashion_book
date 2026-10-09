@@ -1,0 +1,912 @@
+{
+ "key": "spring-2027-ready-to-wear__salvatore-ferragamo",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/salvatore-ferragamo",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "salvatore-ferragamo",
+ "brandName": "Ferragamo",
+ "designers": "By Maximilian Davis",
+ "eventDate": "2026-09-26T09:30:00.000Z",
+ "pubDate": "September 26, 2026",
+ "authors": [
+  "Luke Leitch"
+ ],
+ "reviewHtml": "<div><p>Were shoemaking as appreciated as painting, Salvatore Ferragamo would count as one of its greatest Old Masters, and his Invisible Sandal as one of his masterpieces. He created it in 1947 by combining his F-shaped wedge, cut away to leave the heel apparently suspended over thin air, with an upper woven from transparent nylon monofilament, a material invented only 12 years earlier: Tech has always driven fashion.</p><p>Nigh on 80 years later, the Invisible Sandal provided the starting point for this substantially opaque Ferragamo collection by Maximilian Davis. Its 1947 date and Surrealist appearance led him toward Lee Miller and Man Ray; to the solarization technique they developed together; to Miller’s photography during the 1930s while living in Egypt with her husband, Aziz Eloui Bey; and, later, her wartime photography for <em>Vogue</em>.</p><p>“The ’40s silhouette is where women were bringing back the waist,” Davis said while overseeing the lineup preshow this morning. “I really wanted to bring that into the collection, making sure that the waist was the feature of a lot of the looks.” Along with the bellows pockets of 1940s wartime uniforms, this emphasis on the waist was a key motif of the collection. Most often it was defined by quite prosaically buckled menswear belts, sometimes even two of them, threaded through the garments they were used to constrict and suspend. They were not limited to waistlines. With gentle surrealism, Davis also applied them to bustlines, in dresses where the belts were set into strapped wool bodices from which silk-satin skirts were suspended, sometimes left open at the back.</p><p>Davis took only what he wished to from the 1940s context. The long, draped skirting of jackets and fullness of trousers were nicely echoed in menswear, but in womenswear he discounted the blowsily built-up shoulder of the period for a more rounded shape that seemed far sleeker. Some of that suiting was delivered in double-layered transparent silk-wool, which allows you to see the canvassing, pockets, and other guts of the garment. This fabrication was also used in skirts and several dresses that expanded on the notion of scarf dressing, an old Ferragamo trope, to drape material—and sometimes leather—unorthodoxly around the body.</p><p>That fabric’s clouded sheerness extended into trenches and dresses made in richly colored rubber. These carried the obvious hint of kink, but also—especially with light behind them—created an interesting visual echo of Man Ray’s solarization: The body was most clearly defined where it pressed and puckered against the rubber, only to lose visual definition as soon as its contours fell away from the garment surrounding it.</p><p>Davis said that imagining Miller in Egypt steered him toward “tones and colors of something that’s very neutral” and toward dry-feeling fabrics: cotton-linen mixes, viscose, and silk. The pattern that emerged toward the end was an abstraction of sand in movement, rather than dune horizons. The Gancini-fastened leather pieces sometimes came cracked and weathered, as if parched and sun-struck. The paillette pieces at the close were also inspired by exposure, but this time by Miller’s and Man Ray’s photographic experiments at the boundaries of light and film. “For me, it’s also exploring the joy of something,” Davis said. “The joy of photography or the joy of loving.”</p><p>This was a complex and compelling lineup that was also commercially pragmatic. That Invisible Sandal starting point was also the first step in a process of accessory development that saw its F-shaped construction abstracted into new iterations of pumps, wedges, sandals, and slingbacks, sometimes with contrasting elements designed to make its material substance visually insubstantial. Ferragamo’s genius was in the creation of footwear, so framing his house’s modern output around that defining metier makes perfect sense. This is what makes Ferragamo distinct. The house-staple Vara pump was also reworked and elevated, its cutesy bow streamlined into a more austere origami-like form, while the newish Cara bag was refabricated and given plenty of runway exposure.</p></div>",
+ "cover": {
+  "id": "6ab96113d5d65dcf54db5f4a",
+  "file": "00001-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab96113d5d65dcf54db5f4a",
+     "file": "00001-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab96113b50debf0417e38c0",
+     "file": "00002-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab96113701e411e9e81b4ce",
+     "file": "00003-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab961151631dd84a90ccdab",
+     "file": "00004-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab9611516eea1cf998bd3c4",
+     "file": "00005-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab961151fb44c87f6facec7",
+     "file": "00006-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab96118b86b276a861e46c7",
+     "file": "00007-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab961188c99ee8b9772c0f8",
+     "file": "00008-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab961187286206e4eb66f1b",
+     "file": "00009-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab9611a2c3ac4183709b579",
+     "file": "00010-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab9611ad63c62d8aa2efcf8",
+     "file": "00011-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab9611a1fb44c87f6facece",
+     "file": "00012-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab9611cd63c62d8aa2efcff",
+     "file": "00013-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab9611cf1863be0c530d993",
+     "file": "00014-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab9611c16eea1cf998bd3cb",
+     "file": "00015-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab9611ee84b123334c21f99",
+     "file": "00016-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab9611e22fc5493327ac1c6",
+     "file": "00017-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab9611f6d982d371a5148dd",
+     "file": "00018-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab96120db2626cc7fbfc8ae",
+     "file": "00019-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab961202a59ef6a1647e9f9",
+     "file": "00020-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab96120c0f11547cdf2bc60",
+     "file": "00021-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab96122db2626cc7fbfc8b5",
+     "file": "00022-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab961224a96c04670fdec06",
+     "file": "00023-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab96123f1863be0c530d99a",
+     "file": "00024-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab96124920f649f55bd16d8",
+     "file": "00025-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab961244a96c04670fdec0d",
+     "file": "00026-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab96125b8aed7d01f93fb4e",
+     "file": "00027-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab961264a96c04670fdec14",
+     "file": "00028-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab9612792482cc35f48df73",
+     "file": "00029-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab961271fb44c87f6faced5",
+     "file": "00030-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab961281631dd84a90ccdb3",
+     "file": "00031-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab9612948914f616f23b245",
+     "file": "00032-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab961296d4bf06d5efada76",
+     "file": "00033-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab9612ab525f9cae6379eb6",
+     "file": "00034-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab9612b48914f616f23b252",
+     "file": "00035-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab9612b6fd1aec03d84509e",
+     "file": "00036-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab9612cffc059b1b59ac7eb",
+     "file": "00037-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab9612d40e1112a4a68cc8e",
+     "file": "00038-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab9612dbd49d4bf4ce83b38",
+     "file": "00039-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab9612e408e9735acbc96fd",
+     "file": "00040-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab9612faef774080b851757",
+     "file": "00041-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab9612ffd95979e80bfdaca",
+     "file": "00042-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab96130400dbf87de8a8910",
+     "file": "00043-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab96131920f649f55bd16df",
+     "file": "00044-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab96131b8aed7d01f93fb55",
+     "file": "00045-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab9613291a5281115a9c29d",
+     "file": "00046-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab96133e84b123334c21fa0",
+     "file": "00047-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab96133368cfb7bda9241be",
+     "file": "00048-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab9613428a231d003838624",
+     "file": "00049-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab961350e8712c4cdbbb1b3",
+     "file": "00050-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab9613592482cc35f48df7a",
+     "file": "00051-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab961369ffaf60ef6236e10",
+     "file": "00052-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab96137de728b4538f796c7",
+     "file": "00053-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab961378ed52f408d455942",
+     "file": "00054-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab961389ffaf60ef6236e17",
+     "file": "00055-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab96139ccd72c5c8adce643",
+     "file": "00056-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab9613991be8c26ee998d12",
+     "file": "00057-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab9613afb4ef11157661b31",
+     "file": "00058-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab9613b1747dd461091c795",
+     "file": "00059-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab9613b2c3ac4183709b586",
+     "file": "00060-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab9613cd5d65dcf54db5f57",
+     "file": "00061-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ab9613df1863be0c530d9a4",
+     "file": "00062-ferragamo-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ab961b58e97dd916a6a67d4",
+     "file": "00001-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ab961b5f58a405a824ae587",
+     "file": "00002-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ab961b56d4bf06d5efada7d",
+     "file": "00003-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ab961b8fd95979e80bfdad1",
+     "file": "00004-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ab961b871c5c4a46965e276",
+     "file": "00005-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ab961b8869f42d05373b814",
+     "file": "00006-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ab961ba1747dd461091c79c",
+     "file": "00007-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ab961ba700c78b6d3479c23",
+     "file": "00008-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ab961bb400dbf87de8a8923",
+     "file": "00009-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ab961bcb86b276a861e46ce",
+     "file": "00010-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ab961bd92482cc35f48df81",
+     "file": "00011-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ab961bd87f777d9e21a0682",
+     "file": "00012-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ab961bef7244220f9f3e101",
+     "file": "00013-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ab961bf1d8a27ae36422f32",
+     "file": "00014-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ab961bff065c6bd9446b0be",
+     "file": "00015-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ab961c1605d2596a3e08b5c",
+     "file": "00016-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ab961c14a96c04670fdec27",
+     "file": "00017-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ab961c26b1d14d42184b3d5",
+     "file": "00018-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ab961c2db2626cc7fbfc8bc",
+     "file": "00019-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ab961c4605d2596a3e08b63",
+     "file": "00020-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ab961c4fb4ef11157661b3e",
+     "file": "00021-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ab961c4ccd72c5c8adce64a",
+     "file": "00022-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ab961c68e97dd916a6a67db",
+     "file": "00023-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ab961c62a59ef6a1647ea0f",
+     "file": "00024-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ab961c71fb44c87f6facee2",
+     "file": "00025-ferragamo-spring-2027-ready-to-wear-details-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6ab7dec3bbfacfc239f3ce3d",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6ab7dec391820000b8e3587d",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6ab7dec39d46a2811ae30e96",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_03.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6ab7dec528a231d0038383bb",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_04.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6ab7dec5bbfacfc239f3ce44",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6ab7dec516eea1cf998bd0a8",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6ab7dec76b79b1fb7da107fb",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_07.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6ab7dec70a0fcf054aaee152",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6ab7dec711b212da29f4080f",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6ab7dec9b01b9ba20fe777b9",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6ab7dec9c84f33560347e614",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6ab7dec9009d253321f43d0a",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6ab7de8efa83ef2f488cc5c7",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6ab7de8f104ef380ba1697a0",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6ab7de8f1d6b5b2a1ddfcd57",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6ab7de912989e0ac868f409c",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6ab7de9111b212da29f40808",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6ab7de9105cb49bf2749fe7d",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_18.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6ab7de9349073cd2faa2e380",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_19.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6ab7de93cb533291dd3b1ced",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6ab7de94116c9fbb665a6a76",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6ab7de95ed55cea09ecbd911",
+     "file": "Ferragamo_MilanFashionweek_SS27_BACKSTAGE_Acielle_22.jpg",
+     "w": 1024,
+     "h": 683
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:14:21"
+}

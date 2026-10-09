@@ -1,0 +1,2384 @@
+{
+ "key": "spring-2027-ready-to-wear__jil-sander",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jil-sander",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "jil-sander",
+ "brandName": "Jil Sander",
+ "designers": "By Simone Bellotti",
+ "eventDate": "2026-09-23T08:30:00.000Z",
+ "pubDate": "September 23, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>How do you solve a problem like minimalism? That’s what Simone Bellotti sees as the task set out for him at Jil Sander: “That idea of perfection at Jil—it’s not enough today, because you can find that in many other places. Minimalism has become so mainstream.” Bellotti is right about that. Blame the flatness of the internet, or recessionary impacts, or our search for simplicity in a chaotic world: Whether you look high or look low, you’ll see a lot of sameness and plainness in the market.</p><p>Bellotti’s idea, first touched upon last season and now more fully expressed, is to add something that’s “a bit wrong in a way,” or a note of imprecision. “It’s not a new concept,” he said, “but at Jil I think it’s interesting. I like the movement.”</p><p>He explained that he built the spring collection like a wave. If the beginning and end were pieces that Sander herself might recognize—a collarless black leather coat dress at the start and a jacket, splay-collared shirt, and slightly flared pants at the end—its apex was more unruly. The disruptions took the form of jackets and coats that gripped and gathered around the midsection, or trapezed out below a pair of buttons placed high at the chest. A pair of blazers, one for women, the other for men, came with a sort of perma-rumple, as if their wearers had gotten caught in a stiff breeze or just come from a tumble in bed. Note the too-large collars of the shirts that stuck out above the jackets’ lapels. There’s a dash of perversity to applying such rigorous technique to something so off. Bellotti seemed pleased with the effect.</p><p>After the crescendo came the release. Dresses with expansive, wafting volumes will be more legible to a wider audience, in particular a pretty yellow number that looked like it was made with draped and wrapped taffeta bedsheets. Bellotti might just tempt a maximalist with that one. But you get the sense that he enjoys the odd, understated little details just as much. A slip dress’s ruffles looked like they’d been pressed flat between the pages of a large book, as did the pencil skirt with the Japanese landscape that counted as the collection’s sole print. With asymmetrical vamps, extreme cutouts, and adjustable flaps arcing over the toes, the shoes were a tad weird, too—just how Bellotti’s growing fan base likes them.</p></div>",
+ "cover": {
+  "id": "6ab40059587f6e3c29fe2e60",
+  "file": "00001-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6ab40059587f6e3c29fe2e60",
+     "file": "00001-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6ab3f0c3d2ec4563ae4b6849",
+     "file": "00002-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6ab3f0c3220c72df4e3484a8",
+     "file": "00003-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6ab3f0c56375a57126f6e49f",
+     "file": "00004-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6ab3f0c61da74c6253ecc6cb",
+     "file": "00005-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6ab3f0c72ab1a5522d6dcb25",
+     "file": "00006-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6ab3f0c72f10edbf4f4b2d34",
+     "file": "00007-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6ab3f0c99c006cc96f026943",
+     "file": "00008-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6ab3f0caaa9c3b45d7862de1",
+     "file": "00009-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6ab3f0caddd57250e5eb435a",
+     "file": "00010-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6ab3f0ca2586e6b46d45327e",
+     "file": "00011-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6ab3f0cc90cdea95c550fa55",
+     "file": "00012-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6ab3f0cd4f76e9791360486e",
+     "file": "00013-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6ab3f0cdc85088c57cbd7736",
+     "file": "00014-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6ab3f0cfaa3666e810e23d59",
+     "file": "00015-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6ab3f0d188411e832eca2fc5",
+     "file": "00016-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6ab3f0d0e9158f3b75d06091",
+     "file": "00017-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6ab3f0d13a0ce3dfa40ec61b",
+     "file": "00018-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6ab3f0d21da74c6253ecc6d2",
+     "file": "00019-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6ab3f0d366edf621bf8d4f7e",
+     "file": "00020-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6ab3f0d49c006cc96f02694a",
+     "file": "00021-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6ab3f0d4df91bde353709963",
+     "file": "00022-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6ab3f0d56375a57126f6e4b2",
+     "file": "00023-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6ab3f0d8d5a7e278bc3a8b33",
+     "file": "00024-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6ab3f0d7075a24caf77097bb",
+     "file": "00025-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6ab3f0d8c262729c61b5a06f",
+     "file": "00026-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6ab3f0da922df252b2fcfd22",
+     "file": "00027-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6ab3f0dadf91bde35370996a",
+     "file": "00028-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6ab3f0dba8cecdcf4ced7837",
+     "file": "00029-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6ab3f0dc075a24caf77097c2",
+     "file": "00030-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6ab3f0dd41ac68e233972e69",
+     "file": "00031-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6ab3f0ddf41ca128cf501d42",
+     "file": "00032-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Look 33",
+     "id": "6ab3f0dfdf91bde353709971",
+     "file": "00033-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Look 34",
+     "id": "6ab3f0e066edf621bf8d4f8b",
+     "file": "00034-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Look 35",
+     "id": "6ab3f0e0a8cecdcf4ced783e",
+     "file": "00035-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Look 36",
+     "id": "6ab3f0e12a54eecdc3df511e",
+     "file": "00036-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Look 37",
+     "id": "6ab3f0e3502a1983d07e0638",
+     "file": "00037-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Look 38",
+     "id": "6ab3f0e3960621234e4f82ba",
+     "file": "00038-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Look 39",
+     "id": "6ab3f0e441ac68e233972e70",
+     "file": "00039-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Look 40",
+     "id": "6ab3f0e59850b0d1a0871c6c",
+     "file": "00040-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Look 41",
+     "id": "6ab3f0e6075a24caf77097c9",
+     "file": "00041-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Look 42",
+     "id": "6ab3f0e620d467e24d47d366",
+     "file": "00042-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Look 43",
+     "id": "6ab3f0e73832bec213a013dd",
+     "file": "00043-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Look 44",
+     "id": "6ab3f0e92baadf60c10b968a",
+     "file": "00044-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Look 45",
+     "id": "6ab3f0e9de29258163c9bf18",
+     "file": "00045-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Look 46",
+     "id": "6ab3f0e9e374beeeafec6e70",
+     "file": "00046-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Look 47",
+     "id": "6ab3f0eb922df252b2fcfd2c",
+     "file": "00047-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Look 48",
+     "id": "6ab3f0eccb55dc083d4afda9",
+     "file": "00048-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Look 49",
+     "id": "6ab3f0ece61132e6cb2fdeaf",
+     "file": "00049-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Look 50",
+     "id": "6ab3f0eeed95c15d9c518278",
+     "file": "00050-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Look 51",
+     "id": "6ab3f0efa08edad548cb05d0",
+     "file": "00051-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Look 52",
+     "id": "6ab3f0ef37270f01060483ac",
+     "file": "00052-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Look 53",
+     "id": "6ab3f0f132bbecb4e09436b1",
+     "file": "00053-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Look 54",
+     "id": "6ab3f0f178f12d8d6e3908fd",
+     "file": "00054-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Look 55",
+     "id": "6ab3f0f188411e832eca2fcc",
+     "file": "00055-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Look 56",
+     "id": "6ab3f0f3b6e2c67246a15eed",
+     "file": "00056-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Look 57",
+     "id": "6ab3f0f38623499d724ed3b4",
+     "file": "00057-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Look 58",
+     "id": "6ab3f0f4c5e98824fcb6443d",
+     "file": "00058-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Look 59",
+     "id": "6ab3f0f73832bec213a013fc",
+     "file": "00059-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Look 60",
+     "id": "6ab3f0f775a8286d88b7aa39",
+     "file": "00060-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Look 61",
+     "id": "6ab3f0f6dbce94314f955300",
+     "file": "00061-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Look 62",
+     "id": "6ab3f0f9b3f885941cf23832",
+     "file": "00062-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Look 63",
+     "id": "6ab3f0f94ed5add7777962b5",
+     "file": "00063-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Look 64",
+     "id": "6ab3f0fac262729c61b5a07c",
+     "file": "00064-jil-sander-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6ab4087bd5a7e278bc3a8cd0",
+     "file": "00001-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6ab4087b922df252b2fd07f3",
+     "file": "00002-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6ab4087b56219c94dbbdd996",
+     "file": "00003-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6ab4087de37ba4d871320989",
+     "file": "00004-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6ab4087d5b1cd174f1729848",
+     "file": "00005-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6ab4087dd2ec4563ae4b6fd9",
+     "file": "00006-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6ab4087f158dd3617186f356",
+     "file": "00007-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6ab4087f4f76e979136049f2",
+     "file": "00008-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6ab4088020d467e24d47d9ad",
+     "file": "00009-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6ab408814f76e979136049f9",
+     "file": "00010-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6ab4088162afe80493d24eb9",
+     "file": "00011-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6ab408829a60f1c74661c7a7",
+     "file": "00012-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6ab4088378f12d8d6e390afe",
+     "file": "00013-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6ab408835a9ef0a2d1f67780",
+     "file": "00014-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6ab40883e374beeeafec7090",
+     "file": "00015-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6ab40885dbce94314f9553a1",
+     "file": "00016-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6ab40885ed95c15d9c5184e0",
+     "file": "00017-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6ab40885502a1983d07e0cac",
+     "file": "00018-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6ab40887dbce94314f9553a8",
+     "file": "00019-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6ab40887690567190692723f",
+     "file": "00020-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6ab408872f624faf8dfeb6e2",
+     "file": "00021-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6ab40888c3da9e61c480e218",
+     "file": "00022-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6ab408893485b178b73d3550",
+     "file": "00023-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6ab408892f10edbf4f4b32d6",
+     "file": "00024-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6ab4088a012f42ecefd7ecc5",
+     "file": "00025-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6ab4088a960621234e4f83a2",
+     "file": "00026-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6ab4088cb341ebae22bf0c9c",
+     "file": "00027-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6ab4088c075a24caf77098e1",
+     "file": "00028-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6ab4088d8e1ad3c053e90e0d",
+     "file": "00029-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6ab4088d739fb9f3cbe4e6ac",
+     "file": "00030-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6ab4088e587f6e3c29fe2eac",
+     "file": "00031-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6ab4088fdf91bde353709adf",
+     "file": "00032-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6ab4088f20d467e24d47d9b4",
+     "file": "00033-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6ab4089141ac68e233973073",
+     "file": "00034-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6ab4089120d467e24d47d9bb",
+     "file": "00035-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6ab4089275798d6d49647f84",
+     "file": "00036-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6ab408938623499d724ed96e",
+     "file": "00037-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6ab40893922df252b2fd0800",
+     "file": "00038-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6ab4089428dc51eb5f78f95d",
+     "file": "00039-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6ab40894cb7ec6d5f192e6ae",
+     "file": "00040-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6ab408951da74c6253ecc91e",
+     "file": "00041-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6ab408963a0ce3dfa40ecbee",
+     "file": "00042-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6ab40896690567190692724c",
+     "file": "00043-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6ab408962f10edbf4f4b32e3",
+     "file": "00044-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6ab408983a0ce3dfa40ecbf5",
+     "file": "00045-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6ab4089888411e832eca3851",
+     "file": "00046-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6ab4089920d467e24d47d9c2",
+     "file": "00047-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6ab40899cdca9880a4d5bca1",
+     "file": "00048-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6ab4089aca53e295a6f33f5d",
+     "file": "00049-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6ab4089b62afe80493d24ec6",
+     "file": "00050-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6ab4089b587f6e3c29fe2eb3",
+     "file": "00051-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6ab4089c5a9ef0a2d1f67787",
+     "file": "00052-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6ab4089d4b65c2e6d3acddba",
+     "file": "00053-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6ab4089db928a1250c97b313",
+     "file": "00054-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6ab4089edf91bde353709ae6",
+     "file": "00055-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6ab4089fb928a1250c97b31a",
+     "file": "00056-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6ab4089f922df252b2fd0807",
+     "file": "00057-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6ab408a1629dd7e86da7e10b",
+     "file": "00058-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6ab408a36905671906927253",
+     "file": "00059-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6ab408a2c262729c61b5a292",
+     "file": "00060-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6ab408a3ce4c8e686d6498b2",
+     "file": "00061-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6ab408a4cfb5c490f4c1e768",
+     "file": "00062-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6ab408a4c383023125f59f4d",
+     "file": "00063-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6ab408a528dc51eb5f78f96a",
+     "file": "00064-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6ab408a67e0434cedbdead61",
+     "file": "00065-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6ab408a6b3f885941cf23b08",
+     "file": "00066-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6ab408a7183dc0e007957c59",
+     "file": "00067-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6ab408a8df91bde353709aed",
+     "file": "00068-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6ab408a96375a57126f6e668",
+     "file": "00069-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6ab408a8de29258163c9c202",
+     "file": "00070-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6ab408aaf41ca128cf5024c8",
+     "file": "00071-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6ab408aa7226303ca153818a",
+     "file": "00072-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6ab408aba8cecdcf4ced7aeb",
+     "file": "00073-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6ab408ab922df252b2fd080e",
+     "file": "00074-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6ab408acd5a7e278bc3a8cdd",
+     "file": "00075-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6ab408accb55dc083d4afff4",
+     "file": "00076-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6ab408ad9850b0d1a0871d75",
+     "file": "00077-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6ab408aecb7ec6d5f192e6b5",
+     "file": "00078-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6ab408aee1dd8e43704d3ad7",
+     "file": "00079-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6ab408af158dd3617186f363",
+     "file": "00080-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6ab408af41ac68e233973080",
+     "file": "00081-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6ab408b041ac68e233973087",
+     "file": "00082-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 83,
+     "caption": "Detail Look 83",
+     "id": "6ab408b0addc67abd613ee65",
+     "file": "00083-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 84,
+     "caption": "Detail Look 84",
+     "id": "6ab408b1032be8c4d6c34623",
+     "file": "00084-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 85,
+     "caption": "Detail Look 85",
+     "id": "6ab408b2cdca9880a4d5bca8",
+     "file": "00085-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 86,
+     "caption": "Detail Look 86",
+     "id": "6ab408b4f41ca128cf5024cf",
+     "file": "00086-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 87,
+     "caption": "Detail Look 87",
+     "id": "6ab408b590cdea95c550fb03",
+     "file": "00087-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 88,
+     "caption": "Detail Look 88",
+     "id": "6ab408b662afe80493d24ecd",
+     "file": "00088-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 89,
+     "caption": "Detail Look 89",
+     "id": "6ab408b6f41ca128cf5024d6",
+     "file": "00089-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 90,
+     "caption": "Detail Look 90",
+     "id": "6ab408b790cdea95c550fb0a",
+     "file": "00090-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 91,
+     "caption": "Detail Look 91",
+     "id": "6ab408b72baadf60c10b9d4d",
+     "file": "00091-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 92,
+     "caption": "Detail Look 92",
+     "id": "6ab408b82baadf60c10b9d54",
+     "file": "00092-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 93,
+     "caption": "Detail Look 93",
+     "id": "6ab408b98623499d724ed975",
+     "file": "00093-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 94,
+     "caption": "Detail Look 94",
+     "id": "6ab408b932bbecb4e094373d",
+     "file": "00094-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 95,
+     "caption": "Detail Look 95",
+     "id": "6ab408ba56219c94dbbdd99d",
+     "file": "00095-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 96,
+     "caption": "Detail Look 96",
+     "id": "6ab408bb3485b178b73d355d",
+     "file": "00096-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 97,
+     "caption": "Detail Look 97",
+     "id": "6ab408bbb928a1250c97b321",
+     "file": "00097-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 98,
+     "caption": "Detail Look 98",
+     "id": "6ab408bccdca9880a4d5bcaf",
+     "file": "00098-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 99,
+     "caption": "Detail Look 99",
+     "id": "6ab408bd183dc0e007957c66",
+     "file": "00099-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 100,
+     "caption": "Detail Look 100",
+     "id": "6ab408bd41ac68e23397308e",
+     "file": "00100-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 101,
+     "caption": "Detail Look 101",
+     "id": "6ab408bf75a8286d88b7aaea",
+     "file": "00101-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 102,
+     "caption": "Detail Look 102",
+     "id": "6ab408bf960621234e4f83a9",
+     "file": "00102-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 103,
+     "caption": "Detail Look 103",
+     "id": "6ab408bfdf91bde353709af4",
+     "file": "00103-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 104,
+     "caption": "Detail Look 104",
+     "id": "6ab408c103ab96cc1a767898",
+     "file": "00104-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 105,
+     "caption": "Detail Look 105",
+     "id": "6ab408c1c262729c61b5a299",
+     "file": "00105-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 106,
+     "caption": "Detail Look 106",
+     "id": "6ab408c141ac68e233973095",
+     "file": "00106-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 107,
+     "caption": "Detail Look 107",
+     "id": "6ab408c3d992ab7f0f2275db",
+     "file": "00107-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 108,
+     "caption": "Detail Look 108",
+     "id": "6ab408c37226303ca1538191",
+     "file": "00108-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 109,
+     "caption": "Detail Look 109",
+     "id": "6ab408c39c006cc96f026b9a",
+     "file": "00109-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 110,
+     "caption": "Detail Look 110",
+     "id": "6ab408c556219c94dbbdd9a4",
+     "file": "00110-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 111,
+     "caption": "Detail Look 111",
+     "id": "6ab408c5158dd3617186f36a",
+     "file": "00111-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 112,
+     "caption": "Detail Look 112",
+     "id": "6ab408c590cdea95c550fb17",
+     "file": "00112-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 113,
+     "caption": "Detail Look 113",
+     "id": "6ab408c6cb7ec6d5f192e6bc",
+     "file": "00113-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 114,
+     "caption": "Detail Look 114",
+     "id": "6ab408c775a8286d88b7aaf1",
+     "file": "00114-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 115,
+     "caption": "Detail Look 115",
+     "id": "6ab408c79c006cc96f026ba1",
+     "file": "00115-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 116,
+     "caption": "Detail Look 116",
+     "id": "6ab408c88e1ad3c053e90e26",
+     "file": "00116-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 117,
+     "caption": "Detail Look 117",
+     "id": "6ab408c9739fb9f3cbe4e6b3",
+     "file": "00117-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 118,
+     "caption": "Detail Look 118",
+     "id": "6ab408c99c006cc96f026ba8",
+     "file": "00118-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 119,
+     "caption": "Detail Look 119",
+     "id": "6ab408c9f389c056c32bb2bd",
+     "file": "00119-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 120,
+     "caption": "Detail Look 120",
+     "id": "6ab408ca9850b0d1a0871d7c",
+     "file": "00120-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 121,
+     "caption": "Detail Look 121",
+     "id": "6ab408cbc3da9e61c480e231",
+     "file": "00121-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 122,
+     "caption": "Detail Look 122",
+     "id": "6ab408cbca53e295a6f33f7c",
+     "file": "00122-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 123,
+     "caption": "Detail Look 123",
+     "id": "6ab408cc56219c94dbbdd9ab",
+     "file": "00123-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 124,
+     "caption": "Detail Look 124",
+     "id": "6ab408cdcdca9880a4d5bcb6",
+     "file": "00124-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 125,
+     "caption": "Detail Look 125",
+     "id": "6ab408cdcb55dc083d4b0001",
+     "file": "00125-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 126,
+     "caption": "Detail Look 126",
+     "id": "6ab408cefd79e4f77a8e8adc",
+     "file": "00126-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 127,
+     "caption": "Detail Look 127",
+     "id": "6ab408cf8e1ad3c053e90e2d",
+     "file": "00127-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 128,
+     "caption": "Detail Look 128",
+     "id": "6ab408cfc1635249ff96666a",
+     "file": "00128-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 129,
+     "caption": "Detail Look 129",
+     "id": "6ab408d0f389c056c32bb2c4",
+     "file": "00129-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 130,
+     "caption": "Detail Look 130",
+     "id": "6ab408d1183dc0e007957c6d",
+     "file": "00130-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 131,
+     "caption": "Detail Look 131",
+     "id": "6ab408d12586e6b46d4533f8",
+     "file": "00131-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 132,
+     "caption": "Detail Look 132",
+     "id": "6ab408d2c383023125f59f54",
+     "file": "00132-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 133,
+     "caption": "Detail Look 133",
+     "id": "6ab408d33485b178b73d3564",
+     "file": "00133-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 134,
+     "caption": "Detail Look 134",
+     "id": "6ab408d2d992ab7f0f2275e2",
+     "file": "00134-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 135,
+     "caption": "Detail Look 135",
+     "id": "6ab408d4cae34159d4a5039b",
+     "file": "00135-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 136,
+     "caption": "Detail Look 136",
+     "id": "6ab408d403ab96cc1a7678a5",
+     "file": "00136-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 137,
+     "caption": "Detail Look 137",
+     "id": "6ab408d5922df252b2fd0815",
+     "file": "00137-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 138,
+     "caption": "Detail Look 138",
+     "id": "6ab408d575798d6d49647f9d",
+     "file": "00138-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 139,
+     "caption": "Detail Look 139",
+     "id": "6ab408d690c017bcf55d98c9",
+     "file": "00139-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 140,
+     "caption": "Detail Look 140",
+     "id": "6ab408d72baadf60c10b9d5b",
+     "file": "00140-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 141,
+     "caption": "Detail Look 141",
+     "id": "6ab408d790cdea95c550fb24",
+     "file": "00141-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 142,
+     "caption": "Detail Look 142",
+     "id": "6ab408d87e0434cedbdead6e",
+     "file": "00142-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 143,
+     "caption": "Detail Look 143",
+     "id": "6ab408d98623499d724ed97c",
+     "file": "00143-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 144,
+     "caption": "Detail Look 144",
+     "id": "6ab408d9960621234e4f83b0",
+     "file": "00144-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 145,
+     "caption": "Detail Look 145",
+     "id": "6ab408d94ed5add7777968ff",
+     "file": "00145-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 146,
+     "caption": "Detail Look 146",
+     "id": "6ab408db75798d6d49647fa4",
+     "file": "00146-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 147,
+     "caption": "Detail Look 147",
+     "id": "6ab408db690567190692725a",
+     "file": "00147-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 148,
+     "caption": "Detail Look 148",
+     "id": "6ab408dbb341ebae22bf0ca3",
+     "file": "00148-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 149,
+     "caption": "Detail Look 149",
+     "id": "6ab408dd5b1cd174f1729855",
+     "file": "00149-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 150,
+     "caption": "Detail Look 150",
+     "id": "6ab408ddb341ebae22bf0caa",
+     "file": "00150-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 151,
+     "caption": "Detail Look 151",
+     "id": "6ab408dda8cecdcf4ced7afe",
+     "file": "00151-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 152,
+     "caption": "Detail Look 152",
+     "id": "6ab408df158dd3617186f377",
+     "file": "00152-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 153,
+     "caption": "Detail Look 153",
+     "id": "6ab408de165cd105d2a6a8ca",
+     "file": "00153-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 154,
+     "caption": "Detail Look 154",
+     "id": "6ab408df56219c94dbbdd9b2",
+     "file": "00154-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 155,
+     "caption": "Detail Look 155",
+     "id": "6ab408e0c3da9e61c480e23e",
+     "file": "00155-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 156,
+     "caption": "Detail Look 156",
+     "id": "6ab408e04ed5add777796906",
+     "file": "00156-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 157,
+     "caption": "Detail Look 157",
+     "id": "6ab408e1cfb5c490f4c1e77b",
+     "file": "00157-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 158,
+     "caption": "Detail Look 158",
+     "id": "6ab408e2c3da9e61c480e245",
+     "file": "00158-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 159,
+     "caption": "Detail Look 159",
+     "id": "6ab408e2c262729c61b5a2a0",
+     "file": "00159-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 160,
+     "caption": "Detail Look 160",
+     "id": "6ab408e3b928a1250c97b32e",
+     "file": "00160-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 161,
+     "caption": "Detail Look 161",
+     "id": "6ab408e3960621234e4f83b7",
+     "file": "00161-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 162,
+     "caption": "Detail Look 162",
+     "id": "6ab408e3d5a7e278bc3a8cf6",
+     "file": "00162-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 163,
+     "caption": "Detail Look 163",
+     "id": "6ab408e5b341ebae22bf0cb1",
+     "file": "00163-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 164,
+     "caption": "Detail Look 164",
+     "id": "6ab408e7d2ec4563ae4b6ff8",
+     "file": "00164-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 165,
+     "caption": "Detail Look 165",
+     "id": "6ab408e6c5e98824fcb645c3",
+     "file": "00165-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 166,
+     "caption": "Detail Look 166",
+     "id": "6ab408e7587f6e3c29fe2ec0",
+     "file": "00166-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 167,
+     "caption": "Detail Look 167",
+     "id": "6ab408e8ddd57250e5eb4b96",
+     "file": "00167-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 168,
+     "caption": "Detail Look 168",
+     "id": "6ab408e82c272d27ff2ea693",
+     "file": "00168-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 169,
+     "caption": "Detail Look 169",
+     "id": "6ab408e9d992ab7f0f2275e9",
+     "file": "00169-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 170,
+     "caption": "Detail Look 170",
+     "id": "6ab408eaaddc67abd613ee72",
+     "file": "00170-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 171,
+     "caption": "Detail Look 171",
+     "id": "6ab408ea1da74c6253ecc92b",
+     "file": "00171-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 172,
+     "caption": "Detail Look 172",
+     "id": "6ab408eae37ba4d871320996",
+     "file": "00172-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 173,
+     "caption": "Detail Look 173",
+     "id": "6ab408eb5b1cd174f1729862",
+     "file": "00173-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 174,
+     "caption": "Detail Look 174",
+     "id": "6ab408ec6375a57126f6e681",
+     "file": "00174-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 175,
+     "caption": "Detail Look 175",
+     "id": "6ab408eccb7ec6d5f192e6c9",
+     "file": "00175-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 176,
+     "caption": "Detail Look 176",
+     "id": "6ab408edcb7ec6d5f192e6d0",
+     "file": "00176-jil-sander-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6ab3decbb6e2c67246a15cfd",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6ab3decbe37ba4d87131f83b",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6ab3decbc5e98824fcb641d3",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6ab3ded14ed5add777796104",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6ab3ded1ce4c8e686d648bae",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_05.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6ab3ded1cae34159d4a5012a",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6ab3ded7aa9c3b45d7862840",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6ab3ded7c85088c57cbd714c",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6ab3ded86375a57126f6e3c3",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6ab3dedcd992ab7f0f226aef",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6ab3dedfd992ab7f0f226af6",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6ab3dee0ddd57250e5eb3c01",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6ab3dee1470e67174cf57d12",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6ab3dee2587f6e3c29fe2781",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6ab3dee37e0434cedbdeab56",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6ab3dee3a08edad548cb04ce",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6ab3dee768afeb135b17413d",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6ab3dee79850b0d1a0871911",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6ab3dee7cb7ec6d5f192e538",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6ab3deef2c272d27ff2ea456",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6ab3deefe61132e6cb2fdcf9",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6ab3deef587f6e3c29fe2788",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6ab3def49c006cc96f0266cf",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6ab3def620d467e24d47ce04",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "6ab3def62f10edbf4f4b2c57",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_25.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "6ab3def7ae5a9336d9974059",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_26.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "6ab3defb075a24caf7709553",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_27.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "6ab3defc2de19bf7e3d7374c",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_29.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Backstage Look 29",
+     "id": "6ab3defc6375a57126f6e3ca",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_28.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Backstage Look 30",
+     "id": "6ab3df0228dc51eb5f78f604",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_32.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Backstage Look 31",
+     "id": "6ab3df0214ccbd52b98275bc",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_30.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Backstage Look 32",
+     "id": "6ab3df022f10edbf4f4b2c5e",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_31.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Backstage Look 33",
+     "id": "6ab3df079a60f1c74661c5bb",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_33.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Backstage Look 34",
+     "id": "6ab3df087226303ca1537f0e",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_35.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Backstage Look 35",
+     "id": "6ab3df0775a8286d88b7a7ab",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_34.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Backstage Look 36",
+     "id": "6ab3df0cddd57250e5eb3c0e",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_36.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 37,
+     "caption": "Backstage Look 37",
+     "id": "6ab3df0cc1635249ff966407",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_37.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Backstage Look 38",
+     "id": "6ab3df0cc5e98824fcb641f7",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_38.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Backstage Look 39",
+     "id": "6ab3df13ca53e295a6f33c7b",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_40.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Backstage Look 40",
+     "id": "6ab3df13b3f885941cf235de",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_41.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Backstage Look 41",
+     "id": "6ab3df134b65c2e6d3acdc83",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_39.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Backstage Look 42",
+     "id": "6ab3df1a9c006cc96f0266e0",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_42.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Backstage Look 43",
+     "id": "6ab3df1a470e67174cf57d29",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_43.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Backstage Look 44",
+     "id": "6ab3df1acb55dc083d4afd39",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_44.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 45,
+     "caption": "Backstage Look 45",
+     "id": "6ab3df2100016084df772e9a",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_45.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Backstage Look 46",
+     "id": "6ab3df22cdca9880a4d5bb60",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_47.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Backstage Look 47",
+     "id": "6ab3df2222b59d6e8df2a187",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_46.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Backstage Look 48",
+     "id": "6ab3df244f76e97913604782",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_48.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Backstage Look 49",
+     "id": "6ab3df26158dd3617186eb89",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_49.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Backstage Look 50",
+     "id": "6ab3df26960621234e4f8108",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_50.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Backstage Look 51",
+     "id": "6ab3df278e1ad3c053e90bfa",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_51.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Backstage Look 52",
+     "id": "6ab3df2bb3f885941cf235e5",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_52.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Backstage Look 53",
+     "id": "6ab3df2ba08edad548cb04e1",
+     "file": "Jillsanders_MilanFashionweek_SS27_backstage_acielle_53.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:15:51"
+}

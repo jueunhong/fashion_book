@@ -1,0 +1,1216 @@
+{
+ "key": "spring-2027-ready-to-wear__diotima",
+ "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/diotima",
+ "season": "spring-2027-ready-to-wear",
+ "seasonName": "Spring 2027 Ready-to-Wear",
+ "brand": "diotima",
+ "brandName": "Diotima",
+ "designers": "By Rachel Scott",
+ "eventDate": "2026-09-14T20:00:00.000Z",
+ "pubDate": "September 14, 2026",
+ "authors": [
+  "Nicole Phelps"
+ ],
+ "reviewHtml": "<div><p>Diotima’s Rachel Scott has always come across as an intellectual designer. This season she sounded almost mystical. She chalked it up to the deep dive she did into the work of artist Wifredo Lam last season; it seems to have left her especially receptive to other realms. On a long weekend trip to Grenada not long after that show was over in February, she said, “I started crying as the plane was landing. I felt like I’d been there before.” She shook her head. “I’d never been there.”</p><p>In a postshow interview, Scott elaborated on being visited by women of the past: “The sea is important for everyone, but I felt this really strong connection. I kept thinking about the beauty of it, but it’s also a burial ground of our ancestors. It just holds so much, and so I kept thinking about all these women from these different times.”</p><p>These muses, if you can call them that, inspired a spring collection in which Scott charted new territory, pushing further into tailoring and her three-dimensional organza intarsia technique—sometimes in a single garment, as with the trio of elongated trenches with dense organza ruffles on the skirts. And other times not: The organza intarsia draped on the bias made its dress undulate like a wave. She also explored new ways to create surface interest, splicing chino twill, an “out-of-context” fabric for evening, into little strips and resewing them “so that it looks kind of like a lattice but also like sargassum.”</p><p>Most promising of the new developments were the clingy siren dresses with cascades of ruffles spilling down their fronts. The pair of them she put on the runway had an easy sexiness that will appeal to women looking for a special after-dark dress. Second-skin matte viscose knit tops, skirts, and tube dresses with horsehair ruffle hems also had obvious commercial prospects. What there could have been more of was the crochet that made Scott’s early work so distinctive and that you see so much of on guests at her shows; instead, she used it only as insets. As her brand grows and Scott challenges herself to try new things, she shouldn’t be too quick to let go of her own past.</p></div>",
+ "cover": {
+  "id": "6aa8727ac032038a817f1393",
+  "file": "00001-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg"
+ },
+ "galleries": [
+  {
+   "id": "gallery-collection",
+   "title": "Collection",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Look 1",
+     "id": "6aa8727ac032038a817f1393",
+     "file": "00001-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Look 2",
+     "id": "6aa8727ac032038a817f1392",
+     "file": "00002-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Look 3",
+     "id": "6aa8727a14f9c5a1f3dde529",
+     "file": "00003-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Look 4",
+     "id": "6aa8727ed3ed9f255c994493",
+     "file": "00004-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Look 5",
+     "id": "6aa872812a6458d7a3d12c5f",
+     "file": "00005-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Look 6",
+     "id": "6aa872812dc8b924e37e54e1",
+     "file": "00006-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Look 7",
+     "id": "6aa8728314f9c5a1f3dde530",
+     "file": "00007-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Look 8",
+     "id": "6aa87285aad44d06f6c01f87",
+     "file": "00008-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Look 9",
+     "id": "6aa87287677112612d6ff53b",
+     "file": "00009-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Look 10",
+     "id": "6aa87289a7b8779de31a89d3",
+     "file": "00010-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Look 11",
+     "id": "6aa8728ba565658f309e5a43",
+     "file": "00011-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Look 12",
+     "id": "6aa8728c14f9c5a1f3dde537",
+     "file": "00012-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Look 13",
+     "id": "6aa8728fd3ed9f255c99449a",
+     "file": "00013-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Look 14",
+     "id": "6aa8729116b3f3103d231058",
+     "file": "00014-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Look 15",
+     "id": "6aa87292e45c3ba8a977bb2f",
+     "file": "00015-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Look 16",
+     "id": "6aa87295583a35aed88c3c1a",
+     "file": "00016-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Look 17",
+     "id": "6aa87297d93144036b8e8c02",
+     "file": "00017-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Look 18",
+     "id": "6aa872980671ed916e05eba4",
+     "file": "00018-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Look 19",
+     "id": "6aa8729ab93d5d68bf1ec884",
+     "file": "00019-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Look 20",
+     "id": "6aa8729d583a35aed88c3c28",
+     "file": "00020-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Look 21",
+     "id": "6aa8729df1b96b47bccfaeff",
+     "file": "00021-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Look 22",
+     "id": "6aa8729c9e4ca6cf8b943f32",
+     "file": "00022-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Look 23",
+     "id": "6aa8729eb93d5d68bf1ec88b",
+     "file": "00023-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Look 24",
+     "id": "6aa8729fa565658f309e5a57",
+     "file": "00024-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Look 25",
+     "id": "6aa8729f16b3f3103d231065",
+     "file": "00025-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Look 26",
+     "id": "6aa872a014f9c5a1f3dde540",
+     "file": "00026-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Look 27",
+     "id": "6aa872a1d3ed9f255c9944a9",
+     "file": "00027-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Look 28",
+     "id": "6aa872a1d3ed9f255c9944ab",
+     "file": "00028-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Look 29",
+     "id": "6aa872a2d3ed9f255c9944b6",
+     "file": "00029-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Look 30",
+     "id": "6aa872a3d93144036b8e8c18",
+     "file": "00030-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Look 31",
+     "id": "6aa872a314f9c5a1f3dde54c",
+     "file": "00031-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Look 32",
+     "id": "6aa872a483d5bc4b1ab0d8c4",
+     "file": "00032-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-detail",
+   "title": "Details",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Detail Look 1",
+     "id": "6aa8771b65480a8419076d63",
+     "file": "00001-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Detail Look 2",
+     "id": "6aa8771bd6fbb7479165e6c1",
+     "file": "00002-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Detail Look 3",
+     "id": "6aa8771c25301ef4d52298d4",
+     "file": "00003-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Detail Look 4",
+     "id": "6aa8771efbfc9de8b1660122",
+     "file": "00004-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Detail Look 5",
+     "id": "6aa8771ec032038a817f1442",
+     "file": "00005-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Detail Look 6",
+     "id": "6aa8771e16b3f3103d2310e5",
+     "file": "00006-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Detail Look 7",
+     "id": "6aa87720f367786d76da30d5",
+     "file": "00007-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Detail Look 8",
+     "id": "6aa87720d3ed9f255c994554",
+     "file": "00008-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Detail Look 9",
+     "id": "6aa87721aad44d06f6c0205d",
+     "file": "00009-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Detail Look 10",
+     "id": "6aa87722b15c3aa2dfc79fac",
+     "file": "00010-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Detail Look 11",
+     "id": "6aa8772214f9c5a1f3dde5cb",
+     "file": "00011-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 12,
+     "caption": "Detail Look 12",
+     "id": "6aa87724f367786d76da30dc",
+     "file": "00012-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Detail Look 13",
+     "id": "6aa87724e45c3ba8a977bbf0",
+     "file": "00013-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Detail Look 14",
+     "id": "6aa87724a2a2f46eaa3bcdae",
+     "file": "00014-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Detail Look 15",
+     "id": "6aa877252a30cd04b17e2261",
+     "file": "00015-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Detail Look 16",
+     "id": "6aa8772614f9c5a1f3dde5d2",
+     "file": "00016-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Detail Look 17",
+     "id": "6aa87726b93d5d68bf1ec966",
+     "file": "00017-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Detail Look 18",
+     "id": "6aa87727a565658f309e5b00",
+     "file": "00018-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 19,
+     "caption": "Detail Look 19",
+     "id": "6aa877286d92aadd4b1b3a92",
+     "file": "00019-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Detail Look 20",
+     "id": "6aa87728677112612d6ff5c7",
+     "file": "00020-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Detail Look 21",
+     "id": "6aa87729a7b8779de31a8a78",
+     "file": "00021-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Detail Look 22",
+     "id": "6aa8772965480a8419076d6a",
+     "file": "00022-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Detail Look 23",
+     "id": "6aa8772aa7b8779de31a8a7f",
+     "file": "00023-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Detail Look 24",
+     "id": "6aa8772b677112612d6ff5ce",
+     "file": "00024-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Detail Look 25",
+     "id": "6aa8772ce45c3ba8a977bbf7",
+     "file": "00025-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Detail Look 26",
+     "id": "6aa8772c16b3f3103d2310fe",
+     "file": "00026-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Detail Look 27",
+     "id": "6aa8772d677112612d6ff5d5",
+     "file": "00027-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Detail Look 28",
+     "id": "6aa8772ef367786d76da30e9",
+     "file": "00028-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Detail Look 29",
+     "id": "6aa8772ea2a2f46eaa3bcdbb",
+     "file": "00029-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Detail Look 30",
+     "id": "6aa8772f25301ef4d52298e1",
+     "file": "00030-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Detail Look 31",
+     "id": "6aa87730aad44d06f6c02064",
+     "file": "00031-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Detail Look 32",
+     "id": "6aa8773083d5bc4b1ab0d98a",
+     "file": "00032-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Detail Look 33",
+     "id": "6aa87731cc7bb7dfd5ca3769",
+     "file": "00033-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 34,
+     "caption": "Detail Look 34",
+     "id": "6aa8773116b3f3103d23110b",
+     "file": "00034-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 35,
+     "caption": "Detail Look 35",
+     "id": "6aa8773216b3f3103d231112",
+     "file": "00035-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 36,
+     "caption": "Detail Look 36",
+     "id": "6aa87734677112612d6ff5e2",
+     "file": "00036-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 37,
+     "caption": "Detail Look 37",
+     "id": "6aa8773483d5bc4b1ab0d991",
+     "file": "00037-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 38,
+     "caption": "Detail Look 38",
+     "id": "6aa8773525301ef4d52298ee",
+     "file": "00038-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 39,
+     "caption": "Detail Look 39",
+     "id": "6aa87737e45c3ba8a977bc04",
+     "file": "00039-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 40,
+     "caption": "Detail Look 40",
+     "id": "6aa87737cc7bb7dfd5ca3770",
+     "file": "00040-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 41,
+     "caption": "Detail Look 41",
+     "id": "6aa87737b93d5d68bf1ec96d",
+     "file": "00041-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 42,
+     "caption": "Detail Look 42",
+     "id": "6aa87739cc7bb7dfd5ca3777",
+     "file": "00042-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 43,
+     "caption": "Detail Look 43",
+     "id": "6aa8773983d5bc4b1ab0d998",
+     "file": "00043-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 44,
+     "caption": "Detail Look 44",
+     "id": "6aa87739677112612d6ff5e9",
+     "file": "00044-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 45,
+     "caption": "Detail Look 45",
+     "id": "6aa8773a96c4bd2db72d7d27",
+     "file": "00045-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 46,
+     "caption": "Detail Look 46",
+     "id": "6aa8773bd93144036b8e8c89",
+     "file": "00046-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 47,
+     "caption": "Detail Look 47",
+     "id": "6aa8773a583a35aed88c3ce4",
+     "file": "00047-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 48,
+     "caption": "Detail Look 48",
+     "id": "6aa8773c6d92aadd4b1b3a99",
+     "file": "00048-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 49,
+     "caption": "Detail Look 49",
+     "id": "6aa8773cb15c3aa2dfc79fbf",
+     "file": "00049-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 50,
+     "caption": "Detail Look 50",
+     "id": "6aa8773dcc7bb7dfd5ca377e",
+     "file": "00050-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 51,
+     "caption": "Detail Look 51",
+     "id": "6aa8773ef1b96b47bccfaf66",
+     "file": "00051-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 52,
+     "caption": "Detail Look 52",
+     "id": "6aa8773e2dc8b924e37e5599",
+     "file": "00052-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 53,
+     "caption": "Detail Look 53",
+     "id": "6aa8773fa7b8779de31a8a86",
+     "file": "00053-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 54,
+     "caption": "Detail Look 54",
+     "id": "6aa87740d3ed9f255c99455b",
+     "file": "00054-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 55,
+     "caption": "Detail Look 55",
+     "id": "6aa87740a2a2f46eaa3bcdc8",
+     "file": "00055-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 56,
+     "caption": "Detail Look 56",
+     "id": "6aa87741677112612d6ff5f0",
+     "file": "00056-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 57,
+     "caption": "Detail Look 57",
+     "id": "6aa877426d92aadd4b1b3aa0",
+     "file": "00057-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 58,
+     "caption": "Detail Look 58",
+     "id": "6aa87742a7b8779de31a8a8d",
+     "file": "00058-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 59,
+     "caption": "Detail Look 59",
+     "id": "6aa87743e45c3ba8a977bc0b",
+     "file": "00059-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 60,
+     "caption": "Detail Look 60",
+     "id": "6aa8774496c4bd2db72d7d2e",
+     "file": "00060-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 61,
+     "caption": "Detail Look 61",
+     "id": "6aa87744a7b8779de31a8a94",
+     "file": "00061-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 62,
+     "caption": "Detail Look 62",
+     "id": "6aa87745d6fbb7479165e6d4",
+     "file": "00062-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 63,
+     "caption": "Detail Look 63",
+     "id": "6aa87746fbfc9de8b166014d",
+     "file": "00063-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 64,
+     "caption": "Detail Look 64",
+     "id": "6aa87746f367786d76da30f6",
+     "file": "00064-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 65,
+     "caption": "Detail Look 65",
+     "id": "6aa87747d93144036b8e8c90",
+     "file": "00065-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 66,
+     "caption": "Detail Look 66",
+     "id": "6aa87748b15c3aa2dfc79fcc",
+     "file": "00066-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 67,
+     "caption": "Detail Look 67",
+     "id": "6aa877488b6cfaaed7392676",
+     "file": "00067-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 68,
+     "caption": "Detail Look 68",
+     "id": "6aa87749583a35aed88c3ceb",
+     "file": "00068-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 69,
+     "caption": "Detail Look 69",
+     "id": "6aa8774a96c4bd2db72d7d35",
+     "file": "00069-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 70,
+     "caption": "Detail Look 70",
+     "id": "6aa8774a9e4ca6cf8b94400c",
+     "file": "00070-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 71,
+     "caption": "Detail Look 71",
+     "id": "6aa8774b14f9c5a1f3dde5df",
+     "file": "00071-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 72,
+     "caption": "Detail Look 72",
+     "id": "6aa8774cd3ed9f255c99456e",
+     "file": "00072-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 73,
+     "caption": "Detail Look 73",
+     "id": "6aa8774c9e4ca6cf8b944013",
+     "file": "00073-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 74,
+     "caption": "Detail Look 74",
+     "id": "6aa8774ca7b8779de31a8a9b",
+     "file": "00074-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 75,
+     "caption": "Detail Look 75",
+     "id": "6aa8774ee45c3ba8a977bc18",
+     "file": "00075-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 76,
+     "caption": "Detail Look 76",
+     "id": "6aa8774ff1b96b47bccfaf73",
+     "file": "00076-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 77,
+     "caption": "Detail Look 77",
+     "id": "6aa8774ed3ed9f255c994575",
+     "file": "00077-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 78,
+     "caption": "Detail Look 78",
+     "id": "6aa87750b15c3aa2dfc79fd3",
+     "file": "00078-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 79,
+     "caption": "Detail Look 79",
+     "id": "6aa87750c032038a817f1449",
+     "file": "00079-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 80,
+     "caption": "Detail Look 80",
+     "id": "6aa877521ff44e0712c730dc",
+     "file": "00080-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 81,
+     "caption": "Detail Look 81",
+     "id": "6aa8775216b3f3103d231125",
+     "file": "00081-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 82,
+     "caption": "Detail Look 82",
+     "id": "6aa8775225301ef4d52298fb",
+     "file": "00082-diotima-spring-2027-ready-to-wear-detail-credit-gorunway.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "id": "gallery-beauty",
+   "title": "Backstage",
+   "items": [
+    {
+     "n": 1,
+     "caption": "Backstage Look 1",
+     "id": "6aa872921ff44e0712c7305a",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_01.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 2,
+     "caption": "Backstage Look 2",
+     "id": "6aa8729136b01e862453cb5d",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_02.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 3,
+     "caption": "Backstage Look 3",
+     "id": "6aa87292a565658f309e5a4a",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_03.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 4,
+     "caption": "Backstage Look 4",
+     "id": "6aa87296b93d5d68bf1ec876",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_04.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 5,
+     "caption": "Backstage Look 5",
+     "id": "6aa872960671ed916e05eb9d",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_06.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 6,
+     "caption": "Backstage Look 6",
+     "id": "6aa87296b93d5d68bf1ec87d",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_07.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 7,
+     "caption": "Backstage Look 7",
+     "id": "6aa87298f1b96b47bccfaef2",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_08.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 8,
+     "caption": "Backstage Look 8",
+     "id": "6aa8729ad3ed9f255c9944a1",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_09.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 9,
+     "caption": "Backstage Look 9",
+     "id": "6aa8729a583a35aed88c3c21",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_10.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 10,
+     "caption": "Backstage Look 10",
+     "id": "6aa8729b96c4bd2db72d7cb6",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_11.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 11,
+     "caption": "Backstage Look 11",
+     "id": "6aa8729d96c4bd2db72d7cbd",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_12.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 12,
+     "caption": "Backstage Look 12",
+     "id": "6aa8729e0671ed916e05ebab",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_13.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 13,
+     "caption": "Backstage Look 13",
+     "id": "6aa8729f6d92aadd4b1b39f6",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_14.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 14,
+     "caption": "Backstage Look 14",
+     "id": "6aa872a014f9c5a1f3dde53f",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_15.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 15,
+     "caption": "Backstage Look 15",
+     "id": "6aa872a29e4ca6cf8b943f39",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_16.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 16,
+     "caption": "Backstage Look 16",
+     "id": "6aa872a4583a35aed88c3c37",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_17.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 17,
+     "caption": "Backstage Look 17",
+     "id": "6aa872a4aad44d06f6c01fa8",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_18.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 18,
+     "caption": "Backstage Look 18",
+     "id": "6aa872a5b93d5d68bf1ec898",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_19.jpg",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "n": 19,
+     "caption": "Backstage Look 19",
+     "id": "6aa872a8a7b8779de31a89da",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_20.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 20,
+     "caption": "Backstage Look 20",
+     "id": "6aa872a7583a35aed88c3c3f",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_21.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 21,
+     "caption": "Backstage Look 21",
+     "id": "6aa872a9c032038a817f13a5",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_22.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 22,
+     "caption": "Backstage Look 22",
+     "id": "6aa872ab583a35aed88c3c46",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_23.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 23,
+     "caption": "Backstage Look 23",
+     "id": "6aa872abb93d5d68bf1ec8a6",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_24.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 24,
+     "caption": "Backstage Look 24",
+     "id": "6aa872aca7b8779de31a89e7",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_25.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 25,
+     "caption": "Backstage Look 25",
+     "id": "6aa872aeb15c3aa2dfc79f0f",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_26.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 26,
+     "caption": "Backstage Look 26",
+     "id": "6aa872af65480a8419076c49",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_27.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 27,
+     "caption": "Backstage Look 27",
+     "id": "6aa872b00671ed916e05ebb8",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_28.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 28,
+     "caption": "Backstage Look 28",
+     "id": "6aa872b0d6fbb7479165e670",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_29.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 29,
+     "caption": "Backstage Look 29",
+     "id": "6aa872b365480a8419076c56",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_30.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 30,
+     "caption": "Backstage Look 30",
+     "id": "6aa872b49e4ca6cf8b943f52",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_31.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 31,
+     "caption": "Backstage Look 31",
+     "id": "6aa872b416b3f3103d231084",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_32.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 32,
+     "caption": "Backstage Look 32",
+     "id": "6aa872baa2a2f46eaa3bcd2a",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_33.jpg",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "n": 33,
+     "caption": "Backstage Look 33",
+     "id": "6aa872ba583a35aed88c3c5a",
+     "file": "Diotima_NYFW_SS27_backstage_acielle_34.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  }
+ ],
+ "fetchedAt": "2026-10-09T13:13:12"
+}
