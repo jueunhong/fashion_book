@@ -50,6 +50,15 @@
   .empty{padding:60px 20px;text-align:center;color:var(--fg2)}
   .empty code{background:var(--bg3);padding:2px 6px;border-radius:4px}
 
+  /* 보관함 상단 배너 (슬라이드 쇼 + 검정 깜빡임 + 타이틀) */
+  .banner{position:relative;height:clamp(180px,26vw,340px);border-radius:12px;overflow:hidden;margin:0 0 22px;background:#000;user-select:none}
+  .banner .slides img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 30%;opacity:0;transition:opacity 1.4s ease}
+  .banner .slides img.on{opacity:1}
+  .banner .shade{position:absolute;inset:0;background:linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.35))}
+  .banner .blink{position:absolute;inset:0;background:#000;opacity:0;animation:bannerBlink 3.2s steps(1,end) infinite}
+  @keyframes bannerBlink{0%{opacity:0} 72%{opacity:1} 80%{opacity:0} 86%{opacity:1} 92%{opacity:0} 100%{opacity:0}}
+  .banner .caption{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:clamp(24px,4.2vw,48px);letter-spacing:.32em;text-indent:.32em;text-shadow:0 2px 24px rgba(0,0,0,.6)}
+  @media (prefers-reduced-motion:reduce){ .banner .blink{animation:none} }
   /* 최근 본 쇼 (가로 스크롤) */
   .recent-wrap{margin:4px 0 22px}
   .recent-wrap .label{font-size:12px;color:var(--fg3);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center}
@@ -180,6 +189,8 @@
     #lb .strip img{height:52px;width:35px}
     #jobpanel{left:12px;right:12px;width:auto;bottom:12px}
     .login{margin-top:8vh;padding:22px}
+    .banner{height:200px;border-radius:10px;margin-bottom:16px}
+    .banner .caption{letter-spacing:.24em;text-indent:.24em}
   }
 </style>
 </head>
@@ -543,6 +554,7 @@ async function renderHome(){
   const byKey = Object.fromEntries(idx.shows.map(s => [s.key, s]));
   const recent = S.recent.map(k => byKey[k]).filter(Boolean).slice(0, 10);
   main.innerHTML = `
+    <div class="banner"><div class="slides">${BANNERS.map((b,i)=>`<img src="${b}" alt="" class="${i===0?'on':''}">`).join('')}</div><div class="shade"></div><div class="blink"></div><div class="caption">RUNWAY BOOK</div></div>
     ${recent.length ? `<div class="recent-wrap"><div class="label"><span>최근 본 쇼</span><a class="dim" style="cursor:pointer" onclick="S.recent=[];saveLS('recent',[]);cloudSyncRecent();renderHome()">지우기</a></div>
       <div class="recent">${recent.map(s => `<div class="rcard" onclick="go('show','${s.key}')"><div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover, 240)}" alt="">` : ''}</div>
         <div class="meta"><div class="title" title="${esc(s.brandName)}">${esc(s.brandName)}</div><div class="sub">${esc(s.seasonName)}</div></div></div>`).join('')}</div></div>` : ''}
@@ -554,6 +566,18 @@ async function renderHome(){
       <div class="cards">${seasons[k].shows.sort((a,b)=>a.brandName.localeCompare(b.brandName)).map(cardHtml).join('')}</div></section>`).join('')}`;
   S._homeSeasons = { seasons, order };
   renderHomeChips();
+  startBanner();
+}
+const BANNERS = ['viewer/banner1.jpg', 'viewer/banner2.jpg'];
+function startBanner(){
+  clearInterval(S._bannerTimer);
+  let i = 0;
+  S._bannerTimer = setInterval(() => {
+    const imgs = document.querySelectorAll('.banner .slides img');
+    if (!imgs.length) { clearInterval(S._bannerTimer); return; }
+    i = (i + 1) % imgs.length;
+    imgs.forEach((im, j) => im.classList.toggle('on', j === i));
+  }, 5000);
 }
 function renderHomeChips(){
   const { seasons, order } = S._homeSeasons, h = S.home;
