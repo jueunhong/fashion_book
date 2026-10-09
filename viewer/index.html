@@ -32,7 +32,7 @@
   .logo{display:flex;align-items:center;cursor:pointer;flex:none}
   .logo img{height:34px;width:auto;display:block}
   nav{display:flex;gap:4px}
-  nav button{background:transparent;border-color:transparent;color:var(--fg2)}
+  nav button{background:transparent;border-color:transparent;color:var(--fg2);letter-spacing:.08em;font-size:13px;font-weight:600}
   nav button.active{color:var(--fg);background:var(--bg3)}
   .spacer{flex:1}
   .addbox{display:flex;gap:6px;min-width:280px;flex:1;max-width:560px}
@@ -199,19 +199,19 @@
   <div class="bar">
     <a class="logo" href="#/home" aria-label="Runway Book 홈"><img src="viewer/logo-runway.svg" alt="Runway Book"></a>
     <nav>
-      <button data-view="home" onclick="go('home')">보관함</button>
-      <button data-view="season" onclick="go('season')">시즌</button>
+      <button data-view="home" onclick="go('home')">HOME</button>
+      <button data-view="season" onclick="go('season')">SEASON</button>
       <button data-view="brand" onclick="go('brand')" id="brandtab" style="display:none">브랜드</button>
-      <button data-view="fav" onclick="go('fav')">즐겨찾기</button>
+      <button data-view="fav" onclick="go('fav')">LIKE</button>
     </nav>
     <div class="spacer"></div>
     <span class="ro" id="robadge" style="display:none">읽기 전용 배포본 · 가져오기는 내 컴퓨터에서</span>
-    <div id="userbox" class="cloud-only"><span id="useremail"></span><button class="small ghost" onclick="changePassword()">비밀번호 변경</button><button class="small ghost" onclick="logout()">로그아웃</button></div>
+    <div id="userbox" class="cloud-only"><span id="useremail"></span><button class="small ghost" onclick="changePassword()">Change password</button><button class="small ghost" onclick="logout()">Log out</button></div>
     <form class="addbox needs-server" id="addbox" style="display:none" onsubmit="return addByUrl(event)">
       <input id="urlin" placeholder="보그 쇼 URL 붙여넣기 (vogue.com/fashion-shows/…)">
       <button class="primary" type="submit">가져오기</button>
     </form>
-    <div id="jobs" class="needs-server" onclick="toggleJobs()"><span class="dot" id="jobdot"></span><span id="jobtext">대기</span></div>
+    <div id="jobs" class="needs-server" onclick="toggleJobs()"><span class="dot" id="jobdot"></span><span id="jobtext">Idle</span></div>
   </div>
 </header>
 <main id="main"></main>
@@ -541,7 +541,7 @@ async function renderHome(){
   const idx = await loadIndex();
   const main = document.getElementById('main');
   if (!idx.shows.length){
-    main.innerHTML = `<div class="empty"><h1 class="serif">아직 가져온 쇼가 없습니다</h1>
+    main.innerHTML = `<div class="empty"><h1 class="serif">ARCHIVE</h1><p>아직 가져온 쇼가 없습니다.</p>
       ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p><b>시즌</b> 탭에서 시즌을 고르고 목록을 불러온 뒤, 쇼를 하나씩 또는 전체를 가져오세요.</p>
       <p class="small dim">터미널: <code>python3 vogue.py show spring-2026-ready-to-wear/chanel</code></p>`}</div>`;
     return;
@@ -555,12 +555,12 @@ async function renderHome(){
   const recent = S.recent.map(k => byKey[k]).filter(Boolean).slice(0, 10);
   main.innerHTML = `
     <div class="banner"><div class="slides">${BANNERS.map((b,i)=>`<img src="${b}" alt="" class="${i===0?'on':''}">`).join('')}</div><div class="shade"></div><div class="blink"></div><div class="caption">RUNWAY BOOK</div></div>
-    ${recent.length ? `<div class="recent-wrap"><div class="label"><span>최근 본 쇼</span><a class="dim" style="cursor:pointer" onclick="S.recent=[];saveLS('recent',[]);cloudSyncRecent();renderHome()">지우기</a></div>
+    ${recent.length ? `<div class="recent-wrap"><div class="label"><span>RECENTLY VIEWED</span><a class="dim" style="cursor:pointer" onclick="S.recent=[];saveLS('recent',[]);cloudSyncRecent();renderHome()">Clear</a></div>
       <div class="recent">${recent.map(s => `<div class="rcard" onclick="go('show','${s.key}')"><div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover, 240)}" alt="">` : ''}</div>
         <div class="meta"><div class="title" title="${esc(s.brandName)}">${esc(s.brandName)}</div><div class="sub">${esc(s.seasonName)}</div></div></div>`).join('')}</div></div>` : ''}
-    <div><h1>보관함</h1><div class="muted small">쇼 ${idx.shows.length}개</div></div>
+    <div><h1>ARCHIVE</h1><div class="muted small">${idx.shows.length} shows</div></div>
     <div class="filters">
-      <div><div class="label">시즌</div><div class="chips" id="seasonchips"></div></div>
+      <div><div class="label">SEASON</div><div class="chips" id="seasonchips"></div></div>
     </div>
     ${order.map(k => `<section data-season="${k}"><h2>${esc(seasons[k].name)} <span class="dim small">${seasons[k].shows.length}</span></h2>
       <div class="cards">${seasons[k].shows.sort((a,b)=>a.brandName.localeCompare(b.brandName)).map(cardHtml).join('')}</div></section>`).join('')}`;
@@ -582,7 +582,7 @@ function startBanner(){
 function renderHomeChips(){
   const { seasons, order } = S._homeSeasons, h = S.home;
   const sc = document.getElementById('seasonchips');
-  sc.innerHTML = `<span class="chip ${h.season?'':'on'}" onclick="S.home.season=null;renderHomeChips()">전체</span>` +
+  sc.innerHTML = `<span class="chip ${h.season?'':'on'}" onclick="S.home.season=null;renderHomeChips()">All</span>` +
     order.map(k => `<span class="chip ${h.season===k?'on':''}" onclick="S.home.season=S.home.season==='${k}'?null:'${k}';renderHomeChips()">${esc(seasons[k].name)} <span class="dim">${seasons[k].shows.length}</span></span>`).join('');
   applyHomeFilter();
 }
@@ -735,8 +735,8 @@ document.getElementById('lb').addEventListener('touchend', e => { if (touchX==nu
 async function renderFav(){
   const favs = Object.values(S.favs).sort((a,b)=>b.at-a.at);
   const main = document.getElementById('main');
-  if (!favs.length){ main.innerHTML = `<div class="empty"><h1 class="serif">즐겨찾기가 비어 있습니다</h1><p>룩 위의 ♥ 를 누르거나 크게 보기에서 F 키를 누르세요.</p></div>`; return; }
-  main.innerHTML = `<div class="row" style="justify-content:space-between"><div><h1>즐겨찾기</h1><div class="muted small">${favs.length}개 · ${CLOUD ? '클라우드에 저장되어 모든 기기에서 같습니다' : '이 브라우저에만 저장됩니다'}</div></div>
+  if (!favs.length){ main.innerHTML = `<div class="empty"><h1 class="serif">LIKE</h1><p>아직 좋아요한 룩이 없습니다.</p><p>룩 위의 ♥ 를 누르거나 크게 보기에서 F 키를 누르세요.</p></div>`; return; }
+  main.innerHTML = `<div class="row" style="justify-content:space-between"><div><h1>LIKE</h1><div class="muted small">${favs.length} looks · ${CLOUD ? '클라우드에 저장되어 모든 기기에서 같습니다' : '이 브라우저에만 저장됩니다'}</div></div>
     <div class="row"><label class="small muted">크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label><button class="small" onclick="exportFavs()">JSON 내보내기</button></div></div>
     <div class="grid" id="grid">${favs.map((f,i)=>`<div class="look" onclick="openFavLb(${i})">
       <img data-src="${imgUrl(f.it, 640)}" alt=""><button class="fav on" onclick="event.stopPropagation();delete S.favs['${favKey(f.showKey,f.gid,f.n)}'];saveLS('favs',S.favs);cloudSyncFav('${favKey(f.showKey,f.gid,f.n)}',null);renderFav()">♥</button>
@@ -765,7 +765,7 @@ async function renderSeason(slug){
   const main = document.getElementById('main');
   const year = new Date().getFullYear() + 1;
   const years = []; for (let y = year; y >= 1988; y--) years.push(y);
-  main.innerHTML = `<h1>시즌</h1>
+  main.innerHTML = `<h1>SEASON</h1>
     <div class="row" style="margin:10px 0 18px">
       <select id="s_half"><option value="spring">Spring</option><option value="fall">Fall</option></select>
       <select id="s_year">${years.map(y=>`<option>${y}</option>`).join('')}</select>
@@ -873,7 +873,7 @@ async function pollJobs(fast){
     const running = jobs.filter(j => j.status === 'running' || j.status === 'queued');
     document.getElementById('jobdot').classList.toggle('busy', busy);
     const cur = jobs.find(j => j.status === 'running');
-    document.getElementById('jobtext').textContent = cur ? `${cur.label}${cur.progress ? ` ${cur.progress.i}/${cur.progress.n} ${cur.progress.name}` : ''}${running.length>1 ? ` (+${running.length-1})` : ''}` : (jobs.length ? `완료 ${jobs.filter(j=>j.status==='done').length}` : '대기');
+    document.getElementById('jobtext').textContent = cur ? `${cur.label}${cur.progress ? ` ${cur.progress.i}/${cur.progress.n} ${cur.progress.name}` : ''}${running.length>1 ? ` (+${running.length-1})` : ''}` : (jobs.length ? `Done ${jobs.filter(j=>j.status==='done').length}` : 'Idle');
     renderJobPanel(jobs);
     const finished = jobs.filter(j => j.status === 'done' || j.status === 'error');
     if (seenJobs === null) seenJobs = new Set(finished.map(j => j.id));   // 첫 폴링: 과거 작업은 알리지 않음
