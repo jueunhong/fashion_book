@@ -646,7 +646,6 @@ async function renderShow(arg){
   main.innerHTML = `
     <div class="showhead">
       <div>
-        <div class="muted small">${esc(show.brandName)} · <a href="#/season/${esc(show.season)}">${esc(show.seasonName)}</a></div>
         <h1>${esc(show.brandName)} <span class="muted" style="font-size:16px;font-weight:600">${esc(show.seasonName)}</span></h1>
         <div class="muted small">${esc(show.designers)}${show.designers && show.eventDate ? ' · ' : ''}${fmtDate(show.eventDate)}${show.authors?.length ? ' · 리뷰 ' + esc(show.authors.join(', ')) : ''}</div>
       </div>
