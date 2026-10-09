@@ -47,7 +47,7 @@ vogue.com 쿠키를 **Netscape 형식** `cookies.txt` 로 내보내 이 폴더�
 
 Vercel 이 빌드 단계에서 `python3 export.py` 를 실행하므로(`vercel.json`), 로컬에서 export 를 돌리지 않아도 됩니다.
 Supabase 주소와 anon 키는 Vercel 프로젝트 환경 변수(`SUPABASE_URL`, `SUPABASE_ANON_KEY`)에 들어 있습니다.
-GitHub 저장소를 연결하면 `git push` 만으로 자동 배포됩니다.
+GitHub 저장소 https://github.com/jueunhong/fashion_book 가 연결되어 있어 `git push` 만으로 자동 배포됩니다.
 
 배포본은 **Supabase** 를 저장소와 수집 서버로 씁니다. 폰에서도 시즌 목록 불러오기와 가져오기가 되고,
 어느 기기에서 가져오든 같은 보관함에 쌓이며, 즐겨찾기도 기기 간에 동기화됩니다.
