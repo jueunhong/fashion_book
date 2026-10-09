@@ -29,8 +29,8 @@
 
   header{position:sticky;top:0;z-index:20;background:rgba(14,14,16,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
   .bar{display:flex;align-items:center;gap:14px;padding:10px 20px;flex-wrap:wrap}
-  .logo{font-family:var(--font);font-weight:800;font-size:18px;letter-spacing:.16em;text-transform:uppercase;cursor:pointer;white-space:nowrap}
-  .logo span{color:var(--accent)}
+  .logo{display:flex;align-items:center;cursor:pointer;flex:none}
+  .logo img{height:34px;width:auto;display:block}
   nav{display:flex;gap:4px}
   nav button{background:transparent;border-color:transparent;color:var(--fg2)}
   nav button.active{color:var(--fg);background:var(--bg3)}
@@ -150,7 +150,7 @@
     main{padding:12px}
     h1{font-size:22px} h2{font-size:18px;margin:20px 0 10px}
     .bar{padding:8px 12px;gap:8px 10px}
-    .logo{font-size:16px;letter-spacing:.12em}
+    .logo img{height:28px}
     .spacer{display:none}
     #jobs,#userbox{margin-left:auto;order:1}
     #useremail{display:none}
@@ -186,7 +186,7 @@
 <body>
 <header>
   <div class="bar">
-    <div class="logo" onclick="go('home')">Runway <span>Book</span></div>
+    <a class="logo" href="#/home" aria-label="Runway Book 홈"><img src="viewer/logo-runway.svg" alt="Runway Book"></a>
     <nav>
       <button data-view="home" onclick="go('home')">보관함</button>
       <button data-view="season" onclick="go('season')">시즌</button>

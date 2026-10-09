@@ -45,6 +45,11 @@ def main() -> int:
     else:
         print("클라우드 설정 없음(.env.local): 읽기 전용 정적 모드로 내보냄")
     (DIST / "index.html").write_text(html, encoding="utf-8")
+    # 로고 등 뷰어 정적 파일 (index.html 제외) → dist/viewer/
+    (DIST / "viewer").mkdir(exist_ok=True)
+    for p in (ROOT / "viewer").iterdir():
+        if p.is_file() and p.name != "index.html" and not p.name.startswith("."):
+            shutil.copy(p, DIST / "viewer" / p.name)
 
     index = vogue.build_index()
     for s in index["shows"]:
