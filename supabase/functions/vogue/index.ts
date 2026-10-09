@@ -3,6 +3,8 @@
 // 모든 요청은 로그인한 사용자의 토큰(Authorization: Bearer <access_token>)이 필요하다.
 
 import Anthropic from "npm:@anthropic-ai/sdk";
+import { z } from "npm:zod";
+import { zodOutputFormat } from "npm:@anthropic-ai/sdk/helpers/zod";
 
 const VOGUE = "https://www.vogue.com";
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36";
@@ -228,6 +230,46 @@ async function translateReview(key: string, force: boolean) {
   return { key, reviewKo: text, cached: false, usage: { input: response.usage.input_tokens, output: response.usage.output_tokens } };
 }
 
+// ---------------------------------------------------------------- 패션 용어 추출 (Claude, 구조화 출력)
+const TermSchema = z.object({
+  term: z.string().describe("The term as it appears in the review, in English"),
+  ko: z.string().describe("Korean name or common Korean transliteration of the term"),
+  definition: z.string().describe("2-3 sentence explanation in Korean for a fashion student"),
+  context: z.string().describe("The short phrase from the review (verbatim English) where the term is used"),
+  category: z.enum(["silhouette", "garment", "fabric", "technique", "detail", "styling", "history", "industry", "other"]),
+});
+const TermsSchema = z.object({ terms: z.array(TermSchema) });
+const TERMS_SYSTEM = `You are a fashion educator helping a Korean fashion student read Vogue Runway reviews.
+From the given review, extract the fashion terminology a student should learn: silhouettes, garment names, fabrics and materials, construction and tailoring techniques, details and trims, styling terms, and historical or industry references (named eras, house codes, famous collections). Do not include brand names, designer names or plain everyday words.
+Return 8 to 20 terms, most important first. Explanations are in natural Korean, concise and precise. Keep "term" in the original English spelling; "ko" is the Korean name students actually use (e.g. "peplum" -> "페플럼", "bias cut" -> "바이어스 컷").`;
+
+async function extractTerms(key: string, force: boolean) {
+  const rows = await db(`shows?key=eq.${encodeURIComponent(key)}&select=review_html,terms`, { prefer: "return=representation" });
+  const row = rows?.[0];
+  if (!row) throw new Error("없는 쇼입니다");
+  if (!row.review_html) return { key, terms: [], cached: true };
+  if (row.terms && !force) return { key, terms: row.terms, cached: true };
+  const apiKey = Deno.env.get("ANTHROPIC_API_KEY");
+  if (!apiKey) throw new Error("번역 키(ANTHROPIC_API_KEY)가 설정되지 않았습니다");
+  const client = new Anthropic({ apiKey });
+  const plain = row.review_html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+  const response = await client.beta.messages.create({
+    model: TRANSLATE_MODEL,
+    max_tokens: 16000,
+    betas: ["server-side-fallback-2026-07-01"],
+    fallbacks: "default",
+    output_config: { effort: "low", format: zodOutputFormat(TermsSchema) },
+    system: TERMS_SYSTEM,
+    messages: [{ role: "user", content: plain }],
+  });
+  if (response.stop_reason === "refusal") throw new Error("용어 추출이 거부되었습니다");
+  if (response.stop_reason === "max_tokens") throw new Error("응답이 잘렸습니다");
+  const text = response.content.filter((b) => b.type === "text").map((b) => (b as { text: string }).text).join("");
+  const parsed = TermsSchema.parse(JSON.parse(text));
+  await db(`shows?key=eq.${encodeURIComponent(key)}`, { method: "PATCH", body: JSON.stringify({ terms: parsed.terms, terms_at: new Date().toISOString() }) });
+  return { key, terms: parsed.terms, cached: false, usage: { input: response.usage.input_tokens, output: response.usage.output_tokens } };
+}
+
 // ---------------------------------------------------------------- HTTP
 Deno.serve(async (req) => {
   if (req.method === "OPTIONS") return new Response("ok", { headers: CORS });
@@ -253,6 +295,7 @@ Deno.serve(async (req) => {
         return json({ ok: true });
       }
       case "translate": return json(await translateReview(String(body.key ?? ""), !!body.force));
+      case "terms": return json(await extractTerms(String(body.key ?? ""), !!body.force));
       case "recent": {   // 최근 본 쇼 목록 저장 (최대 10개)
         const keys = Array.isArray(body.keys) ? body.keys.filter((k: unknown) => typeof k === "string").slice(0, 10) : [];
         await upsert("user_state", { user_id: user.id, recent: keys, updated_at: new Date().toISOString() });

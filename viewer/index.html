@@ -111,6 +111,18 @@
   .review .langbar button{font-size:12px;padding:3px 9px}
   .review .langbar button.on{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
   .review .body{min-height:40px}
+  .terms{max-width:900px;margin:10px 0 24px;display:none}
+  .terms.open{display:block}
+  .terms .head{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+  .terms .head .t{font-family:var(--display);font-weight:700;font-size:12px;letter-spacing:.06em;color:var(--fg2)}
+  .terms .cat{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+  .termlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+  .term{background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .term .en{font-family:var(--display);font-weight:700;font-size:14px}
+  .term .ko{color:var(--fg2);font-size:13px;margin-left:6px}
+  .term .def{font-size:14px;line-height:1.6;margin:6px 0 8px;color:#d8d8dc}
+  .term .ctx{font-size:12px;color:var(--fg3);font-style:italic;border-left:2px solid var(--line);padding-left:8px}
+  .term .badge{float:right;font-size:10px;color:var(--fg3);border:1px solid var(--line);border-radius:10px;padding:1px 7px;margin-left:6px}
   .review a{text-decoration:underline;color:var(--accent)}
 
   /* 목록 (시즌/브랜드) */
@@ -386,7 +398,7 @@ async function cloudCall(body){
   return j;
 }
 const rowToShow = (r) => ({ key: r.key, url: r.url, season: r.season, seasonName: r.season_name, brand: r.brand, brandName: r.brand_name,
-  designers: r.designers || '', eventDate: r.event_date || '', pubDate: r.pub_date || '', authors: r.authors || [], reviewHtml: r.review_html || '', reviewKo: r.review_ko || '',
+  designers: r.designers || '', eventDate: r.event_date || '', pubDate: r.pub_date || '', authors: r.authors || [], reviewHtml: r.review_html || '', reviewKo: r.review_ko || '', terms: r.terms || null,
   cover: r.cover, galleries: r.galleries || [], looks: r.looks, counts: r.counts || {}, local: false, fetchedAt: r.fetched_at });
 async function cloudIndex(){
   const [mine, seasons, designers] = await Promise.all([
@@ -652,13 +664,14 @@ async function renderShow(arg){
       </div>
       <div class="spacer"></div>
       <div class="row">
-        ${show.reviewHtml ? `<button class="small" onclick="toggleReview()">리뷰 보기</button>` : ''}
+        ${show.reviewHtml ? `<button class="small" onclick="toggleReview()">리뷰 보기</button><button class="small cloud-only" onclick="toggleTerms()">패션 용어</button>` : ''}
         <a href="${esc(show.url)}" target="_blank" rel="noopener"><button class="small">Vogue에서 열기 ↗</button></a>
         <button class="small needs-local" onclick="downloadShow('${key}')" ${entry.local ? 'disabled title="이미 저장됨"' : ''}>${entry.local ? '오프라인 저장됨' : '이미지 저장(오프라인)'}</button>
         <button class="small needs-server" onclick="refetchShow('${key}')">다시 가져오기</button>
         <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">${CLOUD ? '아카이브에서 빼기' : '삭제'}</button>
       </div>
     </div>
+    <div class="terms" id="terms"></div>
     <div class="review" id="review">${show.reviewHtml ? `<div class="langbar"><button class="small ${CLOUD?'on':''}" id="rv_ko" onclick="setReviewLang('ko')">한국어</button><button class="small ${CLOUD?'':'on'}" id="rv_en" onclick="setReviewLang('en')">원문</button><span class="dim small" id="rv_note"></span></div><div class="body" id="rv_body"></div>` : ''}</div>
     <div class="tabs">${show.galleries.map((g,i)=>`<button class="${i===S.gallery?'active':''}" onclick="setGallery(${i})">${esc(g.title)} <span class="dim">${g.items.length}</span></button>`).join('')}</div>
     <div class="toolbar">
@@ -692,6 +705,31 @@ async function setReviewLang(lang){
     body.innerHTML = show.reviewKo || show.reviewHtml;
     if (!show.reviewKo) note.textContent = '번역할 리뷰가 없습니다';
   } catch(e) { body.innerHTML = show.reviewHtml; note.textContent = '번역 실패: ' + e.message; }
+}
+// ---- 패션 용어 (클라우드 모드: Claude 로 리뷰에서 추출, DB 캐시)
+const TERM_CATS = { silhouette: '실루엣', garment: '아이템', fabric: '소재', technique: '테크닉', detail: '디테일', styling: '스타일링', history: '역사·레퍼런스', industry: '업계', other: '기타' };
+async function toggleTerms(){
+  const el = document.getElementById('terms'); el.classList.toggle('open');
+  if (!el.classList.contains('open') || el.dataset.loaded) return;
+  const show = S.show;
+  el.innerHTML = '<span class="muted">리뷰에서 패션 용어를 뽑는 중… (처음 한 번만, 10~30초)</span>';
+  try {
+    const r = show.terms ? {terms: show.terms} : await cloudCall({action: 'terms', key: show.key});
+    if (S.show !== show) return;
+    show.terms = r.terms || [];
+    el.dataset.loaded = '1';
+    renderTerms(show.terms, null);
+  } catch(e) { el.innerHTML = `<span class="dim">용어 추출 실패: ${esc(e.message)}</span>`; }
+}
+function renderTerms(terms, cat){
+  const el = document.getElementById('terms');
+  if (!terms.length) { el.innerHTML = '<span class="dim">추출된 용어가 없습니다.</span>'; return; }
+  const cats = [...new Set(terms.map(t => t.category))];
+  const list = cat ? terms.filter(t => t.category === cat) : terms;
+  el.innerHTML = `<div class="head"><span class="t">FASHION TERMS</span><span class="dim small">${terms.length}개 · 리뷰에 쓰인 용어</span></div>
+    <div class="cat"><span class="chip ${cat?'':'on'}" onclick="renderTerms(S.show.terms,null)">전체</span>${cats.map(c => `<span class="chip ${cat===c?'on':''}" onclick="renderTerms(S.show.terms,'${c}')">${TERM_CATS[c]||c}</span>`).join('')}</div>
+    <div class="termlist">${list.map(t => `<div class="term"><span class="badge">${TERM_CATS[t.category]||t.category}</span><span class="en">${esc(t.term)}</span><span class="ko">${esc(t.ko)}</span>
+      <div class="def">${esc(t.definition)}</div>${t.context ? `<div class="ctx">“${esc(t.context)}”</div>` : ''}</div>`).join('')}</div>`;
 }
 function setGallery(i){ S.gallery = i; document.querySelectorAll('.tabs button').forEach((b,j)=>b.classList.toggle('active', j===i)); renderGrid(); quietHash(`#/show/${S.show.key}/${S.show.galleries[i].id}`); }
 function quietHash(h){ if (location.hash !== h) history.replaceState(null, '', h); }
