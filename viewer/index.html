@@ -782,7 +782,8 @@ async function renderSeason(slug){
   const year = new Date().getFullYear() + 1;
   const years = []; for (let y = year; y >= 1988; y--) years.push(y);
   main.innerHTML = `<h1>SEASON</h1>
-    <div class="row" style="margin:10px 0 18px">
+    <div class="muted small" style="margin:2px 0 14px">보고 싶은 패션쇼 시즌을 고르고 <b>목록 불러오기</b>를 누르세요. 이미 불러온 시즌은 아래 LOADED SEASONS에서 바로 열 수 있어요.</div>
+    <div class="row" style="margin:0 0 18px">
       <select id="s_half"><option value="spring">Spring</option><option value="fall">Fall</option></select>
       <select id="s_year">${years.map(y=>`<option>${y}</option>`).join('')}</select>
       <select id="s_type">${SEASON_TYPES.map(([v,l])=>`<option value="${v}">${l}</option>`).join('')}</select>
