@@ -750,7 +750,7 @@ async function renderFav(){
   const main = document.getElementById('main');
   if (!favs.length){ main.innerHTML = `<div class="empty"><h1 class="serif">LIKE</h1><p>아직 좋아요한 룩이 없습니다.</p><p>룩 위의 ♥ 를 누르거나 크게 보기에서 F 키를 누르세요.</p></div>`; return; }
   main.innerHTML = `<div class="row" style="justify-content:space-between"><div><h1>LIKE</h1><div class="muted small">${favs.length} looks · ${CLOUD ? '클라우드에 저장되어 모든 기기에서 같습니다' : '이 브라우저에만 저장됩니다'}</div></div>
-    <div class="row"><label class="small muted">크기 <input type="range" min="2" max="10" value="${S.cols}" oninput="setCols(this.value)"></label></div></div>
+</div>
     <div class="grid" id="grid">${favs.map((f,i)=>`<div class="look" onclick="openFavLb(${i})">
       <img data-src="${imgUrl(f.it, 640)}" alt=""><button class="fav on" onclick="event.stopPropagation();delete S.favs['${favKey(f.showKey,f.gid,f.n)}'];saveLS('favs',S.favs);cloudSyncFav('${favKey(f.showKey,f.gid,f.n)}',null);renderFav()">♥</button>
       <div class="cap" style="opacity:1">${esc(f.brand||'')} · ${esc(f.season||'')} · ${esc(f.it.caption)}</div></div>`).join('')}</div>`;
