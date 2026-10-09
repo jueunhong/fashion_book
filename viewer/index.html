@@ -179,7 +179,7 @@
     <div class="spacer"></div>
     <span class="ro" id="robadge" style="display:none">읽기 전용 배포본 · 가져오기는 내 컴퓨터에서</span>
     <div id="userbox" class="cloud-only"><span id="useremail"></span><button class="small ghost" onclick="changePassword()">비밀번호 변경</button><button class="small ghost" onclick="logout()">로그아웃</button></div>
-    <form class="addbox needs-server" onsubmit="return addByUrl(event)">
+    <form class="addbox needs-server" id="addbox" style="display:none" onsubmit="return addByUrl(event)">
       <input id="urlin" placeholder="보그 쇼 URL 붙여넣기 (vogue.com/fashion-shows/…)">
       <button class="primary" type="submit">가져오기</button>
     </form>
@@ -475,6 +475,7 @@ function go(view, arg){
   else location.hash = '#/' + view;
 }
 const BRAND_TAB = false;   // 브랜드 탭 사용 여부 (true 로 바꾸면 다시 나타남)
+const URL_BOX = false;     // 상단 "보그 쇼 URL 붙여넣기" 입력창 (true 로 바꾸면 다시 나타남)
 window.addEventListener('hashchange', route);
 async function route(){
   const m = location.hash.match(/^#\/(\w+)(?:\/(.+))?$/);
@@ -503,7 +504,7 @@ async function renderHome(){
   const main = document.getElementById('main');
   if (!idx.shows.length){
     main.innerHTML = `<div class="empty"><h1 class="serif">아직 가져온 쇼가 없습니다</h1>
-      ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p>위 입력창에 보그 런웨이 쇼 URL을 붙여넣고 <b>가져오기</b>를 누르거나,<br><b>시즌</b> 탭에서 시즌 전체를, <b>브랜드</b> 탭에서 브랜드 아카이브를 불러오세요.</p>
+      ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p><b>시즌</b> 탭에서 시즌을 고르고 목록을 불러온 뒤, 쇼를 하나씩 또는 전체를 가져오세요.</p>
       <p class="small dim">터미널: <code>python3 vogue.py show spring-2026-ready-to-wear/chanel</code></p>`}</div>`;
     return;
   }
@@ -825,6 +826,7 @@ function toggleJobs(){ document.getElementById('jobpanel').classList.toggle('ope
 
 // 시작
 if (BRAND_TAB) document.getElementById('brandtab').style.display = '';
+if (URL_BOX) document.getElementById('addbox').style.display = '';
 if (session()) document.getElementById('useremail').textContent = session().user?.email || '';
 route(); pollJobs();
 </script>
