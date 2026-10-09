@@ -158,6 +158,33 @@
   #lb .strip img{height:64px;width:43px;object-fit:cover;opacity:.45;cursor:pointer;border-radius:3px;flex:none}
   #lb .strip img.cur{opacity:1;outline:2px solid var(--accent)}
 
+  /* 퀴즈 */
+  #quiz{position:fixed;inset:0;background:rgba(0,0,0,.92);z-index:55;display:none;align-items:flex-start;justify-content:center;overflow:auto;padding:40px 16px}
+  #quiz.open{display:flex}
+  .qcard{width:100%;max-width:620px;background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:22px 22px 18px}
+  .qcard .qtop{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+  .qcard .qtop .t{font-family:var(--display);font-weight:700;font-size:12px;letter-spacing:.06em;color:var(--fg2)}
+  .qcard .prog{height:4px;background:var(--bg3);border-radius:2px;overflow:hidden;margin-bottom:18px}
+  .qcard .prog i{display:block;height:100%;background:var(--accent);transition:width .3s}
+  .qcard .qtype{font-size:12px;color:var(--fg3);margin-bottom:6px}
+  .qcard .qtext{font-size:17px;line-height:1.6;margin-bottom:16px}
+  .qcard .qimg{display:flex;justify-content:center;margin-bottom:16px}
+  .qcard .qimg img{max-height:360px;border-radius:8px}
+  .opts{display:grid;gap:8px}
+  .opt{text-align:left;padding:11px 14px;border-radius:10px;background:var(--bg3);border:1px solid var(--line);font-size:15px;line-height:1.4}
+  .opt:hover{border-color:var(--fg3)}
+  .opt .k{display:inline-block;width:20px;color:var(--fg3);font-size:12px}
+  .opt.correct{background:#1f3a2a;border-color:#2f6a45}
+  .opt.wrong{background:#3d1f1f;border-color:#7a2f2f}
+  .opt:disabled{cursor:default;opacity:.85}
+  .qfeed{margin-top:14px;font-size:14px;line-height:1.6;color:#d8d8dc;min-height:20px}
+  .qfeed b{color:var(--fg)}
+  .qbtns{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
+  .qresult{text-align:center;padding:10px 0}
+  .qresult .score{font-family:var(--display);font-weight:800;font-size:40px;margin:6px 0}
+  .qresult .wrongs{text-align:left;margin-top:16px;font-size:14px}
+  .qresult .wrongs li{margin:4px 0}
+  @media (max-width:800px){ #quiz{padding:12px} .qcard{padding:16px} .qcard .qtext{font-size:16px} }
   /* 작업 패널 */
   #jobpanel{position:fixed;right:16px;bottom:16px;width:380px;max-height:50vh;overflow:auto;background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:12px;display:none;z-index:30;font-size:13px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
   #jobpanel.open{display:block}
@@ -255,6 +282,8 @@
   </div>
   <div class="strip" id="lbstrip"></div>
 </div>
+
+<div id="quiz" onclick="if(event.target===this)closeQuiz()"><div class="qcard" id="qcard"></div></div>
 
 <div id="jobpanel"></div>
 
@@ -731,7 +760,7 @@ function renderTerms(terms, cat){
   const cats = [...new Set(terms.map(t => t.category))];
   const list = cat ? terms.filter(t => t.category === cat) : terms;
   const linked = terms.some(t => Array.isArray(t.looks));
-  el.innerHTML = `<div class="head"><span class="t">FASHION TERMS</span><span class="dim small">${terms.length}개 · 리뷰에 쓰인 용어</span><span class="spacer"></span>${linked ? '' : `<button class="small" id="linkbtn" onclick="linkTermLooks()">용어가 보이는 룩 찾기</button>`}</div>
+  el.innerHTML = `<div class="head"><span class="t">FASHION TERMS</span><span class="dim small">${terms.length}개 · 리뷰에 쓰인 용어</span><span class="spacer"></span><button class="small primary" onclick="startQuiz()">퀴즈 풀기</button>${linked ? '' : `<button class="small" id="linkbtn" onclick="linkTermLooks()">용어가 보이는 룩 찾기</button>`}</div>
     <div class="cat"><span class="chip ${cat?'':'on'}" onclick="renderTerms(S.show.terms,null)">전체</span>${cats.map(c => `<span class="chip ${cat===c?'on':''}" onclick="renderTerms(S.show.terms,'${c}')">${TERM_CATS[c]||c}</span>`).join('')}</div>
     <div class="termlist">${list.map(t => `<div class="term"><span class="badge">${TERM_CATS[t.category]||t.category}</span><span class="en">${esc(t.term)}</span><span class="ko">${esc(t.ko)}</span>
       <div class="def">${esc(t.definition)}</div>${t.context ? `<div class="ctx">“${esc(t.context)}”</div>` : ''}${termLooksHtml(t)}</div>`).join('')}</div>`;
@@ -758,6 +787,67 @@ async function linkTermLooks(){
     show.terms = r.terms; renderTerms(show.terms, null); toast('용어와 룩을 연결했습니다');
   } catch(e) { toast('실패: ' + e.message, 5000); if (btn) { btn.disabled = false; btn.textContent = '용어가 보이는 룩 찾기'; } }
 }
+// ---- 용어 퀴즈 (저장된 용어로 클라이언트에서 출제)
+const Q = { items: [], i: 0, score: 0, wrong: [], answered: false };
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+function pickOthers(pool, exclude, n, key){ return shuffle(pool.filter(t => t !== exclude && t[key] !== exclude[key])).slice(0, n); }
+function startQuiz(){
+  const terms = (S.show && S.show.terms || []).filter(t => t.term && t.ko && t.definition);
+  if (terms.length < 2) return toast('퀴즈를 만들 용어가 부족합니다', 3000);
+  const g = S.show.galleries.find(x => x.id === 'gallery-collection') || S.show.galleries[0];
+  const byN = Object.fromEntries(g.items.map(it => [it.n, it]));
+  const qs = [];
+  for (const t of shuffle(terms)) {
+    const kinds = ['def', 'ko'];
+    if (Array.isArray(t.looks) && t.looks.some(n => byN[n])) kinds.push('img', 'img');
+    const kind = kinds[Math.floor(Math.random() * kinds.length)];
+    const nOpt = Math.min(4, terms.length);
+    if (kind === 'def') qs.push({ kind, t, q: t.definition, opts: shuffle([t, ...pickOthers(terms, t, nOpt - 1, 'term')]), label: x => x.term, answer: t.term });
+    else if (kind === 'ko') qs.push({ kind, t, q: t.term, opts: shuffle([t, ...pickOthers(terms, t, nOpt - 1, 'ko')]), label: x => x.ko, answer: t.ko });
+    else { const n = t.looks.filter(n => byN[n])[Math.floor(Math.random() * t.looks.filter(n => byN[n]).length)];
+      qs.push({ kind, t, img: byN[n], n, opts: shuffle([t, ...pickOthers(terms.filter(x => !(x.looks||[]).includes(n)), t, nOpt - 1, 'term')]), label: x => x.term, answer: t.term }); }
+  }
+  Object.assign(Q, { items: qs.slice(0, 10), i: 0, score: 0, wrong: [], answered: false });
+  document.getElementById('quiz').classList.add('open');
+  renderQuiz();
+}
+function closeQuiz(){ document.getElementById('quiz').classList.remove('open'); }
+function renderQuiz(){
+  const card = document.getElementById('qcard'), q = Q.items[Q.i];
+  if (!q) return renderQuizResult();
+  const typeText = { def: '설명을 읽고 알맞은 용어를 고르세요', ko: '이 용어의 한국어 이름은?', img: '이 룩에서 눈에 띄는 용어는?' }[q.kind];
+  card.innerHTML = `<div class="qtop"><span class="t">TERM QUIZ</span><span class="dim small">${Q.i + 1} / ${Q.items.length} · ${esc(S.show.brandName)} ${esc(S.show.seasonName)}</span><span class="spacer"></span><button class="small ghost" onclick="closeQuiz()">✕</button></div>
+    <div class="prog"><i style="width:${(Q.i / Q.items.length) * 100}%"></i></div>
+    <div class="qtype">${typeText}</div>
+    ${q.kind === 'img' ? `<div class="qimg"><img src="${imgUrl(q.img, 640)}" alt="Look ${q.n}"></div>` : `<div class="qtext">${esc(q.q)}</div>`}
+    <div class="opts">${q.opts.map((o, i) => `<button class="opt" data-i="${i}" onclick="answerQuiz(${i})"><span class="k">${i + 1}</span>${esc(q.label(o))}</button>`).join('')}</div>
+    <div class="qfeed" id="qfeed"></div>
+    <div class="qbtns"><button class="small primary" id="qnext" style="display:none" onclick="nextQuiz()">${Q.i + 1 < Q.items.length ? '다음' : '결과 보기'}</button></div>`;
+  Q.answered = false;
+}
+function answerQuiz(i){
+  if (Q.answered) return; Q.answered = true;
+  const q = Q.items[Q.i], picked = q.opts[i], ok = q.label(picked) === q.answer;
+  document.querySelectorAll('#qcard .opt').forEach((b, j) => { b.disabled = true; if (q.label(q.opts[j]) === q.answer) b.classList.add('correct'); else if (j === i) b.classList.add('wrong'); });
+  if (ok) Q.score++; else Q.wrong.push(q.t);
+  document.getElementById('qfeed').innerHTML = `${ok ? '<b>정답!</b>' : '<b>오답.</b>'} <b>${esc(q.t.term)}</b> (${esc(q.t.ko)}) — ${esc(q.t.definition)}${q.kind === 'img' ? ` <span class="dim">· Look ${q.n}</span>` : ''}`;
+  document.getElementById('qnext').style.display = '';
+}
+function nextQuiz(){ Q.i++; renderQuiz(); }
+function renderQuizResult(){
+  const card = document.getElementById('qcard'), n = Q.items.length;
+  card.innerHTML = `<div class="qtop"><span class="t">TERM QUIZ</span><span class="spacer"></span><button class="small ghost" onclick="closeQuiz()">✕</button></div>
+    <div class="qresult"><div class="dim small">${esc(S.show.brandName)} ${esc(S.show.seasonName)}</div><div class="score">${Q.score} / ${n}</div>
+    <div class="muted">${Q.score === n ? '완벽해요!' : Q.score >= n * 0.7 ? '잘했어요. 틀린 용어만 다시 보세요.' : '틀린 용어를 다시 읽어 보세요.'}</div>
+    ${Q.wrong.length ? `<ul class="wrongs">${Q.wrong.map(t => `<li><b>${esc(t.term)}</b> (${esc(t.ko)}) — ${esc(t.definition)}</li>`).join('')}</ul>` : ''}</div>
+    <div class="qbtns"><button class="small" onclick="closeQuiz()">닫기</button><button class="small primary" onclick="startQuiz()">다시 풀기</button></div>`;
+}
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('quiz').classList.contains('open')) return;
+  if (e.key === 'Escape') closeQuiz();
+  else if (/^[1-4]$/.test(e.key) && !Q.answered) answerQuiz(+e.key - 1);
+  else if (e.key === 'Enter' && Q.answered) nextQuiz();
+});
 function setGallery(i){ S.gallery = i; document.querySelectorAll('.tabs button').forEach((b,j)=>b.classList.toggle('active', j===i)); renderGrid(); quietHash(`#/show/${S.show.key}/${S.show.galleries[i].id}`); }
 function quietHash(h){ if (location.hash !== h) history.replaceState(null, '', h); }
 function setCols(v){
