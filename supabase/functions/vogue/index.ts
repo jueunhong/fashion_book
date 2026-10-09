@@ -108,13 +108,17 @@ function normalizeShowPath(ref: string): string {
 }
 
 // ---------------------------------------------------------------- 작업
-async function fetchShow(ref: string, force: boolean) {
+async function addToArchive(userId: string, key: string) {
+  await upsert("user_shows", { user_id: userId, show_key: key });
+}
+
+async function fetchShow(ref: string, force: boolean, userId: string) {
   const path = normalizeShowPath(ref);
   const [season, brand] = path.split("/").slice(2);
   const key = `${season}__${brand}`;
   if (!force) {
     const ex = await db(`shows?key=eq.${encodeURIComponent(key)}&select=key,looks`, { prefer: "return=representation" });
-    if (ex?.length) return { key, looks: ex[0].looks, existed: true };
+    if (ex?.length) { await addToArchive(userId, key); return { key, looks: ex[0].looks, existed: true }; }
   }
   const state = await fetchState(VOGUE + path);
   const t = state.transformed ?? {};
@@ -143,6 +147,7 @@ async function fetchShow(ref: string, force: boolean) {
     galleries, looks: galleries.reduce((a, g) => a + g.items.length, 0), counts, fetched_at: new Date().toISOString(),
   };
   await upsert("shows", row);
+  await addToArchive(userId, key);
   return { key, looks: row.looks, existed: false, counts };
 }
 
@@ -195,12 +200,11 @@ Deno.serve(async (req) => {
   try {
     switch (body.action) {
       case "ping": return json({ ok: true, email: user.email });
-      case "show": return json(await fetchShow(body.ref, !!body.force));
+      case "show": return json(await fetchShow(body.ref, !!body.force, user.id));
       case "season": return json(await fetchSeason(body.slug));
       case "designer": return json(await fetchDesigner(body.slug));
       case "delete":
-        await db(`shows?key=eq.${encodeURIComponent(body.key)}`, { method: "DELETE" });
-        await db(`favorites?show_key=eq.${encodeURIComponent(body.key)}`, { method: "DELETE" });
+        await db(`user_shows?user_id=eq.${user.id}&show_key=eq.${encodeURIComponent(body.key)}`, { method: "DELETE" });
         return json({ ok: true });
       case "fav": {
         const f = body.fav;

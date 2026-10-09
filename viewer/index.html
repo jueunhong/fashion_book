@@ -384,10 +384,11 @@ const rowToShow = (r) => ({ key: r.key, url: r.url, season: r.season, seasonName
   designers: r.designers || '', eventDate: r.event_date || '', pubDate: r.pub_date || '', authors: r.authors || [], reviewHtml: r.review_html || '',
   cover: r.cover, galleries: r.galleries || [], looks: r.looks, counts: r.counts || {}, local: false, fetchedAt: r.fetched_at });
 async function cloudIndex(){
-  const [shows, seasons, designers] = await Promise.all([
-    restGet('shows?select=key,season,season_name,brand,brand_name,designers,event_date,cover,looks,counts,fetched_at&order=season.desc,brand.asc'),
+  const [mine, seasons, designers] = await Promise.all([
+    restGet('user_shows?select=added_at,shows(key,season,season_name,brand,brand_name,designers,event_date,cover,looks,counts,fetched_at)&order=added_at.desc'),
     restGet('seasons?select=slug,name,shows'), restGet('designers?select=slug,name,collections')]);
-  return S.index = { shows: shows.map(rowToShow), seasons: seasons.map(s => ({slug: s.slug, name: s.name, count: (s.shows||[]).length})),
+  const shows = mine.map(r => r.shows).filter(Boolean).map(rowToShow);
+  return S.index = { shows, seasons: seasons.map(s => ({slug: s.slug, name: s.name, count: (s.shows||[]).length})),
     designers: designers.map(d => ({slug: d.slug, name: d.name, count: (d.collections||[]).length})) };
 }
 async function cloudListing(kind, slug, refresh){
@@ -396,7 +397,7 @@ async function cloudListing(kind, slug, refresh){
   let data = rows[0];
   if (!data) data = await cloudCall({action: kind, slug});
   if (kind === 'designer') data = {slug: data.slug, name: data.name, bioHtml: data.bio_html ?? data.bioHtml ?? '', collections: data.collections};
-  const have = new Set((await restGet('shows?select=key')).map(r => r.key));
+  const have = new Set((await restGet('user_shows?select=show_key')).map(r => r.show_key));
   for (const it of (data.shows || data.collections)) { const [, sea, br] = it.path.split('/').slice(1); it.key = `${sea}__${br}`; it.fetched = have.has(it.key); }
   return data;
 }
@@ -417,7 +418,7 @@ async function cjRun(){
         const it = job.items[i];
         job.progress = job.items.length > 1 ? {i: i+1, n: job.items.length, name: it.name || it.ref} : null;
         job.message = `가져오는 중: ${it.name || it.ref}`;
-        try { const r = await cloudCall({action: 'show', ref: it.ref, force: !!it.force}); job.log.push(`${r.existed ? '이미 있음' : '저장'}: ${r.key} (${r.looks}장)`); }
+        try { const r = await cloudCall({action: 'show', ref: it.ref, force: !!it.force}); job.log.push(`${CLOUD ? '담음' : (r.existed ? '이미 있음' : '저장')}: ${r.key} (${r.looks}장)`); }
         catch(e) { fails++; job.log.push(`실패 ${it.ref}: ${e.message}`); if (/비밀키/.test(e.message)) { job.status = 'error'; job.message = e.message; break; } }
       }
       if (job.status !== 'error') { job.status = fails && fails === job.items.length ? 'error' : 'done'; job.message = fails ? `완료 (실패 ${fails}개)` : '완료'; }
@@ -434,7 +435,7 @@ async function cloudApi(path, body){
       const data = await cloudListing(kind, body.slug, false);
       let items = (data.shows || data.collections).filter(it => !it.fetched || body.force).map(it => ({ref: it.path, name: it.name, force: !!body.force}));
       if (body.limit) items = items.slice(0, body.limit);
-      if (!items.length) throw new Error('가져올 쇼가 없습니다 (이미 모두 있음)');
+      if (!items.length) throw new Error('담을 쇼가 없습니다 (이미 모두 아카이브에 있음)');
       return {job: cjAdd(kind, body.slug, items)};
     }
     if (clean === '/api/delete') { await cloudCall({action: 'delete', key: body.key}); return {ok: true}; }
@@ -547,7 +548,7 @@ async function renderHome(){
   const main = document.getElementById('main');
   if (!idx.shows.length){
     main.innerHTML = `<div class="empty"><h1 class="serif">ARCHIVE</h1><p>아직 가져온 쇼가 없습니다.</p>
-      ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p><b>시즌</b> 탭에서 시즌을 고르고 목록을 불러온 뒤, 쇼를 하나씩 또는 전체를 가져오세요.</p>
+      ${STATIC ? '<p>내 컴퓨터에서 쇼를 가져온 뒤 <code>python3 export.py</code> 로 내보내고 다시 배포하세요.</p>' : `<p><b>SEASON</b> 탭에서 시즌을 고르고 목록을 불러온 뒤, 쇼를 하나씩 또는 전체를 ${CLOUD ? '담으세요' : '가져오세요'}.</p>
       <p class="small dim">터미널: <code>python3 vogue.py show spring-2026-ready-to-wear/chanel</code></p>`}</div>`;
     return;
   }
@@ -645,7 +646,7 @@ async function renderShow(arg){
         <a href="${esc(show.url)}" target="_blank" rel="noopener"><button class="small">Vogue에서 열기 ↗</button></a>
         <button class="small needs-local" onclick="downloadShow('${key}')" ${entry.local ? 'disabled title="이미 저장됨"' : ''}>${entry.local ? '오프라인 저장됨' : '이미지 저장(오프라인)'}</button>
         <button class="small needs-server" onclick="refetchShow('${key}')">다시 가져오기</button>
-        <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">삭제</button>
+        <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">${CLOUD ? '아카이브에서 빼기' : '삭제'}</button>
       </div>
     </div>
     <div class="review" id="review">${show.reviewHtml || ''}</div>
@@ -795,12 +796,12 @@ async function renderSeason(slug){
   let data; try { data = await api('/api/season/' + slug); } catch(e) { box.innerHTML = `<div class="empty">${esc(e.message)}</div>`; return; }
   const fetched = data.shows.filter(s=>s.fetched).length;
   box.innerHTML = `<div class="row" style="justify-content:space-between;margin-top:24px">
-      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small">쇼 ${data.shows.length}개 · 가져옴 ${fetched}개</div></div>
+      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small">쇼 ${data.shows.length}개 · ${CLOUD ? '내 아카이브' : '가져옴'} ${fetched}개</div></div>
       <div class="row">
         <input id="s_filter" placeholder="브랜드 필터" style="width:180px" oninput="filterItems(this.value)">
         <button class="small needs-server" onclick="api('/api/season/${slug}?refresh=1').then(()=>go('season','${slug}'))">목록 새로고침</button>
         <label class="small muted needs-local"><input type="checkbox" id="s_dl"> 이미지도 저장</label>
-        <button class="primary small needs-server" onclick="fetchAll('season','${slug}',${data.shows.length})">전체 가져오기 (${data.shows.length - fetched}개)</button>
+        <button class="primary small needs-server" onclick="fetchAll('season','${slug}',${data.shows.length})">${CLOUD ? '전체 담기' : '전체 가져오기'} (${data.shows.length - fetched}개)</button>
       </div></div>
     <div class="list" style="margin-top:12px">${data.shows.map(itemHtml).join('')}</div>`;
 }
@@ -809,7 +810,7 @@ function itemHtml(s){
   return `<div class="item ${s.fetched?'fetched':''}" data-text="${esc((name+' '+sub).toLowerCase())}">
     <div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover,120)}" alt="">` : ''}</div>
     <div class="name" title="${esc(name)}">${esc(name)}${sub ? `<div class="dim small">${esc(sub)}</div>` : ''}</div>
-    ${s.fetched ? `<button class="small" onclick="go('show','${s.key}')">보기</button>` : STATIC ? `<a href="${VOGUE}${esc(s.path)}" target="_blank" rel="noopener"><button class="small ghost">Vogue ↗</button></a>` : `<button class="small" onclick="fetchOne('${esc(s.path)}', this)">가져오기</button>`}</div>`;
+    ${s.fetched ? `<button class="small" onclick="go('show','${s.key}')">보기</button>` : STATIC ? `<a href="${VOGUE}${esc(s.path)}" target="_blank" rel="noopener"><button class="small ghost">Vogue ↗</button></a>` : `<button class="small" onclick="fetchOne('${esc(s.path)}', this)">${CLOUD ? '담기' : '가져오기'}</button>`}</div>`;
 }
 function seasonTitle(slug){ return slug.replace('ready-to-wear','Ready-to-Wear').replace('pre-fall','Pre-Fall').split('-').map(w => /^[A-Z]/.test(w) ? w : w.charAt(0).toUpperCase()+w.slice(1)).join(' ').replace('Ready to Wear','Ready-to-Wear').replace('Pre Fall','Pre-Fall'); }
 function filterItems(q){ q = q.trim().toLowerCase(); document.querySelectorAll('#main .item').forEach(c => c.style.display = (!q || c.dataset.text.includes(q)) ? '' : 'none'); }
@@ -853,26 +854,26 @@ async function addByUrl(e){
   try {
     if (/\/fashion-shows\/designer\//.test(v)) { if (BRAND_TAB) go('brand', brandSlug(v)); else toast('브랜드 아카이브 탭은 현재 꺼져 있습니다. 쇼 URL이나 시즌 URL을 넣어 주세요.', 4000); }
     else if (/\/fashion-shows\/[^/]+\/?$/.test(v) || /^[a-z-]+-\d{4}(-[a-z-]+)?$/.test(v)) { go('season', v.replace(/\/$/,'').split('/').pop()); }
-    else { await api('/api/fetch', {ref: v}); toast('가져오기 시작: ' + v.split('/').slice(-2).join('/')); }
+    else { await api('/api/fetch', {ref: v}); toast((CLOUD ? '담는 중: ' : '가져오기 시작: ') + v.split('/').slice(-2).join('/')); }
     document.getElementById('urlin').value = '';
   } catch(err) { toast('오류: ' + err.message, 4000); }
   pollJobs(true);
   return false;
 }
 async function fetchOne(path, btn){
-  try { await api('/api/fetch', {ref: path}); if (btn){ btn.disabled = true; btn.textContent = '대기열'; } toast('가져오기 시작'); pollJobs(true); }
+  try { await api('/api/fetch', {ref: path}); if (btn){ btn.disabled = true; btn.textContent = '대기열'; } toast(CLOUD ? '담는 중' : '가져오기 시작'); pollJobs(true); }
   catch(err){ toast('오류: ' + err.message, 4000); }
 }
 async function fetchAll(kind, slug, total, limit){
   const n = limit ? Math.min(limit, total) : total;
-  if (!confirm(`${kind==='season'?'시즌':'브랜드'} "${slug}" 에서 쇼 ${n}개를 가져옵니다. 쇼당 약 ${CLOUD ? 2 : 1}초 걸리고${CLOUD ? ' 이 탭을 열어 두어야 합니다' : ' 사진은 원격 링크로 저장됩니다'}. 계속할까요?`)) return;
+  if (!confirm(CLOUD ? `"${slug}" 의 쇼 ${n}개를 내 아카이브에 담습니다. 이미 받아 둔 쇼는 바로 담기고, 새 쇼는 보그에서 받느라 하나에 2초쯤 걸립니다. 끝날 때까지 이 탭을 열어 두세요. 계속할까요?` : `${kind==='season'?'시즌':'브랜드'} "${slug}" 에서 쇼 ${n}개를 가져옵니다. 쇼당 약 1초, 사진은 원격 링크로 저장됩니다. 계속할까요?`)) return;
   const download = !!document.getElementById('s_dl')?.checked;
   try { await api(kind==='season' ? '/api/fetch-season' : '/api/fetch-designer', {slug, limit, download}); toast(`${n}개 가져오기 시작`); pollJobs(true); }
   catch(err){ toast('오류: ' + err.message, 4000); }
 }
 async function downloadShow(key){ try { await api('/api/download', {key}); toast('이미지 저장 시작'); pollJobs(true);} catch(err){ toast('오류: '+err.message, 4000);} }
 async function refetchShow(key){ try { await api('/api/fetch', {ref: key.replace('__','/'), force: true}); toast('다시 가져오기 시작'); pollJobs(true);} catch(err){ toast('오류: '+err.message, 4000);} }
-async function deleteShow(key){ if (!confirm('이 쇼를 보관함에서 삭제할까요? (저장한 이미지도 지워집니다)')) return; await api('/api/delete', {key}); go('home'); }
+async function deleteShow(key){ if (!confirm(CLOUD ? '이 쇼를 내 아카이브에서 뺄까요? (다른 사용자에게는 영향이 없고, 시즌 목록에서 다시 담을 수 있습니다)' : '이 쇼를 보관함에서 삭제할까요? (저장한 이미지도 지워집니다)')) return; await api('/api/delete', {key}); go('home'); }
 
 let pollTimer = null, seenJobs = null;
 async function pollJobs(fast){
