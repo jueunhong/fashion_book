@@ -227,6 +227,22 @@ async function consumeAi(user: { id: string; email: string }) {
   return st;
 }
 
+// 이용권 요청 알림 메일 (Resend). RESEND_API_KEY 가 없으면 조용히 건너뜀.
+async function notifyAdmins(subject: string, text: string): Promise<boolean> {
+  const key = Deno.env.get("RESEND_API_KEY");
+  if (!key) return false;
+  let to = (Deno.env.get("NOTIFY_EMAIL") ?? "").split(",").map((s) => s.trim()).filter(Boolean);
+  if (!to.length) to = ((await db("admins?select=email", { prefer: "return=representation" })) ?? []).map((r: any) => r.email);
+  if (!to.length) return false;
+  const r = await fetch("https://api.resend.com/emails", {
+    method: "POST",
+    headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ from: Deno.env.get("NOTIFY_FROM") ?? "Runway Book <onboarding@resend.dev>", to, subject, text }),
+  });
+  if (!r.ok) console.error("notify mail failed", r.status, await r.text());
+  return r.ok;
+}
+
 // ---------------------------------------------------------------- 리뷰 번역 (Claude)
 const TRANSLATE_MODEL = "claude-opus-5-5";
 const TRANSLATE_SYSTEM = `You translate Vogue Runway show reviews from English into Korean.
@@ -394,8 +410,16 @@ Deno.serve(async (req) => {
         const email = String(body.email ?? "").trim().toLowerCase();
         if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) return json({ error: "이메일 형식을 확인해 주세요" }, 400);
         const pending = await db(`plan_requests?user_id=eq.${user.id}&status=eq.pending&select=id`, { prefer: "return=representation" });
-        if (!pending?.length) await db("plan_requests", { method: "POST", body: JSON.stringify({ user_id: user.id, email }) });
-        return json({ ok: true, already: !!pending?.length });
+        let mailed = false;
+        if (!pending?.length) {
+          await db("plan_requests", { method: "POST", body: JSON.stringify({ user_id: user.id, email }) });
+          const st = await aiStatus(user);
+          mailed = await notifyAdmins(
+            `[Runway Book] AI 이용권 요청 - ${email}`,
+            `AI 이용권 구매 요청이 들어왔습니다.\n\n요청 이메일: ${email}\n로그인 계정: ${user.email}\n무료 사용: ${st.freeUsed}/${st.freeLimit}\n요청 시각: ${new Date().toLocaleString("ko-KR", { timeZone: "Asia/Seoul" })}\n\n결제 정보를 위 이메일로 보내 주시고, 입금 확인 후 사이트 헤더의 "이용권 요청" 에서 이용권을 부여하세요.\nhttps://runway-book.vercel.app`,
+          ).catch(() => false);
+        }
+        return json({ ok: true, already: !!pending?.length, mailed });
       }
       case "admin_requests": {
         if (!(await isAdmin(user.email))) return json({ error: "관리자만 사용할 수 있습니다" }, 403);
