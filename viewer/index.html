@@ -1027,7 +1027,7 @@ async function renderSeason(slug){
   let data; try { data = await api('/api/season/' + slug); } catch(e) { box.innerHTML = `<div class="empty">${esc(e.message)}</div>`; return; }
   const fetched = data.shows.filter(s=>s.fetched).length;
   box.innerHTML = `<div class="row" style="justify-content:space-between;margin-top:24px">
-      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small">쇼 ${data.shows.length}개 · ${CLOUD ? '내 아카이브' : '가져옴'} ${fetched}개</div></div>
+      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small" id="s_count" data-total="${data.shows.length}">쇼 ${data.shows.length}개 · ${CLOUD ? '내 아카이브' : '가져옴'} ${fetched}개</div></div>
       <div class="row">
         <input id="s_filter" placeholder="브랜드 검색" style="width:180px" oninput="filterItems(this.value)">
         <button class="small needs-server" onclick="api('/api/season/${slug}?refresh=1').then(()=>go('season','${slug}'))">목록 새로고침</button>
@@ -1038,7 +1038,7 @@ async function renderSeason(slug){
 }
 function itemHtml(s){
   const name = s.name, sub = s.season ? seasonTitle(s.season) : '';
-  return `<div class="item ${s.fetched?'fetched':''}" data-text="${esc((name+' '+sub).toLowerCase())}">
+  return `<div class="item ${s.fetched?'fetched':''}" data-key="${esc(s.key)}" data-text="${esc((name+' '+sub).toLowerCase())}">
     <div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover,120)}" alt="">` : ''}</div>
     <div class="name" title="${esc(name)}">${esc(name)}${sub ? `<div class="dim small">${esc(sub)}</div>` : ''}</div>
     ${s.fetched ? `<button class="small" onclick="go('show','${s.key}')">보기</button>` : STATIC ? `<a href="${VOGUE}${esc(s.path)}" target="_blank" rel="noopener"><button class="small ghost">Vogue ↗</button></a>` : `<button class="small" onclick="fetchOne('${esc(s.path)}', this)">${CLOUD ? '담기' : '가져오기'}</button>`}</div>`;
@@ -1064,7 +1064,7 @@ async function renderBrand(slug){
   let data; try { data = await api('/api/designer/' + slug); } catch(e) { box.innerHTML = `<div class="empty">${esc(e.message)}</div>`; return; }
   const fetched = data.collections.filter(s=>s.fetched).length;
   box.innerHTML = `<div class="row" style="justify-content:space-between;margin-top:24px">
-      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small">컬렉션 ${data.collections.length}개 · 가져옴 ${fetched}개</div></div>
+      <div><h2 style="margin:0">${esc(data.name)}</h2><div class="muted small" id="s_count" data-total="${data.collections.length}">컬렉션 ${data.collections.length}개 · 가져옴 ${fetched}개</div></div>
       <div class="row">
         <input id="s_filter" placeholder="시즌 필터" style="width:180px" oninput="filterItems(this.value)">
         <button class="small needs-server" onclick="api('/api/designer/${slug}?refresh=1').then(()=>go('brand','${slug}'))">목록 새로고침</button>
@@ -1126,11 +1126,35 @@ async function pollJobs(fast){
       seenJobs.add(j.id);
       if (j.status === 'done') {
         toast(`완료: ${j.label}`);
-        if (['home','season','brand'].includes(S.view) || (S.view === 'show' && j.kind === 'download')) route();
+        if (S.view === 'season' || S.view === 'brand') refreshListing();
+        else if (S.view === 'home' || (S.view === 'show' && j.kind === 'download')) route();
       } else toast(`실패: ${j.label} — ${j.message}`, 6000);
     }
   } catch(e) {}
   pollTimer = setTimeout(pollJobs, busy ? 1500 : 6000);
+}
+// 목록을 다시 그리지 않고 담긴 쇼의 버튼과 개수만 갱신
+async function refreshListing(){
+  const items = document.querySelectorAll('#listing .item[data-key]');
+  if (!items.length) return;
+  let have;
+  try {
+    if (CLOUD) have = new Set((await restGet('user_shows?select=show_key')).map(r => r.show_key));
+    else have = new Set((await api('/api/index')).shows.map(s => s.key));
+  } catch(e) { return; }
+  let n = 0;
+  items.forEach(el => {
+    const key = el.dataset.key, f = have.has(key);
+    if (f) n++;
+    if (f && !el.classList.contains('fetched')) {
+      el.classList.add('fetched');
+      const old = el.querySelector('button, a'); if (old) { const b = document.createElement('button'); b.className = 'small'; b.textContent = '보기'; b.onclick = () => go('show', key); old.replaceWith(b); }
+    }
+  });
+  const c = document.getElementById('s_count');
+  if (c) c.textContent = `쇼 ${c.dataset.total}개 · ${CLOUD ? '내 아카이브' : '가져옴'} ${n}개`;
+  const all = document.querySelector('#listing .primary');
+  if (all) all.textContent = all.textContent.replace(/\(\d+개\)/, `(${items.length - n}개)`);
 }
 function renderJobPanel(jobs){
   const p = document.getElementById('jobpanel');
