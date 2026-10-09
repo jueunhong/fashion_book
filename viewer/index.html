@@ -517,13 +517,12 @@ async function renderHome(){
   const seasons = {};
   for (const s of idx.shows) (seasons[s.season] ||= {name: s.seasonName, shows: []}).shows.push(s);
   const order = Object.keys(seasons).sort((a,b) => seasonRank(b) - seasonRank(a));
-  S.home ||= { season: null, brands: new Set(), expanded: false };
+  S.home ||= { season: null };
   if (S.home.season && !seasons[S.home.season]) S.home.season = null;
   main.innerHTML = `
     <div><h1>보관함</h1><div class="muted small">쇼 ${idx.shows.length}개 · 사진 ${idx.shows.reduce((a,s)=>a+s.looks,0).toLocaleString()}장</div></div>
     <div class="filters">
       <div><div class="label">시즌</div><div class="chips" id="seasonchips"></div></div>
-      <div><div class="label">브랜드</div><div class="chips" id="brandchips"></div><button class="small ghost morebtn" id="morebtn" onclick="S.home.expanded=!S.home.expanded;renderHomeChips()"></button></div>
     </div>
     ${order.map(k => `<section data-season="${k}"><h2>${esc(seasons[k].name)} <span class="dim small">${seasons[k].shows.length}</span></h2>
       <div class="cards">${seasons[k].shows.sort((a,b)=>a.brandName.localeCompare(b.brandName)).map(cardHtml).join('')}</div></section>`).join('')}`;
@@ -535,26 +534,14 @@ function renderHomeChips(){
   const sc = document.getElementById('seasonchips');
   sc.innerHTML = `<span class="chip ${h.season?'':'on'}" onclick="S.home.season=null;renderHomeChips()">전체</span>` +
     order.map(k => `<span class="chip ${h.season===k?'on':''}" onclick="S.home.season=S.home.season==='${k}'?null:'${k}';renderHomeChips()">${esc(seasons[k].name)} <span class="dim">${seasons[k].shows.length}</span></span>`).join('');
-  // 선택한 시즌에 있는 브랜드만 나열
-  const pool = h.season ? seasons[h.season].shows : order.flatMap(k => seasons[k].shows);
-  const brands = [...new Set(pool.map(s => s.brandName))].sort((a,b)=>a.localeCompare(b));
-  for (const b of [...h.brands]) if (!brands.includes(b)) h.brands.delete(b);
-  const bc = document.getElementById('brandchips');
-  bc.innerHTML = `<span class="chip ${h.brands.size?'':'on'}" onclick="S.home.brands.clear();renderHomeChips()">전체</span>` +
-    brands.map(b => `<span class="chip ${h.brands.has(b)?'on':''}" onclick="toggleHomeBrand(this.dataset.b)" data-b="${esc(b)}">${esc(b)}</span>`).join('');
-  bc.classList.toggle('collapsed', !h.expanded && brands.length > 24);
-  const mb = document.getElementById('morebtn');
-  mb.style.display = brands.length > 24 ? '' : 'none';
-  mb.textContent = h.expanded ? '접기' : `브랜드 ${brands.length}개 모두 보기`;
   applyHomeFilter();
 }
-function toggleHomeBrand(b){ const h = S.home; if (h.brands.has(b)) h.brands.delete(b); else h.brands.add(b); renderHomeChips(); }
 function applyHomeFilter(){
   const h = S.home;
   document.querySelectorAll('#main section').forEach(sec => {
     const seasonOk = !h.season || sec.dataset.season === h.season;
     let any = false;
-    sec.querySelectorAll('.card').forEach(c => { const ok = seasonOk && (!h.brands.size || h.brands.has(c.dataset.brand)); c.style.display = ok ? '' : 'none'; any ||= ok; });
+    sec.querySelectorAll('.card').forEach(c => { c.style.display = seasonOk ? '' : 'none'; any ||= seasonOk; });
     sec.style.display = any ? '' : 'none';
   });
 }
