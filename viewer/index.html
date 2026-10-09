@@ -105,19 +105,22 @@
   .tabs button.active{color:var(--fg);border-bottom-color:var(--accent)}
   .toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
   .toolbar label{font-size:13px;color:var(--fg2);display:flex;align-items:center;gap:6px}
-  .review{max-width:760px;font-size:16px;line-height:1.8;color:#d8d8dc;margin:10px 0 24px;display:none}
+  .panelslot{display:none;margin:12px 0 18px;max-height:62vh;overflow:auto;border:1px solid var(--line);border-radius:12px;background:var(--bg2);padding:16px 18px;scrollbar-width:thin}
+  .panelslot.open{display:block}
+  .showhead button.on{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+  .review{max-width:760px;font-size:16px;line-height:1.8;color:#d8d8dc;margin:0;display:none}
   .review.open{display:block}
   .review .langbar{display:flex;gap:6px;align-items:center;margin-bottom:12px;font-family:var(--font)}
   .review .langbar button{font-size:12px;padding:3px 9px}
   .review .langbar button.on{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
   .review .body{min-height:40px}
-  .terms{max-width:900px;margin:10px 0 24px;display:none}
+  .terms{max-width:900px;margin:0;display:none}
   .terms.open{display:block}
   .terms .head{display:flex;align-items:center;gap:10px;margin-bottom:12px}
   .terms .head .t{font-family:var(--display);font-weight:700;font-size:12px;letter-spacing:.06em;color:var(--fg2)}
   .terms .cat{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
   .termlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
-  .term{background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .term{background:var(--bg3);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
   .term .en{font-family:var(--display);font-weight:700;font-size:14px}
   .term .ko{color:var(--fg2);font-size:13px;margin-left:6px}
   .term .def{font-size:14px;line-height:1.6;margin:6px 0 8px;color:#d8d8dc}
@@ -232,6 +235,7 @@
     .kbd-hint{display:none}
     .tabs button{padding:8px 10px}
     .review{font-size:16px}
+    .panelslot{max-height:70vh;padding:12px}
     .list{grid-template-columns:1fr}
     #lb .top{padding:8px 10px;gap:8px;font-size:13px}
     #lb .top #lbtitle{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -697,14 +701,14 @@ async function renderShow(arg){
       </div>
       <div class="spacer"></div>
       <div class="row">
-        ${show.reviewHtml ? `<button class="small" onclick="toggleReview()">리뷰 보기</button><button class="small cloud-only" onclick="toggleTerms()">패션 용어</button>` : ''}
+        ${show.reviewHtml ? `<button class="small" id="btn_review" onclick="toggleReview()">리뷰 보기</button><button class="small cloud-only" id="btn_terms" onclick="toggleTerms()">패션 용어</button>` : ''}
         <button class="small needs-local" onclick="downloadShow('${key}')" ${entry.local ? 'disabled title="이미 저장됨"' : ''}>${entry.local ? '오프라인 저장됨' : '이미지 저장(오프라인)'}</button>
         <button class="small needs-server" onclick="refetchShow('${key}')">다시 가져오기</button>
         <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">${CLOUD ? '아카이브에서 빼기' : '삭제'}</button>
       </div>
     </div>
-    <div class="terms" id="terms"></div>
-    <div class="review" id="review">${show.reviewHtml ? `<div class="langbar"><button class="small ${CLOUD?'on':''}" id="rv_ko" onclick="setReviewLang('ko')">한국어</button><button class="small ${CLOUD?'':'on'}" id="rv_en" onclick="setReviewLang('en')">원문</button><span class="dim small" id="rv_note"></span></div><div class="body" id="rv_body"></div>` : ''}</div>
+    <div class="panelslot" id="panelslot"><div class="terms" id="terms"></div>
+    <div class="review" id="review">${show.reviewHtml ? `<div class="langbar"><button class="small ${CLOUD?'on':''}" id="rv_ko" onclick="setReviewLang('ko')">한국어</button><button class="small ${CLOUD?'':'on'}" id="rv_en" onclick="setReviewLang('en')">원문</button><span class="dim small" id="rv_note"></span></div><div class="body" id="rv_body"></div>` : ''}</div></div>
     <div class="tabs">${show.galleries.map((g,i)=>`<button class="${i===S.gallery?'active':''}" onclick="setGallery(${i})">${esc(g.title)} <span class="dim">${g.items.length}</span></button>`).join('')}</div>
     <div class="toolbar">
       <label>크기 ${colsSlider()}</label>
@@ -716,17 +720,17 @@ async function renderShow(arg){
   if (gid && n) { const i = show.galleries[S.gallery].items.findIndex(it => it.n === +n); if (i >= 0) openLb(i); }
 }
 // ---- 리뷰 번역 (클라우드 모드: Claude 로 한국어 번역, 결과는 DB 에 캐시)
-// 패널(리뷰/용어)은 한 번에 하나만 열고, 레이아웃이 끝난 뒤 그 위치로 스크롤
-function scrollToPanel(el){
-  const go = () => { const y = el.getBoundingClientRect().top + window.scrollY - 70; window.scrollTo({top: y, behavior: 'smooth'}); };
-  requestAnimationFrame(() => { go(); setTimeout(go, 350); });
-}
+// 패널(리뷰/용어)은 Collection 탭 위의 한 구좌에서 서로 교체되며 열린다 (페이지 스크롤 없음)
 function openPanel(id){
   const el = document.getElementById(id), other = document.getElementById(id === 'review' ? 'terms' : 'review');
+  const slot = document.getElementById('panelslot');
   const willOpen = !el.classList.contains('open');
   other.classList.remove('open');
   el.classList.toggle('open', willOpen);
-  if (willOpen) scrollToPanel(el);
+  slot.classList.toggle('open', willOpen);
+  slot.scrollTop = 0;
+  document.getElementById('btn_review')?.classList.toggle('on', willOpen && id === 'review');
+  document.getElementById('btn_terms')?.classList.toggle('on', willOpen && id === 'terms');
   return willOpen;
 }
 function toggleReview(){
