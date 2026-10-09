@@ -592,7 +592,7 @@ function openPlanModal(submitted){
       <div class="msg">입력하신 이메일(<b>${esc(submitted)}</b>)로 결제 정보를 보내드릴 테니 잠시만 기다려 주세요.<br>메일을 받으시면 안내에 따라 결제 부탁드립니다. 결제가 확인되면 이용권이 바로 적용됩니다.</div>
       <div class="btns"><button class="small primary" onclick="closePlanModal()">확인</button></div>`
     : `<h2>웹 AI 이용권 구매 안내</h2><div class="muted small">무료 AI 사용 ${S.ai?.freeLimit ?? 10}회를 모두 사용하셨습니다. 리뷰 번역·패션 용어·룩 연결 등 AI 기능을 계속 쓰려면 이용권이 필요합니다. 쇼 보기, 담기, LIKE, NOTE 등 다른 기능은 그대로 사용할 수 있습니다.</div>
-      <div class="price"><div><b>1개월 이용권</b><span>10,000원</span></div><div><b>1년 이용권</b><span>100,000원 · 최대 AI 사용량 2,000회</span></div></div>
+      <div class="price"><div><b>1개월 이용권</b><span>10,000원 · 최대 AI 사용량 200회</span></div><div><b>1년 이용권</b><span>100,000원 · 최대 AI 사용량 2,000회</span></div></div>
       <div class="muted small">결제 정보를 받을 이메일을 입력해 주세요.</div>
       <input id="plan_email" type="email" placeholder="이메일" value="${esc(email)}">
       <div class="msg dim" id="plan_err"></div>
