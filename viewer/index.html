@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Runway Book</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@900&display=swap">
 <script id="rbconfig">window.RB_CLOUD = null; /* export.py 가 Supabase 설정을 주입 */</script>
 <style>
   :root{
@@ -29,8 +31,7 @@
 
   header{position:sticky;top:0;z-index:20;background:rgba(14,14,16,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
   .bar{display:flex;align-items:center;gap:14px;padding:10px 20px;flex-wrap:wrap}
-  .logo{display:flex;align-items:center;cursor:pointer;flex:none}
-  .logo img{height:34px;width:auto;display:block}
+  .logo{display:flex;align-items:center;cursor:pointer;flex:none;font-family:"Unbounded",var(--font);font-weight:900;font-size:15px;letter-spacing:.02em;color:var(--fg);white-space:nowrap}
   nav{display:flex;gap:4px}
   nav button{background:transparent;border-color:transparent;color:var(--fg2);letter-spacing:.08em;font-size:13px;font-weight:600}
   nav button.active{color:var(--fg);background:var(--bg3)}
@@ -55,10 +56,13 @@
   .banner .slides img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 30%;opacity:0;transition:opacity 1.4s ease}
   .banner .slides img.on{opacity:1}
   .banner .shade{position:absolute;inset:0;background:linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.35))}
-  .banner .blink{position:absolute;inset:0;background:#000;opacity:0;animation:bannerBlink 3.2s steps(1,end) infinite}
+  .banner .blink{position:absolute;inset:0;background:#000;opacity:0;animation:bannerBlink 5.2s steps(1,end) infinite}
   @keyframes bannerBlink{0%{opacity:0} 72%{opacity:1} 80%{opacity:0} 86%{opacity:1} 92%{opacity:0} 100%{opacity:0}}
-  .banner .caption{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:clamp(24px,4.2vw,48px);letter-spacing:.32em;text-indent:.32em;text-shadow:0 2px 24px rgba(0,0,0,.6)}
-  @media (prefers-reduced-motion:reduce){ .banner .blink{animation:none} }
+  .banner .caption{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#000;animation:bannerLogo 5.2s steps(1,end) infinite}
+  @keyframes bannerLogo{0%{color:#000} 72%{color:#fff} 80%{color:#000} 86%{color:#fff} 92%{color:#000} 100%{color:#000}}
+  .banner .caption svg{height:clamp(64px,10vw,120px);width:auto;display:block;filter:drop-shadow(0 2px 14px rgba(0,0,0,.18))}
+  .banner .shade{background:linear-gradient(rgba(255,255,255,.04),rgba(0,0,0,.18))}
+  @media (prefers-reduced-motion:reduce){ .banner .blink,.banner .caption{animation:none} }
   /* 최근 본 쇼 (가로 스크롤) */
   .recent-wrap{margin:4px 0 22px}
   .recent-wrap .label{font-size:12px;color:var(--fg3);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center}
@@ -159,7 +163,7 @@
     main{padding:12px}
     h1{font-size:22px} h2{font-size:18px;margin:20px 0 10px}
     .bar{padding:8px 12px;gap:8px 10px}
-    .logo img{height:28px}
+    .logo{font-size:12px}
     .spacer{display:none}
     #jobs,#userbox{margin-left:auto;order:1}
     #useremail{display:none}
@@ -190,14 +194,14 @@
     #jobpanel{left:12px;right:12px;width:auto;bottom:12px}
     .login{margin-top:8vh;padding:22px}
     .banner{height:200px;border-radius:10px;margin-bottom:16px}
-    .banner .caption{letter-spacing:.24em;text-indent:.24em}
+    .banner .caption svg{height:56px}
   }
 </style>
 </head>
 <body>
 <header>
   <div class="bar">
-    <a class="logo" href="#/home" aria-label="Runway Book 홈"><img src="viewer/logo-runway.svg" alt="Runway Book"></a>
+    <a class="logo" href="#/home" aria-label="Runway Book 홈">RUNWAY BOOK</a>
     <nav>
       <button data-view="home" onclick="go('home')">HOME</button>
       <button data-view="season" onclick="go('season')">SEASON</button>
@@ -554,7 +558,7 @@ async function renderHome(){
   const byKey = Object.fromEntries(idx.shows.map(s => [s.key, s]));
   const recent = S.recent.map(k => byKey[k]).filter(Boolean).slice(0, 10);
   main.innerHTML = `
-    <div class="banner"><div class="slides">${BANNERS.map((b,i)=>`<img src="${b}" alt="" class="${i===0?'on':''}">`).join('')}</div><div class="shade"></div><div class="blink"></div><div class="caption">RUNWAY BOOK</div></div>
+    <div class="banner"><div class="slides">${BANNERS.map((b,i)=>`<img src="${b}" alt="" class="${i===0?'on':''}">`).join('')}</div><div class="shade"></div><div class="blink"></div><div class="caption" id="bannerlogo"></div></div>
     ${recent.length ? `<div class="recent-wrap"><div class="label"><span>RECENTLY VIEWED</span><a class="dim" style="cursor:pointer" onclick="S.recent=[];saveLS('recent',[]);cloudSyncRecent();renderHome()">Clear</a></div>
       <div class="recent">${recent.map(s => `<div class="rcard" onclick="go('show','${s.key}')"><div class="thumb">${s.cover ? `<img loading="lazy" src="${imgUrl(s.cover, 240)}" alt="">` : ''}</div>
         <div class="meta"><div class="title" title="${esc(s.brandName)}">${esc(s.brandName)}</div><div class="sub">${esc(s.seasonName)}</div></div></div>`).join('')}</div></div>` : ''}
@@ -569,7 +573,15 @@ async function renderHome(){
   startBanner();
 }
 const BANNERS = ['viewer/banner1.jpg', 'viewer/banner2.jpg'];
+async function loadBannerLogo(){
+  if (!S._logoSvg) {
+    try { const t = await (await fetch('viewer/logo-runway.svg')).text(); S._logoSvg = t.replace(/fill="white"/g, 'fill="currentColor"').replace(/<svg /, '<svg role="img" aria-label="Vogue Runway" '); }
+    catch(e) { S._logoSvg = '<span style="font-weight:800;letter-spacing:.3em">RUNWAY BOOK</span>'; }
+  }
+  const el = document.getElementById('bannerlogo'); if (el) el.innerHTML = S._logoSvg;
+}
 function startBanner(){
+  loadBannerLogo();
   clearInterval(S._bannerTimer);
   let i = 0;
   S._bannerTimer = setInterval(() => {
