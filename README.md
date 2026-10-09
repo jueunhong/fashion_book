@@ -43,7 +43,11 @@ vogue.com 쿠키를 **Netscape 형식** `cookies.txt` 로 내보내 이 폴더�
 
 ## 배포 (Vercel + Supabase)
 
-배포 주소: https://fashionbook.vercel.app
+배포 주소: https://runway-book.vercel.app (Vercel 프로젝트 runway-book)
+
+Vercel 이 빌드 단계에서 `python3 export.py` 를 실행하므로(`vercel.json`), 로컬에서 export 를 돌리지 않아도 됩니다.
+Supabase 주소와 anon 키는 Vercel 프로젝트 환경 변수(`SUPABASE_URL`, `SUPABASE_ANON_KEY`)에 들어 있습니다.
+GitHub 저장소를 연결하면 `git push` 만으로 자동 배포됩니다.
 
 배포본은 **Supabase** 를 저장소와 수집 서버로 씁니다. 폰에서도 시즌 목록 불러오기와 가져오기가 되고,
 어느 기기에서 가져오든 같은 보관함에 쌓이며, 즐겨찾기도 기기 간에 동기화됩니다.
@@ -72,7 +76,8 @@ export.py                             뷰어를 dist/ 로 내보내며 .env.loca
 ```bash
 npx supabase functions deploy vogue --no-verify-jwt   # 함수를 고쳤을 때
 npx supabase db push                                  # 마이그레이션을 추가했을 때
-python3 export.py && npx vercel --prod --yes          # 뷰어를 고쳤을 때
+git push                                              # 뷰어를 고쳤을 때 (GitHub 연결 후 자동 배포)
+npx vercel --prod --yes                               # 또는 CLI 로 직접 배포
 ```
 
 - 처음 한 번은 `npx vercel login`, `npx supabase login` 이 필요합니다.
