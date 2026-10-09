@@ -698,7 +698,6 @@ async function renderShow(arg){
       <div class="spacer"></div>
       <div class="row">
         ${show.reviewHtml ? `<button class="small" onclick="toggleReview()">리뷰 보기</button><button class="small cloud-only" onclick="toggleTerms()">패션 용어</button>` : ''}
-        <a href="${esc(show.url)}" target="_blank" rel="noopener"><button class="small">Vogue에서 열기 ↗</button></a>
         <button class="small needs-local" onclick="downloadShow('${key}')" ${entry.local ? 'disabled title="이미 저장됨"' : ''}>${entry.local ? '오프라인 저장됨' : '이미지 저장(오프라인)'}</button>
         <button class="small needs-server" onclick="refetchShow('${key}')">다시 가져오기</button>
         <button class="small needs-server" onclick="deleteShow('${key}')" style="color:var(--danger)">${CLOUD ? '아카이브에서 빼기' : '삭제'}</button>
@@ -717,9 +716,13 @@ async function renderShow(arg){
   if (gid && n) { const i = show.galleries[S.gallery].items.findIndex(it => it.n === +n); if (i >= 0) openLb(i); }
 }
 // ---- 리뷰 번역 (클라우드 모드: Claude 로 한국어 번역, 결과는 DB 에 캐시)
+function scrollToPanel(el){ const y = el.getBoundingClientRect().top + window.scrollY - 70; window.scrollTo({top: y, behavior: 'smooth'}); }
 function toggleReview(){
   const el = document.getElementById('review'); el.classList.toggle('open');
-  if (el.classList.contains('open') && !el.dataset.inited) { el.dataset.inited = '1'; setReviewLang(CLOUD ? (loadLS('reviewLang','ko')) : 'en'); }
+  if (el.classList.contains('open')) {
+    if (!el.dataset.inited) { el.dataset.inited = '1'; setReviewLang(CLOUD ? (loadLS('reviewLang','ko')) : 'en'); }
+    scrollToPanel(el);
+  }
 }
 async function setReviewLang(lang){
   const show = S.show, body = document.getElementById('rv_body'), note = document.getElementById('rv_note');
@@ -743,6 +746,7 @@ async function setReviewLang(lang){
 const TERM_CATS = { silhouette: '실루엣', garment: '아이템', fabric: '소재', technique: '테크닉', detail: '디테일', styling: '스타일링', history: '역사·레퍼런스', industry: '업계', other: '기타' };
 async function toggleTerms(){
   const el = document.getElementById('terms'); el.classList.toggle('open');
+  if (el.classList.contains('open')) scrollToPanel(el);
   if (!el.classList.contains('open') || el.dataset.loaded) return;
   const show = S.show;
   el.innerHTML = '<span class="muted">리뷰에서 패션 용어를 뽑는 중… (처음 한 번만, 10~30초)</span>';
