@@ -270,6 +270,61 @@ async function extractTerms(key: string, force: boolean) {
   return { key, terms: parsed.terms, cached: false, usage: { input: response.usage.input_tokens, output: response.usage.output_tokens } };
 }
 
+// ---------------------------------------------------------------- 용어 ↔ 룩 연결 (Claude 비전)
+const VISUAL_CATS = new Set(["silhouette", "garment", "fabric", "technique", "detail", "styling"]);
+const MatchSchema = z.object({ matches: z.array(z.object({ term: z.string(), looks: z.array(z.number().int()) })) });
+const LOOKS_SYSTEM = `You are a fashion educator. You will see runway look photos from one show, each labeled "Look N", followed by a list of fashion terms taken from the show's review.
+For each term, list the look numbers where that term is clearly and visibly present in the photo (garment, silhouette, fabric, technique, detail or styling). Be precise: only include a look when the term is evident; it is fine to return an empty list. Return at most 8 looks per term, strongest examples first. Include every term exactly once.`;
+
+async function linkTermsToLooks(key: string, force: boolean) {
+  const rows = await db(`shows?key=eq.${encodeURIComponent(key)}&select=terms,galleries`, { prefer: "return=representation" });
+  const row = rows?.[0];
+  if (!row) throw new Error("없는 쇼입니다");
+  const terms: any[] = row.terms ?? [];
+  if (!terms.length) throw new Error("먼저 패션 용어를 추출해 주세요");
+  if (!force && terms.some((t) => Array.isArray(t.looks))) return { key, terms, cached: true };
+  const gallery = (row.galleries ?? []).find((g: any) => g.id === "gallery-collection") ?? row.galleries?.[0];
+  const items: any[] = (gallery?.items ?? []).filter((it: any) => it.id && it.file);
+  if (!items.length) throw new Error("룩 사진이 없습니다");
+  const apiKey = Deno.env.get("ANTHROPIC_API_KEY");
+  if (!apiKey) throw new Error("번역 키(ANTHROPIC_API_KEY)가 설정되지 않았습니다");
+  const client = new Anthropic({ apiKey });
+  const visual = terms.filter((t) => VISUAL_CATS.has(t.category));
+  const found: Record<string, Set<number>> = {};
+  for (const t of visual) found[t.term] = new Set();
+  const CHUNK = 40;
+  let usageIn = 0, usageOut = 0;
+  for (let i = 0; i < items.length; i += CHUNK) {
+    const chunk = items.slice(i, i + CHUNK);
+    const content: any[] = [];
+    for (const it of chunk) {
+      content.push({ type: "text", text: `Look ${it.n}` });
+      content.push({ type: "image", source: { type: "url", url: photoUrl(it.id, it.file, 360) } });
+    }
+    content.push({ type: "text", text: "Terms:\n" + visual.map((t) => `- ${t.term} (${t.ko}): ${t.definition}`).join("\n") });
+    const response = await client.beta.messages.create({
+      model: TRANSLATE_MODEL,
+      max_tokens: 8000,
+      betas: ["server-side-fallback-2026-07-01"],
+      fallbacks: "default",
+      output_config: { effort: "low", format: zodOutputFormat(MatchSchema) },
+      system: LOOKS_SYSTEM,
+      messages: [{ role: "user", content }],
+    });
+    if (response.stop_reason === "refusal") throw new Error("룩 분석이 거부되었습니다");
+    const text = response.content.filter((b) => b.type === "text").map((b) => (b as { text: string }).text).join("");
+    const parsed = MatchSchema.parse(JSON.parse(text));
+    const valid = new Set(chunk.map((it) => it.n));
+    for (const m of parsed.matches) if (found[m.term]) for (const n of m.looks) if (valid.has(n)) found[m.term].add(n);
+    usageIn += response.usage.input_tokens; usageOut += response.usage.output_tokens;
+  }
+  const updated = terms.map((t) => ({ ...t, looks: found[t.term] ? [...found[t.term]].sort((a, b) => a - b).slice(0, 8) : [] }));
+  await db(`shows?key=eq.${encodeURIComponent(key)}`, { method: "PATCH", body: JSON.stringify({ terms: updated }) });
+  return { key, terms: updated, cached: false, usage: { input: usageIn, output: usageOut }, images: items.length };
+}
+
+function photoUrl(id: string, file: string, width: number) { return `https://assets.vogue.com/photos/${id}/master/w_${width},c_limit/${file}`; }
+
 // ---------------------------------------------------------------- HTTP
 Deno.serve(async (req) => {
   if (req.method === "OPTIONS") return new Response("ok", { headers: CORS });
@@ -296,6 +351,7 @@ Deno.serve(async (req) => {
       }
       case "translate": return json(await translateReview(String(body.key ?? ""), !!body.force));
       case "terms": return json(await extractTerms(String(body.key ?? ""), !!body.force));
+      case "term_looks": return json(await linkTermsToLooks(String(body.key ?? ""), !!body.force));
       case "recent": {   // 최근 본 쇼 목록 저장 (최대 10개)
         const keys = Array.isArray(body.keys) ? body.keys.filter((k: unknown) => typeof k === "string").slice(0, 10) : [];
         await upsert("user_state", { user_id: user.id, recent: keys, updated_at: new Date().toISOString() });

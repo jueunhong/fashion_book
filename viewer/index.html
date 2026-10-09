@@ -123,6 +123,10 @@
   .term .def{font-size:14px;line-height:1.6;margin:6px 0 8px;color:#d8d8dc}
   .term .ctx{font-size:12px;color:var(--fg3);font-style:italic;border-left:2px solid var(--line);padding-left:8px}
   .term .badge{float:right;font-size:10px;color:var(--fg3);border:1px solid var(--line);border-radius:10px;padding:1px 7px;margin-left:6px}
+  .term .looks{display:flex;gap:4px;flex-wrap:wrap;margin-top:10px}
+  .term .looks img{width:44px;height:66px;object-fit:cover;border-radius:4px;cursor:pointer;opacity:.9;border:1px solid var(--line)}
+  .term .looks img:hover{opacity:1;border-color:var(--fg2)}
+  .term .looks .n{font-size:10px;color:var(--fg3);align-self:flex-end}
   .review a{text-decoration:underline;color:var(--accent)}
 
   /* 목록 (시즌/브랜드) */
@@ -726,10 +730,33 @@ function renderTerms(terms, cat){
   if (!terms.length) { el.innerHTML = '<span class="dim">추출된 용어가 없습니다.</span>'; return; }
   const cats = [...new Set(terms.map(t => t.category))];
   const list = cat ? terms.filter(t => t.category === cat) : terms;
-  el.innerHTML = `<div class="head"><span class="t">FASHION TERMS</span><span class="dim small">${terms.length}개 · 리뷰에 쓰인 용어</span></div>
+  const linked = terms.some(t => Array.isArray(t.looks));
+  el.innerHTML = `<div class="head"><span class="t">FASHION TERMS</span><span class="dim small">${terms.length}개 · 리뷰에 쓰인 용어</span><span class="spacer"></span>${linked ? '' : `<button class="small" id="linkbtn" onclick="linkTermLooks()">용어가 보이는 룩 찾기</button>`}</div>
     <div class="cat"><span class="chip ${cat?'':'on'}" onclick="renderTerms(S.show.terms,null)">전체</span>${cats.map(c => `<span class="chip ${cat===c?'on':''}" onclick="renderTerms(S.show.terms,'${c}')">${TERM_CATS[c]||c}</span>`).join('')}</div>
     <div class="termlist">${list.map(t => `<div class="term"><span class="badge">${TERM_CATS[t.category]||t.category}</span><span class="en">${esc(t.term)}</span><span class="ko">${esc(t.ko)}</span>
-      <div class="def">${esc(t.definition)}</div>${t.context ? `<div class="ctx">“${esc(t.context)}”</div>` : ''}</div>`).join('')}</div>`;
+      <div class="def">${esc(t.definition)}</div>${t.context ? `<div class="ctx">“${esc(t.context)}”</div>` : ''}${termLooksHtml(t)}</div>`).join('')}</div>`;
+}
+function termLooksHtml(t){
+  if (!Array.isArray(t.looks) || !t.looks.length) return '';
+  const g = S.show.galleries.find(x => x.id === 'gallery-collection') || S.show.galleries[0];
+  const byN = Object.fromEntries(g.items.map(it => [it.n, it]));
+  return `<div class="looks">${t.looks.map(n => byN[n] ? `<img src="${imgUrl(byN[n], 240)}" title="Look ${n}" alt="Look ${n}" onclick="openTermLook(${n})">` : '').join('')}<span class="n">Look ${t.looks.join(', ')}</span></div>`;
+}
+function openTermLook(n){
+  const gi = Math.max(0, S.show.galleries.findIndex(x => x.id === 'gallery-collection'));
+  if (S.gallery !== gi) setGallery(gi);
+  const i = S.show.galleries[gi].items.findIndex(it => it.n === n);
+  if (i >= 0) openLb(i);
+}
+async function linkTermLooks(){
+  const show = S.show, btn = document.getElementById('linkbtn');
+  if (!confirm('쇼의 룩 사진을 분석해 각 용어가 보이는 룩을 찾습니다. 처음 한 번만 실행되며 30초~1분 걸립니다. 계속할까요?')) return;
+  if (btn) { btn.disabled = true; btn.textContent = '룩 분석 중…'; }
+  try {
+    const r = await cloudCall({action: 'term_looks', key: show.key});
+    if (S.show !== show) return;
+    show.terms = r.terms; renderTerms(show.terms, null); toast('용어와 룩을 연결했습니다');
+  } catch(e) { toast('실패: ' + e.message, 5000); if (btn) { btn.disabled = false; btn.textContent = '용어가 보이는 룩 찾기'; } }
 }
 function setGallery(i){ S.gallery = i; document.querySelectorAll('.tabs button').forEach((b,j)=>b.classList.toggle('active', j===i)); renderGrid(); quietHash(`#/show/${S.show.key}/${S.show.galleries[i].id}`); }
 function quietHash(h){ if (location.hash !== h) history.replaceState(null, '', h); }
